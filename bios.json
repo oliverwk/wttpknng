@@ -1,68 +1,152 @@
 [
     {
-        "title": "Summerland",
-        "tijd": "18:50",
-        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33012_127371_ps_sd-high.jpg",
+        "title": "Scoob! (Nederlandse versie)",
+        "tijd": "11:15",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33233_126805_ps_sd-high.jpg",
+        "id": 4
+    },
+    {
+        "title": "Trolls Wereldtour",
+        "tijd": "11:30",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/32725_127504_ps_sd-high.jpg",
+        "id": 1
+    },
+    {
+        "title": "De Piraten van Hiernaast",
+        "tijd": "11:45",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/posterhr/DPVH_Poster_70x100cm_DEF_3000px.jpg",
+        "id": 8
+    },
+    {
+        "title": "Lassie",
+        "tijd": "12:10",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33415_124720_ps_sd-high.jpg",
+        "id": 12
+    },
+    {
+        "title": "Harry Potter and the Deathly Hallows: Part 1 (OV)",
+        "tijd": "12:20",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/posterhr/HP7_highres.png",
+        "id": 24
+    },
+    {
+        "title": "De Elfkins - Een klein bakfestijn",
+        "tijd": "12:30",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33031_127009_ps_sd-high.jpg",
+        "id": 13
+    },
+    {
+        "title": "Alles Is Zoals Het Zou Moeten Zijn",
+        "tijd": "12:45",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/32717_126137_ps_sd-high.jpg",
+        "id": 2
+    },
+    {
+        "title": "Big Trip",
+        "tijd": "13:30",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33319_124718_ps_sd-high.jpg",
+        "id": 11
+    },
+    {
+        "title": "Engel",
+        "tijd": "14:00",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33149_125983_ps_sd-high.jpg",
         "id": 9
     },
     {
-        "title": "Follow Me",
+        "title": "Peninsula",
+        "tijd": "14:15",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/PathePartners/movie-25297-Peninsula%20-%20Poster%20-%20700x1000mm%20-%2010%20augustus%20-%20Blauw%20-%20MedRes.jpg",
+        "id": 5
+    },
+    {
+        "title": "Pinocchio (Nederlandse versie)",
+        "tijd": "14:30",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33378_126325_ps_sd-high.jpg",
+        "id": 14
+    },
+    {
+        "title": "The Kingmaker, Imelda Marcos",
+        "tijd": "15:15",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33214_121712_ps_sd-high.jpg",
+        "id": 22
+    },
+    {
+        "title": "Harry Potter and the Deathly Hallows: Part 2 (OV)",
+        "tijd": "15:25",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/posterhr/HP7_2_poshighres.jpg",
+        "id": 21
+    },
+    {
+        "title": "Gli anni pi\u00f9 belli",
+        "tijd": "16:15",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33394_126875_ps_sd-high.jpg",
+        "id": 20
+    },
+    {
+        "title": "I Still Believe",
+        "tijd": "16:45",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33256_122391_ps_sd-high.jpg",
+        "id": 19
+    },
+    {
+        "title": "Unhinged",
+        "tijd": "17:15",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33015_127746_ps_sd-high.jpg",
+        "id": 3
+    },
+    {
+        "title": "Hope Gap",
+        "tijd": "17:35",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/32816_121592_ps_sd-high.jpg",
+        "id": 10
+    },
+    {
+        "title": "Trolls World Tour",
+        "tijd": "18:10",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/19824_127512_ps_sd-high.jpg",
+        "id": 15
+    },
+    {
+        "title": "The Secret Garden",
+        "tijd": "18:30",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33380_127205_ps_sd-high.jpg",
+        "id": 6
+    },
+    {
+        "title": "Summerland",
         "tijd": "19:00",
-        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/32818_126254_ps_sd-high.jpg",
-        "id": 7
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33012_127371_ps_sd-high.jpg",
+        "id": 18
+    },
+    {
+        "title": "Amy",
+        "tijd": "19:20",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/posterhr/Amypostermetmeertekst.jpg",
+        "id": 23
     },
     {
         "title": "Ava",
         "tijd": "19:30",
         "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/posterhr/Ava_ps_1_jpg_sd-high.jpg",
-        "id": 4
+        "id": 7
     },
     {
-        "title": "Unhinged",
-        "tijd": "20:20",
-        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33015_127746_ps_sd-high.jpg",
-        "id": 2
-    },
-    {
-        "title": "Alles Is Zoals Het Zou Moeten Zijn",
-        "tijd": "20:30",
-        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/32717_126137_ps_sd-high.jpg",
-        "id": 1
-    },
-    {
-        "title": "Hope Gap",
-        "tijd": "20:40",
-        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/32816_121592_ps_sd-high.jpg",
-        "id": 6
-    },
-    {
-        "title": "Peninsula",
-        "tijd": "20:45",
-        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/PathePartners/movie-25297-Peninsula%20-%20Poster%20-%20700x1000mm%20-%2010%20augustus%20-%20Blauw%20-%20MedRes.jpg",
-        "id": 3
-    },
-    {
-        "title": "Burden",
-        "tijd": "21:00",
-        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33532_126124_ps_sd-high.jpg",
-        "id": 8
-    },
-    {
-        "title": "Terminator 2: Judgment Day",
-        "tijd": "21:15",
-        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/94000175_76210_ps_sd-high.jpg",
-        "id": 11
+        "title": "Django Unchained",
+        "tijd": "20:00",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/posters/djangounchained3.jpg",
+        "id": 25
     },
     {
         "title": "The Rental",
         "tijd": "21:45",
         "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33314_127013_ps_sd-high.jpg",
-        "id": 10
+        "id": 17
     },
     {
-        "title": "Relic",
-        "tijd": "22:00",
-        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33577_127408_ps_sd-high.jpg",
-        "id": 5
+        "title": "Follow Me",
+        "tijd": "22:10",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/32818_126254_ps_sd-high.jpg",
+        "id": 16
     }
 ]
