@@ -1,0 +1,14 @@
+  {
+          "actions": [
+          {
+            "show": {
+              "body":  "er is een film om  die heet .",
+              "images": [ {
+                  "label": "jsons[i][title]",
+                  "url": "https://github.com/oliverwk/lngr/raw/master/sock/Assets.xcassets/String.imageset/IMG_5028-1.jpg"
+                  
+              }]
+            }
+          }
+        ]
+      }
