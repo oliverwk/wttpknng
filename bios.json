@@ -1,65 +1,128 @@
 [
     {
-        "catogorien": [
-            "12"
-        ],
-        "title": "Alles Is Zoals Het Zou Moeten Zijn",
-        "tijd": "20:00",
-        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/32717_126137_ps_sd-high.jpg",
-        "id": 1
+        "title": "Scoob! (Nederlandse versie)",
+        "tijd": "10:40",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33233_126805_ps_sd-high.jpg",
+        "id": 8
     },
     {
-        "catogorien": [
-            "16"
-        ],
-        "title": "Unhinged",
-        "tijd": "20:30",
-        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33015_127746_ps_sd-high.jpg",
-        "id": 2
+        "title": "Yellowstone",
+        "tijd": "11:00",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33365_124544_ps_sd-high.jpg",
+        "id": 15
     },
     {
-        "catogorien": [
-            "al"
-        ],
-        "title": "Champions League finale  2019/20",
-        "tijd": "20:30",
-        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/posterhr/championsleageog-default%20-%20kopie.jpg",
-        "id": 7
-    },
-    {
-        "catogorien": [
-            "16"
-        ],
-        "title": "Ava",
-        "tijd": "20:45",
-        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/posterhr/Ava_ps_1_jpg_sd-high.jpg",
-        "id": 4
-    },
-    {
-        "catogorien": [
-            "16"
-        ],
-        "title": "Relic",
-        "tijd": "21:15",
-        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33577_127408_ps_sd-high.jpg",
+        "title": "Trolls Wereldtour",
+        "tijd": "11:15",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/32725_127504_ps_sd-high.jpg",
         "id": 3
     },
     {
-        "catogorien": [
-            "16"
-        ],
-        "title": "The Rental",
-        "tijd": "21:45",
-        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33314_127013_ps_sd-high.jpg",
+        "title": "Unhinged",
+        "tijd": "11:40",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33015_127746_ps_sd-high.jpg",
+        "id": 4
+    },
+    {
+        "title": "Promare",
+        "tijd": "12:15",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33591_127713_ps_sd-high.jpg",
+        "id": 14
+    },
+    {
+        "title": "Pinocchio (Nederlandse versie)",
+        "tijd": "12:30",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33378_126325_ps_sd-high.jpg",
+        "id": 13
+    },
+    {
+        "title": "Big Trip",
+        "tijd": "13:45",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33319_124718_ps_sd-high.jpg",
+        "id": 12
+    },
+    {
+        "title": "Andr\u00e9 Rieu: Magical Maastricht, Verbonden door Muziek",
+        "tijd": "14:45",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/posterhr/AR2020_MM_Poster_1Sheet_NLPATHE.jpg",
+        "id": 20
+    },
+    {
+        "title": "Engel",
+        "tijd": "15:00",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33149_125983_ps_sd-high.jpg",
+        "id": 10
+    },
+    {
+        "title": "Ella Bella Bingo",
+        "tijd": "15:20",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33556_127649_ps_sd-high.jpg",
+        "id": 17
+    },
+    {
+        "title": "The Secret Garden",
+        "tijd": "16:10",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33380_127205_ps_sd-high.jpg",
+        "id": 5
+    },
+    {
+        "title": "Midnight in Paris",
+        "tijd": "16:45",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/posters/midnightinparis2.jpg",
+        "id": 21
+    },
+    {
+        "title": "Hope Gap",
+        "tijd": "17:00",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/32816_121592_ps_sd-high.jpg",
+        "id": 11
+    },
+    {
+        "title": "Peninsula",
+        "tijd": "17:15",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/PathePartners/movie-25297-Peninsula%20-%20Poster%20-%20700x1000mm%20-%2010%20augustus%20-%20Blauw%20-%20MedRes.jpg",
+        "id": 9
+    },
+    {
+        "title": "Gli anni pi\u00f9 belli",
+        "tijd": "17:45",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33394_126875_ps_sd-high.jpg",
+        "id": 19
+    },
+    {
+        "title": "Tenet",
+        "tijd": "18:00",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/32762_127740_ps_sd-high.jpg",
+        "id": 1
+    },
+    {
+        "title": "Summerland",
+        "tijd": "18:15",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33012_127371_ps_sd-high.jpg",
+        "id": 16
+    },
+    {
+        "title": "Alles Is Zoals Het Zou Moeten Zijn",
+        "tijd": "19:00",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/32717_126137_ps_sd-high.jpg",
+        "id": 2
+    },
+    {
+        "title": "Ava",
+        "tijd": "20:00",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/posterhr/Ava_ps_1_jpg_sd-high.jpg",
+        "id": 7
+    },
+    {
+        "title": "Relic",
+        "tijd": "21:30",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33577_127408_ps_sd-high.jpg",
         "id": 6
     },
     {
-        "catogorien": [
-            "16"
-        ],
-        "title": "Peninsula",
-        "tijd": "22:00",
-        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/PathePartners/movie-25297-Peninsula%20-%20Poster%20-%20700x1000mm%20-%2010%20augustus%20-%20Blauw%20-%20MedRes.jpg",
-        "id": 5
+        "title": "The Rental",
+        "tijd": "22:30",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33314_127013_ps_sd-high.jpg",
+        "id": 18
     }
 ]
