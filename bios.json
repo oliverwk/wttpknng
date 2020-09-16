@@ -1,74 +1,44 @@
 [
     {
+        "title": "The War With Grandpa",
+        "tijd": "19:45",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/23279_128785_ps_sd-high.jpg",
+        "id": 2
+    },
+    {
         "title": "Tenet",
-        "tijd": "14:45",
+        "tijd": "20:30",
         "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/32762_127740_ps_sd-high.jpg",
         "id": 1
     },
     {
-        "title": "De Piraten van Hiernaast",
-        "tijd": "15:00",
-        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/posterhr/DPVH_Poster_70x100cm_DEF_3000px.jpg",
-        "id": 10
-    },
-    {
-        "title": "Trolls Wereldtour",
-        "tijd": "15:15",
-        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/32725_127504_ps_sd-high.jpg",
-        "id": 6
-    },
-    {
-        "title": "Pitch Perfect 2",
-        "tijd": "15:50",
-        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/posters/pitchperfect2poster3.jpg",
-        "id": 12
-    },
-    {
-        "title": "Scoob! (Nederlandse versie)",
-        "tijd": "16:10",
-        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33233_126805_ps_sd-high.jpg",
-        "id": 8
-    },
-    {
-        "title": "The New Mutants",
-        "tijd": "17:10",
-        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/The-New-Mutants_ps_1_jpg_sd-high_Copyright-2020-Twentieth-Century-Fox-Film-Corporation-All-rights-reserved-Copyright-2020-MARVEL.jpg",
-        "id": 2
-    },
-    {
-        "title": "Antebellum",
-        "tijd": "17:25",
-        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/2%20Grote%20Still/Antebellum_ps_1_jpg_sd-high.jpg",
-        "id": 3
-    },
-    {
-        "title": "Misbehaviour",
-        "tijd": "18:20",
-        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33028_123032_ps_sd-high.jpg",
-        "id": 9
-    },
-    {
-        "title": "The Secret: Dare To Dream",
-        "tijd": "18:30",
-        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/23583_124148_ps_sd-high.jpg",
-        "id": 4
-    },
-    {
-        "title": "Break The Silence",
-        "tijd": "19:45",
-        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/posterhr/BREAKTHESILENCE_ONESHEETARTWORK[ENGLISH].jpg",
-        "id": 11
-    },
-    {
         "title": "Alles Is Zoals Het Zou Moeten Zijn",
-        "tijd": "20:40",
+        "tijd": "20:45",
         "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/32717_126137_ps_sd-high.jpg",
         "id": 5
     },
     {
-        "title": "Unhinged",
-        "tijd": "21:50",
-        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33015_127746_ps_sd-high.jpg",
+        "title": "Antebellum",
+        "tijd": "21:10",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/2%20Grote%20Still/Antebellum_ps_1_jpg_sd-high.jpg",
+        "id": 4
+    },
+    {
+        "title": "Relic",
+        "tijd": "21:30",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33577_127408_ps_sd-high.jpg",
         "id": 7
+    },
+    {
+        "title": "The New Mutants",
+        "tijd": "21:50",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/The-New-Mutants_ps_1_jpg_sd-high_Copyright-2020-Twentieth-Century-Fox-Film-Corporation-All-rights-reserved-Copyright-2020-MARVEL.jpg",
+        "id": 3
+    },
+    {
+        "title": "Ava",
+        "tijd": "22:20",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/posterhr/Ava_ps_1_jpg_sd-high.jpg",
+        "id": 6
     }
 ]
