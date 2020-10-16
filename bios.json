@@ -1,1 +1,47 @@
-[]
+[
+    {
+        "catogorien": [
+            "16"
+        ],
+        "title": "Antebellum",
+        "tijd": "21:15",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/2%20Grote%20Still/Antebellum_ps_1_jpg_sd-high.jpg",
+        "id": 4
+    },
+    {
+        "catogorien": [
+            "12"
+        ],
+        "title": "Honest Thief",
+        "tijd": "21:30",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/32663_127902_ps_sd-high.jpg",
+        "id": 2
+    },
+    {
+        "catogorien": [
+            "12"
+        ],
+        "title": "Tenet",
+        "tijd": "21:40",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/32762_127740_ps_sd-high.jpg",
+        "id": 3
+    },
+    {
+        "catogorien": [
+            "12"
+        ],
+        "title": "After We Collided",
+        "tijd": "21:50",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33401_127899_ps_sd-high.jpg",
+        "id": 1
+    },
+    {
+        "catogorien": [
+            "16"
+        ],
+        "title": "The New Mutants",
+        "tijd": "22:00",
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/The-New-Mutants_ps_1_jpg_sd-high_Copyright-2020-Twentieth-Century-Fox-Film-Corporation-All-rights-reserved-Copyright-2020-MARVEL.jpg",
+        "id": 5
+    }
+]
