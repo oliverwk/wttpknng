@@ -1,1 +1,173 @@
-"[{\"catogorien\": [\"12\"], \"id\": 1, \"img_url\": \"https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33401_127899_ps_sd-high.jpg\", \"tijd\": \"10:15\", \"title\": \"After We Collided\"}, {\"catogorien\": [\"12\"], \"id\": 2, \"img_url\": \"https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/32663_127902_ps_sd-high.jpg\", \"tijd\": \"10:45\", \"title\": \"Honest Thief\"}, {\"catogorien\": [\"6\"], \"id\": 3, \"img_url\": \"https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33167_126882_ps_sd-high.jpg\", \"tijd\": \"11:10\", \"title\": \"Bigfoot Family\"}, {\"catogorien\": [\"12\"], \"id\": 4, \"img_url\": \"https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/32762_127740_ps_sd-high.jpg\", \"tijd\": \"13:15\", \"title\": \"Tenet\"}, {\"catogorien\": [\"al\"], \"id\": 5, \"img_url\": \"https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33402_128919_ps_sd-high.jpg\", \"tijd\": \"18:30\", \"title\": \"Casanova's\"}, {\"catogorien\": [\"6\"], \"id\": 6, \"img_url\": \"https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33578_128935_ps_sd-high.jpg\", \"tijd\": \"10:40\", \"title\": \"De Magische Poort\"}, {\"catogorien\": [\"6\"], \"id\": 7, \"img_url\": \"https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33596_128374_ps_sd-high.jpg\", \"tijd\": \"13:15\", \"title\": \"100% Wolf\"}, {\"catogorien\": [\"al\"], \"id\": 8, \"img_url\": \"https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33334_130149_ps_sd-high.jpg\", \"tijd\": \"12:00\", \"title\": \"De Club van Sinterklaas en het grote pietenfeest\"}, {\"catogorien\": [\"al\"], \"id\": 9, \"img_url\": \"https://media.pathe.nl/nocropthumb/180x254/gfx_content/De-Grote-Sinterklaasfilm_ps_1_jpg_sd-high_Copyright-2020-WW-Entertainment.jpg\", \"tijd\": \"10:30\", \"title\": \"De Grote Sinterklaasfilm\"}, {\"catogorien\": [\"6\"], \"id\": 10, \"img_url\": \"https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/23279_128785_ps_sd-high.jpg\", \"tijd\": \"19:20\", \"title\": \"The War With Grandpa\"}, {\"catogorien\": [\"9\"], \"id\": 11, \"img_url\": \"https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/23583_124148_ps_sd-high.jpg\", \"tijd\": \"17:00\", \"title\": \"The Secret: Dare To Dream\"}, {\"catogorien\": [\"al\"], \"id\": 12, \"img_url\": \"https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33153_128336_ps_sd-high.jpg\", \"tijd\": \"13:45\", \"title\": \"Jackie en Oopjen\"}, {\"catogorien\": [\"12\"], \"id\": 13, \"img_url\": \"https://media.pathe.nl/nocropthumb/180x254/gfx_content/LOTR2_Poster.png\", \"tijd\": \"12:30\", \"title\": \"The Lord of the Rings: The Two Towers\"}, {\"catogorien\": [\"al\"], \"id\": 14, \"img_url\": \"https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33370_127314_ps_sd-high.jpg\", \"tijd\": \"12:20\", \"title\": \"Poeslief\"}, {\"catogorien\": [\"16\"], \"id\": 15, \"img_url\": \"https://media.pathe.nl/nocropthumb/180x254/gfx_content/2%20Grote%20Still/Antebellum_ps_1_jpg_sd-high.jpg\", \"tijd\": \"21:40\", \"title\": \"Antebellum\"}, {\"catogorien\": [\"16\"], \"id\": 16, \"img_url\": \"https://media.pathe.nl/nocropthumb/180x254/gfx_content/The-New-Mutants_ps_1_jpg_sd-high_Copyright-2020-Twentieth-Century-Fox-Film-Corporation-All-rights-reserved-Copyright-2020-MARVEL.jpg\", \"tijd\": \"21:50\", \"title\": \"The New Mutants\"}, {\"catogorien\": [\"al\"], \"id\": 17, \"img_url\": \"https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33364_127167_ps_sd-high.jpg\", \"tijd\": \"10:25\", \"title\": \"De Schooltuin\"}, {\"catogorien\": [\"16\"], \"id\": 18, \"img_url\": \"https://media.pathe.nl/nocropthumb/180x254/gfx_content/posterhr/Lizzie_Poster_70x100cm_v2_3000px.jpg\", \"tijd\": \"17:30\", \"title\": \"Lizzie\"}, {\"catogorien\": [\"12\"], \"id\": 19, \"img_url\": \"https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33637_129814_ps_sd-high.jpg\", \"tijd\": \"18:00\", \"title\": \"Endless\"}]"
+[
+    {
+        "catogorien": [
+            "12"
+        ],
+        "id": 1,
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33401_127899_ps_sd-high.jpg",
+        "tijd": "10:15",
+        "title": "After We Collided"
+    },
+    {
+        "catogorien": [
+            "12"
+        ],
+        "id": 2,
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/32663_127902_ps_sd-high.jpg",
+        "tijd": "10:45",
+        "title": "Honest Thief"
+    },
+    {
+        "catogorien": [
+            "6"
+        ],
+        "id": 3,
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33167_126882_ps_sd-high.jpg",
+        "tijd": "11:10",
+        "title": "Bigfoot Family"
+    },
+    {
+        "catogorien": [
+            "12"
+        ],
+        "id": 4,
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/32762_127740_ps_sd-high.jpg",
+        "tijd": "13:15",
+        "title": "Tenet"
+    },
+    {
+        "catogorien": [
+            "al"
+        ],
+        "id": 5,
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33402_128919_ps_sd-high.jpg",
+        "tijd": "18:30",
+        "title": "Casanova's"
+    },
+    {
+        "catogorien": [
+            "6"
+        ],
+        "id": 6,
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33578_128935_ps_sd-high.jpg",
+        "tijd": "10:40",
+        "title": "De Magische Poort"
+    },
+    {
+        "catogorien": [
+            "6"
+        ],
+        "id": 7,
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33596_128374_ps_sd-high.jpg",
+        "tijd": "13:15",
+        "title": "100% Wolf"
+    },
+    {
+        "catogorien": [
+            "al"
+        ],
+        "id": 8,
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33334_130149_ps_sd-high.jpg",
+        "tijd": "12:00",
+        "title": "De Club van Sinterklaas en het grote pietenfeest"
+    },
+    {
+        "catogorien": [
+            "al"
+        ],
+        "id": 9,
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/De-Grote-Sinterklaasfilm_ps_1_jpg_sd-high_Copyright-2020-WW-Entertainment.jpg",
+        "tijd": "10:30",
+        "title": "De Grote Sinterklaasfilm"
+    },
+    {
+        "catogorien": [
+            "6"
+        ],
+        "id": 10,
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/23279_128785_ps_sd-high.jpg",
+        "tijd": "19:20",
+        "title": "The War With Grandpa"
+    },
+    {
+        "catogorien": [
+            "9"
+        ],
+        "id": 11,
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/23583_124148_ps_sd-high.jpg",
+        "tijd": "17:00",
+        "title": "The Secret: Dare To Dream"
+    },
+    {
+        "catogorien": [
+            "al"
+        ],
+        "id": 12,
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33153_128336_ps_sd-high.jpg",
+        "tijd": "13:45",
+        "title": "Jackie en Oopjen"
+    },
+    {
+        "catogorien": [
+            "12"
+        ],
+        "id": 13,
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/LOTR2_Poster.png",
+        "tijd": "12:30",
+        "title": "The Lord of the Rings: The Two Towers"
+    },
+    {
+        "catogorien": [
+            "al"
+        ],
+        "id": 14,
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33370_127314_ps_sd-high.jpg",
+        "tijd": "12:20",
+        "title": "Poeslief"
+    },
+    {
+        "catogorien": [
+            "16"
+        ],
+        "id": 15,
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/2%20Grote%20Still/Antebellum_ps_1_jpg_sd-high.jpg",
+        "tijd": "21:40",
+        "title": "Antebellum"
+    },
+    {
+        "catogorien": [
+            "16"
+        ],
+        "id": 16,
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/The-New-Mutants_ps_1_jpg_sd-high_Copyright-2020-Twentieth-Century-Fox-Film-Corporation-All-rights-reserved-Copyright-2020-MARVEL.jpg",
+        "tijd": "21:50",
+        "title": "The New Mutants"
+    },
+    {
+        "catogorien": [
+            "al"
+        ],
+        "id": 17,
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33364_127167_ps_sd-high.jpg",
+        "tijd": "10:25",
+        "title": "De Schooltuin"
+    },
+    {
+        "catogorien": [
+            "16"
+        ],
+        "id": 18,
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/posterhr/Lizzie_Poster_70x100cm_v2_3000px.jpg",
+        "tijd": "17:30",
+        "title": "Lizzie"
+    },
+    {
+        "catogorien": [
+            "12"
+        ],
+        "id": 19,
+        "img_url": "https://media.pathe.nl/nocropthumb/180x254/gfx_content/other/api/filmdepot/v1/movie/download/33637_129814_ps_sd-high.jpg",
+        "tijd": "18:00",
+        "title": "Endless"
+    }
+]
