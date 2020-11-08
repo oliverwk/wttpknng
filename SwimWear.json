@@ -1,17 +1,17 @@
 [
     {
         "prijs": "5.95",
-        "naam": "Mesh Contrast V-string Panty",
-        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/strings/mesh-contrast-v-string-panty-roze",
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mesh_contrast_v-string_panty_1013-000574-0920_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_mesh_contrast_v-string_panty_1013-000574-0920_04k.jpg"
-    },
-    {
-        "prijs": "5.95",
         "naam": "Kanten Slip",
         "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/kanten-slip-beige",
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_retro_lace_edge_cheeky_panty_1013-000533-0005_01j-1.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_retro_lace_edge_cheeky_panty_1013-000533-0005_04k-1.jpg"
+    },
+    {
+        "prijs": "5.95",
+        "naam": "Mesh Contrast V-string Panty",
+        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/strings/mesh-contrast-v-string-panty-roze",
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mesh_contrast_v-string_panty_1013-000574-0920_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_mesh_contrast_v-string_panty_1013-000574-0920_04k.jpg"
     },
     {
         "prijs": "6.95",
@@ -33,13 +33,6 @@
         "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/slipjes/flirty-dotted-mesh-panty-zwart",
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_flirty_dotted_mesh_panty_1013-000515-0002_01j.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_flirty_dotted_mesh_panty_1013-000515-0002_04k.jpg"
-    },
-    {
-        "prijs": "7.47",
-        "naam": "Basic Brazilian Mesh Panty 2-pack",
-        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/multipacks/basic-brazilian-mesh-panty-2-pack-zwart",
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_mesh_panty_2-pack_1013-000539-0002_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_mesh_panty_2-pack_1013-000539-0002_04k.jpg"
     },
     {
         "prijs": "7.47",
@@ -68,6 +61,13 @@
         "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/strings/kanten-v-string-broekje-met-hoge-taille-wit-1",
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_flower_structured_v-string_1013-000689-0001_01j.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_flower_structured_v-string_1013-000689-0001_04k.jpg"
+    },
+    {
+        "prijs": "8.47",
+        "naam": "Striped Elastic Lace Panty",
+        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/slipjes/striped-elastic-lace-panty-zwart",
+        "img_url": "https://www.na-kd.com/resize/globalassets/episode_nakd_striped_elastic_lace_panty_black_1013-000369-0002_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/episode_nakd_striped_elastic_lace_panty_black_1013-000369-0002_04k.jpg"
     },
     {
         "prijs": "8.47",
@@ -134,17 +134,17 @@
     },
     {
         "prijs": "10.95",
-        "naam": "Kanten V-String Broekje Met Hoge Taille",
-        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/strings/kanten-v-string-broekje-met-hoge-taille-zwart-1",
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_flower_structured_v-string_1013-000689-0002_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_flower_structured_v-string_1013-000689-0002_04k.jpg"
-    },
-    {
-        "prijs": "10.95",
         "naam": "Delicate V-String",
         "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/strings/delicate-v-string-zwart",
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_delicate_v-string_1013-000698-0002_01j.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_delicate_v-string_1013-000698-0002_04k.jpg"
+    },
+    {
+        "prijs": "10.95",
+        "naam": "Kanten V-String Broekje Met Hoge Taille",
+        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/strings/kanten-v-string-broekje-met-hoge-taille-zwart-1",
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_flower_structured_v-string_1013-000689-0002_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_flower_structured_v-string_1013-000689-0002_04k.jpg"
     },
     {
         "prijs": "10.95",
@@ -204,6 +204,13 @@
     },
     {
         "prijs": "11.95",
+        "naam": "Kanten V-String Broekje Met Hoge Taille",
+        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/strings/kanten-v-string-broekje-met-hoge-taille-zwart-3",
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_sky_v-string_1013-000688-0002_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_high_sky_v-string_1013-000688-0002_04k.jpg"
+    },
+    {
+        "prijs": "11.95",
         "naam": "Broekje Met Mesh Details",
         "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/slipjes/broekje-met-mesh-details-zwart",
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_all_over_heart_panty_1013-000625-0002_01j.jpg",
@@ -215,13 +222,6 @@
         "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/strings/kanten-string-met-bloemenprint-veelkleurig",
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_all_over_floral_thong_1013-000517-1755_01j.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_all_over_floral_thong_1013-000517-1755_04k.jpg"
-    },
-    {
-        "prijs": "11.95",
-        "naam": "Kanten V-String Broekje Met Hoge Taille",
-        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/strings/kanten-v-string-broekje-met-hoge-taille-zwart-3",
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_sky_v-string_1013-000688-0002_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_high_sky_v-string_1013-000688-0002_04k.jpg"
     },
     {
         "prijs": "11.95",
