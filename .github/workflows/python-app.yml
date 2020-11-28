@@ -23,7 +23,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install request 
+        pip install  --user request 
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: run the script
       run: |
