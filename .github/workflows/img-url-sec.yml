@@ -33,3 +33,4 @@ jobs:
         author-email: "30601311+oliverwk@users.noreply.github.com"
         create-commit: false
         commit-message: "Edited the SwimWear for errors in the sec_url "
+        force: true
