@@ -1,6 +1,6 @@
 import requests, json, os
 print(os.listdir())
-file = open("Lingerie.json","r")
+file = open("SwimWear.json","r")
 inhoud = file.read()
 file.close()
 jsons = json.loads(inhoud)
@@ -148,7 +148,7 @@ for i in jsons:
 
     si += 1
 
-files = open("Lingerie.json","w")
+files = open("SwimWear.json","w")
 print(json.dumps(jsons, indent=4))
 files.writelines(json.dumps(jsons, indent=4))
 files.close()
