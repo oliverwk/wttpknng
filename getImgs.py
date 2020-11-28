@@ -1,5 +1,6 @@
-import requests, re
+import requests, re, os
 i = 0
+print(os.listdir())
 list = ["/globalassets/nakd_cut_out_lace_bodysuit_1013-000492-0002_01j.jpg?ref=5C428B61E1","/globalassets/nakd_cut_out_lace_bodysuit_1013-000492-0002_02k.jpg?ref=ED7413B9D5","/globalassets/nakd_cut_out_lace_bodysuit_1013-000492-0002_03a.jpg?ref=7B8B7361C2","/globalassets/nakd_cut_out_lace_bodysuit_1013-000492-0002_04c.jpg?ref=F115483C22"]
 for item in list:
     print(item)
