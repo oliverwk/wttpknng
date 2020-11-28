@@ -155,4 +155,4 @@ def ReplaceAndWrite(fileName):
         files.close()
 
 ReplaceAndWrite("SwimWear.json")
-ReplaceAndWrite("Bodys.json")
+ReplaceAndWrite("bodys.json")
