@@ -1,4 +1,4 @@
-import requests, json, wget, os
+import requests, json, os
 print(os.listdir())
 file = open("Lingerie.json","r")
 inhoud = file.read()
