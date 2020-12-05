@@ -1,19 +1,5 @@
 [
     {
-        "prijs": "4.5",
-        "naam": "Basic Brazilian Mesh Panty",
-        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/basic-brazilian-mesh-panty-roze",
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_mesh_panty_1013-000538-1420_01j-1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_mesh_panty_1013-000538-1420_04k-1.jpg"
-    },
-    {
-        "prijs": "4.5",
-        "naam": "Basic Brazilian Mesh Panty",
-        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/basic-brazilian-mesh-panty-wit",
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_mesh_panty_1013-000538-5465_01j-1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_mesh_panty_1013-000538-5465_04k-1.jpg"
-    },
-    {
         "prijs": "5.95",
         "naam": "Kanten Slip",
         "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/kanten-slip-wit",
@@ -75,13 +61,6 @@
         "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/strings/kanten-v-string-broekje-met-hoge-taille-wit-1",
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_flower_structured_v-string_1013-000689-0001_01j.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_flower_structured_v-string_1013-000689-0001_04k.jpg"
-    },
-    {
-        "prijs": "8.47",
-        "naam": "Striped Elastic Lace Panty",
-        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/slipjes/striped-elastic-lace-panty-zwart",
-        "img_url": "https://www.na-kd.com/resize/globalassets/episode_nakd_striped_elastic_lace_panty_black_1013-000369-0002_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/episode_nakd_striped_elastic_lace_panty_black_1013-000369-0002_04k.jpg"
     },
     {
         "prijs": "9",
@@ -242,7 +221,7 @@
         "naam": "Kanten String",
         "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/strings/kanten-string-paars",
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lower_embroided_lace_thong_1013-000504-0368_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lower_embroided_lace_thong_1013-000504-0368_02i.jpg"
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lower_embroided_lace_thong_1013-000504-0368_04k.jpg"
     },
     {
         "prijs": "11.95",
@@ -250,5 +229,26 @@
         "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/hipsters/slip-met-ruches-wit",
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_floral_satin_panty_1013-000673-0719_01j.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_floral_satin_panty_1013-000673-0719_04k.jpg"
+    },
+    {
+        "prijs": "11.95",
+        "naam": "String",
+        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/strings/string-wit-1",
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_romance_lace_v-string_1013-000660-0001_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_romance_lace_v-string_1013-000660-0001_04k.jpg"
+    },
+    {
+        "prijs": "11.95",
+        "naam": "Wavy Lace Edge V-String",
+        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/strings/wavy-lace-edge-v-string-beige",
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_wavy_lace_edge_v-string_1013-000696-0719_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_wavy_lace_edge_v-string_1013-000696-0719_04k.jpg"
+    },
+    {
+        "prijs": "11.95",
+        "naam": "V-String Met Kant En Ruches",
+        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/strings/v-string-met-kant-en-ruches-zwart",
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_flounce_edge_v-string_1013-000663-0002_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_flounce_edge_v-string_1013-000663-0002_04k.jpg"
     }
 ]
