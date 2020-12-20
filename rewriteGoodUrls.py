@@ -23,9 +23,11 @@ def ReplaceAndWrite(fileName):
                             error += 1
                         else:
                             jsons[si]["img_url_sec"] = img_url.replace("04k","02k")
+                            print("Found the image the: "+str(error)+" time with status code "+str(response.status_code)+" and used "+img_url.replace("04k","02k"))
  
                     else:
                         jsons[si]["img_url_sec"] = img_url.replace("04k","02i")
+                        print("Found the image the: "+str(error)+" time with status code "+str(response.status_code)+" and used "+img_url.replace("04k","02i"))
 
                 if error==1:
                     print("Didn't find the image the: "+str(error)+" time.")
@@ -35,6 +37,7 @@ def ReplaceAndWrite(fileName):
                           error += 1
                       else:
                           jsons[si]["img_url_sec"] = img_url.replace("_4_","_2_")
+                          print("Found the image the: "+str(error)+" time with status code "+str(response.status_code)+" and used "+img_url.replace("_4_","_2_"))
 
                     elif "_1__1" in img_url:
                         response = requests.get(img_url.replace("_1__1","_4_"))
@@ -42,6 +45,7 @@ def ReplaceAndWrite(fileName):
                             error += 1
                         else:
                             jsons[si]["img_url_sec"] = img_url.replace("_1__1","_4_")
+                            print("Found the image the: "+str(error)+" time with status code "+str(response.status_code)+" and used "+img_url.replace("_1__1","_4_"))
 
                     else:
                         response = requests.get(img_url.replace("_4_","_2_"))
@@ -49,6 +53,7 @@ def ReplaceAndWrite(fileName):
                             error += 1
                         else:
                             jsons[si]["img_url_sec"] = img_url.replace("_4_","_2_")
+                            print("Found the image the: "+str(error)+" time with status code "+str(response.status_code)+" and used "+img_url.replace("_4","_2_"))
 
 
                 if error==2:
@@ -60,6 +65,7 @@ def ReplaceAndWrite(fileName):
                             error += 1
                         else:
                             jsons[si]["img_url_sec"] = img_url.replace("-1", "")
+                            print("Found the image the: "+str(error)+" time with status code "+str(response.status_code)+" and used "+img_url.replace("-1",""))
 
                 else:
                     response = requests.get(img_url.replace("04k","03h"))
@@ -67,6 +73,7 @@ def ReplaceAndWrite(fileName):
                         error += 1
                     else:
                        jsons[si]["img_url_sec"] = img_url.replace("04k","03h")
+                       print("Found the image the: "+str(error)+" time with status code "+str(response.status_code)+" and used "+img_url.replace("04k","03h"))
 
 
                 if error==3:
@@ -76,6 +83,7 @@ def ReplaceAndWrite(fileName):
                          error += 1
                     else:
                          jsons[si]["img_url_sec"] = img_url.replace("04k","02b")
+                         print("Found the image the: "+str(error)+" time with status code "+str(response.status_code)+" and used "+img_url.replace("04k","02b"))
 
                 if error==4:
                     print("Didn't find the image the: "+str(error)+" time.")
@@ -84,6 +92,7 @@ def ReplaceAndWrite(fileName):
                         error += 1
                     else:
                         jsons[si]["img_url_sec"] = img_url.replace("04k","05g")
+                        print("Found the image the: "+str(error)+" time with status code "+str(response.status_code)+" and used "+img_url.replace("04k","05g"))
 
                 if error==5:
                     print("Didn't find the image the: "+str(error)+" time.")
@@ -92,6 +101,7 @@ def ReplaceAndWrite(fileName):
                         error += 1
                     else:
                         jsons[si]["img_url_sec"] = img_url.replace("04k","03k")
+                        print("Found the image the: "+str(error)+" time with status code "+str(response.status_code)+" and used "+img_url.replace("04k","03k"))
 
                 if error==6:
                     print("Didn't find the image the: "+str(error)+" time.")
@@ -100,6 +110,7 @@ def ReplaceAndWrite(fileName):
                         error += 1
                     else:
                         jsons[si]["img_url_sec"] = img_url.replace("04k","02k")
+                        print("Found the image the: "+str(error)+" time with status code "+str(response.status_code)+" and used "+img_url.replace("04k","02k"))
 
                 if error==7:
                     print("Didn't find the image the: "+str(error)+" time.")
@@ -108,6 +119,7 @@ def ReplaceAndWrite(fileName):
                         error += 1
                     else:
                         jsons[si]["img_url_sec"] = img_url.replace("04k","02m")
+                        print("Found the image the: "+str(error)+" time with status code "+str(response.status_code)+" and used "+img_url.replace("04k","02m"))
 
                 if error==8:
                     print("Didn't find the image the: "+str(error)+" time.")
@@ -116,6 +128,7 @@ def ReplaceAndWrite(fileName):
                        error += 1
                     else:
                        jsons[si]["img_url_sec"] = img_url.replace("04k","02b")
+                       print("Found the image the: "+str(error)+" time with status code "+str(response.status_code)+" and used "+img_url.replace("04k","02b"))
 
                 if error==9:
                     print("Didn't find the image the: "+str(error)+" time.")
@@ -124,6 +137,7 @@ def ReplaceAndWrite(fileName):
                         error += 1
                     else:
                         jsons[si]["img_url_sec"] = img_url.replace("04k","02k_r1")
+                        print("Found the image the: "+str(error)+" time with status code "+str(response.status_code)+" and used "+img_url.replace("04k","02k_r1"))
 
                 if error==10:
                     print("Didn't find the image the: "+str(error)+" time.")
@@ -132,6 +146,7 @@ def ReplaceAndWrite(fileName):
                          error += 1
                     else:
                          jsons[si]["img_url_sec"] = img_url.replace("04k","04b")
+                         print("Found the image the: "+str(error)+" time with status code "+str(response.status_code)+" and used "+img_url.replace("04k","04b"))
 
                 if error==11:
                     print("Didn't find the image the: "+str(error)+" time.")
@@ -140,6 +155,7 @@ def ReplaceAndWrite(fileName):
                         error += 1
                     else:
                         jsons[si]["img_url_sec"] = img_url.replace("04k","04k_r1")
+                        print("Found the image the: "+str(error)+" time with status code "+str(response.status_code)+" and used "+img_url.replace("04k","02k_r1"))
 
                 if error==12:
                     print("Didn't find the image the: "+str(error)+" time.")
@@ -148,6 +164,7 @@ def ReplaceAndWrite(fileName):
                         error += 1
                     else:
                         jsons[si]["img_url_sec"] = img_url.replace("04k","01j")
+                        print("Didn't find the image the: "+str(error)+" time with status code "+str(response.status_code)+" and used "+img_url.replace("01j"))
 
         else:
             print("Found it with status code: "+str(response.status_code))
