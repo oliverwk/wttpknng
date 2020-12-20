@@ -154,10 +154,10 @@ def ReplaceAndWrite(fileName):
 
         si += 1
 
-        files = open(fileName,"w")
-        print(json.dumps(jsons, indent=4))
-        files.writelines(json.dumps(jsons, indent=4))
-        files.close()
+    files = open(fileName,"w")
+    print(json.dumps(jsons, indent=4))
+    files.writelines(json.dumps(jsons, indent=4))
+    files.close()
 
 ReplaceAndWrite("Lingerie.json")
 ReplaceAndWrite("bodys.json")
