@@ -123,12 +123,12 @@ def ReplaceAndWrite(fileName):
 
                 if error==8:
                     print("Didn't find the image the: "+str(error)+" time.")
-                    response = requests.get(img_url.replace("04k","02b"))
+                    response = requests.get(img_url.replace("04k","03i"))
                     if response.status_code != 200:
                        error += 1
                     else:
-                       jsons[si]["img_url_sec"] = img_url.replace("04k","02b")
-                       print("Found the image the: "+str(error)+" time with status code "+str(response.status_code)+" and used "+img_url.replace("04k","02b"))
+                       jsons[si]["img_url_sec"] = img_url.replace("04k","03i")
+                       print("Found the image the: "+str(error)+" time with status code "+str(response.status_code)+" and used "+img_url.replace("04k","03i"))
 
                 if error==9:
                     print("Didn't find the image the: "+str(error)+" time.")
