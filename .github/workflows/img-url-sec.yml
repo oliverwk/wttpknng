@@ -25,12 +25,12 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: run the script
       run: |
-        /bin/ls
-        python3 getImgs.py
+        python3 rewriteGoodUrls.py
+        echo done
     - name: Push changes
       uses: actions-go/push@v1
       with:
         author-email: "30601311+oliverwk@users.noreply.github.com"
         create-commit: true
-        commit-message: "Edited the SwimWear for errors in the sec_url "
+        commit-message: "Edited the json for errors in the sec_url"
         force: true
