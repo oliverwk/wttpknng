@@ -164,7 +164,7 @@ def ReplaceAndWrite(fileName):
                         error += 1
                     else:
                         jsons[si]["img_url_sec"] = img_url.replace("04k","01j")
-                        print("Didn't find the image the: "+str(error)+" time with status code "+str(response.status_code)+" and used "+img_url.replace("01j"))
+                        print("Didn't find the image the: "+str(error)+" time with status code "+str(response.status_code)+" and used "+img_url.replace("04k", "01j"))
 
         else:
             print("Found it with status code: "+str(response.status_code))
