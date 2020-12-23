@@ -25,7 +25,7 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: run the script
       run: |
-        python3 rewriteGoodUrls.py
+        python3 RewriteUrls.py
         echo done
     - name: Push changes
       uses: actions-go/push@v1
