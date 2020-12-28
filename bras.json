@@ -8,6 +8,14 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_bandeau_micro_top_1013-000708-0086_01a.jpg"
     },
     {
+        "prijs": "6.28",
+        "kleur": "Orange",
+        "naam": "Kanten Bralette",
+        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bhs/bralettes/kanten-bralette-oranje",
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_romance_lace_soft_bra_1013-000659-0261_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_romance_lace_soft_bra_1013-000659-0261_01a.jpg"
+    },
+    {
         "prijs": "6.78",
         "kleur": "Pearl",
         "naam": "Kanten Bh Met Bloemenstructuur",
@@ -73,11 +81,11 @@
     },
     {
         "prijs": "10.47",
-        "kleur": "Black",
-        "naam": "Sparkle Elastic Lace Bra",
-        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bhs/bralettes/sparkle-elastic-lace-bra-zwart-1",
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_sparkle_elastic_lace_bra_1013-000347-0002_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_sparkle_elastic_lace_bra_1013-000347-0002_01a.jpg"
+        "kleur": "All Over Print",
+        "naam": "Basic Gebloemde Kanten Bh",
+        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bhs/beugelloze-bhs/basic-gebloemde-kanten-bh-veelkleurig",
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_all_over_floral_bra_1013-000516-1755_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_all_over_floral_bra_1013-000516-1755_01a.jpg"
     },
     {
         "prijs": "10.47",
@@ -86,14 +94,6 @@
         "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bhs/beugelloze-bhs/bandeau-lace-bra-turquoise",
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_bandeau_lace_bra_1013-000435-0086_01a.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_bandeau_lace_bra_1013-000435-0086_01a.jpg"
-    },
-    {
-        "prijs": "10.47",
-        "kleur": "All Over Print",
-        "naam": "Basic Gebloemde Kanten Bh",
-        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bhs/beugelloze-bhs/basic-gebloemde-kanten-bh-veelkleurig",
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_all_over_floral_bra_1013-000516-1755_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_all_over_floral_bra_1013-000516-1755_01a.jpg"
     },
     {
         "prijs": "10.47",
@@ -137,19 +137,19 @@
     },
     {
         "prijs": "11.95",
-        "kleur": "Buff Beige",
-        "naam": "Basic Floral Lace Bra",
-        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bhs/kanten-bh/basic-floral-lace-bra-buff-beige",
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_basic_frloral_lace_bra_1013-000272-8174_01a-1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_basic_frloral_lace_bra_1013-000272-8174_01a-1.jpg"
-    },
-    {
-        "prijs": "11.95",
         "kleur": "Black",
         "naam": "Lace Bra",
         "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bhs/beugelloze-bhs/lace-bra-zwart",
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_bra_1013-000138-0002_01a_r1.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_bra_1013-000138-0002_01a_r1.jpg"
+    },
+    {
+        "prijs": "11.95",
+        "kleur": "Buff Beige",
+        "naam": "Basic Floral Lace Bra",
+        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bhs/kanten-bh/basic-floral-lace-bra-buff-beige",
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_basic_frloral_lace_bra_1013-000272-8174_01a-1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_basic_frloral_lace_bra_1013-000272-8174_01a-1.jpg"
     },
     {
         "prijs": "11.95",
@@ -233,6 +233,14 @@
     },
     {
         "prijs": "12.57",
+        "kleur": "Cream",
+        "naam": "Bandeau Lace Bra",
+        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bhs/kanten-bh/bandeau-lace-bra-wit",
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_bandeau_lace_bra_1013-000435-0342_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_bandeau_lace_bra_1013-000435-0342_01a.jpg"
+    },
+    {
+        "prijs": "12.57",
         "kleur": "Flower Print",
         "naam": "Plain Printed Mesh Bra",
         "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bhs/beugelloze-bhs/plain-printed-mesh-bra-veelkleurig",
@@ -241,19 +249,19 @@
     },
     {
         "prijs": "12.57",
+        "kleur": "Dusty Pink",
+        "naam": "Kanten Bh",
+        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bhs/kanten-bh/kanten-bh-roze",
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_retro_lace_edge_cup_bra_1013-000532-0115_01a-1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_retro_lace_edge_cup_bra_1013-000532-0115_01a-1.jpg"
+    },
+    {
+        "prijs": "12.57",
         "kleur": "Leoprint",
         "naam": "Plain Printed Mesh Bra",
         "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bhs/beugelloze-bhs/plain-printed-mesh-bra-veelkleurig-1",
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_plain_printed_mesh_bra_1013-000171-0812_01a_r.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_plain_printed_mesh_bra_1013-000171-0812_01a_r.jpg"
-    },
-    {
-        "prijs": "12.57",
-        "kleur": "Cream",
-        "naam": "Bandeau Lace Bra",
-        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bhs/beugelloze-bhs/bandeau-lace-bra-wit",
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_bandeau_lace_bra_1013-000435-0342_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_bandeau_lace_bra_1013-000435-0342_01a.jpg"
     },
     {
         "prijs": "12.57",
@@ -278,13 +286,5 @@
         "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bhs/kanten-bh/kanten-bh-met-bloemenstructuur-zwart",
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_flower_structured_bra_1013-000669-0002_01a.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_flower_structured_bra_1013-000669-0002_01a.jpg"
-    },
-    {
-        "prijs": "12.71",
-        "kleur": "Black",
-        "naam": "Vacay Bikinitop Met Bandjes",
-        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bhs/beugelloze-bhs/vacay-bikinitop-met-bandjes-zwart",
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_strappy_micro_bra-1013-000676-0002_01b.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_strappy_micro_bra-1013-000676-0002_01b.jpg"
     }
 ]
