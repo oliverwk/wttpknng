@@ -74,14 +74,6 @@
     {
         "prijs": "11.95",
         "kleur": "Black",
-        "naam": "Gestreepte Mesh-Bh",
-        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bhs/bralettes/gestreepte-mesh-bh-zwart",
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_flirty_striped_mesh_bra_1013-000704-0002_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_flirty_striped_mesh_bra_1013-000704-0002_01a.jpg"
-    },
-    {
-        "prijs": "11.95",
-        "kleur": "Black",
         "naam": "Mesh-Triangel-Bh Met Stippen",
         "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bhs/beugelloze-bhs/mesh-triangel-bh-met-stippen-zwart",
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mesh_triangle_lace_edge_dotted_bra_1013-000582-0002_01a.jpg",
@@ -166,14 +158,6 @@
         "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bhs/beugelloze-bhs/leopard-balconette-bra-veelkleurig",
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_leopard_balconette_bra_1013-000425-1045_01a.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_leopard_balconette_bra_1013-000425-1045_01a.jpg"
-    },
-    {
-        "prijs": "13.47",
-        "kleur": "Black",
-        "naam": "V-Shape Lace Bustier",
-        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bhs/v-shape-lace-bustier-zwart",
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_v_shape_lace_bustier_1013-000481-0002_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_v_shape_lace_bustier_1013-000481-0002_01a.jpg"
     },
     {
         "prijs": "14.95",
@@ -265,14 +249,6 @@
     },
     {
         "prijs": "16.95",
-        "kleur": "Rose Smoke",
-        "naam": "Kanten Bh",
-        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bhs/kanten-bh-roze-2",
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_thoughtful_lace_bra_1013-000668-3053_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_thoughtful_lace_bra_1013-000668-3053_01a.jpg"
-    },
-    {
-        "prijs": "16.95",
         "kleur": "Black",
         "naam": "Lace Cup Bra",
         "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bhs/beugelloze-bhs/lace-cup-bra-zwart",
@@ -281,10 +257,34 @@
     },
     {
         "prijs": "16.95",
+        "kleur": "Rose Smoke",
+        "naam": "Kanten Bh",
+        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bhs/kanten-bh-roze-2",
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_thoughtful_lace_bra_1013-000668-3053_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_thoughtful_lace_bra_1013-000668-3053_01a.jpg"
+    },
+    {
+        "prijs": "16.95",
         "kleur": "Pearl",
         "naam": "Kanten Bh Met Bloemenstructuur",
         "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bhs/kanten-bh/kanten-bh-met-bloemenstructuur-roze",
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_flower_structured_bra_1013-000669-0719_01a.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_flower_structured_bra_1013-000669-0719_01a.jpg"
+    },
+    {
+        "prijs": "16.95",
+        "kleur": "Pearl",
+        "naam": "Kanten Bh",
+        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bhs/beugelloze-bhs/kanten-bh-gebroken-wit-2",
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_qute_lace_bra_1013-000652-0719_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_qute_lace_bra_1013-000652-0719_01a.jpg"
+    },
+    {
+        "prijs": "16.95",
+        "kleur": "Black",
+        "naam": "Two Strap Lace Bra",
+        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bhs/bralettes/two-strap-lace-bra-zwart",
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_two_strap_lace_bra_1013-000301-0002_01a-1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_two_strap_lace_bra_1013-000301-0002_01a-1.jpg"
     }
 ]
