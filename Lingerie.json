@@ -129,14 +129,6 @@
     },
     {
         "prijs": "9",
-        "kleur": "Coconut White",
-        "naam": "Basic Brazilian Mesh Panty",
-        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/basic-brazilian-mesh-panty-wit",
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_mesh_panty_1013-000538-5465_01j-1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_mesh_panty_1013-000538-5465_01j-1.jpg"
-    },
-    {
-        "prijs": "9",
         "kleur": "White",
         "naam": "Basic Brazilian Micro-Slip",
         "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/brazilians/basic-brazilian-micro-slip-wit",
@@ -174,14 +166,6 @@
         "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/strings/kanten-v-string-broekje-met-hoge-taille-zwart-1",
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_flower_structured_v-string_1013-000689-0002_01j.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_flower_structured_v-string_1013-000689-0002_01j.jpg"
-    },
-    {
-        "prijs": "10.95",
-        "kleur": "Black",
-        "naam": "Delicate V-String",
-        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/strings/delicate-v-string-zwart",
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_delicate_v-string_1013-000698-0002_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_delicate_v-string_1013-000698-0002_01j.jpg"
     },
     {
         "prijs": "10.95",
@@ -286,5 +270,21 @@
         "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/strings/kanten-string-gebroken-wit",
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_qute_lace_thong_1013-000653-0719_01j.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_qute_lace_thong_1013-000653-0719_01j.jpg"
+    },
+    {
+        "prijs": "11.95",
+        "kleur": "Black",
+        "naam": "Mesh String",
+        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/mesh-string-zwart",
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_sporty_mesh_thong_1013-000703-0002_01j-1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_sporty_mesh_thong_1013-000703-0002_01j-1.jpg"
+    },
+    {
+        "prijs": "11.95",
+        "kleur": "Beige",
+        "naam": "Brazilian Slip",
+        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/brazilians/brazilian-slip-beige",
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_seamless_brazilian_panty_1013-000685-0005_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_seamless_brazilian_panty_1013-000685-0005_01j.jpg"
     }
 ]
