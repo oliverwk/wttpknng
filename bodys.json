@@ -1,5 +1,21 @@
 [
     {
+        "prijs": "22.95",
+        "kleur": "White",
+        "naam": "Body",
+        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bodys/body-wit-8",
+        "img_url": "https://www.na-kd.com/resize/globalassets/matiamubysofiastrap_strap_jersey_body_1690-000019-0001_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/matiamubysofiastrap_strap_jersey_body_1690-000019-0001_01a.jpg"
+    },
+    {
+        "prijs": "22.95",
+        "kleur": "Black",
+        "naam": "Body",
+        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bodys/body-zwart-14",
+        "img_url": "https://www.na-kd.com/resize/globalassets/matiamubysofia_strap_jersey_body_1690-000019-0002_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/matiamubysofia_strap_jersey_body_1690-000019-0002_01a.jpg"
+    },
+    {
         "prijs": "28.95",
         "kleur": "Black",
         "naam": "Cut out Lace Bodysuit",
@@ -25,14 +41,6 @@
     },
     {
         "prijs": "34.95",
-        "kleur": "Black",
-        "naam": "Micro Lace Bodysuit",
-        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bodys/micro-lace-bodysuit-zwart",
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_micro_lace_bodysuit_1013-000493-0002_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_micro_lace_bodysuit_1013-000493-0002_01a.jpg"
-    },
-    {
-        "prijs": "34.95",
         "kleur": "Cabernet",
         "naam": "Plunge Lace Bodysuit",
         "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bodys/plunge-lace-bodysuit-bordeauxrood",
@@ -54,6 +62,14 @@
         "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bodys/v-string-bodysuit-met-ruwe-zoom-en-kanten-cups-nude",
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0719_01a.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0719_01a.jpg"
+    },
+    {
+        "prijs": "34.95",
+        "kleur": "Black",
+        "naam": "Cut Out Front Lace Bodysuit",
+        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bodys/cut-out-front-lace-bodysuit-zwart",
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cut_out_front_lace_bodysuit_1013-000477-0002_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_cut_out_front_lace_bodysuit_1013-000477-0002_01a.jpg"
     },
     {
         "prijs": "34.95",
@@ -102,5 +118,13 @@
         "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bodys/lace-detail-bodysuit-zwart",
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_01a.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_01a.jpg"
+    },
+    {
+        "prijs": "39.95",
+        "kleur": "Black",
+        "naam": "Dotted Mesh Lace Bodysuit",
+        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bodys/dotted-mesh-lace-bodysuit-zwart",
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_nakd_dotted_mesh_lace_bodysuits_1013-000455-0002_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_nakd_dotted_mesh_lace_bodysuits_1013-000455-0002_01j.jpg"
     }
 ]
