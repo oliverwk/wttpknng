@@ -17,6 +17,14 @@
     },
     {
         "prijs": "5.98",
+        "kleur": "Black",
+        "naam": "String",
+        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/string-zwart",
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_blush_detail_satin_panty_1013-000510-0002_01j-1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_blush_detail_satin_panty_1013-000510-0002_01j-1.jpg"
+    },
+    {
+        "prijs": "5.98",
         "kleur": "Beige",
         "naam": "Contrast Elastic Lace Panty",
         "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/slipjes/contrast-elastic-lace-panty-beige",
@@ -278,13 +286,5 @@
         "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/strings/delicate-v-string-geel",
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_delicate_v-string_1013-000698-0404_01j.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_delicate_v-string_1013-000698-0404_01j.jpg"
-    },
-    {
-        "prijs": "10.46",
-        "kleur": "Black",
-        "naam": "Kanten Slip Met Hoge Taille",
-        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/kanten-slip-met-hoge-taille-zwart-1",
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_romantic_french_embroided_highwaist_panty_1013-000506-0002_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_romantic_french_embroided_highwaist_panty_1013-000506-0002_01j.jpg"
     }
 ]
