@@ -1,5 +1,13 @@
 [
     {
+        "prijs": "4.5",
+        "kleur": "Dark Green",
+        "naam": "Basic Brazilian Micro-Slip",
+        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/brazilians/basic-brazilian-micro-slip-turquoise",
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_micro_panty_1013-000536-0086__01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_micro_panty_1013-000536-0086__01j.jpg"
+    },
+    {
         "prijs": "5.95",
         "kleur": "Offwhite",
         "naam": "Kanten Slip",
@@ -14,14 +22,6 @@
         "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/strings/mesh-contrast-v-string-panty-roze",
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mesh_contrast_v-string_panty_1013-000574-0920_01j.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_mesh_contrast_v-string_panty_1013-000574-0920_01j.jpg"
-    },
-    {
-        "prijs": "5.98",
-        "kleur": "Black",
-        "naam": "String",
-        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/string-zwart",
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_blush_detail_satin_panty_1013-000510-0002_01j-1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_blush_detail_satin_panty_1013-000510-0002_01j-1.jpg"
     },
     {
         "prijs": "5.98",
@@ -72,12 +72,12 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_micro_lace_edge_panty-1013-000682-0689_01j.jpg"
     },
     {
-        "prijs": "6.78",
+        "prijs": "7.47",
         "kleur": "Black",
-        "naam": "All Over Dotted Mesh Highwaist Panty",
-        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/slipjes/all-over-dotted-mesh-highwaist-panty-zwart",
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_all_over_dotted_mesh_highwaist_panty_1013-000528-0002_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_all_over_dotted_mesh_highwaist_panty_1013-000528-0002_01j.jpg"
+        "naam": "Lace Panty",
+        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/strings/lace-panty-zwart-1",
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_panty_1013-000147-0002_tie_strap_lace_bralette_1013-000146-0002-21.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_panty_1013-000147-0002_tie_strap_lace_bralette_1013-000146-0002-21.jpg"
     },
     {
         "prijs": "7.95",
@@ -242,18 +242,18 @@
     {
         "prijs": "9.76",
         "kleur": "White",
-        "naam": "Kanten Slip",
-        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/hipsters/kanten-slip-wit-1",
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_edge_hipster_1013-000508-0001_01j-1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_edge_hipster_1013-000508-0001_01j-1.jpg"
-    },
-    {
-        "prijs": "9.76",
-        "kleur": "White",
         "naam": "Slip Met Hoge Taille",
         "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/brazilians/slip-met-hoge-taille-wit-1",
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_soft_wavy_blossom_high_waist_panty_1013-000520-0001_01j.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_soft_wavy_blossom_high_waist_panty_1013-000520-0001_01j.jpg"
+    },
+    {
+        "prijs": "9.76",
+        "kleur": "White",
+        "naam": "Kanten Slip",
+        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/onderbroeken/hipsters/kanten-slip-wit-1",
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_edge_hipster_1013-000508-0001_01j-1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_edge_hipster_1013-000508-0001_01j-1.jpg"
     },
     {
         "prijs": "9.76",
