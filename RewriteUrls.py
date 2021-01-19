@@ -184,7 +184,6 @@ def ReplaceAndWrite(fileName):
     files.writelines(json.dumps(jsons, indent=4))
     files.close()
 
-ReplaceAndWrite("Lingerie.json")
 ReplaceAndWrite("bodys.json")
 ReplaceAndWrite("bras.json")
 ReplaceAndWrite("SwimWear.json")
