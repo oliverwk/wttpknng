@@ -249,6 +249,24 @@
         "kleurHex": null
     },
     {
+        "naam": "String",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/thin_strap_v_string_1013-000764-0002_01a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/thin_strap_v_string_1013-000764-0002_02b.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/thin_strap_v_string_1013-000764-0002_03j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/thin_strap_v_string_1013-000764-0002_04b.jpg?width=640"
+        ],
+        "prijs": 11.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "Black"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/thin_strap_v_string_1013-000764-0002_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/thin_strap_v_string_1013-000764-0002_04b.jpg",
+        "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/onderbroeken/strings/string-zwart-11",
+        "kleurHex": null
+    },
+    {
         "naam": "V-String",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_satin_front_detail_v_string_1013-000768-0719_01j.jpg?width=640",
@@ -308,24 +326,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_romance_lace_v-string_1013-000660-4376_04k.jpg",
         "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/onderbroeken/strings/string-groen",
         "kleurHex": "#695C46"
-    },
-    {
-        "naam": "String",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/thin_strap_v_string_1013-000764-0002_01a.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/thin_strap_v_string_1013-000764-0002_02b.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/thin_strap_v_string_1013-000764-0002_03j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/thin_strap_v_string_1013-000764-0002_04b.jpg?width=640"
-        ],
-        "prijs": 11.95,
-        "kleur": "Black",
-        "kleurFamilies": [
-            "Black"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/thin_strap_v_string_1013-000764-0002_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/thin_strap_v_string_1013-000764-0002_04b.jpg",
-        "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/onderbroeken/strings/string-zwart-11",
-        "kleurHex": null
     },
     {
         "naam": "String",
@@ -499,25 +499,6 @@
         "kleurHex": "#BEC7BF"
     },
     {
-        "naam": "Kanten V-String Broekje Met Hoge Taille",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_wrapped_highwaist_lace_v-string_panty_1013-000579-0719_01j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_wrapped_highwaist_lace_v-string_panty_1013-000579-0719_03h.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_wrapped_highwaist_lace_v-string_panty_1013-000579-0719_02i.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_wrapped_highwaist_lace_v-string_panty_1013-000579-0719_04k.jpg?width=640"
-        ],
-        "prijs": 11.96,
-        "kleur": "Pearl",
-        "kleurFamilies": [
-            "Black",
-            "Nude"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_wrapped_highwaist_lace_v-string_panty_1013-000579-0719_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_wrapped_highwaist_lace_v-string_panty_1013-000579-0719_04k.jpg",
-        "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/onderbroeken/slipjes/kanten-v-string-broekje-met-hoge-taille-nude",
-        "kleurHex": "#DDC5B1"
-    },
-    {
         "naam": "String",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/amalia_super_hl_string_1724-000060-0118_01h.jpg?width=640",
@@ -540,26 +521,6 @@
     {
         "naam": "String",
         "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/amalia_super_hl_string_snow_white_1724-000060-1096_01j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/amalia_super_hl_string_snow_white_1724-000060-1096_02i.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/amalia_super_hl_string_snow_white_1724-000060-1096_03h.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/amalia_super_hl_string_snow_white_1724-000060-1096_04k.jpg?width=640"
-        ],
-        "prijs": 12.95,
-        "kleur": "Snow White",
-        "kleurFamilies": [
-            "Pink",
-            "Black",
-            "White"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/amalia_super_hl_string_snow_white_1724-000060-1096_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/amalia_super_hl_string_snow_white_1724-000060-1096_04k.jpg",
-        "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/onderbroeken/strings/string-wit-9",
-        "kleurHex": null
-    },
-    {
-        "naam": "String",
-        "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/amalia_super_hl_string_caviar_1724-000060-0565_01j.jpg?width=640",
             "https://www.na-kd.com/resize/globalassets/amalia_super_hl_string_caviar_1724-000060-0565_02i.jpg?width=640",
             "https://www.na-kd.com/resize/globalassets/amalia_super_hl_string_caviar_1724-000060-0565_03h.jpg?width=640",
@@ -575,6 +536,26 @@
         "img_url": "https://www.na-kd.com/resize/globalassets/amalia_super_hl_string_caviar_1724-000060-0565_01j.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/amalia_super_hl_string_caviar_1724-000060-0565_04k.jpg",
         "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/onderbroeken/strings/string-zwart-18",
+        "kleurHex": null
+    },
+    {
+        "naam": "String",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/amalia_super_hl_string_snow_white_1724-000060-1096_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/amalia_super_hl_string_snow_white_1724-000060-1096_02i.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/amalia_super_hl_string_snow_white_1724-000060-1096_03h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/amalia_super_hl_string_snow_white_1724-000060-1096_04k.jpg?width=640"
+        ],
+        "prijs": 12.95,
+        "kleur": "Snow White",
+        "kleurFamilies": [
+            "Pink",
+            "Black",
+            "White"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/amalia_super_hl_string_snow_white_1724-000060-1096_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/amalia_super_hl_string_snow_white_1724-000060-1096_04k.jpg",
+        "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/onderbroeken/strings/string-wit-9",
         "kleurHex": null
     },
     {
@@ -689,5 +670,23 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_qute_lace_double_strap_v-string_1013-000784-0039_04.jpg",
         "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/onderbroeken/strings/kanten-v-string-met-bandjes-rood",
         "kleurHex": "#B1594A"
+    },
+    {
+        "naam": "Kanten V-String Met Bandjes",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_suger_lace_vstring_1013-000775-0719_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_suger_lace_vstring_1013-000775-0719_02i.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_suger_lace_vstring_1013-000775-0719_03h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_suger_lace_vstring_1013-000775-0719_04k.jpg?width=640"
+        ],
+        "prijs": 13.95,
+        "kleur": "Pearl",
+        "kleurFamilies": [
+            "Pink"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_suger_lace_vstring_1013-000775-0719_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_suger_lace_vstring_1013-000775-0719_04k.jpg",
+        "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/onderbroeken/strings/kanten-v-string-met-bandjes-roze",
+        "kleurHex": "#D7BFA8"
     }
 ]
