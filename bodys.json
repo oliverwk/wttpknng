@@ -1,6 +1,14 @@
 [
     {
         "prijs": "21.95",
+        "kleur": "Black",
+        "naam": "Body",
+        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bodys/body-zwart-14",
+        "img_url": "https://www.na-kd.com/resize/globalassets/trendyol_chest_detail_body_1494-003908-0002_04g.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/trendyol_chest_detail_body_1494-003908-0002_04g.jpg"
+    },
+    {
+        "prijs": "21.95",
         "kleur": "White",
         "naam": "Body",
         "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bodys/body-wit-8",
@@ -33,14 +41,6 @@
     },
     {
         "prijs": "33.95",
-        "kleur": "Black",
-        "naam": "Mesh Body",
-        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bodys/mesh-body-zwart-2",
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string-bodysuit-1013-000762-0002_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string-bodysuit-1013-000762-0002_01j.jpg"
-    },
-    {
-        "prijs": "33.95",
         "kleur": "Dark Red",
         "naam": "Kanten Body",
         "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bodys/kanten-body-rood-3",
@@ -50,10 +50,10 @@
     {
         "prijs": "33.95",
         "kleur": "Black",
-        "naam": "Front Detail Lace Bodysuit",
-        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bodys/front-detail-lace-bodysuit-zwart",
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_front_detail_lace_bodysuit_1013-000475-0002_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_front_detail_lace_bodysuit_1013-000475-0002_01j.jpg"
+        "naam": "Mesh Body",
+        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bodys/mesh-body-zwart-2",
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string-bodysuit-1013-000762-0002_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string-bodysuit-1013-000762-0002_01j.jpg"
     },
     {
         "prijs": "33.95",
@@ -89,19 +89,19 @@
     },
     {
         "prijs": "33.95",
-        "kleur": "Pearl",
-        "naam": "V-String Bodysuit Met Ruwe Zoom En Kanten Cups",
-        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bodys/v-string-bodysuit-met-ruwe-zoom-en-kanten-cups-nude",
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0719_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0719_01a.jpg"
-    },
-    {
-        "prijs": "33.95",
         "kleur": "White",
         "naam": "Mesh Body",
         "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bodys/mesh-body-wit",
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_03j.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_03j.jpg"
+    },
+    {
+        "prijs": "33.95",
+        "kleur": "Pearl",
+        "naam": "V-String Bodysuit Met Ruwe Zoom En Kanten Cups",
+        "url": "https://www.na-kd.com/nl/lingerie--nachtkleding/bodys/v-string-bodysuit-met-ruwe-zoom-en-kanten-cups-gebroken-wit",
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0719_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0719_01a.jpg"
     },
     {
         "prijs": "33.95",
