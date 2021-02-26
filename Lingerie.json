@@ -301,24 +301,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Kanten V-String Broekje Met Hoge Taille",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_flower_structured_v-string_1013-000689-0002_04k.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_flower_structured_v-string_1013-000689-0002_02i.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_flower_structured_v-string_1013-000689-0002_03h.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_flower_structured_v-string_1013-000689-0002_01j.jpg?width=640"
-        ],
-        "prijs": 9.95,
-        "kleur": "Black",
-        "kleurFamilies": [
-            "Black"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_flower_structured_v-string_1013-000689-0002_04k.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_flower_structured_v-string_1013-000689-0002_01j.jpg",
-        "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/onderbroeken/strings/kanten-v-string-broekje-met-hoge-taille-zwart-1",
-        "kleurHex": null
-    },
-    {
         "naam": "Kanten Slip Met Hoge Taille",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_romantic_french_embroided_highwaist_panty_1013-000506-0024_01j.jpg?width=640",
@@ -339,26 +321,6 @@
         "kleurHex": "#E0DACC"
     },
     {
-        "naam": "Kanten String",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_high_cut_thong_1013-000714-0368_01h.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_high_cut_thong_1013-000714-0368_02i.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_high_cut_thong_1013-000714-0368_03j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_high_cut_thong_1013-000714-0368_04k.jpg?width=640"
-        ],
-        "prijs": 10.95,
-        "kleur": "Lilac",
-        "kleurFamilies": [
-            "Purple",
-            "White",
-            "Yellow"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_high_cut_thong_1013-000714-0368_01h.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_high_cut_thong_1013-000714-0368_04k.jpg",
-        "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/onderbroeken/strings/kanten-string-paars-2",
-        "kleurHex": "#9F859D"
-    },
-    {
         "naam": "String Van Elastisch Kant",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/elastic_lace_thong-1013-000822-0002_01j.jpg?width=640",
@@ -377,6 +339,45 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/elastic_lace_thong-1013-000822-0002_04j.jpg",
         "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/onderbroeken/strings/string-van-elastisch-kant-zwart",
         "kleurHex": null
+    },
+    {
+        "naam": "String Van Elastisch Kant",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/elastic_lace_thong-1013-000822-0198_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/elastic_lace_thong-1013-000822-0198_02h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/elastic_lace_thong-1013-000822-0198_03h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/elastic_lace_thong-1013-000822-0198_04k.jpg?width=640"
+        ],
+        "prijs": 10.95,
+        "kleur": "Terracotta",
+        "kleurFamilies": [
+            "Black",
+            "Brown"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/elastic_lace_thong-1013-000822-0198_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/elastic_lace_thong-1013-000822-0198_04k.jpg",
+        "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/onderbroeken/strings/string-van-elastisch-kant-bruin",
+        "kleurHex": null
+    },
+    {
+        "naam": "Kanten String",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_high_cut_thong_1013-000714-0368_01h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_high_cut_thong_1013-000714-0368_02i.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_high_cut_thong_1013-000714-0368_03j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_high_cut_thong_1013-000714-0368_04k.jpg?width=640"
+        ],
+        "prijs": 10.95,
+        "kleur": "Lilac",
+        "kleurFamilies": [
+            "Purple",
+            "White",
+            "Yellow"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_high_cut_thong_1013-000714-0368_01h.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_high_cut_thong_1013-000714-0368_04k.jpg",
+        "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/onderbroeken/strings/kanten-string-paars-2",
+        "kleurHex": "#9F859D"
     },
     {
         "naam": "Kanten String",
@@ -416,25 +417,6 @@
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_high_cut_thong_1013-000714-1715_01j.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_high_cut_thong_1013-000714-1715_04k.jpg",
         "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/onderbroeken/strings/kanten-string-wit-4",
-        "kleurHex": null
-    },
-    {
-        "naam": "String Van Elastisch Kant",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/elastic_lace_thong-1013-000822-0198_01j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/elastic_lace_thong-1013-000822-0198_02h.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/elastic_lace_thong-1013-000822-0198_03h.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/elastic_lace_thong-1013-000822-0198_04k.jpg?width=640"
-        ],
-        "prijs": 10.95,
-        "kleur": "Terracotta",
-        "kleurFamilies": [
-            "Black",
-            "Brown"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/elastic_lace_thong-1013-000822-0198_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/elastic_lace_thong-1013-000822-0198_04k.jpg",
-        "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/onderbroeken/strings/string-van-elastisch-kant-bruin",
         "kleurHex": null
     },
     {
@@ -496,6 +478,25 @@
         "kleurHex": "#EAD6C3"
     },
     {
+        "naam": "Hoog Uitgesneden Slip Met Satijnen Randje",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_satin_edge_highcut_panty_1013-000736-0179_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_satin_edge_highcut_panty_1013-000736-0179_02h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_satin_edge_highcut_panty_1013-000736-0179_03i.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_satin_edge_highcut_panty_1013-000736-0179_04k.jpg?width=640"
+        ],
+        "prijs": 10.95,
+        "kleur": "Rust",
+        "kleurFamilies": [
+            "Black",
+            "Orange"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_satin_edge_highcut_panty_1013-000736-0179_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_satin_edge_highcut_panty_1013-000736-0179_04k.jpg",
+        "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/onderbroeken/hoog-uitgesneden-slip-met-satijnen-randje-oranje",
+        "kleurHex": "#9C4426"
+    },
+    {
         "naam": "Kanten String Met Zijstrik",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_thin_strap_side_bow_thong_1013-000651-0719_01j.jpg?width=640",
@@ -532,25 +533,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_flounce_edge_v-string_1013-000663-0002_04k.jpg",
         "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/onderbroeken/strings/v-string-met-kant-en-ruches-zwart",
         "kleurHex": null
-    },
-    {
-        "naam": "Hoog Uitgesneden Slip Met Satijnen Randje",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_satin_edge_highcut_panty_1013-000736-0179_01j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_satin_edge_highcut_panty_1013-000736-0179_02h.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_satin_edge_highcut_panty_1013-000736-0179_03i.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_satin_edge_highcut_panty_1013-000736-0179_04k.jpg?width=640"
-        ],
-        "prijs": 10.95,
-        "kleur": "Rust",
-        "kleurFamilies": [
-            "Black",
-            "Orange"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_satin_edge_highcut_panty_1013-000736-0179_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_satin_edge_highcut_panty_1013-000736-0179_04k.jpg",
-        "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/onderbroeken/hoog-uitgesneden-slip-met-satijnen-randje-oranje",
-        "kleurHex": "#9C4426"
     },
     {
         "naam": "String",
@@ -685,5 +667,23 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_all_over_dot_mesh_v-tring_1013-000616-0765_04k.jpg",
         "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/onderbroeken/strings/gestippelde-v-string-bruin",
         "kleurHex": "#4D2F2D"
+    },
+    {
+        "naam": "Mesh String",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_sporty_mesh_thong_1013-000703-0002_01j-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_sporty_mesh_thong_1013-000703-0002_02i.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_sporty_mesh_thong_1013-000703-0002_03h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_sporty_mesh_thong_1013-000703-0002_04k.jpg?width=640"
+        ],
+        "prijs": 10.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "Black"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_sporty_mesh_thong_1013-000703-0002_01j-1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_sporty_mesh_thong_1013-000703-0002_04k.jpg",
+        "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/onderbroeken/mesh-string-zwart",
+        "kleurHex": null
     }
 ]
