@@ -103,7 +103,8 @@
         "prijs": 6.95,
         "kleur": "White",
         "kleurFamilies": [
-            "White"
+            "White",
+            "Black"
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_flirty_striped_mesh_panty_1013-000705-0001_01j.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_flirty_striped_mesh_panty_1013-000705-0001_04k.jpg",
@@ -186,6 +187,25 @@
         "kleurHex": null
     },
     {
+        "naam": "Basic Brazilian Micro-Slip",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_basic_brazillian_micro_panty_1013-000536-0719_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_basic_brazillian_micro_panty_1013-000536-0719_03h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_basic_brazillian_micro_panty_1013-000536-0719_02i.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_basic_brazillian_micro_panty_1013-000536-0719_04k.jpg?width=640"
+        ],
+        "prijs": 8.95,
+        "kleur": "Pearl",
+        "kleurFamilies": [
+            "Black",
+            "Offwhite"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_basic_brazillian_micro_panty_1013-000536-0719_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_basic_brazillian_micro_panty_1013-000536-0719_04k.jpg",
+        "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/onderbroeken/brazilians/basic-brazilian-micro-slip-gebroken-wit",
+        "kleurHex": "#DFCCBD"
+    },
+    {
         "naam": "Kanten Slip",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_edge_hipster_1013-000508-0002_01j-1.jpg?width=640",
@@ -204,25 +224,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_edge_hipster_1013-000508-0002_04k-1.jpg",
         "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/onderbroeken/hipsters/kanten-slip-zwart-2",
         "kleurHex": null
-    },
-    {
-        "naam": "Basic Brazilian Micro-Slip",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_basic_brazillian_micro_panty_1013-000536-0719_01j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_basic_brazillian_micro_panty_1013-000536-0719_03h.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_basic_brazillian_micro_panty_1013-000536-0719_02i.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_basic_brazillian_micro_panty_1013-000536-0719_04k.jpg?width=640"
-        ],
-        "prijs": 8.95,
-        "kleur": "Pearl",
-        "kleurFamilies": [
-            "Black",
-            "Offwhite"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_basic_brazillian_micro_panty_1013-000536-0719_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_basic_brazillian_micro_panty_1013-000536-0719_04k.jpg",
-        "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/onderbroeken/brazilians/basic-brazilian-micro-slip-gebroken-wit",
-        "kleurHex": "#DFCCBD"
     },
     {
         "naam": "Lace Basic Thong",
@@ -340,6 +341,26 @@
     {
         "naam": "Kanten String",
         "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_high_cut_thong_1013-000714-0368_01h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_high_cut_thong_1013-000714-0368_02i.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_high_cut_thong_1013-000714-0368_03j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_high_cut_thong_1013-000714-0368_04k.jpg?width=640"
+        ],
+        "prijs": 10.95,
+        "kleur": "Lilac",
+        "kleurFamilies": [
+            "Purple",
+            "White",
+            "Yellow"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_high_cut_thong_1013-000714-0368_01h.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_high_cut_thong_1013-000714-0368_04k.jpg",
+        "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/onderbroeken/strings/kanten-string-paars-2",
+        "kleurHex": "#9F859D"
+    },
+    {
+        "naam": "Kanten String",
+        "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_high_cut_thong_1013-000714-9252_01j.jpg?width=640",
             "https://www.na-kd.com/resize/globalassets/nakd_high_cut_thong_1013-000714-9252_02i.jpg?width=640",
             "https://www.na-kd.com/resize/globalassets/nakd_high_cut_thong_1013-000714-9252_03h.jpg?width=640",
@@ -397,24 +418,23 @@
         "kleurHex": null
     },
     {
-        "naam": "Kanten String",
+        "naam": "Kanten Slip",
         "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_high_cut_thong_1013-000714-0368_01h.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_high_cut_thong_1013-000714-0368_02i.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_high_cut_thong_1013-000714-0368_03j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_high_cut_thong_1013-000714-0368_04k.jpg?width=640"
+            "https://www.na-kd.com/resize/globalassets/lace_romance_v_string_1013-000722-0569_01a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/lace_romance_v_string_1013-000722-0569_02k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/lace_romance_v_string_1013-000722-0569_03j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/lace_romance_v_string_1013-000722-0569_04b.jpg?width=640"
         ],
         "prijs": 10.95,
-        "kleur": "Lilac",
+        "kleur": "Peach",
         "kleurFamilies": [
-            "Purple",
-            "White",
-            "Yellow"
+            "Black",
+            "Pink"
         ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_high_cut_thong_1013-000714-0368_01h.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_high_cut_thong_1013-000714-0368_04k.jpg",
-        "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/onderbroeken/strings/kanten-string-paars-2",
-        "kleurHex": "#9F859D"
+        "img_url": "https://www.na-kd.com/resize/globalassets/lace_romance_v_string_1013-000722-0569_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/lace_romance_v_string_1013-000722-0569_04b.jpg",
+        "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/onderbroeken/strings/kanten-slip-roze-7",
+        "kleurHex": "#C8A499"
     },
     {
         "naam": "Brazilian Slip",
@@ -475,25 +495,6 @@
         "kleurHex": "#EAD6C3"
     },
     {
-        "naam": "Kanten Slip",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/lace_romance_v_string_1013-000722-0569_01a.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_romance_v_string_1013-000722-0569_02k.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_romance_v_string_1013-000722-0569_03j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_romance_v_string_1013-000722-0569_04b.jpg?width=640"
-        ],
-        "prijs": 10.95,
-        "kleur": "Peach",
-        "kleurFamilies": [
-            "Black",
-            "Pink"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/lace_romance_v_string_1013-000722-0569_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/lace_romance_v_string_1013-000722-0569_04b.jpg",
-        "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/onderbroeken/strings/kanten-slip-roze-7",
-        "kleurHex": "#C8A499"
-    },
-    {
         "naam": "V-String Met Kant En Ruches",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_lace_flounce_edge_v-string_1013-000663-0002_01j.jpg?width=640",
@@ -549,6 +550,25 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/thin_strap_lace_v_string_1013-000724-0569_04b.jpg",
         "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/onderbroeken/strings/kanten-slip-roze-6",
         "kleurHex": "#D1BCB0"
+    },
+    {
+        "naam": "Hoog Uitgesneden Broekje",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/trine_kjaer_high_cut_pantie_1680-000038-0001_03h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/trine_kjaer_high_cut_pantie_1680-000038-0001_02i.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/trine_kjaer_high_cut_pantie_1680-000038-0001_04j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/trine_kjaer_high_cut_pantie_1680-000038-0001_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/trine_kjaer_high_cut_pantie_1680-000038-0001_05g.jpg?width=640"
+        ],
+        "prijs": 10.95,
+        "kleur": "White",
+        "kleurFamilies": [
+            "White"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/trine_kjaer_high_cut_pantie_1680-000038-0001_03h.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/trine_kjaer_high_cut_pantie_1680-000038-0001_05g.jpg",
+        "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/onderbroeken/hoog-uitgesneden-broekje-wit",
+        "kleurHex": null
     },
     {
         "naam": "Mesh String",
@@ -660,26 +680,6 @@
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_around_mesh_edge_v-string_1013-000665-0002_01j.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_around_mesh_edge_v-string_1013-000665-0002_04k.jpg",
         "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/onderbroeken/strings/v-string--met-mesh-randen-zwart",
-        "kleurHex": null
-    },
-    {
-        "naam": "String",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_strap_detailed_high_waist_ribbed_thong-1013-000836-0002_01k.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_strap_detailed_high_waist_ribbed_thong-1013-000836-0002_04j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_strap_detailed_high_waist_ribbed_thong-1013-000836-0002_03h.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_strap_detailed_high_waist_ribbed_thong-1013-000836-0002_02h.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_strap_detailed_high_waist_ribbed_thong-1013-000836-0002_05k.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_strap_detailed_high_waist_ribbed_thong-1013-000836-0002_05a.jpg?width=640"
-        ],
-        "prijs": 10.95,
-        "kleur": "Black",
-        "kleurFamilies": [
-            "Black"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_strap_detailed_high_waist_ribbed_thong-1013-000836-0002_01k.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_strap_detailed_high_waist_ribbed_thong-1013-000836-0002_05a.jpg",
-        "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/onderbroeken/string-zwart-21",
         "kleurHex": null
     }
 ]
