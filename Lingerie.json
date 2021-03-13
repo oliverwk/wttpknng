@@ -171,26 +171,6 @@
     {
         "naam": "Basic Brazilian Micro-Slip",
         "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_micro_panty_1013-000536-0002_01j_r.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_micro_panty_1013-000536-0002_02i.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_micro_panty_1013-000536-0002_03h.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_micro_panty_1013-000536-0002_04k_r.jpg?width=640"
-        ],
-        "prijs": 8.95,
-        "kleur": "Black",
-        "kleurFamilies": [
-            "White",
-            "Black",
-            "Offwhite"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_micro_panty_1013-000536-0002_01j_r.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_micro_panty_1013-000536-0002_04k_r.jpg",
-        "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/onderbroeken/brazilians/basic-brazilian-micro-slip-zwart",
-        "kleurHex": null
-    },
-    {
-        "naam": "Basic Brazilian Micro-Slip",
-        "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_basic_brazillian_micro_panty_1013-000536-0719_01j.jpg?width=640",
             "https://www.na-kd.com/resize/globalassets/nakd_basic_brazillian_micro_panty_1013-000536-0719_03h.jpg?width=640",
             "https://www.na-kd.com/resize/globalassets/nakd_basic_brazillian_micro_panty_1013-000536-0719_02i.jpg?width=640",
@@ -200,7 +180,6 @@
         "kleur": "Pearl",
         "kleurFamilies": [
             "White",
-            "Black",
             "Offwhite"
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_basic_brazillian_micro_panty_1013-000536-0719_01j.jpg",
@@ -237,7 +216,8 @@
         "prijs": 8.95,
         "kleur": "Coconut White",
         "kleurFamilies": [
-            "White"
+            "White",
+            "Purple"
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_mesh_panty_1013-000538-5465_01j-1.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_mesh_panty_1013-000538-5465_04k-1.jpg",
@@ -256,7 +236,6 @@
         "kleur": "White",
         "kleurFamilies": [
             "White",
-            "Black",
             "Offwhite"
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_micro_panty_1013-000536-0001_01j.jpg",
@@ -684,6 +663,26 @@
         "img_url": "https://www.na-kd.com/resize/globalassets/thin_strap_v_string_1013-000764-0002_01a.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/thin_strap_v_string_1013-000764-0002_04b.jpg",
         "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/onderbroeken/strings/string-zwart-11",
+        "kleurHex": null
+    },
+    {
+        "naam": "Brazilian Slip",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_seamless_brazilian_panty_1013-000685-0001_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_seamless_brazilian_panty_1013-000685-0001_02i.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_seamless_brazilian_panty_1013-000685-0001_03h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_seamless_brazilian_panty_1013-000685-0001_04k.jpg?width=640"
+        ],
+        "prijs": 10.95,
+        "kleur": "White",
+        "kleurFamilies": [
+            "White",
+            "Black",
+            "Beige"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_seamless_brazilian_panty_1013-000685-0001_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_seamless_brazilian_panty_1013-000685-0001_04k.jpg",
+        "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/onderbroeken/brazilians/brazilian-slip-wit-3",
         "kleurHex": null
     }
 ]
