@@ -22,28 +22,6 @@
     {
         "naam": "Organisch Geribde Body Met Diepe Rug",
         "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_deep_back_rib_body_1100-004437-0005_01g.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_deep_back_rib_body_1100-004437-0005_02a.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_deep_back_rib_body_1100-004437-0005197208.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_deep_back_rib_body_1100-004437-0005197172.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_deep_back_rib_body_1100-004437-0005197195.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_deep_back_rib_body_1100-004437-0005197229.jpg?width=640"
-        ],
-        "prijs": 19.95,
-        "kleur": "Beige",
-        "kleurFamilies": [
-            "Black",
-            "Beige",
-            "Purple"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_deep_back_rib_body_1100-004437-0005_01g.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_deep_back_rib_body_1100-004437-0005197229.jpg",
-        "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/bodys/organisch-geribde-body-met-diepe-rug-beige",
-        "kleurHex": "#D5B9A5"
-    },
-    {
-        "naam": "Organisch Geribde Body Met Diepe Rug",
-        "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_deep_back_rib_body_1100-004437-0208_04b.jpg?width=640",
             "https://www.na-kd.com/resize/globalassets/nakd_deep_back_rib_body_1100-004437-0208_02a.jpg?width=640",
             "https://www.na-kd.com/resize/globalassets/nakd_deep_back_rib_body_1100-004437-0208_03b.jpg?width=640",
@@ -63,6 +41,28 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_deep_back_rib_body_1100-004437-0208_07g.jpg",
         "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/bodys/organisch-geribde-body-met-diepe-rug-paars",
         "kleurHex": "#8A6170"
+    },
+    {
+        "naam": "Organisch Geribde Body Met Diepe Rug",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_deep_back_rib_body_1100-004437-0005_01g.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_deep_back_rib_body_1100-004437-0005_02a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_deep_back_rib_body_1100-004437-0005197208.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_deep_back_rib_body_1100-004437-0005197172.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_deep_back_rib_body_1100-004437-0005197195.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_deep_back_rib_body_1100-004437-0005197229.jpg?width=640"
+        ],
+        "prijs": 19.95,
+        "kleur": "Beige",
+        "kleurFamilies": [
+            "Black",
+            "Beige",
+            "Purple"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_deep_back_rib_body_1100-004437-0005_01g.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_deep_back_rib_body_1100-004437-0005197229.jpg",
+        "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/bodys/organisch-geribde-body-met-diepe-rug-beige",
+        "kleurHex": "#D5B9A5"
     },
     {
         "naam": "Body",
@@ -159,6 +159,26 @@
         "kleurHex": null
     },
     {
+        "naam": "Mesh Body",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string-bodysuit-1013-000762-0002_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string-bodysuit-1013-000762-0002_02b.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string-bodysuit-1013-000762-0002_03a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string_bodysuit_1013-000762-0002_01m.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string_bodysuit_1013-000762-0002_02m.jpg?width=640"
+        ],
+        "prijs": 33.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "White",
+            "Black"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string-bodysuit-1013-000762-0002_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string_bodysuit_1013-000762-0002_02m.jpg",
+        "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/bodys/mesh-body-zwart-2",
+        "kleurHex": null
+    },
+    {
         "naam": "Kanten Body",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_v-neck_lace_bodysuit-1013-000222-0039_01j-1.jpg?width=640",
@@ -179,26 +199,6 @@
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_v-neck_lace_bodysuit-1013-000222-0039_01j-1.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_v-neck_lace_bodysuit_1013-000222-0039_02m.jpg",
         "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/bodys/kanten-body-rood-3",
-        "kleurHex": null
-    },
-    {
-        "naam": "Mesh Body",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string-bodysuit-1013-000762-0002_01j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string-bodysuit-1013-000762-0002_02b.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string-bodysuit-1013-000762-0002_03a.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string_bodysuit_1013-000762-0002_01m.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string_bodysuit_1013-000762-0002_02m.jpg?width=640"
-        ],
-        "prijs": 33.95,
-        "kleur": "Black",
-        "kleurFamilies": [
-            "White",
-            "Black"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string-bodysuit-1013-000762-0002_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string_bodysuit_1013-000762-0002_02m.jpg",
-        "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/bodys/mesh-body-zwart-2",
         "kleurHex": null
     },
     {
@@ -232,13 +232,33 @@
         "kleur": "White",
         "kleurFamilies": [
             "White",
-            "Red",
             "Offwhite"
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0001_01a.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0001_06g.jpg",
         "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/bodys/v-string-bodysuit-met-ruwe-zoom-en-kanten-cups-wit",
         "kleurHex": null
+    },
+    {
+        "naam": "Kanten Body",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0008_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0008_02k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0008_03j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0008_04g.jpg?width=640"
+        ],
+        "prijs": 33.95,
+        "kleur": "Grey",
+        "kleurFamilies": [
+            "Black",
+            "Grey",
+            "Offwhite",
+            "Red"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0008_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0008_04g.jpg",
+        "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/bodys/kanten-body-grijs",
+        "kleurHex": "#8E877D"
     },
     {
         "naam": "Star Mesh Bodysuit",
@@ -282,47 +302,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Kanten Body",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_cut_out_lace_v-string_bodysuit-1013-000769-0002_01j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_cut_out_lace_v-string_bodysuit-1013-000769-0002_02b.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_cut_out_lace_v-string_bodysuit-1013-000769-0002_03a.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_cut_out_lace_v-string_bodysuit_1013-000769-0002_01m.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_cut_out_lace_v-string_bodysuit_1013-000769-0002_02m.jpg?width=640"
-        ],
-        "prijs": 33.95,
-        "kleur": "Black",
-        "kleurFamilies": [
-            "Black"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cut_out_lace_v-string_bodysuit-1013-000769-0002_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_cut_out_lace_v-string_bodysuit_1013-000769-0002_02m.jpg",
-        "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/bodys/kanten-body-zwart-9",
-        "kleurHex": null
-    },
-    {
-        "naam": "V-String Bodysuit Met Ruwe Zoom En Kanten Cups",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0004_01a_r.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0004_02b_r.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0004_03j_r.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0004_04k_r.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0004_05c_r.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0004_06g_r.jpg?width=640"
-        ],
-        "prijs": 33.95,
-        "kleur": "Red",
-        "kleurFamilies": [
-            "White",
-            "Red",
-            "Offwhite"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0004_01a_r.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0004_06g_r.jpg",
-        "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/bodys/v-string-bodysuit-met-ruwe-zoom-en-kanten-cups-rood",
-        "kleurHex": null
-    },
-    {
         "naam": "Cut Out Front Lace Bodysuit",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_cut_out_front_lace_bodysuit_1013-000477-0002_01a.jpg?width=640",
@@ -362,6 +341,25 @@
         "kleurHex": "#E6D4C6"
     },
     {
+        "naam": "Kanten Body",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_cut_out_lace_v-string_bodysuit-1013-000769-0002_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_cut_out_lace_v-string_bodysuit-1013-000769-0002_02b.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_cut_out_lace_v-string_bodysuit-1013-000769-0002_03a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_cut_out_lace_v-string_bodysuit_1013-000769-0002_01m.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_cut_out_lace_v-string_bodysuit_1013-000769-0002_02m.jpg?width=640"
+        ],
+        "prijs": 33.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "Black"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cut_out_lace_v-string_bodysuit-1013-000769-0002_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_cut_out_lace_v-string_bodysuit_1013-000769-0002_02m.jpg",
+        "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/bodys/kanten-body-zwart-9",
+        "kleurHex": null
+    },
+    {
         "naam": "Geribde Body Met Cupvorm En Lage Rug",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_cup_shape_ribbed_low_back_body-1013-000838-0002_01b.jpg?width=640",
@@ -399,27 +397,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_04a.jpg",
         "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/bodys/mesh-body-wit",
         "kleurHex": null
-    },
-    {
-        "naam": "Kanten Body",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0008_01j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0008_02k.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0008_03j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0008_04g.jpg?width=640"
-        ],
-        "prijs": 33.95,
-        "kleur": "Grey",
-        "kleurFamilies": [
-            "Black",
-            "Grey",
-            "Offwhite",
-            "Red"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0008_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0008_04g.jpg",
-        "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/bodys/kanten-body-grijs",
-        "kleurHex": "#8E877D"
     },
     {
         "naam": "Geribde Body Met Cupvorm En Lage Rug",
@@ -519,25 +496,6 @@
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_01a.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_06g.jpg",
         "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/bodys/lace-detail-bodysuit-zwart",
-        "kleurHex": null
-    },
-    {
-        "naam": "Dotted Mesh Lace Bodysuit",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_nakd_dotted_mesh_lace_bodysuits_1013-000455-0002_01j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_nakd_dotted_mesh_lace_bodysuits_1013-000455-0002_02k.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_nakd_dotted_mesh_lace_bodysuits_1013-000455-0002_03j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_nakd_dotted_mesh_lace_bodysuits_1013-000455-0002_04c.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_nakd_dotted_mesh_lace_bodysuits_1013-000455-0002_05g.jpg?width=640"
-        ],
-        "prijs": 38.95,
-        "kleur": "Black",
-        "kleurFamilies": [
-            "Black"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_nakd_dotted_mesh_lace_bodysuits_1013-000455-0002_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_nakd_dotted_mesh_lace_bodysuits_1013-000455-0002_05g.jpg",
-        "url": "https://www.na-kd.com/resize/nl/lingerie--nachtkleding/bodys/dotted-mesh-lace-bodysuit-zwart",
         "kleurHex": null
     }
 ]
