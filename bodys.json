@@ -189,6 +189,7 @@
         "kleur": "Dark Red",
         "kleurFamilies": [
             "Black",
+            "Red",
             "Grey",
             "Offwhite",
             "Red"
@@ -196,6 +197,43 @@
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_v-neck_lace_bodysuit-1013-000222-0039_01j-1.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_v-neck_lace_bodysuit_1013-000222-0039_02m.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-body-rood-3",
+        "kleurHex": null
+    },
+    {
+        "naam": "Mesh Body",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_03j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_02k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_04a.jpg?width=640"
+        ],
+        "prijs": 33.95,
+        "kleur": "White",
+        "kleurFamilies": [
+            "White",
+            "Black"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_03j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_04a.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/mesh-body-wit",
+        "kleurHex": null
+    },
+    {
+        "naam": "Cut Out Front Lace Bodysuit",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_cut_out_front_lace_bodysuit_1013-000477-0002_01a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_cut_out_front_lace_bodysuit_1013-000477-0002_02k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_cut_out_front_lace_bodysuit_1013-000477-0002_03j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_cut_out_front_lace_bodysuit_1013-000477-0002_04c.jpg?width=640"
+        ],
+        "prijs": 33.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "Black"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cut_out_front_lace_bodysuit_1013-000477-0002_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_cut_out_front_lace_bodysuit_1013-000477-0002_04c.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/cut-out-front-lace-bodysuit-zwart",
         "kleurHex": null
     },
     {
@@ -216,24 +254,6 @@
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_star_mesh_bodysuit_1013-000548-0002_01a.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_star_mesh_bodysuit_1013-000548-0002_06g.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/star-mesh-bodysuit-zwart",
-        "kleurHex": null
-    },
-    {
-        "naam": "Cut Out Front Lace Bodysuit",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_cut_out_front_lace_bodysuit_1013-000477-0002_01a.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_cut_out_front_lace_bodysuit_1013-000477-0002_02k.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_cut_out_front_lace_bodysuit_1013-000477-0002_03j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_cut_out_front_lace_bodysuit_1013-000477-0002_04c.jpg?width=640"
-        ],
-        "prijs": 33.95,
-        "kleur": "Black",
-        "kleurFamilies": [
-            "Black"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cut_out_front_lace_bodysuit_1013-000477-0002_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_cut_out_front_lace_bodysuit_1013-000477-0002_04c.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/cut-out-front-lace-bodysuit-zwart",
         "kleurHex": null
     },
     {
@@ -290,6 +310,7 @@
         "kleur": "Pearl",
         "kleurFamilies": [
             "Black",
+            "Red",
             "Grey",
             "Offwhite",
             "Red"
@@ -395,6 +416,7 @@
         "kleur": "Grey",
         "kleurFamilies": [
             "Black",
+            "Red",
             "Grey",
             "Offwhite",
             "Red"
@@ -403,6 +425,30 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0008_04g.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-body-grijs",
         "kleurHex": "#8E877D"
+    },
+    {
+        "naam": "Kanten Body",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0004_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0004_02k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0004_03j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0004_04k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0004_05g.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0004_06g.jpg?width=640"
+        ],
+        "prijs": 33.95,
+        "kleur": "Red",
+        "kleurFamilies": [
+            "Black",
+            "Red",
+            "Grey",
+            "Offwhite",
+            "Red"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0004_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0004_06g.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-body-rood-1",
+        "kleurHex": "#992E29"
     },
     {
         "naam": "Kanten Body",
@@ -441,25 +487,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_cup_shape_ribbed_low_back_body_1013-000838-0115_04j.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/geribde-body-met-cupvorm-en-lage-rug-roze",
         "kleurHex": "#D096A6"
-    },
-    {
-        "naam": "Mesh Body",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_03j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_02k.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_01j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_04a.jpg?width=640"
-        ],
-        "prijs": 33.95,
-        "kleur": "White",
-        "kleurFamilies": [
-            "White",
-            "Black"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_03j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_04a.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/mesh-body-wit",
-        "kleurHex": null
     },
     {
         "naam": "Lace Bodysuit",
@@ -513,6 +540,7 @@
         "kleur": "Black",
         "kleurFamilies": [
             "Black",
+            "Red",
             "Grey",
             "Offwhite",
             "Red"
