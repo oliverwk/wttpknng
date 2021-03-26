@@ -150,24 +150,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Basic Brazilian Mesh Panty",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_mesh_panty_1013-000538-5465_01j-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_mesh_panty_1013-000538-5465_02k-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_mesh_panty_1013-000538-5465_03j-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_mesh_panty_1013-000538-5465_04k-1.jpg?width=640"
-        ],
-        "prijs": 8.95,
-        "kleur": "Coconut White",
-        "kleurFamilies": [
-            "White"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_mesh_panty_1013-000538-5465_01j-1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_mesh_panty_1013-000538-5465_04k-1.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/basic-brazilian-mesh-panty-wit",
-        "kleurHex": null
-    },
-    {
         "naam": "Lace Basic Thong",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_lace_basic_thong_1013-000544-0001_01j.jpg?width=640",
@@ -183,6 +165,24 @@
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_basic_thong_1013-000544-0001_01j.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_basic_thong_1013-000544-0001_04k.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/lace-basic-thong-wit",
+        "kleurHex": null
+    },
+    {
+        "naam": "Basic Brazilian Mesh Panty",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_mesh_panty_1013-000538-5465_01j-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_mesh_panty_1013-000538-5465_02k-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_mesh_panty_1013-000538-5465_03j-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_mesh_panty_1013-000538-5465_04k-1.jpg?width=640"
+        ],
+        "prijs": 8.95,
+        "kleur": "Coconut White",
+        "kleurFamilies": [
+            "White"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_mesh_panty_1013-000538-5465_01j-1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_mesh_panty_1013-000538-5465_04k-1.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/basic-brazilian-mesh-panty-wit",
         "kleurHex": null
     },
     {
@@ -275,6 +275,7 @@
         "prijs": 9.95,
         "kleur": "Black",
         "kleurFamilies": [
+            "White",
             "Black"
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_flower_structured_v-string_1013-000689-0002_04k.jpg",
@@ -300,6 +301,25 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/lace_romance_v_string_1013-000722-0002_04b.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-slip-zwart-8",
         "kleurHex": null
+    },
+    {
+        "naam": "Kanten Slip",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/lace_romance_v_string_1013-000722-0569_01a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/lace_romance_v_string_1013-000722-0569_02k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/lace_romance_v_string_1013-000722-0569_03j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/lace_romance_v_string_1013-000722-0569_04b.jpg?width=640"
+        ],
+        "prijs": 10.95,
+        "kleur": "Peach",
+        "kleurFamilies": [
+            "Black",
+            "Pink"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/lace_romance_v_string_1013-000722-0569_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/lace_romance_v_string_1013-000722-0569_04b.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-slip-roze-7",
+        "kleurHex": "#C8A499"
     },
     {
         "naam": "Kanten String",
@@ -399,25 +419,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/elastic_lace_thong-1013-000822-0002_04j.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/string-van-elastisch-kant-zwart",
         "kleurHex": null
-    },
-    {
-        "naam": "Kanten Slip",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/lace_romance_v_string_1013-000722-0569_01a.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_romance_v_string_1013-000722-0569_02k.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_romance_v_string_1013-000722-0569_03j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_romance_v_string_1013-000722-0569_04b.jpg?width=640"
-        ],
-        "prijs": 10.95,
-        "kleur": "Peach",
-        "kleurFamilies": [
-            "Black",
-            "Pink"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/lace_romance_v_string_1013-000722-0569_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/lace_romance_v_string_1013-000722-0569_04b.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-slip-roze-7",
-        "kleurHex": "#C8A499"
     },
     {
         "naam": "Brazilian Slip",
