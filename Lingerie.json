@@ -29,6 +29,7 @@
         "prijs": 5.95,
         "kleur": "Grey Melange",
         "kleurFamilies": [
+            "Black",
             "Grey"
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_classic_cotton_thong-1013-000820-0138_01j.jpg",
@@ -72,46 +73,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_mesh_contrast_v-string_panty_1013-000574-0920_04k.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/mesh-contrast-v-string-panty-roze",
         "kleurHex": "#B67967"
-    },
-    {
-        "naam": "Shiny Lace Panty",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_shiny_lace_panty_1013-000232-0002_01c.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_shiny_lace_panty_1013-000232-0002_02h.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_shiny_lace_panty_1013-000232-0002_03i.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_shiny_lace_panty_1013-000232-0002_04k.jpg?width=640"
-        ],
-        "prijs": 5.47,
-        "kleur": "Black",
-        "kleurFamilies": [
-            "Black"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_shiny_lace_panty_1013-000232-0002_01c.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_shiny_lace_panty_1013-000232-0002_04k.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/shiny-lace-panty-zwart",
-        "kleurHex": null
-    },
-    {
-        "naam": "The Catch Me Thong",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_rebcca_stella_the_catch_me_thong_1001-100413-0002_01j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/rebecca_stella_the_catch_me_thong_1001-100413-0002_01jr.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_rebcca_stella_the_catch_me_thong_1001-100413-0002_02i.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/rebecca_stella_the_catch_me_thong_1001-100413-0002_02ir.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_rebcca_stella_the_catch_me_thong_1001-100413-0002_03h.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/rebecca_stella_rebecca_stella_the_catch_me_thong_1001-100413-0002_03i.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/rebecca_stella_rebecca_stella_the_catch_me_thong_1001-100413-0002_04k.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_rebcca_stella_the_catch_me_thong_1001-100413-0002_04k.jpg?width=640"
-        ],
-        "prijs": 5.98,
-        "kleur": "Black",
-        "kleurFamilies": [
-            "Black"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_rebcca_stella_the_catch_me_thong_1001-100413-0002_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_rebcca_stella_the_catch_me_thong_1001-100413-0002_04k.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/the-catch-me-thong-zwart-1",
-        "kleurHex": null
     },
     {
         "naam": "Klassiek Katoenen Slip",
@@ -188,6 +149,26 @@
         "kleurHex": "#DFCCBD"
     },
     {
+        "naam": "Kanten Slip",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_edge_hipster_1013-000508-0002_01j-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_edge_hipster_1013-000508-0002_02i-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_edge_hipster_1013-000508-0002_03h-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_edge_hipster_1013-000508-0002_04k-1.jpg?width=640"
+        ],
+        "prijs": 8.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "White",
+            "Black",
+            "Green"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_edge_hipster_1013-000508-0002_01j-1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_edge_hipster_1013-000508-0002_04k-1.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-slip-zwart-2",
+        "kleurHex": null
+    },
+    {
         "naam": "Lace Basic Thong",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_lace_basic_thong_1013-000544-0001_01j.jpg?width=640",
@@ -222,26 +203,6 @@
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_mesh_panty_1013-000538-5465_01j-1.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_mesh_panty_1013-000538-5465_04k-1.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/basic-brazilian-mesh-panty-wit",
-        "kleurHex": null
-    },
-    {
-        "naam": "Kanten Slip",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_edge_hipster_1013-000508-0002_01j-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_edge_hipster_1013-000508-0002_02i-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_edge_hipster_1013-000508-0002_03h-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_edge_hipster_1013-000508-0002_04k-1.jpg?width=640"
-        ],
-        "prijs": 8.95,
-        "kleur": "Black",
-        "kleurFamilies": [
-            "White",
-            "Black",
-            "Green"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_edge_hipster_1013-000508-0002_01j-1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_edge_hipster_1013-000508-0002_04k-1.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-slip-zwart-2",
         "kleurHex": null
     },
     {
@@ -328,27 +289,6 @@
     {
         "naam": "Geribd Katoenen String",
         "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0001_01j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0001_02i.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0001_03h.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0001_04k.jpg?width=640"
-        ],
-        "prijs": 9.95,
-        "kleur": "White",
-        "kleurFamilies": [
-            "White",
-            "Black",
-            "Grey",
-            "Brown"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0001_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0001_04k.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/geribd-katoenen-string-wit",
-        "kleurHex": null
-    },
-    {
-        "naam": "Geribd Katoenen String",
-        "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0138_01j.jpg?width=640",
             "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0138_02i.jpg?width=640",
             "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0138_03h.jpg?width=640",
@@ -366,6 +306,27 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0138_05k.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/geribd-katoenen-string-grijs",
         "kleurHex": "#9F9C97"
+    },
+    {
+        "naam": "Geribd Katoenen String",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0001_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0001_02i.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0001_03h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0001_04k.jpg?width=640"
+        ],
+        "prijs": 9.95,
+        "kleur": "White",
+        "kleurFamilies": [
+            "White",
+            "Black",
+            "Grey",
+            "Brown"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0001_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0001_04k.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/geribd-katoenen-string-wit",
+        "kleurHex": null
     },
     {
         "naam": "Scalloped Lace High Waist Panty",
@@ -443,45 +404,25 @@
         "kleurHex": "#C8A499"
     },
     {
-        "naam": "Geribd Katoenen Slip",
+        "naam": "Amazing Triangelbroekje",
         "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/ribbed_cotton_brief_1013-000815-0002_01j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/ribbed_cotton_brief_1013-000815-0002_02i.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/ribbed_cotton_brief_1013-000815-0002_03h.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/ribbed_cotton_brief_1013-000815-0002_04k.jpg?width=640"
+            "https://www.na-kd.com/resize/globalassets/amazing_triangle_panty_1013-000796-0002_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/amazing_triangle_panty_1013-000796-0002_02i.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/amazing_triangle_panty_1013-000796-0002_03h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/amazing_triangle_panty_1013-000796-0002_04k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/amazing_triangle_panty_1013-000796-0002_05g.jpg?width=640"
         ],
         "prijs": 10.95,
         "kleur": "Black",
         "kleurFamilies": [
             "White",
             "Black",
-            "Grey",
-            "Brown"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/ribbed_cotton_brief_1013-000815-0002_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/ribbed_cotton_brief_1013-000815-0002_04k.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/geribd-katoenen-slip-zwart",
-        "kleurHex": null
-    },
-    {
-        "naam": "Amazing Triangelbroekje",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/amazing_triangle_panty_1013-000796-0261_01j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/amazing_triangle_panty_1013-000796-0261_02i.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/amazing_triangle_panty_1013-000796-0261_03h.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/amazing_triangle_panty_1013-000796-0261_04k.jpg?width=640"
-        ],
-        "prijs": 10.95,
-        "kleur": "Orange",
-        "kleurFamilies": [
-            "White",
-            "Black",
             "Orange"
         ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/amazing_triangle_panty_1013-000796-0261_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/amazing_triangle_panty_1013-000796-0261_04k.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/amazing-triangelbroekje-oranje",
-        "kleurHex": "#BA7E3E"
+        "img_url": "https://www.na-kd.com/resize/globalassets/amazing_triangle_panty_1013-000796-0002_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/amazing_triangle_panty_1013-000796-0002_05g.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/amazing-triangelbroekje-zwart",
+        "kleurHex": null
     },
     {
         "naam": "Kanten String",
@@ -639,6 +580,27 @@
         "kleurHex": null
     },
     {
+        "naam": "Geribd Katoenen Slip",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/ribbed_cottonbrief_1013-000815-0198_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/ribbed_cottonbrief_1013-000815-0198_02i.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/ribbed_cottonbrief_1013-000815-0198_03h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/ribbed_cottonbrief_1013-000815-0198_04k.jpg?width=640"
+        ],
+        "prijs": 10.95,
+        "kleur": "Terracotta",
+        "kleurFamilies": [
+            "White",
+            "Black",
+            "Grey",
+            "Brown"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/ribbed_cottonbrief_1013-000815-0198_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/ribbed_cottonbrief_1013-000815-0198_04k.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/geribd-katoenen-slip-bruin",
+        "kleurHex": "#B1755D"
+    },
+    {
         "naam": "Hoog Uitgesneden Slip Met Satijnen Randje",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_satin_edge_highcut_panty_1013-000736-0179_01j.jpg?width=640",
@@ -656,6 +618,47 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_satin_edge_highcut_panty_1013-000736-0179_04k.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/hoog-uitgesneden-slip-met-satijnen-randje-oranje",
         "kleurHex": "#9C4426"
+    },
+    {
+        "naam": "Geribd Katoenen Slip",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/ribbed_cotton_brief_1013-000815-0002_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/ribbed_cotton_brief_1013-000815-0002_02i.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/ribbed_cotton_brief_1013-000815-0002_03h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/ribbed_cotton_brief_1013-000815-0002_04k.jpg?width=640"
+        ],
+        "prijs": 10.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "White",
+            "Black",
+            "Grey",
+            "Brown"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/ribbed_cotton_brief_1013-000815-0002_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/ribbed_cotton_brief_1013-000815-0002_04k.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/geribd-katoenen-slip-zwart",
+        "kleurHex": null
+    },
+    {
+        "naam": "Amazing Triangelbroekje",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/amazing_triangle_panty_1013-000796-0261_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/amazing_triangle_panty_1013-000796-0261_02i.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/amazing_triangle_panty_1013-000796-0261_03h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/amazing_triangle_panty_1013-000796-0261_04k.jpg?width=640"
+        ],
+        "prijs": 10.95,
+        "kleur": "Orange",
+        "kleurFamilies": [
+            "White",
+            "Black",
+            "Orange"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/amazing_triangle_panty_1013-000796-0261_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/amazing_triangle_panty_1013-000796-0261_04k.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/amazing-triangelbroekje-oranje",
+        "kleurHex": "#BA7E3E"
     },
     {
         "naam": "V-String",
