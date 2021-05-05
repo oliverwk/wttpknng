@@ -16,6 +16,14 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_flower_structured_bra_1013-000669-0001_01a.jpg"
     },
     {
+        "prijs": "8.78",
+        "kleur": "Black",
+        "naam": "Wave Lace Bra",
+        "url": "https://www.na-kd.com/nl/zoek-producten/wave-lace-bra-zwart",
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_wave_lace_bra_1013-000340-0002_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_wave_lace_bra_1013-000340-0002_01a.jpg"
+    },
+    {
         "prijs": "9.97",
         "kleur": "White",
         "naam": "Kanten Bralette",
@@ -177,14 +185,6 @@
     },
     {
         "prijs": "14.95",
-        "kleur": "Dark Red",
-        "naam": "Basic Gebloemde Kanten Bh",
-        "url": "https://www.na-kd.com/nl/zoek-producten/basic-gebloemde-kanten-bh-rood",
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_basic_floral_lace_bra_1013-000272-0039_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_basic_floral_lace_bra_1013-000272-0039_01j.jpg"
-    },
-    {
-        "prijs": "14.95",
         "kleur": "Pearl",
         "naam": "Bandeau-Microtop",
         "url": "https://www.na-kd.com/nl/zoek-producten/bandeau-microtop-beige",
@@ -248,14 +248,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_front_bow_thin_strap_bra_1013-000650-0719_01a.jpg"
     },
     {
-        "prijs": "14.95",
-        "kleur": "Black",
-        "naam": "Bh Met Bandjes En Kant Aan De Voorkant",
-        "url": "https://www.na-kd.com/nl/zoek-producten/bh-met-bandjes-en-kant-aan-de-voorkant-zwart-1",
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_front_bow_thin_strap_bra_1013-000650-0002_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_front_bow_thin_strap_bra_1013-000650-0002_01a.jpg"
-    },
-    {
         "prijs": "16.95",
         "kleur": "Black",
         "naam": "Geribd Katoenen Triangeltop",
@@ -286,5 +278,13 @@
         "url": "https://www.na-kd.com/nl/zoek-producten/paisley-lace-bra-wit",
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_paisley_lace_bra_white_1013-000398-0001_01a.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_paisley_lace_bra_white_1013-000398-0001_01a.jpg"
+    },
+    {
+        "prijs": "16.95",
+        "kleur": "White",
+        "naam": "Geribd Katoenen Triangeltop",
+        "url": "https://www.na-kd.com/nl/zoek-producten/geribd-katoenen-triangeltop-wit",
+        "img_url": "https://www.na-kd.com/resize/globalassets/ribbed_cotton_triangle_top_1013-000817-0001_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/ribbed_cotton_triangle_top_1013-000817-0001_01a.jpg"
     }
 ]
