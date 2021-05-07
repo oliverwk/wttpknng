@@ -169,14 +169,6 @@
     },
     {
         "prijs": "14.95",
-        "kleur": "Terracotta",
-        "naam": "Geribd Katoenen Top",
-        "url": "https://www.na-kd.com/nl/zoek-producten/geribd-katoenen-top-roze",
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0198_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0198_01a.jpg"
-    },
-    {
-        "prijs": "14.95",
         "kleur": "Faded Denim",
         "naam": "Basic Gebloemde Kanten Bh",
         "url": "https://www.na-kd.com/nl/zoek-producten/basic-gebloemde-kanten-bh-blauw",
@@ -190,6 +182,14 @@
         "url": "https://www.na-kd.com/nl/zoek-producten/basic-gebloemde-kanten-bh-rood",
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_basic_floral_lace_bra_1013-000272-0039_01j.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_basic_floral_lace_bra_1013-000272-0039_01j.jpg"
+    },
+    {
+        "prijs": "14.95",
+        "kleur": "Terracotta",
+        "naam": "Geribd Katoenen Top",
+        "url": "https://www.na-kd.com/nl/zoek-producten/geribd-katoenen-top-roze",
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0198_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0198_01a.jpg"
     },
     {
         "prijs": "14.95",
@@ -281,10 +281,10 @@
     },
     {
         "prijs": "16.95",
-        "kleur": "Black",
-        "naam": "Paisley Lace Bra",
-        "url": "https://www.na-kd.com/nl/zoek-producten/paisley-lace-bra-zwart",
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_paisley_lace_bra_1013-000398-0002_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_paisley_lace_bra_1013-000398-0002_01a.jpg"
+        "kleur": "White",
+        "naam": "Geribd Katoenen Triangeltop",
+        "url": "https://www.na-kd.com/nl/zoek-producten/geribd-katoenen-triangeltop-wit",
+        "img_url": "https://www.na-kd.com/resize/globalassets/ribbed_cotton_triangle_top_1013-000817-0001_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/ribbed_cotton_triangle_top_1013-000817-0001_01a.jpg"
     }
 ]
