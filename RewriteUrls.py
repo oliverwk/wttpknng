@@ -186,4 +186,3 @@ def ReplaceAndWrite(fileName):
 
 ReplaceAndWrite("bodys.json")
 ReplaceAndWrite("bras.json")
-ReplaceAndWrite("SwimWear.json")
