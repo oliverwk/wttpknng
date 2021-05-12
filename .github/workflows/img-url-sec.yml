@@ -4,8 +4,10 @@
 name: Sec image url Checker
 
 on:
-  push:
-    branches: [ master ]
+  schedule:
+    - cron: "5 7 * * *"
+#  push:
+#    branches: [ master ]
 
 jobs:
   build:
@@ -33,4 +35,4 @@ jobs:
         author-email: "30601311+oliverwk@users.noreply.github.com"
         create-commit: true
         commit-message: "Edited the json for errors in the sec_url"
-        force: true
+        force: false
