@@ -214,32 +214,11 @@
         "kleur": "Coconut White",
         "kleurFamilies": [
             "Black",
-            "Pink",
             "White"
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_mesh_panty_1013-000538-5465_01j-1.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_mesh_panty_1013-000538-5465_04k-1.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/basic-brazilian-mesh-panty-wit",
-        "kleurHex": null
-    },
-    {
-        "naam": "Basic Brazilian Mesh Panty",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_mesh_panty_1013-000538-1420_01j-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_mesh_panty_1013-000538-1420_02k-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_mesh_panty_1013-000538-1420_03j-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_mesh_panty_1013-000538-1420_04k-1.jpg?width=640"
-        ],
-        "prijs": 8.95,
-        "kleur": "Pink Umber",
-        "kleurFamilies": [
-            "Black",
-            "Pink",
-            "White"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_mesh_panty_1013-000538-1420_01j-1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_mesh_panty_1013-000538-1420_04k-1.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/basic-brazilian-mesh-panty-roze",
         "kleurHex": null
     },
     {
@@ -254,7 +233,6 @@
         "kleur": "Black",
         "kleurFamilies": [
             "Black",
-            "Pink",
             "White"
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_mesh_panty_1013-000538-0002_01j.jpg",
@@ -693,5 +671,24 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_all_over_dot_mesh_v-tring_1013-000616-0765_04k.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/gestippelde-v-string-bruin",
         "kleurHex": "#4D2F2D"
+    },
+    {
+        "naam": "V-String Met Kant En Ruches",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_flounce_edge_v-string_1013-000663-0001_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_flounce_edge_v-string_1013-000663-0001_02i.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_flounce_edge_v-string_1013-000663-0001_03h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_flounce_edge_v-string_1013-000663-0001_04k.jpg?width=640"
+        ],
+        "prijs": 10.95,
+        "kleur": "White",
+        "kleurFamilies": [
+            "White",
+            "Black"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_flounce_edge_v-string_1013-000663-0001_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_flounce_edge_v-string_1013-000663-0001_04k.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/v-string-met-kant-en-ruches-wit",
+        "kleurHex": null
     }
 ]
