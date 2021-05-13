@@ -17,6 +17,26 @@
         "kleurHex": null
     },
     {
+        "naam": "Geribde Laag Uitgesneden Body",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_low_cut_rib_body-1100-004975-0002_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_low_cut_rib_body-1100-004975-0002_02b.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_low_cut_rib_body-1100-004975-0002_03c.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_low_cut_rib_body-1100-004975-0002_04j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_low_cut_rib_body-1100-004975-0002_05g.jpg?width=640"
+        ],
+        "prijs": 21.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "Black",
+            "Red"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_low_cut_rib_body-1100-004975-0002_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_low_cut_rib_body-1100-004975-0002_05g.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/geribde-laag-uitgesneden-body-zwart",
+        "kleurHex": null
+    },
+    {
         "naam": "Body",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/matiamubysofia_strap_jersey_body_1690-000019-0002_02j.jpg?width=640",
@@ -35,26 +55,6 @@
         "img_url": "https://www.na-kd.com/resize/globalassets/matiamubysofia_strap_jersey_body_1690-000019-0002_02j.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/matiamubysofia_strap_jersey_body_1690-000019-0002_06g.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/body-zwart-13",
-        "kleurHex": null
-    },
-    {
-        "naam": "Geribde Laag Uitgesneden Body",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_low_cut_rib_body-1100-004975-0002_01j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_low_cut_rib_body-1100-004975-0002_02b.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_low_cut_rib_body-1100-004975-0002_03c.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_low_cut_rib_body-1100-004975-0002_04j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_low_cut_rib_body-1100-004975-0002_05g.jpg?width=640"
-        ],
-        "prijs": 21.95,
-        "kleur": "Black",
-        "kleurFamilies": [
-            "Black",
-            "Red"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_low_cut_rib_body-1100-004975-0002_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_low_cut_rib_body-1100-004975-0002_05g.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/geribde-laag-uitgesneden-body-zwart",
         "kleurHex": null
     },
     {
@@ -351,6 +351,7 @@
         "prijs": 33.95,
         "kleur": "Pearl",
         "kleurFamilies": [
+            "Black",
             "Grey",
             "Offwhite",
             "Red"
@@ -429,6 +430,7 @@
         "prijs": 33.95,
         "kleur": "Grey",
         "kleurFamilies": [
+            "Black",
             "Grey",
             "Offwhite",
             "Red"
