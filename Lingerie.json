@@ -10,7 +10,6 @@
         "prijs": 5.95,
         "kleur": "Grey Melange",
         "kleurFamilies": [
-            "Black",
             "Grey"
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_classic_cotton_thong-1013-000820-0138_01j.jpg",
@@ -275,6 +274,28 @@
     {
         "naam": "Geribd Katoenen String",
         "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0198_01j_r.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0198_02i_r.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0198_03h_r.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0198_04k_r.jpg?width=640"
+        ],
+        "prijs": 9.95,
+        "kleur": "Terracotta",
+        "kleurFamilies": [
+            "White",
+            "Black",
+            "Grey",
+            "Brown"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0198_01j_r.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0198_04k_r.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/geribd-katoenen-string-bruin",
+        "id": "1-1013-000816-0198-004",
+        "kleurHex": "#8C5342"
+    },
+    {
+        "naam": "Geribd Katoenen String",
+        "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0001_01j_r.jpg?width=640",
             "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0001_02i_r.jpg?width=640",
             "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0001_03h-1.jpg?width=640",
@@ -293,6 +314,28 @@
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/geribd-katoenen-string-wit",
         "id": "1-1013-000816-0001-004",
         "kleurHex": null
+    },
+    {
+        "naam": "Geribd Katoenen String",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0138_01j_r.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0138_02i_r.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0138_03h_r.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0138_04k_r.jpg?width=640"
+        ],
+        "prijs": 9.95,
+        "kleur": "Grey Melange",
+        "kleurFamilies": [
+            "White",
+            "Black",
+            "Grey",
+            "Brown"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0138_01j_r.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0138_04k_r.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/geribd-katoenen-string-grijs",
+        "id": "1-1013-000816-0138-004",
+        "kleurHex": "#9F9C97"
     },
     {
         "naam": "Geribd Katoenen String",
@@ -317,28 +360,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Geribd Katoenen String",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0198_01j_r.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0198_02i_r.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0198_03h_r.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0198_04k_r.jpg?width=640"
-        ],
-        "prijs": 9.95,
-        "kleur": "Terracotta",
-        "kleurFamilies": [
-            "White",
-            "Black",
-            "Grey",
-            "Brown"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0198_01j_r.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0198_04k_r.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/geribd-katoenen-string-bruin",
-        "id": "1-1013-000816-0198-004",
-        "kleurHex": "#8C5342"
-    },
-    {
         "naam": "Highwaist Uitgesneden Geribde String",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_highwaist_cut_out_ribbed_thong-1013-000832-0002_01j.jpg?width=640",
@@ -357,28 +378,6 @@
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/highwaist-uitgesneden-geribde-string-zwart",
         "id": "1-1013-000832-0002-004",
         "kleurHex": null
-    },
-    {
-        "naam": "Geribd Katoenen String",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0138_01j_r.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0138_02i_r.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0138_03h_r.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0138_04k_r.jpg?width=640"
-        ],
-        "prijs": 9.95,
-        "kleur": "Grey Melange",
-        "kleurFamilies": [
-            "White",
-            "Black",
-            "Grey",
-            "Brown"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0138_01j_r.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0138_04k_r.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/geribd-katoenen-string-grijs",
-        "id": "1-1013-000816-0138-004",
-        "kleurHex": "#9F9C97"
     },
     {
         "naam": "Scalloped Lace High Waist Panty",
@@ -691,23 +690,24 @@
         "kleurHex": "#EAD6C3"
     },
     {
-        "naam": "Mesh String",
+        "naam": "V-String",
         "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_sporty_mesh_thong_1013-000703-0002_01j-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_sporty_mesh_thong_1013-000703-0002_02i.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_sporty_mesh_thong_1013-000703-0002_03h.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_sporty_mesh_thong_1013-000703-0002_04k.jpg?width=640"
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0005_01j-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0005_02i-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0005_02h-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0005_04k-1.jpg?width=640"
         ],
         "prijs": 10.95,
-        "kleur": "Black",
+        "kleur": "Beige",
         "kleurFamilies": [
-            "Black"
+            "Yellow",
+            "Brown"
         ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_sporty_mesh_thong_1013-000703-0002_01j-1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_sporty_mesh_thong_1013-000703-0002_04k.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/mesh-string-zwart",
-        "id": "1-1013-000703-0002-004",
-        "kleurHex": null
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0005_01j-1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0005_04k-1.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/v-string-geel",
+        "id": "1-1013-000782-0005-004",
+        "kleurHex": "#D8C7A9"
     },
     {
         "naam": "Hoog Uitgesneden Slip Met Satijnen Randje",
