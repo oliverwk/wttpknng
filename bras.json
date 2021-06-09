@@ -1,19 +1,6 @@
 [
     {
         "prijs": 3.28,
-        "id": "1-1000-100121-7788",
-        "kleur": "Yellow With Flower Print",
-        "naam": "Bikini Panty",
-        "url": "https://www.na-kd.com/nl/zoek-producten/bikini-panty-geel-4",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_bikini_panty_1000-100121-7788_1_.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_bikini_panty_1000-100121-7788_1_.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_bikini_panty_1000-100121-7788_1_.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_bikini_panty_1000-100121-7788_1_.jpg"
-    },
-    {
-        "prijs": 3.28,
         "id": "1-1000-100121-8575",
         "kleur": "Brown Check",
         "naam": "Bikini Panty",
@@ -24,6 +11,19 @@
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_bikini_panty_1000-100121-8575_01j.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_bikini_panty_1000-100121-8575_01j.jpg"
+    },
+    {
+        "prijs": 3.28,
+        "id": "1-1000-100121-7788",
+        "kleur": "Yellow With Flower Print",
+        "naam": "Bikini Panty",
+        "url": "https://www.na-kd.com/nl/zoek-producten/bikini-panty-geel-4",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_bikini_panty_1000-100121-7788_1_.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_bikini_panty_1000-100121-7788_1_.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_bikini_panty_1000-100121-7788_1_.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_bikini_panty_1000-100121-7788_1_.jpg"
     },
     {
         "prijs": 4.48,
@@ -92,6 +92,32 @@
     },
     {
         "prijs": 5.47,
+        "id": "1-1000-100602-5492",
+        "kleur": "Deep Purple",
+        "naam": "Hoog Uitgesneden Bikinibroekje",
+        "url": "https://www.na-kd.com/nl/zoek-producten/hoog-uitgesneden-bikinibroekje-paars-4",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_bikini_panty_1000-100602-5492_01j.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_bikini_panty_1000-100602-5492_01j.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_bikini_panty_1000-100602-5492_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_bikini_panty_1000-100602-5492_01j.jpg"
+    },
+    {
+        "prijs": 5.47,
+        "id": "1-1000-100602-0015",
+        "kleur": "Pink",
+        "naam": "Hoog Uitgesneden Bikinibroekje",
+        "url": "https://www.na-kd.com/nl/zoek-producten/hoog-uitgesneden-bikinibroekje-roze-3",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_bikini_panty_1000-100602-0015_01j.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_bikini_panty_1000-100602-0015_01j.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_bikini_panty_1000-100602-0015_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_bikini_panty_1000-100602-0015_01j.jpg"
+    },
+    {
+        "prijs": 5.47,
         "id": "1-1000-100121-0555",
         "kleur": "Dusty Coral",
         "naam": "Bikini Panty",
@@ -102,6 +128,19 @@
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_bikini_panty_1000-100121-0555_01j_r.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_bikini_panty_1000-100121-0555_01j_r.jpg"
+    },
+    {
+        "prijs": 5.98,
+        "id": "1-1000-100512-0260",
+        "kleur": "Offwhite",
+        "naam": "Gedraaide Bikini Hooguitgesneden Bikinibroekje",
+        "url": "https://www.na-kd.com/nl/zoek-producten/gedraaide-bikini-hooguitgesneden-bikinibroekje-gebroken-wit",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_twisted_bikini_highcut_bikini_panty_1000-100512-0260_01j.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_twisted_bikini_highcut_bikini_panty_1000-100512-0260_01j.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_twisted_bikini_highcut_bikini_panty_1000-100512-0260_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_twisted_bikini_highcut_bikini_panty_1000-100512-0260_01j.jpg"
     },
     {
         "prijs": 6.26,
@@ -157,19 +196,6 @@
     },
     {
         "prijs": 6.57,
-        "id": "1-1000-100602-0015",
-        "kleur": "Pink",
-        "naam": "Hoog Uitgesneden Bikinibroekje",
-        "url": "https://www.na-kd.com/nl/zoek-producten/hoog-uitgesneden-bikinibroekje-roze-3",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_bikini_panty_1000-100602-0015_01j.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_bikini_panty_1000-100602-0015_01j.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_bikini_panty_1000-100602-0015_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_bikini_panty_1000-100602-0015_01j.jpg"
-    },
-    {
-        "prijs": 6.57,
         "id": "1-1494-002910-0061",
         "kleur": "Multicolor",
         "naam": "Dotted Bikini Bottom",
@@ -183,19 +209,6 @@
     },
     {
         "prijs": 7.47,
-        "id": "1-1000-100429-1045",
-        "kleur": "Leo",
-        "naam": "Bikinibroekje In V-Vorm",
-        "url": "https://www.na-kd.com/nl/zoek-producten/bikinibroekje-in-v-vorm-veelkleurig",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_v_shape_front_bikini_bottom_1000-100429-1045_01j.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_v_shape_front_bikini_bottom_1000-100429-1045_01j.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_v_shape_front_bikini_bottom_1000-100429-1045_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_v_shape_front_bikini_bottom_1000-100429-1045_01j.jpg"
-    },
-    {
-        "prijs": 7.47,
         "id": "1-1000-100369-8707",
         "kleur": "Soft Floral Pattern",
         "naam": "Maxi Highwaist Bikini Panty",
@@ -206,6 +219,19 @@
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_maxi_high_waist_bikini_panty_1000-100369-8707_01j.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_maxi_high_waist_bikini_panty_1000-100369-8707_01j.jpg"
+    },
+    {
+        "prijs": 7.47,
+        "id": "1-1000-100429-1045",
+        "kleur": "Leo",
+        "naam": "Bikinibroekje In V-Vorm",
+        "url": "https://www.na-kd.com/nl/zoek-producten/bikinibroekje-in-v-vorm-veelkleurig",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_v_shape_front_bikini_bottom_1000-100429-1045_01j.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_v_shape_front_bikini_bottom_1000-100429-1045_01j.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_v_shape_front_bikini_bottom_1000-100429-1045_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_v_shape_front_bikini_bottom_1000-100429-1045_01j.jpg"
     },
     {
         "prijs": 7.47,
@@ -234,17 +260,17 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_maxi_high_waist_bikini_panty_1000-100369-1045_01j_-1.jpg"
     },
     {
-        "prijs": 7.47,
-        "id": "1-1000-100512-0260",
+        "prijs": 14.95,
+        "id": "1-1000-100415-0260",
         "kleur": "Offwhite",
-        "naam": "Gedraaide Bikini Hooguitgesneden Bikinibroekje",
-        "url": "https://www.na-kd.com/nl/zoek-producten/gedraaide-bikini-hooguitgesneden-bikinibroekje-gebroken-wit",
+        "naam": "Structured High Waist Bikini Panty",
+        "url": "https://www.na-kd.com/nl/zoek-producten/structured-high-waist-bikini-panty-wit",
         "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_twisted_bikini_highcut_bikini_panty_1000-100512-0260_01j.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_twisted_bikini_highcut_bikini_panty_1000-100512-0260_01j.jpg"
+            "https://www.na-kd.com/resize/globalassets/nakd_structured_high_waist_bikini_panty_1000-100415-0260_01j.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_structured_high_waist_bikini_panty_1000-100415-0260_01j.jpg"
         ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_twisted_bikini_highcut_bikini_panty_1000-100512-0260_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_twisted_bikini_highcut_bikini_panty_1000-100512-0260_01j.jpg"
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_structured_high_waist_bikini_panty_1000-100415-0260_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_structured_high_waist_bikini_panty_1000-100415-0260_01j.jpg"
     },
     {
         "prijs": 7.47,
@@ -258,6 +284,19 @@
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_v-shape_bikini_bottom_1000-100623-0212_01j.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_v-shape_bikini_bottom_1000-100623-0212_01j.jpg"
+    },
+    {
+        "prijs": 7.47,
+        "id": "1-1000-100208-0555",
+        "kleur": "Dusty Coral",
+        "naam": "Sporty Bikini Briefs",
+        "url": "https://www.na-kd.com/nl/zoek-producten/sporty-bikini-briefs-oranje",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_sporty_bikini_briefs_1000-100208-0555_01j_r.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_sporty_bikini_briefs_1000-100208-0555_01j_r.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_sporty_bikini_briefs_1000-100208-0555_01j_r.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_sporty_bikini_briefs_1000-100208-0555_01j_r.jpg"
     },
     {
         "prijs": 7.47,
@@ -297,19 +336,6 @@
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_twisted_bikini_highcut_bikini_panty_1000-100512-0118_01j.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_twisted_bikini_highcut_bikini_panty_1000-100512-0118_01j.jpg"
-    },
-    {
-        "prijs": 7.47,
-        "id": "1-1000-100208-0555",
-        "kleur": "Dusty Coral",
-        "naam": "Sporty Bikini Briefs",
-        "url": "https://www.na-kd.com/nl/zoek-producten/sporty-bikini-briefs-oranje",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_sporty_bikini_briefs_1000-100208-0555_01j_r.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_sporty_bikini_briefs_1000-100208-0555_01j_r.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_sporty_bikini_briefs_1000-100208-0555_01j_r.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_sporty_bikini_briefs_1000-100208-0555_01j_r.jpg"
     },
     {
         "prijs": 7.47,
@@ -375,32 +401,6 @@
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_bikini_panty_1000-100121-0798_01j_r.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_bikini_panty_1000-100121-0798_01j_r.jpg"
-    },
-    {
-        "prijs": 7.66,
-        "id": "1-1000-100254-8235",
-        "kleur": "Orange Flamingo",
-        "naam": "Hoog Uitgesneden Bikinibroekje",
-        "url": "https://www.na-kd.com/nl/zoek-producten/hoog-uitgesneden-bikinibroekje-oranje-3",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_bikini_panty_1000-100254-8235_01j-1.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_bikini_panty_1000-100254-8235_01j-1.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_bikini_panty_1000-100254-8235_01j-1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_bikini_panty_1000-100254-8235_01j-1.jpg"
-    },
-    {
-        "prijs": 8.21,
-        "id": "1-1000-100602-5492",
-        "kleur": "Deep Purple",
-        "naam": "Hoog Uitgesneden Bikinibroekje",
-        "url": "https://www.na-kd.com/nl/zoek-producten/hoog-uitgesneden-bikinibroekje-paars-4",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_bikini_panty_1000-100602-5492_01j.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_bikini_panty_1000-100602-5492_01j.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_bikini_panty_1000-100602-5492_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_bikini_panty_1000-100602-5492_01j.jpg"
     },
     {
         "prijs": 8.47,
