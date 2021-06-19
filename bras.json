@@ -91,6 +91,19 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_triangle_satin_edge_bra_1013-000770-8909_01a-1.jpg"
     },
     {
+        "prijs": 10.46,
+        "id": "1-1013-000835-0140",
+        "kleur": "Light Beige",
+        "naam": "Geribde Top Met Smalle Bandjes",
+        "url": "https://www.na-kd.com/nl/zoek-producten/geribde-top-met-smalle-bandjes-gebroken-wit",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/210121-valentines-day_1013-000835-0140_01s.jpg",
+            "https://www.na-kd.com/resize/globalassets/210121-valentines-day_1013-000835-0140_01s.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/210121-valentines-day_1013-000835-0140_01s.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/210121-valentines-day_1013-000835-0140_01s.jpg"
+    },
+    {
         "prijs": 10.95,
         "id": "1-1013-000138-0002",
         "kleur": "Black",
@@ -183,6 +196,19 @@
     },
     {
         "prijs": 11.86,
+        "id": "1-1013-000833-0002",
+        "kleur": "Black",
+        "naam": "Geribde Brede Triangeltop",
+        "url": "https://www.na-kd.com/nl/zoek-producten/geribde-brede-triangeltop-zwart",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_triangle_wide_top-1013-000833-0002_01a.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_triangle_wide_top-1013-000833-0002_01a.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_triangle_wide_top-1013-000833-0002_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_triangle_wide_top-1013-000833-0002_01a.jpg"
+    },
+    {
+        "prijs": 11.86,
         "id": "1-1013-000669-0719",
         "kleur": "Pearl",
         "naam": "Kanten Bh Met Bloemenstructuur",
@@ -271,32 +297,6 @@
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_strap_bra_1013-000001-0001_01a_r1-1.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_strap_bra_1013-000001-0001_01a_r1-1.jpg"
-    },
-    {
-        "prijs": 13.96,
-        "id": "1-1013-000681-0689",
-        "kleur": "Flower Print",
-        "naam": "Ongevoerde Micro-Triangel-Bh",
-        "url": "https://www.na-kd.com/nl/zoek-producten/ongevoerde-micro-triangel-bh-veelkleurig",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_micro_lace_edge_bra-1013-000681-0689_01a.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_micro_lace_edge_bra-1013-000681-0689_01a.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_micro_lace_edge_bra-1013-000681-0689_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_micro_lace_edge_bra-1013-000681-0689_01a.jpg"
-    },
-    {
-        "prijs": 13.96,
-        "id": "1-1013-000628-0004",
-        "kleur": "Red",
-        "naam": "Kanten Bandeau-Bh",
-        "url": "https://www.na-kd.com/nl/zoek-producten/kanten-bandeau-bh-rood",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_bandeau_strap_bra_1013-000628-0004_01a.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_bandeau_strap_bra_1013-000628-0004_01a.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_bandeau_strap_bra_1013-000628-0004_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_bandeau_strap_bra_1013-000628-0004_01a.jpg"
     },
     {
         "prijs": 14.95,
@@ -404,19 +404,6 @@
     },
     {
         "prijs": 14.95,
-        "id": "1-1013-000835-0140",
-        "kleur": "Light Beige",
-        "naam": "Geribde Top Met Smalle Bandjes",
-        "url": "https://www.na-kd.com/nl/zoek-producten/geribde-top-met-smalle-bandjes-gebroken-wit",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/210121-valentines-day_1013-000835-0140_01s.jpg",
-            "https://www.na-kd.com/resize/globalassets/210121-valentines-day_1013-000835-0140_01s.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/210121-valentines-day_1013-000835-0140_01s.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/210121-valentines-day_1013-000835-0140_01s.jpg"
-    },
-    {
-        "prijs": 14.95,
         "id": "1-1013-000650-0002",
         "kleur": "Black",
         "naam": "Bh Met Bandjes En Kant Aan De Voorkant",
@@ -466,5 +453,18 @@
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_romantic_french_embroided_mesh_bralette_1013-000505-0002_01a.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_romantic_french_embroided_mesh_bralette_1013-000505-0002_01a.jpg"
+    },
+    {
+        "prijs": 16.95,
+        "id": "1-1013-000795-0261",
+        "kleur": "Orange",
+        "naam": "Amazing Triangel-Bh",
+        "url": "https://www.na-kd.com/nl/zoek-producten/amazing-triangel-bh-oranje",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_amazing_triangle_bra_1013-000795-0261_01a.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_amazing_triangle_bra_1013-000795-0261_01a.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_amazing_triangle_bra_1013-000795-0261_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_amazing_triangle_bra_1013-000795-0261_01a.jpg"
     }
 ]
