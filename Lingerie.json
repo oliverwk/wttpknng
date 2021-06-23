@@ -19,26 +19,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Basic Brazilian Mesh Panty",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_mesh_panty_1013-000538-0002_01j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_mesh_panty_1013-000538-0002_02k.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_mesh_panty_1013-000538-0002_04k.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_mesh_panty_1013-000538-0002_03j.jpg?width=640"
-        ],
-        "prijs": 3.58,
-        "kleur": "Black",
-        "kleurFamilies": [
-            "Black",
-            "White"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_mesh_panty_1013-000538-0002_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_mesh_panty_1013-000538-0002_03j.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/basic-brazilian-mesh-panty-zwart",
-        "id": "1-1013-000538-0002-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Klassiek Katoenen String",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_classic_cotton_thong-1013-000820-0138_01j.jpg?width=640",
@@ -460,7 +440,6 @@
         "prijs": 8.95,
         "kleur": "Coconut White",
         "kleurFamilies": [
-            "Black",
             "White"
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_basic_brazilian_mesh_panty_1013-000538-5465_01j-1.jpg",
@@ -702,6 +681,25 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_seamless_micro_thong_1013-000887-0765_04k.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/naadloze-microstring-bruin",
         "id": "1-1013-000887-0765-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "V-String",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_lovin_highwaist_v-string_1013-000758-0002_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lovin_highwaist_v-string_1013-000758-0002_02i.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lovin_highwaist_v-string_1013-000758-0002_03h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lovin_highwaist_v-string_1013-000758-0002_04k.jpg?width=640"
+        ],
+        "prijs": 10.46,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "Black"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lovin_highwaist_v-string_1013-000758-0002_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lovin_highwaist_v-string_1013-000758-0002_04k.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/v-string-zwart",
+        "id": "1-1013-000758-0002-004",
         "kleurHex": null
     }
 ]
