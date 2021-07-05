@@ -443,19 +443,6 @@
     },
     {
         "prijs": 11.97,
-        "id": "1-1013-000532-0002",
-        "kleur": "Black",
-        "naam": "Kanten Bh",
-        "url": "https://www.na-kd.com/nl/zoek-producten/kanten-bh-zwart-2",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_retro_lace_edge_cup_bra_1013-000532-0002_01a-1.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_retro_lace_edge_cup_bra_1013-000532-0002_01a-1.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_retro_lace_edge_cup_bra_1013-000532-0002_01a-1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_retro_lace_edge_cup_bra_1013-000532-0002_01a-1.jpg"
-    },
-    {
-        "prijs": 11.97,
         "id": "1-1013-000723-0001",
         "kleur": "White",
         "naam": "Kanten Bh",
@@ -466,5 +453,18 @@
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/front_triangle_bra_1013-000723-0001_01a.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/front_triangle_bra_1013-000723-0001_01a.jpg"
+    },
+    {
+        "prijs": 11.97,
+        "id": "1-1013-000765-1420",
+        "kleur": "Pink Umber",
+        "naam": "Mesh Bh",
+        "url": "https://www.na-kd.com/nl/zoek-producten/mesh-bh-roze-4",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_banded_mesh_wireless_bra_1013-000765-1420_01a.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_banded_mesh_wireless_bra_1013-000765-1420_01a.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_banded_mesh_wireless_bra_1013-000765-1420_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_banded_mesh_wireless_bra_1013-000765-1420_01a.jpg"
     }
 ]
