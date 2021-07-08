@@ -144,19 +144,6 @@
     },
     {
         "prijs": 10.17,
-        "id": "1-1013-000833-0002",
-        "kleur": "Black",
-        "naam": "Geribde Brede Triangeltop",
-        "url": "https://www.na-kd.com/nl/zoek-producten/geribde-brede-triangeltop-zwart",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_triangle_wide_top-1013-000833-0002_01a.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_triangle_wide_top-1013-000833-0002_01a.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_triangle_wide_top-1013-000833-0002_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_triangle_wide_top-1013-000833-0002_01a.jpg"
-    },
-    {
-        "prijs": 10.17,
         "id": "1-1013-000676-0002",
         "kleur": "Black",
         "naam": "Vacay Bikinitop Met Bandjes",
@@ -167,6 +154,19 @@
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_strappy_micro_bra-1013-000676-0002_01b.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_strappy_micro_bra-1013-000676-0002_01b.jpg"
+    },
+    {
+        "prijs": 10.17,
+        "id": "1-1013-000833-0002",
+        "kleur": "Black",
+        "naam": "Geribde Brede Triangeltop",
+        "url": "https://www.na-kd.com/nl/zoek-producten/geribde-brede-triangeltop-zwart",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_triangle_wide_top-1013-000833-0002_01a.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_triangle_wide_top-1013-000833-0002_01a.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_triangle_wide_top-1013-000833-0002_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_triangle_wide_top-1013-000833-0002_01a.jpg"
     },
     {
         "prijs": 10.17,
@@ -300,19 +300,6 @@
     },
     {
         "prijs": 10.95,
-        "id": "1-1013-000272-8174",
-        "kleur": "Buff Beige",
-        "naam": "Basic Gebloemde Kanten Bh",
-        "url": "https://www.na-kd.com/nl/zoek-producten/basic-gebloemde-kanten-bh-beige",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_basic_frloral_lace_bra_1013-000272-8174_01a-1.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_basic_frloral_lace_bra_1013-000272-8174_01a-1.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_basic_frloral_lace_bra_1013-000272-8174_01a-1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_basic_frloral_lace_bra_1013-000272-8174_01a-1.jpg"
-    },
-    {
-        "prijs": 10.95,
         "id": "1-1013-000582-0002",
         "kleur": "Black",
         "naam": "Mesh-Triangel-Bh Met Stippen",
@@ -391,6 +378,32 @@
     },
     {
         "prijs": 11.97,
+        "id": "1-1013-000721-0569",
+        "kleur": "Peach",
+        "naam": "Kanten Bralette",
+        "url": "https://www.na-kd.com/nl/zoek-producten/kanten-bralette-roze-2",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_romance_bra_1013-000721-0569_01a.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_romance_bra_1013-000721-0569_01a.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_romance_bra_1013-000721-0569_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_romance_bra_1013-000721-0569_01a.jpg"
+    },
+    {
+        "prijs": 11.97,
+        "id": "1-1013-000765-1420",
+        "kleur": "Pink Umber",
+        "naam": "Mesh Bh",
+        "url": "https://www.na-kd.com/nl/zoek-producten/mesh-bh-roze-4",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_banded_mesh_wireless_bra_1013-000765-1420_01a.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_banded_mesh_wireless_bra_1013-000765-1420_01a.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_banded_mesh_wireless_bra_1013-000765-1420_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_banded_mesh_wireless_bra_1013-000765-1420_01a.jpg"
+    },
+    {
+        "prijs": 11.97,
         "id": "1-1013-000435-0002",
         "kleur": "Black",
         "naam": "Bandeau Lace Bra",
@@ -417,32 +430,6 @@
     },
     {
         "prijs": 11.97,
-        "id": "1-1013-000765-1420",
-        "kleur": "Pink Umber",
-        "naam": "Mesh Bh",
-        "url": "https://www.na-kd.com/nl/zoek-producten/mesh-bh-roze-4",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_banded_mesh_wireless_bra_1013-000765-1420_01a.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_banded_mesh_wireless_bra_1013-000765-1420_01a.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_banded_mesh_wireless_bra_1013-000765-1420_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_banded_mesh_wireless_bra_1013-000765-1420_01a.jpg"
-    },
-    {
-        "prijs": 11.97,
-        "id": "1-1013-000721-0569",
-        "kleur": "Peach",
-        "naam": "Kanten Bralette",
-        "url": "https://www.na-kd.com/nl/zoek-producten/kanten-bralette-roze-2",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_romance_bra_1013-000721-0569_01a.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_romance_bra_1013-000721-0569_01a.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_romance_bra_1013-000721-0569_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_romance_bra_1013-000721-0569_01a.jpg"
-    },
-    {
-        "prijs": 11.97,
         "id": "1-1013-000659-4376",
         "kleur": "Thyme",
         "naam": "Kanten Bralette",
@@ -466,5 +453,18 @@
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_retro_lace_edge_cup_bra_1013-000532-0002_01a-1.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_retro_lace_edge_cup_bra_1013-000532-0002_01a-1.jpg"
+    },
+    {
+        "prijs": 11.97,
+        "id": "1-1013-000659-0261",
+        "kleur": "Orange",
+        "naam": "Kanten Bralette",
+        "url": "https://www.na-kd.com/nl/zoek-producten/kanten-bralette-oranje",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_romance_lace_soft_bra_1013-000659-0261_01a.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_romance_lace_soft_bra_1013-000659-0261_01a.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_romance_lace_soft_bra_1013-000659-0261_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_romance_lace_soft_bra_1013-000659-0261_01a.jpg"
     }
 ]
