@@ -98,27 +98,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Kanten String",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_thong_1013-000714-9252_01j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_thong_1013-000714-9252_02i.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_thong_1013-000714-9252_03h.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_thong_1013-000714-9252_04k.jpg?width=640"
-        ],
-        "prijs": 5.47,
-        "kleur": "Pale Banana",
-        "kleurFamilies": [
-            "Purple",
-            "White",
-            "Yellow"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_thong_1013-000714-9252_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_thong_1013-000714-9252_04k.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-string-geel-2",
-        "id": "1-1013-000714-9252-004",
-        "kleurHex": null
-    },
-    {
         "naam": "String",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_strap_detailed_high_waist_ribbed_thong-1013-000836-0002_01k.jpg?width=640",
@@ -137,6 +116,27 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_strap_detailed_high_waist_ribbed_thong-1013-000836-0002_05a.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/string-zwart-21",
         "id": "1-1013-000836-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Kanten String",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_thong_1013-000714-9252_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_thong_1013-000714-9252_02i.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_thong_1013-000714-9252_03h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_thong_1013-000714-9252_04k.jpg?width=640"
+        ],
+        "prijs": 5.47,
+        "kleur": "Pale Banana",
+        "kleurFamilies": [
+            "Purple",
+            "White",
+            "Yellow"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_thong_1013-000714-9252_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_thong_1013-000714-9252_04k.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-string-geel-2",
+        "id": "1-1013-000714-9252-004",
         "kleurHex": null
     },
     {
@@ -213,6 +213,7 @@
         "kleurFamilies": [
             "Beige",
             "Grey",
+            "Black",
             "Beige"
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_romantic_lace_highwaist_panty_1013-000678-0366_01j.jpg",
