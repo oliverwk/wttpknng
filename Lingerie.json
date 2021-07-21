@@ -78,26 +78,6 @@
         "kleurHex": null
     },
     {
-        "naam": "V-String",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0005_01j-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0005_02i-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0005_02h-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0005_04k-1.jpg?width=640"
-        ],
-        "prijs": 5.47,
-        "kleur": "Beige",
-        "kleurFamilies": [
-            "Yellow",
-            "Brown"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0005_01j-1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0005_04k-1.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/v-string-geel",
-        "id": "1-1013-000782-0005-004",
-        "kleurHex": null
-    },
-    {
         "naam": "String",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_strap_detailed_high_waist_ribbed_thong-1013-000836-0002_01k.jpg?width=640",
@@ -298,26 +278,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_retro_lace_edge_cheeky_panty_1013-000533-0617_04k-1.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-slip-blauw",
         "id": "1-1013-000533-0617-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Highwaist Uitgesneden Geribde String",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_highwaist_cut_out_ribbed_thong-1013-000832-0002_01j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_highwaist_cut_out_ribbed_thong-1013-000832-0002_04a.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_highwaist_cut_out_ribbed_thong-1013-000832-0002_03h.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_highwaist_cut_out_ribbed_thong-1013-000832-0002_02i.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/210121-valentines-day_1013-000832-0002_01s.jpg?width=640"
-        ],
-        "prijs": 5.97,
-        "kleur": "Black",
-        "kleurFamilies": [
-            "Black"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_highwaist_cut_out_ribbed_thong-1013-000832-0002_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/210121-valentines-day_1013-000832-0002_01s.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/highwaist-uitgesneden-geribde-string-zwart",
-        "id": "1-1013-000832-0002-004",
         "kleurHex": null
     },
     {
@@ -699,6 +659,46 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_branded_highwaist_mesh_panty_1013-000568-6335_04j.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/slip-met-hoge-taille-en-mesh-roze",
         "id": "1-1013-000568-6335-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Slip Met Hoge Taille En Mesh",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_branded_highwaist_mesh_panty_1013-000568-4376_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_branded_highwaist_mesh_panty_1013-000568-4376_02i.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_branded_highwaist_mesh_panty_1013-000568-4376_03h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_branded_highwaist_mesh_panty_1013-000568-4376_04j.jpg?width=640"
+        ],
+        "prijs": 7.47,
+        "kleur": "Thyme",
+        "kleurFamilies": [
+            "Green",
+            "Pink"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_branded_highwaist_mesh_panty_1013-000568-4376_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_branded_highwaist_mesh_panty_1013-000568-4376_04j.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/slip-met-hoge-taille-en-mesh-groen",
+        "id": "1-1013-000568-4376-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Kanten Slip",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_side_flounce_lace_panty_1013-000513-0001_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_side_flounce_lace_panty_1013-000513-0001_02i.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_side_flounce_lace_panty_1013-000513-0001_03h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_side_flounce_lace_panty_1013-000513-0001_04k.jpg?width=640"
+        ],
+        "prijs": 7.47,
+        "kleur": "White",
+        "kleurFamilies": [
+            "White",
+            "Black"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_side_flounce_lace_panty_1013-000513-0001_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_side_flounce_lace_panty_1013-000513-0001_04k.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-slip-wit-2",
+        "id": "1-1013-000513-0001-004",
         "kleurHex": null
     }
 ]
