@@ -121,43 +121,24 @@
         "kleurHex": null
     },
     {
-        "naam": "Bodysuit Met Stippen",
+        "naam": "Kanten Body",
         "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_all_over_dotted_bodysuit_1013-000798-0002_01g.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_all_over_dotted_bodysuit_1013-000798-0002_03k.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_all_over_dotted_bodysuit_1013-000798-0002_02j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_all_over_dotted_bodysuit_1013-000798-0002_04g.jpg?width=640"
+            "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0719_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0719_02k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0719_03j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0719_04g.jpg?width=640"
         ],
-        "prijs": 27.95,
-        "kleur": "Black",
+        "prijs": 23.76,
+        "kleur": "Pearl",
         "kleurFamilies": [
-            "Black"
+            "Black",
+            "Grey",
+            "Offwhite"
         ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_all_over_dotted_bodysuit_1013-000798-0002_01g.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_all_over_dotted_bodysuit_1013-000798-0002_04g.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/bodysuit-met-stippen-zwart",
-        "id": "1-1013-000798-0002-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Mesh Body",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string-bodysuit-1013-000762-0002_01j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string-bodysuit-1013-000762-0002_02b.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string-bodysuit-1013-000762-0002_03a.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string_bodysuit_1013-000762-0002_01m.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string_bodysuit_1013-000762-0002_02m.jpg?width=640"
-        ],
-        "prijs": 33.95,
-        "kleur": "Black",
-        "kleurFamilies": [
-            "White",
-            "Black"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string-bodysuit-1013-000762-0002_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string_bodysuit_1013-000762-0002_02m.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/mesh-body-zwart-2",
-        "id": "1-1013-000762-0002-004",
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0719_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0719_04g.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-body-gebroken-wit",
+        "id": "1-1013-000222-0719-004",
         "kleurHex": null
     },
     {
@@ -203,6 +184,27 @@
         "kleurHex": "#E2E4E0"
     },
     {
+        "naam": "Mesh Body",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string-bodysuit-1013-000762-0002_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string-bodysuit-1013-000762-0002_02b.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string-bodysuit-1013-000762-0002_03a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string_bodysuit_1013-000762-0002_01m.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string_bodysuit_1013-000762-0002_02m.jpg?width=640"
+        ],
+        "prijs": 33.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "White",
+            "Black"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string-bodysuit-1013-000762-0002_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string_bodysuit_1013-000762-0002_02m.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/mesh-body-zwart-2",
+        "id": "1-1013-000762-0002-004",
+        "kleurHex": null
+    },
+    {
         "naam": "Wikkelbodysuit Met V-Hals",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_v-neck_strap_around_bodysuit_1013-000666-0002_01j.jpg?width=640",
@@ -232,6 +234,7 @@
         "prijs": 33.95,
         "kleur": "Grey",
         "kleurFamilies": [
+            "Black",
             "Grey",
             "Offwhite"
         ],
@@ -239,6 +242,29 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0008_04g.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-body-grijs",
         "id": "1-1013-000222-0008-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Kanten Body",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0002_01j_r1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0002_02k_r1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0002_03j_r1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0002_04k_r1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0002_05g_r1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0002_06g_r1.jpg?width=640"
+        ],
+        "prijs": 36.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "Black",
+            "Grey",
+            "Offwhite"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0002_01j_r1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0002_06g_r1.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-body-zwart-6",
+        "id": "1-1013-000222-0002-004",
         "kleurHex": null
     }
 ]
