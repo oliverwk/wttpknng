@@ -137,6 +137,27 @@
         "kleurHex": null
     },
     {
+        "naam": "Kanten Slip",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_edge_hipster_1013-000508-0001_01j-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_edge_hipster_1013-000508-0001_02i-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_edge_hipster_1013-000508-0001_03h-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_edge_hipster_1013-000508-0001_04k-1.jpg?width=640"
+        ],
+        "prijs": 6.97,
+        "kleur": "White",
+        "kleurFamilies": [
+            "White",
+            "Black",
+            "Green"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_edge_hipster_1013-000508-0001_01j-1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_edge_hipster_1013-000508-0001_04k-1.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-slip-wit-1",
+        "id": "1-1013-000508-0001-004",
+        "kleurHex": null
+    },
+    {
         "naam": "Cheeky Micro-Slip Met Kanten Achterkant",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_micro_lace_edge_panty-1013-000682-0689_01j.jpg?width=640",
@@ -174,27 +195,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_romantic_french_embroided_highwaist_panty_1013-000506-0002_04k.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-slip-met-hoge-taille-zwart-1",
         "id": "1-1013-000506-0002-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Kanten Slip",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_edge_hipster_1013-000508-0001_01j-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_edge_hipster_1013-000508-0001_02i-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_edge_hipster_1013-000508-0001_03h-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_edge_hipster_1013-000508-0001_04k-1.jpg?width=640"
-        ],
-        "prijs": 6.97,
-        "kleur": "White",
-        "kleurFamilies": [
-            "White",
-            "Black",
-            "Green"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_edge_hipster_1013-000508-0001_01j-1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_edge_hipster_1013-000508-0001_04k-1.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-slip-wit-1",
-        "id": "1-1013-000508-0001-004",
         "kleurHex": null
     },
     {
@@ -699,6 +699,7 @@
         "kleur": "White",
         "kleurFamilies": [
             "White",
+            "Black",
             "Grey",
             "Brown"
         ],
