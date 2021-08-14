@@ -322,6 +322,25 @@
         "kleurHex": null
     },
     {
+        "naam": "Flounce Thong",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_flounce_thong_1013-000546-0002_01k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_flounce_thong_1013-000546-0002_02h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_flounce_thong_1013-000546-0002_03i.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_flounce_thong_1013-000546-0002_04j.jpg?width=640"
+        ],
+        "prijs": 7.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "Black"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_flounce_thong_1013-000546-0002_01k.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_flounce_thong_1013-000546-0002_04j.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/flounce-thong-zwart",
+        "id": "1-1013-000546-0002-004",
+        "kleurHex": null
+    },
+    {
         "naam": "High Waist Ribbed Boxer",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_high_waist_ribbed_boxer-1013-000829-0115_04k.jpg?width=640",
@@ -685,27 +704,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_seamless_micro_thong_1013-000887-0765_04k.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/naadloze-microstring-bruin",
         "id": "1-1013-000887-0765-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Geribd Katoenen String",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0001_01j_r.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0001_02i_r.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0001_03h-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0001_04k_r.jpg?width=640"
-        ],
-        "prijs": 9.95,
-        "kleur": "White",
-        "kleurFamilies": [
-            "White",
-            "Grey",
-            "Brown"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0001_01j_r.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_thong_1013-000816-0001_04k_r.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/geribd-katoenen-string-wit",
-        "id": "1-1013-000816-0001-004",
         "kleurHex": null
     }
 ]
