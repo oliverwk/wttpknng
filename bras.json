@@ -377,19 +377,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_triangle_lace_cover_bra_1013-000742-0212_01a.jpg"
     },
     {
-        "prijs": 13.17,
-        "id": "1-1013-000329-0002",
-        "kleur": "Black",
-        "naam": "Lace Cup Micro Top",
-        "url": "https://www.na-kd.com/nl/zoek-producten/lace-cup-micro-top-zwart",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/episode_lace_cup_micro_top_1013-000329-0002_01a.jpg",
-            "https://www.na-kd.com/resize/globalassets/episode_lace_cup_micro_top_1013-000329-0002_01a.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/episode_lace_cup_micro_top_1013-000329-0002_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/episode_lace_cup_micro_top_1013-000329-0002_01a.jpg"
-    },
-    {
         "prijs": 13.47,
         "id": "1-1724-000021-0565",
         "kleur": "Caviar",
@@ -466,5 +453,18 @@
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0138_01a_r.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0138_01a_r.jpg"
+    },
+    {
+        "prijs": 14.95,
+        "id": "1-1013-000818-0001",
+        "kleur": "White",
+        "naam": "Geribd Katoenen Top",
+        "url": "https://www.na-kd.com/nl/zoek-producten/geribd-katoenen-top-wit",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0001_01a_r.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0001_01a_r.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0001_01a_r.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0001_01a_r.jpg"
     }
 ]
