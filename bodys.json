@@ -1,5 +1,27 @@
 [
     {
+        "naam": "Body",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/matiamubysofia_strap_jersey_body_1690-000019-0002_02j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/matiamubysofia_strap_jersey_body_1690-000019-0002_03k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/matiamubysofia_strap_jersey_body_1690-000019-0002_01a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/matiamubysofia_strap_jersey_body_1690-000019-0002_04b.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/matiamubysofia_strap_jersey_body_1690-000019-0002_05c.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/matiamubysofia_strap_jersey_body_1690-000019-0002_06g.jpg?width=640"
+        ],
+        "prijs": 13.17,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "White",
+            "Black"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/matiamubysofia_strap_jersey_body_1690-000019-0002_02j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/matiamubysofia_strap_jersey_body_1690-000019-0002_06g.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/body-zwart-13",
+        "id": "1-1690-000019-0002-004",
+        "kleurHex": null
+    },
+    {
         "naam": "Mesh Body",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_03j.jpg?width=640",
@@ -80,28 +102,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Body",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/matiamubysofia_strap_jersey_body_1690-000019-0002_02j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/matiamubysofia_strap_jersey_body_1690-000019-0002_03k.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/matiamubysofia_strap_jersey_body_1690-000019-0002_01a.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/matiamubysofia_strap_jersey_body_1690-000019-0002_04b.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/matiamubysofia_strap_jersey_body_1690-000019-0002_05c.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/matiamubysofia_strap_jersey_body_1690-000019-0002_06g.jpg?width=640"
-        ],
-        "prijs": 21.95,
-        "kleur": "Black",
-        "kleurFamilies": [
-            "White",
-            "Black"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/matiamubysofia_strap_jersey_body_1690-000019-0002_02j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/matiamubysofia_strap_jersey_body_1690-000019-0002_06g.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/body-zwart-13",
-        "id": "1-1690-000019-0002-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Bodysuit Met Stippen",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_all_over_dotted_bodysuit_1013-000798-0002_01g.jpg?width=640",
@@ -162,6 +162,47 @@
         "kleurHex": null
     },
     {
+        "naam": "Basis Singlet. 2-pak",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/trendyol_2-pack_basic_singlet_1494-004187-0041_01a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/trendyol_2-pack_basic_singlet_1494-004187-0041_03b.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/trendyol_2-pack_basic_singlet_1494-004187-0041_02a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/trendyol_2-pack_basic_singlet_1494-004187-0041_06a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/trendyol_2-pack_basic_singlet_1494-004187-0041_07c.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/trendyol_2-pack_basic_singlet_1494-004187-0041_05g.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/trendyol_2-pack_basic_singlet_1494-004187-0041_08a.jpg?width=640"
+        ],
+        "prijs": 33.95,
+        "kleur": "Black/White",
+        "kleurFamilies": [
+            "Multicolor"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/trendyol_2-pack_basic_singlet_1494-004187-0041_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/trendyol_2-pack_basic_singlet_1494-004187-0041_08a.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/2-pack-basic-singlet-veelkleurig-1494-004187-0041",
+        "id": "1-1494-004187-0041-005",
+        "kleurHex": "#E2E4E0"
+    },
+    {
+        "naam": "Wikkelbodysuit Met V-Hals",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_v-neck_strap_around_bodysuit_1013-000666-0002_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v-neck_strap_around_bodysuit_1013-000666-0002_02k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v-neck_strap_around_bodysuit_1013-000666-0002_03c.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v-neck_strap_around_bodysuit_1013-000666-0002_04g.jpg?width=640"
+        ],
+        "prijs": 33.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "Black"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_v-neck_strap_around_bodysuit_1013-000666-0002_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_v-neck_strap_around_bodysuit_1013-000666-0002_04g.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/wikkelbodysuit-met-v-hals-zwart",
+        "id": "1-1013-000666-0002-004",
+        "kleurHex": null
+    },
+    {
         "naam": "V-String Bodysuit Met Ruwe Zoom En Kanten Cups",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string-bodysuit_1013-000641-9530_01j.jpg?width=640",
@@ -186,26 +227,25 @@
         "kleurHex": null
     },
     {
-        "naam": "Basis Singlet. 2-pak",
+        "naam": "Mesh Body",
         "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/trendyol_2-pack_basic_singlet_1494-004187-0041_01a.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/trendyol_2-pack_basic_singlet_1494-004187-0041_03b.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/trendyol_2-pack_basic_singlet_1494-004187-0041_02a.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/trendyol_2-pack_basic_singlet_1494-004187-0041_06a.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/trendyol_2-pack_basic_singlet_1494-004187-0041_07c.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/trendyol_2-pack_basic_singlet_1494-004187-0041_05g.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/trendyol_2-pack_basic_singlet_1494-004187-0041_08a.jpg?width=640"
+            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string-bodysuit-1013-000762-0002_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string-bodysuit-1013-000762-0002_02b.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string-bodysuit-1013-000762-0002_03a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string_bodysuit_1013-000762-0002_01m.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string_bodysuit_1013-000762-0002_02m.jpg?width=640"
         ],
         "prijs": 33.95,
-        "kleur": "Black/White",
+        "kleur": "Black",
         "kleurFamilies": [
-            "Multicolor"
+            "White",
+            "Black"
         ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/trendyol_2-pack_basic_singlet_1494-004187-0041_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/trendyol_2-pack_basic_singlet_1494-004187-0041_08a.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/2-pack-basic-singlet-veelkleurig-1494-004187-0041",
-        "id": "1-1494-004187-0041-005",
-        "kleurHex": "#E2E4E0"
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string-bodysuit-1013-000762-0002_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string_bodysuit_1013-000762-0002_02m.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/mesh-body-zwart-2",
+        "id": "1-1013-000762-0002-004",
+        "kleurHex": null
     },
     {
         "naam": "V-String Bodysuit Met Ruwe Zoom En Kanten Cups",
@@ -229,46 +269,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0001_06g.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/v-string-bodysuit-met-ruwe-zoom-en-kanten-cups-wit",
         "id": "1-1013-000641-0001-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Wikkelbodysuit Met V-Hals",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_v-neck_strap_around_bodysuit_1013-000666-0002_01j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_v-neck_strap_around_bodysuit_1013-000666-0002_02k.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_v-neck_strap_around_bodysuit_1013-000666-0002_03c.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_v-neck_strap_around_bodysuit_1013-000666-0002_04g.jpg?width=640"
-        ],
-        "prijs": 33.95,
-        "kleur": "Black",
-        "kleurFamilies": [
-            "Black"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_v-neck_strap_around_bodysuit_1013-000666-0002_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_v-neck_strap_around_bodysuit_1013-000666-0002_04g.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/wikkelbodysuit-met-v-hals-zwart",
-        "id": "1-1013-000666-0002-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Mesh Body",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string-bodysuit-1013-000762-0002_01j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string-bodysuit-1013-000762-0002_02b.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string-bodysuit-1013-000762-0002_03a.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string_bodysuit_1013-000762-0002_01m.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string_bodysuit_1013-000762-0002_02m.jpg?width=640"
-        ],
-        "prijs": 33.95,
-        "kleur": "Black",
-        "kleurFamilies": [
-            "White",
-            "Black"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string-bodysuit-1013-000762-0002_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string_bodysuit_1013-000762-0002_02m.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/mesh-body-zwart-2",
-        "id": "1-1013-000762-0002-004",
         "kleurHex": null
     },
     {
