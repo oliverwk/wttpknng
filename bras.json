@@ -273,6 +273,19 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/trine_kjaer_frill_detail_bra_1680-000028-0017_02a.jpg"
     },
     {
+        "prijs": 12.95,
+        "id": "1-1013-000272-0002",
+        "kleur": "Black",
+        "naam": "Basic Gebloemde Kanten Bh",
+        "url": "https://www.na-kd.com/nl/zoek-producten/basic-gebloemde-kanten-bh-zwart-2",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_basic_floral_lace_bra_1013-000272-0002_01a.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_basic_floral_lace_bra_1013-000272-0002_01a.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_basic_floral_lace_bra_1013-000272-0002_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_basic_floral_lace_bra_1013-000272-0002_01a.jpg"
+    },
+    {
         "prijs": 12.97,
         "id": "1-1013-000425-1045",
         "kleur": "Leo",
@@ -391,6 +404,19 @@
     },
     {
         "prijs": 14.95,
+        "id": "1-1013-000818-0138",
+        "kleur": "Grey Melange",
+        "naam": "Geribd Katoenen Top",
+        "url": "https://www.na-kd.com/nl/zoek-producten/geribd-katoenen-top-grijs",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0138_01a_r.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0138_01a_r.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0138_01a_r.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0138_01a_r.jpg"
+    },
+    {
+        "prijs": 14.95,
         "id": "1-1013-000818-0002",
         "kleur": "Black",
         "naam": "Geribd Katoenen Top",
@@ -417,19 +443,6 @@
     },
     {
         "prijs": 14.95,
-        "id": "1-1013-000818-0138",
-        "kleur": "Grey Melange",
-        "naam": "Geribd Katoenen Top",
-        "url": "https://www.na-kd.com/nl/zoek-producten/geribd-katoenen-top-grijs",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0138_01a_r.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0138_01a_r.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0138_01a_r.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0138_01a_r.jpg"
-    },
-    {
-        "prijs": 14.95,
         "id": "1-1013-000818-0198",
         "kleur": "Terracotta",
         "naam": "Geribd Katoenen Top",
@@ -453,18 +466,5 @@
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0001_01a_r.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0001_01a_r.jpg"
-    },
-    {
-        "prijs": 14.95,
-        "id": "1-1013-000937-1820",
-        "kleur": "Bark",
-        "naam": "Organic Pointelle Babylock Top",
-        "url": "https://www.na-kd.com/nl/zoek-producten/organic-pointelle-babylock-top-roze",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_organic_pointelle_babylock_top_1013-000937-1820_04b.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_organic_pointelle_babylock_top_1013-000937-1820_04b.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_organic_pointelle_babylock_top_1013-000937-1820_04b.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_organic_pointelle_babylock_top_1013-000937-1820_04b.jpg"
     }
 ]
