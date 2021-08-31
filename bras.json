@@ -183,19 +183,6 @@
     },
     {
         "prijs": 10.95,
-        "id": "1-1013-000272-8174",
-        "kleur": "Buff Beige",
-        "naam": "Basic Gebloemde Kanten Bh",
-        "url": "https://www.na-kd.com/nl/zoek-producten/basic-gebloemde-kanten-bh-beige",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_basic_frloral_lace_bra_1013-000272-8174_01a-1.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_basic_frloral_lace_bra_1013-000272-8174_01a-1.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_basic_frloral_lace_bra_1013-000272-8174_01a-1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_basic_frloral_lace_bra_1013-000272-8174_01a-1.jpg"
-    },
-    {
-        "prijs": 10.95,
         "id": "1-1013-000702-0002",
         "kleur": "Black",
         "naam": "Mesh Bh",
@@ -466,5 +453,18 @@
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_front_triangle_bra_1013-000723-0569_01a.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_front_triangle_bra_1013-000723-0569_01a.jpg"
+    },
+    {
+        "prijs": 13.96,
+        "id": "1-1013-000719-0001",
+        "kleur": "White",
+        "naam": "Bralette",
+        "url": "https://www.na-kd.com/nl/zoek-producten/bralette-wit-8",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_sporty_cotton_top_1013-000719-0001_01a.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_sporty_cotton_top_1013-000719-0001_01a.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_sporty_cotton_top_1013-000719-0001_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_sporty_cotton_top_1013-000719-0001_01a.jpg"
     }
 ]
