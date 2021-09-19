@@ -271,7 +271,6 @@
         "kleur": "White",
         "kleurFamilies": [
             "White",
-            "Black",
             "Green"
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_edge_hipster_1013-000508-0001_01j-1.jpg",
@@ -663,27 +662,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Kanten Slip",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_edge_hipster_1013-000508-0002_01j-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_edge_hipster_1013-000508-0002_02i-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_edge_hipster_1013-000508-0002_03h-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_edge_hipster_1013-000508-0002_04k-1.jpg?width=640"
-        ],
-        "prijs": 8.95,
-        "kleur": "Black",
-        "kleurFamilies": [
-            "White",
-            "Black",
-            "Green"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_edge_hipster_1013-000508-0002_01j-1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_edge_hipster_1013-000508-0002_04k-1.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-slip-zwart-2",
-        "id": "1-1013-000508-0002-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Lace Basic Thong",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_lace_basic_thong_1013-000544-0001_01j.jpg?width=640",
@@ -700,6 +678,25 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_basic_thong_1013-000544-0001_04k.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/lace-basic-thong-wit",
         "id": "1-1013-000544-0001-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Basic Brazilian Micro-Slip",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_basic_brazillian_micro_panty_1013-000536-0719_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_basic_brazillian_micro_panty_1013-000536-0719_03h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_basic_brazillian_micro_panty_1013-000536-0719_02i.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_basic_brazillian_micro_panty_1013-000536-0719_04k.jpg?width=640"
+        ],
+        "prijs": 8.95,
+        "kleur": "Pearl",
+        "kleurFamilies": [
+            "Offwhite"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_basic_brazillian_micro_panty_1013-000536-0719_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_basic_brazillian_micro_panty_1013-000536-0719_04k.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/basic-brazilian-micro-slip-gebroken-wit",
+        "id": "1-1013-000536-0719-004",
         "kleurHex": null
     }
 ]
