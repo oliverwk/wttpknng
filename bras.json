@@ -325,19 +325,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_mesh_triangle_lace_edge_dotted_bra_1013-000582-9077_01a.jpg"
     },
     {
-        "prijs": 10.95,
-        "id": "1-1013-000138-0048",
-        "kleur": "Light Pink",
-        "naam": "Lace Bra",
-        "url": "https://www.na-kd.com/nl/zoek-producten/lace-bra-roze",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_bra_1013-000138-0048_01ar.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_bra_1013-000138-0048_01ar.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_bra_1013-000138-0048_01ar.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_bra_1013-000138-0048_01ar.jpg"
-    },
-    {
         "prijs": 10.97,
         "id": "1-1013-000735-0179",
         "kleur": "Rust",
@@ -466,5 +453,18 @@
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/trendyol_milla_seamless_sport_bra-1494-004072-0063_01a.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/trendyol_milla_seamless_sport_bra-1494-004072-0063_01a.jpg"
+    },
+    {
+        "prijs": 13.47,
+        "id": "1-1724-000021-0565",
+        "kleur": "Caviar",
+        "naam": "Bralette",
+        "url": "https://www.na-kd.com/nl/zoek-producten/bralette-zwart-13",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/amalia_amalia_rib_bralette_caviar_1724-000021-0565_01j.jpg",
+            "https://www.na-kd.com/resize/globalassets/amalia_amalia_rib_bralette_caviar_1724-000021-0565_01j.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/amalia_amalia_rib_bralette_caviar_1724-000021-0565_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/amalia_amalia_rib_bralette_caviar_1724-000021-0565_01j.jpg"
     }
 ]
