@@ -89,7 +89,6 @@
         "kleur": "White",
         "kleurFamilies": [
             "White",
-            "Black",
             "Green"
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_edge_hipster_1013-000508-0001_01j-1.jpg",
@@ -423,6 +422,25 @@
         "kleurHex": null
     },
     {
+        "naam": "Gestippelde V-String",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_dotty_v_string_1013-000738-0002_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_dotty_v_string_1013-000738-0002_02i.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_dotty_v_string_1013-000738-0002_03h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_dotty_v_string_1013-000738-0002_04k.jpg?width=640"
+        ],
+        "prijs": 7.47,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "Black"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_dotty_v_string_1013-000738-0002_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_dotty_v_string_1013-000738-0002_04k.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/gestippelde-v-string-zwart-2",
+        "id": "1-1013-000738-0002-004",
+        "kleurHex": null
+    },
+    {
         "naam": "Panty",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/casia_hl_rio_1724-000009-1096_03j.jpg?width=640",
@@ -462,25 +480,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/josefine_hj_basic_pantie-1708-000022-9459_04k.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/basic-broekje-beige",
         "id": "1-1708-000022-9459-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Gestippelde V-String",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_dotty_v_string_1013-000738-0002_01j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_dotty_v_string_1013-000738-0002_02i.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_dotty_v_string_1013-000738-0002_03h.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_dotty_v_string_1013-000738-0002_04k.jpg?width=640"
-        ],
-        "prijs": 7.47,
-        "kleur": "Black",
-        "kleurFamilies": [
-            "Black"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_dotty_v_string_1013-000738-0002_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_dotty_v_string_1013-000738-0002_04k.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/gestippelde-v-string-zwart-2",
-        "id": "1-1013-000738-0002-004",
         "kleurHex": null
     },
     {
