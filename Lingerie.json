@@ -380,26 +380,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Brazilian Slip",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/lenia_hw_brazilian_1724-000003-0565_01k.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lenia_hw_brazilian_1724-000003-0565_02h.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lenia_hw_brazilian_1724-000003-0565_03i.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lenia_hw_brazilian_1724-000003-0565_04j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lenia_hw_brazilian_1724-000003-0565_05g.jpg?width=640"
-        ],
-        "prijs": 6.78,
-        "kleur": "Caviar",
-        "kleurFamilies": [
-            "Black"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/lenia_hw_brazilian_1724-000003-0565_01k.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/lenia_hw_brazilian_1724-000003-0565_05g.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/brazilian-slip-zwart-4",
-        "id": "1-1724-000003-0565-005",
-        "kleurHex": null
-    },
-    {
         "naam": "Zacht Geribd Hooguitgesneden Slip",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_soft_ribbed_high_cut_binding_brief_1013-000924-0324_01a.jpg?width=640",
@@ -702,6 +682,25 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_mesh-striped_highwaist_panty_1013-000745-0002_04k.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/slip-met-hoge-taille-en-mesh-zwart-2",
         "id": "1-1013-000745-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Kanten Slip",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_lovley_v_string_1013-000749-5042_01a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lovley_v_string_1013-000749-5042_02k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lovley_v_string_1013-000749-5042_03j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lovley_v_string_1013-000749-5042_04b.jpg?width=640"
+        ],
+        "prijs": 8.47,
+        "kleur": "Pink/Black",
+        "kleurFamilies": [
+            "Multicolor"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lovley_v_string_1013-000749-5042_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lovley_v_string_1013-000749-5042_04b.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-slip-veelkleurig",
+        "id": "1-1013-000749-5042-004",
         "kleurHex": null
     }
 ]
