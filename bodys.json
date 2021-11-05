@@ -128,7 +128,7 @@
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_v-neck_lace_bodysuit-1013-000222-0799_01j-1.jpg?width=640",
             "https://www.na-kd.com/resize/globalassets/nakd_v-neck_lace_bodysuit-1013-000222-0799_02b.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_v-neck_lace_bodysuit-1013-000222-0799_03j-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v-neck_lace_bodysuit-1013-000222-0799_01l.jpg?width=640",
             "https://www.na-kd.com/resize/globalassets/nakd_v-neck_lace_bodysuit-1013-000222-0799_04g.jpg?width=640"
         ],
         "prijs": 34.95,
@@ -142,6 +142,46 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_v-neck_lace_bodysuit-1013-000222-0799_04g.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-body-hot-pink",
         "id": "1-1013-000222-0799-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Mesh Body",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string-bodysuit-1013-000762-0002_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string-bodysuit-1013-000762-0002_02b.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string-bodysuit-1013-000762-0002_03a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string_bodysuit_1013-000762-0002_01m.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string_bodysuit_1013-000762-0002_02m.jpg?width=640"
+        ],
+        "prijs": 34.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "White",
+            "Black"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string-bodysuit-1013-000762-0002_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string_bodysuit_1013-000762-0002_02m.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/mesh-body-zwart-2",
+        "id": "1-1013-000762-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Cut Out Front Lace Bodysuit",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_cut_out_front_lace_bodysuit_1013-000477-0002_01a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_cut_out_front_lace_bodysuit_1013-000477-0002_02k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_cut_out_front_lace_bodysuit_1013-000477-0002_03j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_cut_out_front_lace_bodysuit_1013-000477-0002_04c.jpg?width=640"
+        ],
+        "prijs": 34.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "Black"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cut_out_front_lace_bodysuit_1013-000477-0002_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_cut_out_front_lace_bodysuit_1013-000477-0002_04c.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/cut-out-front-lace-bodysuit-zwart",
+        "id": "1-1013-000477-0002-004",
         "kleurHex": null
     },
     {
@@ -165,6 +205,25 @@
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/2-pack-basic-singlet-veelkleurig-1494-004187-0041",
         "id": "1-1494-004187-0041-005",
         "kleurHex": "#E2E4E0"
+    },
+    {
+        "naam": "Kanten Body",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_wavy_lace_deep_v_neck_bodysuit_1013-000496-0002_01j-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_wavy_lace_deep_v_neck_bodysuit_1013-000496-0002_02k-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_wavy_lace_deep_v_neck_bodysuit_1013-000496-0002_03j-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_wavy_lace_deep_v_neck_bodysuit_1013-000496-0002_04k-1.jpg?width=640"
+        ],
+        "prijs": 34.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "Black"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_wavy_lace_deep_v_neck_bodysuit_1013-000496-0002_01j-1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_wavy_lace_deep_v_neck_bodysuit_1013-000496-0002_04k-1.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-body-zwart",
+        "id": "1-1013-000496-0002-004",
+        "kleurHex": null
     },
     {
         "naam": "Kanten body",
@@ -375,6 +434,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_v-neck_front_lacing_body_1013-000908-5482_04g.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/v-neck-front-lacing-body-light-flower-1013-000908-5482",
         "id": "1-1013-000908-5482-004",
-        "kleurHex": "#E2E4E0"
+        "kleurHex": null
     }
 ]
