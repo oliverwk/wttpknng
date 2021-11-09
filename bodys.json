@@ -105,27 +105,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Mesh Body",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string-bodysuit-1013-000762-0002_01j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string-bodysuit-1013-000762-0002_02b.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string-bodysuit-1013-000762-0002_03a.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string_bodysuit_1013-000762-0002_01m.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string_bodysuit_1013-000762-0002_02m.jpg?width=640"
-        ],
-        "prijs": 34.95,
-        "kleur": "Black",
-        "kleurFamilies": [
-            "White",
-            "Black"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string-bodysuit-1013-000762-0002_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string_bodysuit_1013-000762-0002_02m.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/mesh-body-zwart-2",
-        "id": "1-1013-000762-0002-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Kanten body",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_v-neck_lace_bodysuit-1013-000222-0799_01j-1.jpg?width=640",
@@ -359,6 +338,25 @@
         "kleurHex": null
     },
     {
+        "naam": "Lace Detail Bodysuit",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_02c.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_03b.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_04a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_01d.jpg?width=640"
+        ],
+        "prijs": 43.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "Black"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_02c.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_01d.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/lace-detail-bodysuit-zwart",
+        "id": "1-1013-000495-0002-004",
+        "kleurHex": null
+    },
+    {
         "naam": "Body met V-hals met kant voor",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_v-neck_front_lacing_body_1013-000908-0002_03a.jpg?width=640",
@@ -379,22 +377,23 @@
         "kleurHex": null
     },
     {
-        "naam": "Lace Detail Bodysuit",
+        "naam": "Body met V-hals met kant voor",
         "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_02c.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_03b.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_04a.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_01d.jpg?width=640"
+            "https://www.na-kd.com/resize/globalassets/nakd_v-neck_front_lacing_body_1013-000908-5482_01g.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v-neck_front_lacing_body_1013-000908-5482_02d.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v-neck_front_lacing_body_1013-000908-5482_03c.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v-neck_front_lacing_body_1013-000908-5482_04g.jpg?width=640"
         ],
         "prijs": 43.95,
-        "kleur": "Black",
+        "kleur": "Light flower",
         "kleurFamilies": [
-            "Black"
+            "Black",
+            "Multicolor"
         ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_02c.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_01d.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/lace-detail-bodysuit-zwart",
-        "id": "1-1013-000495-0002-004",
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_v-neck_front_lacing_body_1013-000908-5482_01g.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_v-neck_front_lacing_body_1013-000908-5482_04g.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/v-neck-front-lacing-body-light-flower-1013-000908-5482",
+        "id": "1-1013-000908-5482-004",
         "kleurHex": null
     }
 ]
