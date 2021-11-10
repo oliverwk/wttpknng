@@ -13,32 +13,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_bandeau_micro_top_1013-000708-0086_01a.jpg"
     },
     {
-        "prijs": 6.28,
-        "id": "1-1013-000659-0001",
-        "kleur": "White",
-        "naam": "Kanten Bralette",
-        "url": "https://www.na-kd.com/nl/zoek-producten/kanten-bralette-wit-2",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_romance_lace_soft_bra_1013-000659-0001_01a.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_romance_lace_soft_bra_1013-000659-0001_01a.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_romance_lace_soft_bra_1013-000659-0001_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_romance_lace_soft_bra_1013-000659-0001_01a.jpg"
-    },
-    {
-        "prijs": 6.58,
-        "id": "1-1013-000503-0002",
-        "kleur": "Black",
-        "naam": "Kanten Bralette",
-        "url": "https://www.na-kd.com/nl/zoek-producten/kanten-bralette-zwart-3",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_flower_embroided_lace_bralette_1013-000503-0002_01a.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_flower_embroided_lace_bralette_1013-000503-0002_01a.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_flower_embroided_lace_bralette_1013-000503-0002_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_flower_embroided_lace_bralette_1013-000503-0002_01a.jpg"
-    },
-    {
         "prijs": 6.97,
         "id": "1-1013-000835-0140",
         "kleur": "Light Beige",
@@ -50,6 +24,19 @@
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/210121-valentines-day_1013-000835-0140_01s.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/210121-valentines-day_1013-000835-0140_01s.jpg"
+    },
+    {
+        "prijs": 7.47,
+        "id": "1-1013-000272-0001",
+        "kleur": "White",
+        "naam": "Basic Gebloemde Kanten Bh",
+        "url": "https://www.na-kd.com/nl/zoek-producten/basic-gebloemde-kanten-bh-wit",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_basic_floral_lace_bra_white_1013-000272-0001_01a.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_basic_floral_lace_bra_white_1013-000272-0001_01a.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_basic_floral_lace_bra_white_1013-000272-0001_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_basic_floral_lace_bra_white_1013-000272-0001_01a.jpg"
     },
     {
         "prijs": 7.47,
@@ -79,16 +66,29 @@
     },
     {
         "prijs": 8.38,
-        "id": "1-1013-000659-0261",
-        "kleur": "Orange",
-        "naam": "Kanten Bralette",
-        "url": "https://www.na-kd.com/nl/zoek-producten/kanten-bralette-oranje",
+        "id": "1-1013-000435-0002",
+        "kleur": "Black",
+        "naam": "Bandeau Lace Bra",
+        "url": "https://www.na-kd.com/nl/zoek-producten/bandeau-lace-bra-zwart",
         "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_romance_lace_soft_bra_1013-000659-0261_01a.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_romance_lace_soft_bra_1013-000659-0261_01a.jpg"
+            "https://www.na-kd.com/resize/globalassets/nakd_bandeau_lace_bra_1013-000435-0002_01a.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_bandeau_lace_bra_1013-000435-0002_01a.jpg"
         ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_romance_lace_soft_bra_1013-000659-0261_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_romance_lace_soft_bra_1013-000659-0261_01a.jpg"
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_bandeau_lace_bra_1013-000435-0002_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_bandeau_lace_bra_1013-000435-0002_01a.jpg"
+    },
+    {
+        "prijs": 8.38,
+        "id": "1-1013-000659-4376",
+        "kleur": "Thyme",
+        "naam": "Kanten Bralette",
+        "url": "https://www.na-kd.com/nl/zoek-producten/kanten-bralette-groen-1",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_romance_lace_soft_bra_1013-000659-4376_01a.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_romance_lace_soft_bra_1013-000659-4376_01a.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_romance_lace_soft_bra_1013-000659-4376_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_romance_lace_soft_bra_1013-000659-4376_01a.jpg"
     },
     {
         "prijs": 8.97,
@@ -196,29 +196,16 @@
     },
     {
         "prijs": 10.47,
-        "id": "1-1013-000435-0002",
-        "kleur": "Black",
-        "naam": "Bandeau Lace Bra",
-        "url": "https://www.na-kd.com/nl/zoek-producten/bandeau-lace-bra-zwart",
+        "id": "1-1013-000681-0689",
+        "kleur": "Flower Print",
+        "naam": "Ongevoerde Micro-Triangel-Bh",
+        "url": "https://www.na-kd.com/nl/zoek-producten/ongevoerde-micro-triangel-bh-veelkleurig",
         "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_bandeau_lace_bra_1013-000435-0002_01a.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_bandeau_lace_bra_1013-000435-0002_01a.jpg"
+            "https://www.na-kd.com/resize/globalassets/nakd_micro_lace_edge_bra-1013-000681-0689_01a.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_micro_lace_edge_bra-1013-000681-0689_01a.jpg"
         ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_bandeau_lace_bra_1013-000435-0002_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_bandeau_lace_bra_1013-000435-0002_01a.jpg"
-    },
-    {
-        "prijs": 10.47,
-        "id": "1-1013-000509-0002",
-        "kleur": "Black",
-        "naam": "Satijnen Bralette",
-        "url": "https://www.na-kd.com/nl/zoek-producten/satijnen-bralette-zwart",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_blush_detail_satin_bra_1013-000509-0002_01a-1.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_blush_detail_satin_bra_1013-000509-0002_01a-1.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_blush_detail_satin_bra_1013-000509-0002_01a-1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_blush_detail_satin_bra_1013-000509-0002_01a-1.jpg"
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_micro_lace_edge_bra-1013-000681-0689_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_micro_lace_edge_bra-1013-000681-0689_01a.jpg"
     },
     {
         "prijs": 10.47,
@@ -271,6 +258,19 @@
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/trine_kjaer_frill_detail_bra_1680-000028-0017_02a.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/trine_kjaer_frill_detail_bra_1680-000028-0017_02a.jpg"
+    },
+    {
+        "prijs": 10.78,
+        "id": "1-1013-000425-1045",
+        "kleur": "Leo",
+        "naam": "Leopard Balconette Bra",
+        "url": "https://www.na-kd.com/nl/zoek-producten/leopard-balconette-bra-veelkleurig",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_leopard_balconette_bra_1013-000425-1045_01a.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_leopard_balconette_bra_1013-000425-1045_01a.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_leopard_balconette_bra_1013-000425-1045_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_leopard_balconette_bra_1013-000425-1045_01a.jpg"
     },
     {
         "prijs": 11.37,
@@ -456,15 +456,15 @@
     },
     {
         "prijs": 12.57,
-        "id": "1-1013-000681-0689",
-        "kleur": "Flower Print",
-        "naam": "Ongevoerde Micro-Triangel-Bh",
-        "url": "https://www.na-kd.com/nl/zoek-producten/ongevoerde-micro-triangel-bh-veelkleurig",
+        "id": "1-1013-000866-0002",
+        "kleur": "Black",
+        "naam": "Top Met Kant",
+        "url": "https://www.na-kd.com/nl/zoek-producten/top-met-kant-zwart-4",
         "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_micro_lace_edge_bra-1013-000681-0689_01a.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_micro_lace_edge_bra-1013-000681-0689_01a.jpg"
+            "https://www.na-kd.com/resize/globalassets/nakd_all_over_lace_top_1013-000866-0002_04a.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_all_over_lace_top_1013-000866-0002_04a.jpg"
         ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_micro_lace_edge_bra-1013-000681-0689_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_micro_lace_edge_bra-1013-000681-0689_01a.jpg"
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_all_over_lace_top_1013-000866-0002_04a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_all_over_lace_top_1013-000866-0002_04a.jpg"
     }
 ]
