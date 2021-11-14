@@ -284,7 +284,6 @@
         "kleurFamilies": [
             "White",
             "Black",
-            "Beige",
             "Orange"
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0002_01g.jpg",
@@ -308,7 +307,6 @@
         "kleurFamilies": [
             "White",
             "Black",
-            "Beige",
             "Orange"
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0001_01a.jpg",
@@ -332,7 +330,6 @@
         "kleurFamilies": [
             "White",
             "Black",
-            "Beige",
             "Orange"
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string-bodysuit_1013-000641-9530_01j.jpg",
@@ -359,30 +356,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_racer_back_patched_cotton_body_1013-000947-0138_05g.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/katoenen-body-met-racer-back-grey-melange-1013-000947-0138",
         "id": "1-1013-000947-0138-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "V-String Bodysuit Met Ruwe Zoom En Kanten Cups",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0719_01a.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0719_02j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0719_03k.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0719_04b.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0719_05c.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0719_06g.jpg?width=640"
-        ],
-        "prijs": 40.95,
-        "kleur": "Pearl",
-        "kleurFamilies": [
-            "White",
-            "Black",
-            "Beige",
-            "Orange"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0719_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0719_06g.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/v-string-bodysuit-met-ruwe-zoom-en-kanten-cups-beige",
-        "id": "1-1013-000641-0719-004",
         "kleurHex": null
     },
     {
@@ -422,6 +395,26 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_01d.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/lace-detail-bodysuit-zwart",
         "id": "1-1013-000495-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Body met V-hals met kant voor",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_v-neck_front_lacing_body_1013-000908-5482_01g.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v-neck_front_lacing_body_1013-000908-5482_02d.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v-neck_front_lacing_body_1013-000908-5482_03c.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v-neck_front_lacing_body_1013-000908-5482_04g.jpg?width=640"
+        ],
+        "prijs": 43.95,
+        "kleur": "Light flower",
+        "kleurFamilies": [
+            "Black",
+            "Multicolor"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_v-neck_front_lacing_body_1013-000908-5482_01g.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_v-neck_front_lacing_body_1013-000908-5482_04g.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/v-neck-front-lacing-body-light-flower-1013-000908-5482",
+        "id": "1-1013-000908-5482-004",
         "kleurHex": null
     }
 ]
