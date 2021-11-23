@@ -13,6 +13,19 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_bandeau_micro_top_1013-000708-0086_01a.jpg"
     },
     {
+        "prijs": 5.98,
+        "id": "1-1013-000781-0005",
+        "kleur": "Beige",
+        "naam": "Bh",
+        "url": "https://www.na-kd.com/nl/zoek-producten/bh-geel",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_one_shoulder_ribbed_bra_1013-000781-0005_01b-1.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_one_shoulder_ribbed_bra_1013-000781-0005_01b-1.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_one_shoulder_ribbed_bra_1013-000781-0005_01b-1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_one_shoulder_ribbed_bra_1013-000781-0005_01b-1.jpg"
+    },
+    {
         "prijs": 6.97,
         "id": "1-1013-000835-0002",
         "kleur": "Black",
@@ -50,19 +63,6 @@
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_one_shoulder_ribbed_bra_1013-000781-0765_01a-1.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_one_shoulder_ribbed_bra_1013-000781-0765_01a-1.jpg"
-    },
-    {
-        "prijs": 7.47,
-        "id": "1-1013-000781-0005",
-        "kleur": "Beige",
-        "naam": "Bh",
-        "url": "https://www.na-kd.com/nl/zoek-producten/bh-geel",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_one_shoulder_ribbed_bra_1013-000781-0005_01b-1.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_one_shoulder_ribbed_bra_1013-000781-0005_01b-1.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_one_shoulder_ribbed_bra_1013-000781-0005_01b-1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_one_shoulder_ribbed_bra_1013-000781-0005_01b-1.jpg"
     },
     {
         "prijs": 8.38,
@@ -300,6 +300,58 @@
     },
     {
         "prijs": 12.57,
+        "id": "1-1731-000027-0010",
+        "kleur": "Green",
+        "naam": "Beugelbh met bandjes van kant",
+        "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-met-bandjes-van-kant-groen-1731-000027-0010",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/taylor_lace_strap_wired_bra_1731-000027-0010_03a.jpg",
+            "https://www.na-kd.com/resize/globalassets/taylor_lace_strap_wired_bra_1731-000027-0010_03a.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/taylor_lace_strap_wired_bra_1731-000027-0010_03a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/taylor_lace_strap_wired_bra_1731-000027-0010_03a.jpg"
+    },
+    {
+        "prijs": 12.57,
+        "id": "1-1731-000022-0002",
+        "kleur": "Black",
+        "naam": "Beugelbh met cup en dunne bandjes",
+        "url": "https://www.na-kd.com/nl/zoek-producten/thin-strap-wired-cup-bra-black-1731-000022-0002",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/taylor_thin_strap_wired_cup_bra_1731-000022-0002_01a-2.jpg",
+            "https://www.na-kd.com/resize/globalassets/taylor_thin_strap_wired_cup_bra_1731-000022-0002_01a-2.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/taylor_thin_strap_wired_cup_bra_1731-000022-0002_01a-2.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/taylor_thin_strap_wired_cup_bra_1731-000022-0002_01a-2.jpg"
+    },
+    {
+        "prijs": 12.57,
+        "id": "1-1731-000027-0002",
+        "kleur": "Black",
+        "naam": "Beugelbh met bandjes van kant",
+        "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-met-bandjes-van-kant-zwart-1731-000027-0002",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/taylor_lace_strap_wired_bra_1731-000027-0002_01a-2.jpg",
+            "https://www.na-kd.com/resize/globalassets/taylor_lace_strap_wired_bra_1731-000027-0002_01a-2.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/taylor_lace_strap_wired_bra_1731-000027-0002_01a-2.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/taylor_lace_strap_wired_bra_1731-000027-0002_01a-2.jpg"
+    },
+    {
+        "prijs": 12.57,
+        "id": "1-1731-000022-0260",
+        "kleur": "Offwhite",
+        "naam": "Beugelbh met cup en dunne bandjes",
+        "url": "https://www.na-kd.com/nl/zoek-producten/thin-strap-wired-cup-bra-offwhite-1731-000022-0260",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/taylor_thin_strap_wired_cup_bra_1731-000022-0260_01a-1.jpg",
+            "https://www.na-kd.com/resize/globalassets/taylor_thin_strap_wired_cup_bra_1731-000022-0260_01a-1.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/taylor_thin_strap_wired_cup_bra_1731-000022-0260_01a-1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/taylor_thin_strap_wired_cup_bra_1731-000022-0260_01a-1.jpg"
+    },
+    {
+        "prijs": 12.57,
         "id": "1-1013-000509-0368",
         "kleur": "Lilac",
         "naam": "Satijnen Bralette",
@@ -352,6 +404,32 @@
     },
     {
         "prijs": 14.37,
+        "id": "1-1724-000064-0565",
+        "kleur": "Caviar",
+        "naam": "Gerecycleerd elle crop top met kant",
+        "url": "https://www.na-kd.com/nl/zoek-producten/gerecycleerd-elle-crop-top-met-kant-zwart-1724-000064-0565",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/hunkemoller_x_nakd_elle_lace_croptop_1724-000064-0565_01a.jpg",
+            "https://www.na-kd.com/resize/globalassets/hunkemoller_x_nakd_elle_lace_croptop_1724-000064-0565_01a.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/hunkemoller_x_nakd_elle_lace_croptop_1724-000064-0565_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/hunkemoller_x_nakd_elle_lace_croptop_1724-000064-0565_01a.jpg"
+    },
+    {
+        "prijs": 14.37,
+        "id": "1-1724-000064-1096",
+        "kleur": "Snow White",
+        "naam": "Gerecycleerd elle crop top met kant",
+        "url": "https://www.na-kd.com/nl/zoek-producten/gerecycleerd-elle-crop-top-met-kant-snow-white-1724-000064-1096",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/hunkemoller_x_nakd_elle_lace_croptop_1724-000064-1096_01a-1.jpg",
+            "https://www.na-kd.com/resize/globalassets/hunkemoller_x_nakd_elle_lace_croptop_1724-000064-1096_01a-1.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/hunkemoller_x_nakd_elle_lace_croptop_1724-000064-1096_01a-1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/hunkemoller_x_nakd_elle_lace_croptop_1724-000064-1096_01a-1.jpg"
+    },
+    {
+        "prijs": 14.37,
         "id": "1-1013-000717-0002",
         "kleur": "Black",
         "naam": "Mesh Bralette",
@@ -364,107 +442,29 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/thin_strap_mesh_top_1013-000717-0002_01a.jpg"
     },
     {
-        "prijs": 14.95,
-        "id": "1-1013-000818-0002",
+        "prijs": 14.37,
+        "id": "1-1560-000016-0927",
+        "kleur": "Ink",
+        "naam": "Rhinestone Rose Mesh Bra",
+        "url": "https://www.na-kd.com/nl/zoek-producten/rhinestone-rose-mesh-bra-zwart",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/galore_x_nakd_rhinestone_rose_mesh_bra_1560-000016-0927_01a.jpg",
+            "https://www.na-kd.com/resize/globalassets/galore_x_nakd_rhinestone_rose_mesh_bra_1560-000016-0927_01a.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/galore_x_nakd_rhinestone_rose_mesh_bra_1560-000016-0927_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/galore_x_nakd_rhinestone_rose_mesh_bra_1560-000016-0927_01a.jpg"
+    },
+    {
+        "prijs": 14.37,
+        "id": "1-1579-000047-0002",
         "kleur": "Black",
-        "naam": "Geribd Katoenen Top",
-        "url": "https://www.na-kd.com/nl/zoek-producten/geribd-katoenen-top-zwart",
+        "naam": "Scallop Lace Cup Bra",
+        "url": "https://www.na-kd.com/nl/zoek-producten/scallop-lace-cup-bra-zwart-1",
         "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0002_05g_r.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0002_05g_r.jpg"
+            "https://www.na-kd.com/resize/globalassets/pamela_scallop_lace_cup_bdra_1579-000047-0002_01a.jpg",
+            "https://www.na-kd.com/resize/globalassets/pamela_scallop_lace_cup_bdra_1579-000047-0002_01a.jpg"
         ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0002_05g_r.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0002_05g_r.jpg"
-    },
-    {
-        "prijs": 14.95,
-        "id": "1-1013-000818-0001",
-        "kleur": "White",
-        "naam": "Geribd Katoenen Top",
-        "url": "https://www.na-kd.com/nl/zoek-producten/geribd-katoenen-top-wit",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0001_01a_r.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0001_01a_r.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0001_01a_r.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0001_01a_r.jpg"
-    },
-    {
-        "prijs": 14.95,
-        "id": "1-1013-000818-0198",
-        "kleur": "Terracotta",
-        "naam": "Geribd Katoenen Top",
-        "url": "https://www.na-kd.com/nl/zoek-producten/geribd-katoenen-top-roze",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0198_01a_r.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0198_01a_r.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0198_01a_r.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0198_01a_r.jpg"
-    },
-    {
-        "prijs": 14.95,
-        "id": "1-1013-000818-0138",
-        "kleur": "Grey Melange",
-        "naam": "Geribd Katoenen Top",
-        "url": "https://www.na-kd.com/nl/zoek-producten/geribd-katoenen-top-grijs",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0138_01a_r.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0138_01a_r.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0138_01a_r.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0138_01a_r.jpg"
-    },
-    {
-        "prijs": 14.95,
-        "id": "1-1013-000937-1820",
-        "kleur": "Bark",
-        "naam": "Organic Pointelle Babylock Top",
-        "url": "https://www.na-kd.com/nl/zoek-producten/organic-pointelle-babylock-top-roze",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_organic_pointelle_babylock_top_1013-000937-1820_04b.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_organic_pointelle_babylock_top_1013-000937-1820_04b.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_organic_pointelle_babylock_top_1013-000937-1820_04b.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_organic_pointelle_babylock_top_1013-000937-1820_04b.jpg"
-    },
-    {
-        "prijs": 14.95,
-        "id": "1-1013-000937-0001",
-        "kleur": "White",
-        "naam": "Organic Pointelle Babylock Top",
-        "url": "https://www.na-kd.com/nl/zoek-producten/organic-pointelle-babylock-top-wit",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_organic_pointelle_babylock_top_1013-000937-0001_06g.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_organic_pointelle_babylock_top_1013-000937-0001_06g.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_organic_pointelle_babylock_top_1013-000937-0001_06g.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_organic_pointelle_babylock_top_1013-000937-0001_06g.jpg"
-    },
-    {
-        "prijs": 14.95,
-        "id": "1-1013-000650-0002",
-        "kleur": "Black",
-        "naam": "Bh Met Bandjes En Kant Aan De Voorkant",
-        "url": "https://www.na-kd.com/nl/zoek-producten/bh-met-bandjes-en-kant-aan-de-voorkant-zwart-1",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_front_bow_thin_strap_bra_1013-000650-0002_01a.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_front_bow_thin_strap_bra_1013-000650-0002_01a.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_front_bow_thin_strap_bra_1013-000650-0002_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_front_bow_thin_strap_bra_1013-000650-0002_01a.jpg"
-    },
-    {
-        "prijs": 14.95,
-        "id": "1-1013-000650-0719",
-        "kleur": "Pearl",
-        "naam": "Bh Met Bandjes En Kant Aan De Voorkant",
-        "url": "https://www.na-kd.com/nl/zoek-producten/bh-met-bandjes-en-kant-aan-de-voorkant-beige",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_front_bow_thin_strap_bra_1013-000650-0719_01a.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_front_bow_thin_strap_bra_1013-000650-0719_01a.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_front_bow_thin_strap_bra_1013-000650-0719_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_front_bow_thin_strap_bra_1013-000650-0719_01a.jpg"
+        "img_url": "https://www.na-kd.com/resize/globalassets/pamela_scallop_lace_cup_bdra_1579-000047-0002_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/pamela_scallop_lace_cup_bdra_1579-000047-0002_01a.jpg"
     }
 ]
