@@ -79,19 +79,6 @@
     },
     {
         "prijs": 8.38,
-        "id": "1-1013-000659-4376",
-        "kleur": "Thyme",
-        "naam": "Kanten Bralette",
-        "url": "https://www.na-kd.com/nl/zoek-producten/kanten-bralette-groen-1",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_romance_lace_soft_bra_1013-000659-4376_01a.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_romance_lace_soft_bra_1013-000659-4376_01a.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_romance_lace_soft_bra_1013-000659-4376_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_romance_lace_soft_bra_1013-000659-4376_01a.jpg"
-    },
-    {
-        "prijs": 8.38,
         "id": "1-1680-000028-0017",
         "kleur": "Brown",
         "naam": "Bh",
@@ -102,6 +89,19 @@
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/trine_kjaer_frill_detail_bra_1680-000028-0017_02a.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/trine_kjaer_frill_detail_bra_1680-000028-0017_02a.jpg"
+    },
+    {
+        "prijs": 8.38,
+        "id": "1-1013-000659-4376",
+        "kleur": "Thyme",
+        "naam": "Kanten Bralette",
+        "url": "https://www.na-kd.com/nl/zoek-producten/kanten-bralette-groen-1",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_romance_lace_soft_bra_1013-000659-4376_01a.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_romance_lace_soft_bra_1013-000659-4376_01a.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_romance_lace_soft_bra_1013-000659-4376_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_romance_lace_soft_bra_1013-000659-4376_01a.jpg"
     },
     {
         "prijs": 8.97,
@@ -300,45 +300,6 @@
     },
     {
         "prijs": 12.57,
-        "id": "1-1013-000921-0002",
-        "kleur": "Black",
-        "naam": "Zachte Geribde Triangeltop",
-        "url": "https://www.na-kd.com/nl/zoek-producten/zachte-geribde-triangeltop-zwart-1013-000921-0002",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakdsoft_ribbed_triangle_top_1013-000921-0002_03a.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakdsoft_ribbed_triangle_top_1013-000921-0002_03a.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakdsoft_ribbed_triangle_top_1013-000921-0002_03a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakdsoft_ribbed_triangle_top_1013-000921-0002_03a.jpg"
-    },
-    {
-        "prijs": 12.57,
-        "id": "1-1013-000921-0260",
-        "kleur": "Offwhite",
-        "naam": "Zachte Geribde Triangeltop",
-        "url": "https://www.na-kd.com/nl/zoek-producten/zachte-geribde-triangeltop-gebroken-wit-1013-000921-0260",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakdsoft_ribbed_triangle_top_1013-000921-0260_01a.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakdsoft_ribbed_triangle_top_1013-000921-0260_01a.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakdsoft_ribbed_triangle_top_1013-000921-0260_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakdsoft_ribbed_triangle_top_1013-000921-0260_01a.jpg"
-    },
-    {
-        "prijs": 12.57,
-        "id": "1-1013-000921-0801",
-        "kleur": "Raspberry",
-        "naam": "Zachte Geribde Triangeltop",
-        "url": "https://www.na-kd.com/nl/zoek-producten/zachte-geribde-triangeltop-roze-1013-000921-0801",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_soft_ribbed_triangle_top_1013-000921-0801_01a.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_soft_ribbed_triangle_top_1013-000921-0801_01a.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_soft_ribbed_triangle_top_1013-000921-0801_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_soft_ribbed_triangle_top_1013-000921-0801_01a.jpg"
-    },
-    {
-        "prijs": 12.57,
         "id": "1-1013-000509-0368",
         "kleur": "Lilac",
         "naam": "Satijnen Bralette",
@@ -391,32 +352,6 @@
     },
     {
         "prijs": 14.37,
-        "id": "1-1013-000944-0002",
-        "kleur": "Black",
-        "naam": "Gerecycleerd kanten korset met cups",
-        "url": "https://www.na-kd.com/nl/zoek-producten/gerecyclede-corset-met-kant-zwart-1013-000944-0002",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_lace_cup_corset_1013-000944-0002_01a-1.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_lace_cup_corset_1013-000944-0002_01a-1.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_lace_cup_corset_1013-000944-0002_01a-1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_recycled_lace_cup_corset_1013-000944-0002_01a-1.jpg"
-    },
-    {
-        "prijs": 14.37,
-        "id": "1-1018-007292-0001",
-        "kleur": "White",
-        "naam": "Gebreide Bralette",
-        "url": "https://www.na-kd.com/nl/zoek-producten/gebreide-bralette-wit",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_rib_knitted_bralette-1018-007292-0001_01a.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_rib_knitted_bralette-1018-007292-0001_01a.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_rib_knitted_bralette-1018-007292-0001_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_rib_knitted_bralette-1018-007292-0001_01a.jpg"
-    },
-    {
-        "prijs": 14.37,
         "id": "1-1013-000717-0002",
         "kleur": "Black",
         "naam": "Mesh Bralette",
@@ -427,19 +362,6 @@
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/thin_strap_mesh_top_1013-000717-0002_01a.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/thin_strap_mesh_top_1013-000717-0002_01a.jpg"
-    },
-    {
-        "prijs": 14.37,
-        "id": "1-1018-007292-0226",
-        "kleur": "Nougat",
-        "naam": "Gebreide Bralette",
-        "url": "https://www.na-kd.com/nl/zoek-producten/gebreide-bralette-bruin-1",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_rib_knitted_bralette-1018-007292-0226_01a.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_rib_knitted_bralette-1018-007292-0226_01a.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_rib_knitted_bralette-1018-007292-0226_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_rib_knitted_bralette-1018-007292-0226_01a.jpg"
     },
     {
         "prijs": 14.95,
@@ -466,5 +388,83 @@
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0001_01a_r.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0001_01a_r.jpg"
+    },
+    {
+        "prijs": 14.95,
+        "id": "1-1013-000818-0198",
+        "kleur": "Terracotta",
+        "naam": "Geribd Katoenen Top",
+        "url": "https://www.na-kd.com/nl/zoek-producten/geribd-katoenen-top-roze",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0198_01a_r.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0198_01a_r.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0198_01a_r.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0198_01a_r.jpg"
+    },
+    {
+        "prijs": 14.95,
+        "id": "1-1013-000818-0138",
+        "kleur": "Grey Melange",
+        "naam": "Geribd Katoenen Top",
+        "url": "https://www.na-kd.com/nl/zoek-producten/geribd-katoenen-top-grijs",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0138_01a_r.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0138_01a_r.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0138_01a_r.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0138_01a_r.jpg"
+    },
+    {
+        "prijs": 14.95,
+        "id": "1-1013-000937-1820",
+        "kleur": "Bark",
+        "naam": "Organic Pointelle Babylock Top",
+        "url": "https://www.na-kd.com/nl/zoek-producten/organic-pointelle-babylock-top-roze",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_organic_pointelle_babylock_top_1013-000937-1820_04b.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_organic_pointelle_babylock_top_1013-000937-1820_04b.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_organic_pointelle_babylock_top_1013-000937-1820_04b.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_organic_pointelle_babylock_top_1013-000937-1820_04b.jpg"
+    },
+    {
+        "prijs": 14.95,
+        "id": "1-1013-000937-0001",
+        "kleur": "White",
+        "naam": "Organic Pointelle Babylock Top",
+        "url": "https://www.na-kd.com/nl/zoek-producten/organic-pointelle-babylock-top-wit",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_organic_pointelle_babylock_top_1013-000937-0001_06g.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_organic_pointelle_babylock_top_1013-000937-0001_06g.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_organic_pointelle_babylock_top_1013-000937-0001_06g.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_organic_pointelle_babylock_top_1013-000937-0001_06g.jpg"
+    },
+    {
+        "prijs": 14.95,
+        "id": "1-1013-000650-0719",
+        "kleur": "Pearl",
+        "naam": "Bh Met Bandjes En Kant Aan De Voorkant",
+        "url": "https://www.na-kd.com/nl/zoek-producten/bh-met-bandjes-en-kant-aan-de-voorkant-beige",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_front_bow_thin_strap_bra_1013-000650-0719_01a.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_front_bow_thin_strap_bra_1013-000650-0719_01a.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_front_bow_thin_strap_bra_1013-000650-0719_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_front_bow_thin_strap_bra_1013-000650-0719_01a.jpg"
+    },
+    {
+        "prijs": 16.95,
+        "id": "1-1013-001044-0208",
+        "kleur": "Purple",
+        "naam": "Zacht microtop met kant aan de rand",
+        "url": "https://www.na-kd.com/nl/zoek-producten/zacht-microtop-met-kant-aan-de-rand-paars-1013-001044-0208",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_edge_soft_micro_top_1013-001044-0208_04a.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_edge_soft_micro_top_1013-001044-0208_04a.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_edge_soft_micro_top_1013-001044-0208_04a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_edge_soft_micro_top_1013-001044-0208_04a.jpg"
     }
 ]
