@@ -79,19 +79,6 @@
     },
     {
         "prijs": 8.38,
-        "id": "1-1680-000028-0017",
-        "kleur": "Brown",
-        "naam": "Bh",
-        "url": "https://www.na-kd.com/nl/zoek-producten/bh-bruin-3",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/trine_kjaer_frill_detail_bra_1680-000028-0017_02a.jpg",
-            "https://www.na-kd.com/resize/globalassets/trine_kjaer_frill_detail_bra_1680-000028-0017_02a.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/trine_kjaer_frill_detail_bra_1680-000028-0017_02a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/trine_kjaer_frill_detail_bra_1680-000028-0017_02a.jpg"
-    },
-    {
-        "prijs": 8.38,
         "id": "1-1013-000659-4376",
         "kleur": "Thyme",
         "naam": "Kanten Bralette",
@@ -466,5 +453,18 @@
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_edge_soft_micro_top_1013-001044-0208_04a.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_edge_soft_micro_top_1013-001044-0208_04a.jpg"
+    },
+    {
+        "prijs": 16.95,
+        "id": "1-1013-001044-0002",
+        "kleur": "Black",
+        "naam": "Zacht microtop met kant aan de rand",
+        "url": "https://www.na-kd.com/nl/zoek-producten/zacht-microtop-met-kant-aan-de-rand-zwart-1013-001044-0002",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_edge_soft_micro_top_1013-001044-0002_01a.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_edge_soft_micro_top_1013-001044-0002_01a.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_edge_soft_micro_top_1013-001044-0002_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_edge_soft_micro_top_1013-001044-0002_01a.jpg"
     }
 ]
