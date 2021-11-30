@@ -235,6 +235,32 @@
     },
     {
         "prijs": 10.47,
+        "id": "1-1013-000948-0138",
+        "kleur": "Grey Melange",
+        "naam": "Katoenen top met naaddetail en patch",
+        "url": "https://www.na-kd.com/nl/zoek-producten/katoenen-top-met-naaddetail-en-patch-grijs-1013-000948-0138",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_seam_detail_patched_cotton_top_1013-000948-0138_01g.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_seam_detail_patched_cotton_top_1013-000948-0138_01g.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_seam_detail_patched_cotton_top_1013-000948-0138_01g.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_seam_detail_patched_cotton_top_1013-000948-0138_01g.jpg"
+    },
+    {
+        "prijs": 10.47,
+        "id": "1-1013-000725-0002",
+        "kleur": "Black",
+        "naam": "Satijnen Bralette",
+        "url": "https://www.na-kd.com/nl/zoek-producten/satijnen-bralette-zwart-2",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/strappy_weekend_bra_1013-000725-0002_02b.jpg",
+            "https://www.na-kd.com/resize/globalassets/strappy_weekend_bra_1013-000725-0002_02b.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/strappy_weekend_bra_1013-000725-0002_02b.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/strappy_weekend_bra_1013-000725-0002_02b.jpg"
+    },
+    {
+        "prijs": 10.47,
         "id": "1-1013-000509-0368",
         "kleur": "Lilac",
         "naam": "Satijnen Bralette",
@@ -258,19 +284,6 @@
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_micro_lace_edge_bra-1013-000681-0689_01a.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_micro_lace_edge_bra-1013-000681-0689_01a.jpg"
-    },
-    {
-        "prijs": 10.47,
-        "id": "1-1013-000725-0002",
-        "kleur": "Black",
-        "naam": "Satijnen Bralette",
-        "url": "https://www.na-kd.com/nl/zoek-producten/satijnen-bralette-zwart-2",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/strappy_weekend_bra_1013-000725-0002_02b.jpg",
-            "https://www.na-kd.com/resize/globalassets/strappy_weekend_bra_1013-000725-0002_02b.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/strappy_weekend_bra_1013-000725-0002_02b.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/strappy_weekend_bra_1013-000725-0002_02b.jpg"
     },
     {
         "prijs": 10.47,
@@ -453,18 +466,5 @@
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mesh_triangle_lace_edge_dotted_bra_1013-000582-0002_01a.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_mesh_triangle_lace_edge_dotted_bra_1013-000582-0002_01a.jpg"
-    },
-    {
-        "prijs": 11.95,
-        "id": "1-1013-000582-9077",
-        "kleur": "Hushed Violet",
-        "naam": "Mesh-Triangel-Bh Met Stippen",
-        "url": "https://www.na-kd.com/nl/zoek-producten/mesh-triangel-bh-met-stippen-roze",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_mesh_triangle_lace_edge_dotted_bra_1013-000582-9077_01a.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_mesh_triangle_lace_edge_dotted_bra_1013-000582-9077_01a.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mesh_triangle_lace_edge_dotted_bra_1013-000582-9077_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_mesh_triangle_lace_edge_dotted_bra_1013-000582-9077_01a.jpg"
     }
 ]
