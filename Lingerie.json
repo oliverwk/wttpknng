@@ -181,26 +181,6 @@
         "kleurHex": null
     },
     {
-        "naam": "V-String",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0005_01j-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0005_02i-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0005_02h-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0005_04k-1.jpg?width=640"
-        ],
-        "prijs": 5.97,
-        "kleur": "Beige",
-        "kleurFamilies": [
-            "Yellow",
-            "Brown"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0005_01j-1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0005_04k-1.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/v-string-geel",
-        "id": "1-1013-000782-0005-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Kanten String",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_lace_high_cut_thong_1013-000714-0368_01h.jpg?width=640",
@@ -219,6 +199,26 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_high_cut_thong_1013-000714-0368_04k.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-string-paars-2",
         "id": "1-1013-000714-0368-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "V-String",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0005_01j-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0005_02i-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0005_02h-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0005_04k-1.jpg?width=640"
+        ],
+        "prijs": 5.97,
+        "kleur": "Beige",
+        "kleurFamilies": [
+            "Yellow",
+            "Brown"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0005_01j-1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0005_04k-1.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/v-string-geel",
+        "id": "1-1013-000782-0005-004",
         "kleurHex": null
     },
     {
