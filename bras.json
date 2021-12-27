@@ -443,19 +443,6 @@
     },
     {
         "prijs": 10.47,
-        "id": "1-1013-000770-8909",
-        "kleur": "Light Khaki",
-        "naam": "Triangel Bh",
-        "url": "https://www.na-kd.com/nl/zoek-producten/triangel-bh-groen",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_triangle_satin_edge_bra_1013-000770-8909_01a-1.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_triangle_satin_edge_bra_1013-000770-8909_01a-1.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_triangle_satin_edge_bra_1013-000770-8909_01a-1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_triangle_satin_edge_bra_1013-000770-8909_01a-1.jpg"
-    },
-    {
-        "prijs": 10.47,
         "id": "1-1013-000765-1420",
         "kleur": "Pink Umber",
         "naam": "Mesh Bh",
@@ -466,5 +453,18 @@
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_banded_mesh_wireless_bra_1013-000765-1420_01a.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_banded_mesh_wireless_bra_1013-000765-1420_01a.jpg"
+    },
+    {
+        "prijs": 10.47,
+        "id": "1-1013-000770-8909",
+        "kleur": "Light Khaki",
+        "naam": "Triangel Bh",
+        "url": "https://www.na-kd.com/nl/zoek-producten/triangel-bh-groen",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_triangle_satin_edge_bra_1013-000770-8909_01a-1.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_triangle_satin_edge_bra_1013-000770-8909_01a-1.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_triangle_satin_edge_bra_1013-000770-8909_01a-1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_triangle_satin_edge_bra_1013-000770-8909_01a-1.jpg"
     }
 ]
