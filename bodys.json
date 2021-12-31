@@ -186,27 +186,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Kanten body",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-4070_01a-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-4070_01j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-4070_02k.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-4070_03g.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-4070_04g.jpg?width=640"
-        ],
-        "prijs": 34.95,
-        "kleur": "Off White",
-        "kleurFamilies": [
-            "Black",
-            "Offwhite"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-4070_01a-1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-4070_04g.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-body-gebroken-wit-1731-000026-4070",
-        "id": "1-1731-000026-4070-004",
-        "kleurHex": null
-    },
-    {
         "naam": "2-Pack basic hemdje",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/trendyol_2-pack_basic_singlet_1494-004187-0041_01a.jpg?width=640",
@@ -227,6 +206,27 @@
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/2-pack-basic-singlet-veelkleurig-1494-004187-0041",
         "id": "1-1494-004187-0041-005",
         "kleurHex": "#E2E4E0"
+    },
+    {
+        "naam": "Kanten body",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-4070_01a-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-4070_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-4070_02k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-4070_03g.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-4070_04g.jpg?width=640"
+        ],
+        "prijs": 34.95,
+        "kleur": "Off White",
+        "kleurFamilies": [
+            "Black",
+            "Offwhite"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-4070_01a-1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-4070_04g.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-body-gebroken-wit-1731-000026-4070",
+        "id": "1-1731-000026-4070-004",
+        "kleurHex": null
     },
     {
         "naam": "Cut Out Front Lace Bodysuit",
@@ -344,13 +344,37 @@
         "kleurFamilies": [
             "White",
             "Black",
-            "Beige",
             "Orange"
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string-bodysuit_1013-000641-9530_01j.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string-bodysuit_1013-000641-9530_05g.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/v-string-bodysuit-met-ruwe-zoom-en-kanten-cups-oranje",
         "id": "1-1013-000641-9530-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "V-String Bodysuit Met Ruwe Zoom En Kanten Cups",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0002_04j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0002_01g.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0002_04k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0002_03j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0002_05k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0002_06c.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0002_07g.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0002_08g.jpg?width=640"
+        ],
+        "prijs": 40.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "White",
+            "Black",
+            "Orange"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0002_04j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0002_08g.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/v-string-bodysuit-met-ruwe-zoom-en-kanten-cups-zwart",
+        "id": "1-1013-000641-0002-004",
         "kleurHex": null
     },
     {
@@ -368,7 +392,6 @@
         "kleurFamilies": [
             "White",
             "Black",
-            "Beige",
             "Orange"
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0001_01a.jpg",
@@ -378,27 +401,22 @@
         "kleurHex": null
     },
     {
-        "naam": "V-String Bodysuit Met Ruwe Zoom En Kanten Cups",
+        "naam": "Lace Detail Bodysuit",
         "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0719_01a.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0719_02j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0719_03k.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0719_04b.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0719_05c.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0719_06g.jpg?width=640"
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_02c.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_03b.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_04a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_01d.jpg?width=640"
         ],
-        "prijs": 40.95,
-        "kleur": "Pearl",
+        "prijs": 43.95,
+        "kleur": "Black",
         "kleurFamilies": [
-            "White",
-            "Black",
-            "Beige",
-            "Orange"
+            "Black"
         ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0719_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0719_06g.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/v-string-bodysuit-met-ruwe-zoom-en-kanten-cups-beige",
-        "id": "1-1013-000641-0719-004",
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_02c.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_01d.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/lace-detail-bodysuit-zwart",
+        "id": "1-1013-000495-0002-004",
         "kleurHex": null
     },
     {
