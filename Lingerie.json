@@ -646,28 +646,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Gestructureerde tanga met kantdetail",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_thong-1013-000911-0001_01b.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_thong-1013-000911-0001_02h.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_thong-1013-000911-0001_03i.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_thong-1013-000911-0001_04a.jpg?width=640"
-        ],
-        "prijs": 7.17,
-        "kleur": "White",
-        "kleurFamilies": [
-            "White",
-            "Black",
-            "Orange",
-            "Green"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_thong-1013-000911-0001_01b.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_thong-1013-000911-0001_04a.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/structured-lace-detail-thong-white-1013-000911-0001",
-        "id": "1-1013-000911-0001-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Satijnen String",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_ruffled_detailed_satin_thong-1013-001035-0002_01e.jpg?width=640",
@@ -687,27 +665,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_ruffled_detailed_satin_thong_1013-001035-0002_03c-1.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/satijnen-string-zwart-1013-001035-0002",
         "id": "1-1013-001035-0002-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "String",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_strap_detailed_high_waist_ribbed_thong-1013-000836-0002_01k.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_strap_detailed_high_waist_ribbed_thong-1013-000836-0002_04j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_strap_detailed_high_waist_ribbed_thong-1013-000836-0002_03h.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_strap_detailed_high_waist_ribbed_thong-1013-000836-0002_02h.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_strap_detailed_high_waist_ribbed_thong-1013-000836-0002_05k.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_strap_detailed_high_waist_ribbed_thong-1013-000836-0002_05a.jpg?width=640"
-        ],
-        "prijs": 7.17,
-        "kleur": "Black",
-        "kleurFamilies": [
-            "Black"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_strap_detailed_high_waist_ribbed_thong-1013-000836-0002_01k.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_strap_detailed_high_waist_ribbed_thong-1013-000836-0002_05a.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/string-zwart-21",
-        "id": "1-1013-000836-0002-004",
         "kleurHex": null
     },
     {
@@ -731,6 +688,49 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_lace_detail_cotton_thong_1013-000931-0115_05g-1.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/hooguitgesneden-katoenen-tanga-met-kantdetail-roze-1013-000931-0115",
         "id": "1-1013-000931-0115-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Gestructureerde tanga met kantdetail",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_thong-1013-000911-0001_01b.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_thong-1013-000911-0001_02h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_thong-1013-000911-0001_03i.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_thong-1013-000911-0001_04a.jpg?width=640"
+        ],
+        "prijs": 7.17,
+        "kleur": "White",
+        "kleurFamilies": [
+            "White",
+            "Black",
+            "Orange",
+            "Green"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_thong-1013-000911-0001_01b.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_thong-1013-000911-0001_04a.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/structured-lace-detail-thong-white-1013-000911-0001",
+        "id": "1-1013-000911-0001-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "String",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_strap_detailed_high_waist_ribbed_thong-1013-000836-0002_01k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_strap_detailed_high_waist_ribbed_thong-1013-000836-0002_04j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_strap_detailed_high_waist_ribbed_thong-1013-000836-0002_03h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_strap_detailed_high_waist_ribbed_thong-1013-000836-0002_02h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_strap_detailed_high_waist_ribbed_thong-1013-000836-0002_05k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_strap_detailed_high_waist_ribbed_thong-1013-000836-0002_05a.jpg?width=640"
+        ],
+        "prijs": 7.17,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "Black"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_strap_detailed_high_waist_ribbed_thong-1013-000836-0002_01k.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_strap_detailed_high_waist_ribbed_thong-1013-000836-0002_05a.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/string-zwart-21",
+        "id": "1-1013-000836-0002-004",
         "kleurHex": null
     }
 ]
