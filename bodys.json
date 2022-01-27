@@ -1,5 +1,25 @@
 [
     {
+        "naam": "Mesh Body",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_03j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_02k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_04a.jpg?width=640"
+        ],
+        "prijs": 13.98,
+        "kleur": "White",
+        "kleurFamilies": [
+            "White",
+            "Black"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_03j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_04a.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/mesh-body-wit",
+        "id": "1-1013-000762-0001-004",
+        "kleurHex": null
+    },
+    {
         "naam": "Geribde Body Met Cupvorm En Lage Rug",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_cup_shape_ribbed_low_back_body_1013-000838-0115_01b.jpg?width=640",
@@ -37,26 +57,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_cut_out_lace_v-string_bodysuit_1013-000769-0002_02m.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-body-zwart-9",
         "id": "1-1013-000769-0002-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Mesh Body",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_03j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_02k.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_01j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_04a.jpg?width=640"
-        ],
-        "prijs": 17.47,
-        "kleur": "White",
-        "kleurFamilies": [
-            "White",
-            "Black"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_03j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_04a.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/mesh-body-wit",
-        "id": "1-1013-000762-0001-004",
         "kleurHex": null
     },
     {
@@ -105,68 +105,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string-bodysuit_1013-000641-9530_05g.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/v-string-bodysuit-met-ruwe-zoom-en-kanten-cups-oranje",
         "id": "1-1013-000641-9530-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Katoenen body met racer back",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_racer_back_patched_cotton_body_1013-000947-0138_01c.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_racer_back_patched_cotton_body_1013-000947-0138_02b.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_racer_back_patched_cotton_body_1013-000947-0138_03a.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_racer_back_patched_cotton_body_1013-000947-0138_04b.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_racer_back_patched_cotton_body_1013-000947-0138_05g.jpg?width=640"
-        ],
-        "prijs": 25.16,
-        "kleur": "Grey Melange",
-        "kleurFamilies": [
-            "Grey"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_racer_back_patched_cotton_body_1013-000947-0138_01c.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_racer_back_patched_cotton_body_1013-000947-0138_05g.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/katoenen-body-met-racer-back-grey-melange-1013-000947-0138",
-        "id": "1-1013-000947-0138-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Kanten body",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-4070_01a-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-4070_01j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-4070_02k.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-4070_03g.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-4070_04g.jpg?width=640"
-        ],
-        "prijs": 26.21,
-        "kleur": "Off White",
-        "kleurFamilies": [
-            "Black",
-            "Offwhite"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-4070_01a-1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-4070_04g.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-body-gebroken-wit-1731-000026-4070",
-        "id": "1-1731-000026-4070-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Kanten body",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_nakd_dotted_mesh_lace_bodysuits_1013-000455-0002_01j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_nakd_dotted_mesh_lace_bodysuits_1013-000455-0002_02k.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_nakd_dotted_mesh_lace_bodysuits_1013-000455-0002_03j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_nakd_dotted_mesh_lace_bodysuits_1013-000455-0002_04c.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_nakd_dotted_mesh_lace_bodysuits_1013-000455-0002_05g.jpg?width=640"
-        ],
-        "prijs": 28.66,
-        "kleur": "Black",
-        "kleurFamilies": [
-            "Black",
-            "Pink"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_nakd_dotted_mesh_lace_bodysuits_1013-000455-0002_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_nakd_dotted_mesh_lace_bodysuits_1013-000455-0002_05g.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/dotted-mesh-lace-bodysuit-zwart",
-        "id": "1-1013-000455-0002-004",
         "kleurHex": null
     },
     {
@@ -253,6 +191,24 @@
         "kleurHex": null
     },
     {
+        "naam": "Bodysuit Met Flirterige Volant",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_flirty_flounce_bodysuit_1013-000800-0002_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_flirty_flounce_bodysuit_1013-000800-0002_02k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_flirty_flounce_bodysuit_1013-000800-0002_03a.jpg?width=640"
+        ],
+        "prijs": 34.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "Black"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_flirty_flounce_bodysuit_1013-000800-0002_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_flirty_flounce_bodysuit_1013-000800-0002_03a.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/bodysuit-met-flirterige-volant-zwart",
+        "id": "1-1013-000800-0002-004",
+        "kleurHex": null
+    },
+    {
         "naam": "Body met v-hals",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_recycled_v-neck_lace_bodysuit-1013-001109-0002_2.jpg?width=640",
@@ -293,21 +249,24 @@
         "kleurHex": null
     },
     {
-        "naam": "Bodysuit Met Flirterige Volant",
+        "naam": "Kanten body",
         "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_flirty_flounce_bodysuit_1013-000800-0002_01j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_flirty_flounce_bodysuit_1013-000800-0002_02k.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_flirty_flounce_bodysuit_1013-000800-0002_03a.jpg?width=640"
+            "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-4070_01a-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-4070_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-4070_02k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-4070_03g.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-4070_04g.jpg?width=640"
         ],
         "prijs": 34.95,
-        "kleur": "Black",
+        "kleur": "Off White",
         "kleurFamilies": [
-            "Black"
+            "Black",
+            "Offwhite"
         ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_flirty_flounce_bodysuit_1013-000800-0002_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_flirty_flounce_bodysuit_1013-000800-0002_03a.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/bodysuit-met-flirterige-volant-zwart",
-        "id": "1-1013-000800-0002-004",
+        "img_url": "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-4070_01a-1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-4070_04g.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-body-gebroken-wit-1731-000026-4070",
+        "id": "1-1731-000026-4070-004",
         "kleurHex": null
     },
     {
@@ -444,6 +403,26 @@
         "kleurHex": null
     },
     {
+        "naam": "Katoenen body met racer back",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_racer_back_patched_cotton_body_1013-000947-0138_01c.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_racer_back_patched_cotton_body_1013-000947-0138_02b.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_racer_back_patched_cotton_body_1013-000947-0138_03a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_racer_back_patched_cotton_body_1013-000947-0138_04b.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_racer_back_patched_cotton_body_1013-000947-0138_05g.jpg?width=640"
+        ],
+        "prijs": 35.95,
+        "kleur": "Grey Melange",
+        "kleurFamilies": [
+            "Grey"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_racer_back_patched_cotton_body_1013-000947-0138_01c.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_racer_back_patched_cotton_body_1013-000947-0138_05g.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/katoenen-body-met-racer-back-grey-melange-1013-000947-0138",
+        "id": "1-1013-000947-0138-004",
+        "kleurHex": null
+    },
+    {
         "naam": "Kanten body",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0002_01j_r1.jpg?width=640",
@@ -492,6 +471,27 @@
         "kleurHex": null
     },
     {
+        "naam": "Kanten body",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_nakd_dotted_mesh_lace_bodysuits_1013-000455-0002_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_nakd_dotted_mesh_lace_bodysuits_1013-000455-0002_02k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_nakd_dotted_mesh_lace_bodysuits_1013-000455-0002_03j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_nakd_dotted_mesh_lace_bodysuits_1013-000455-0002_04c.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_nakd_dotted_mesh_lace_bodysuits_1013-000455-0002_05g.jpg?width=640"
+        ],
+        "prijs": 40.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "Black",
+            "Pink"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_nakd_dotted_mesh_lace_bodysuits_1013-000455-0002_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_nakd_dotted_mesh_lace_bodysuits_1013-000455-0002_05g.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/dotted-mesh-lace-bodysuit-zwart",
+        "id": "1-1013-000455-0002-004",
+        "kleurHex": null
+    },
+    {
         "naam": "V-String Bodysuit Met Ruwe Zoom En Kanten Cups",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0002_04j.jpg?width=640",
@@ -517,32 +517,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0002_08g.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/v-string-bodysuit-met-ruwe-zoom-en-kanten-cups-zwart",
         "id": "1-1013-000641-0002-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "V-String Bodysuit Met Ruwe Zoom En Kanten Cups",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0001_01a.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0001_02j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0001_03k.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0001_04k.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0001_05c.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0001_06g.jpg?width=640"
-        ],
-        "prijs": 40.95,
-        "kleur": "White",
-        "kleurFamilies": [
-            "White",
-            "Black",
-            "Red",
-            "Beige",
-            "Pink",
-            "Orange"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0001_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0001_06g.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/v-string-bodysuit-met-ruwe-zoom-en-kanten-cups-wit",
-        "id": "1-1013-000641-0001-004",
         "kleurHex": null
     },
     {
