@@ -192,6 +192,27 @@
         "kleurHex": null
     },
     {
+        "naam": "Kanten body",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-0002_03j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-0002_02k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-0002_04c.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-0002_01g.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-0002_01a-1.jpg?width=640"
+        ],
+        "prijs": 34.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "Black",
+            "Offwhite"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-0002_03j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-0002_01a-1.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-body-zwart-1731-000026-0002",
+        "id": "1-1731-000026-0002-004",
+        "kleurHex": null
+    },
+    {
         "naam": "Body met v-hals",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_recycled_v-neck_lace_bodysuit-1013-001109-0002_2.jpg?width=640",
@@ -229,27 +250,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_satin_flounce_lace_v-string_body_1013-000994-0366_04d.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/satijnen-body-met-v-string-en-volant-en-kant-grijs-1013-000994-0366",
         "id": "1-1013-000994-0366-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Kanten body",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-0002_03j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-0002_02k.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-0002_04c.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-0002_01g.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-0002_01a-1.jpg?width=640"
-        ],
-        "prijs": 34.95,
-        "kleur": "Black",
-        "kleurFamilies": [
-            "Black",
-            "Offwhite"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-0002_03j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-0002_01a-1.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-body-zwart-1731-000026-0002",
-        "id": "1-1731-000026-0002-004",
         "kleurHex": null
     },
     {
@@ -402,26 +402,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_recycled_v-neck_lace_bodysuit-1013-001109-0015_31996.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/body-met-v-hals-roze-1013-001109-0015",
         "id": "1-1013-001109-0015-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Bodysuit",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/body_black_1724-000042-0002_01j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/body_black_1724-000042-0002_02j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/body_black_1724-000042-0002_03g.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/body_black_1724-000042-0002_04j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/body_black_1724-000042-0002_05g.jpg?width=640"
-        ],
-        "prijs": 35.95,
-        "kleur": "Black",
-        "kleurFamilies": [
-            "Black"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/body_black_1724-000042-0002_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/body_black_1724-000042-0002_05g.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/bodysuit-zwart-15",
-        "id": "1-1724-000042-0002-415",
         "kleurHex": null
     },
     {
@@ -585,6 +565,26 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_1013-000455-9593_03g.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/dotted-mesh-lace-bodysuit-whistful-mauve",
         "id": "1-1013-000455-9593-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Body met V-hals met kant voor",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_v-neck_front_lacing_body_1013-000908-0002_03a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v-neck_front_lacing_body_1013-000908-0002_02b.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v-neck_front_lacing_body_1013-000908-0002_04g.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v-neck_front_lacing_body_1013-000908-0002_01g.jpg?width=640"
+        ],
+        "prijs": 43.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "Black",
+            "Multicolor"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_v-neck_front_lacing_body_1013-000908-0002_03a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_v-neck_front_lacing_body_1013-000908-0002_01g.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/v-neck-front-lacing-body-black-1013-000908-0002",
+        "id": "1-1013-000908-0002-004",
         "kleurHex": null
     },
     {
