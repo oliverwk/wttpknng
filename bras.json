@@ -157,19 +157,6 @@
     },
     {
         "prijs": 8.78,
-        "id": "1-1680-000028-0017",
-        "kleur": "Brown",
-        "naam": "Bh",
-        "url": "https://www.na-kd.com/nl/zoek-producten/bh-bruin-3",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/trine_kjaer_frill_detail_bra_1680-000028-0017_02a.jpg",
-            "https://www.na-kd.com/resize/globalassets/trine_kjaer_frill_detail_bra_1680-000028-0017_02a.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/trine_kjaer_frill_detail_bra_1680-000028-0017_02a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/trine_kjaer_frill_detail_bra_1680-000028-0017_02a.jpg"
-    },
-    {
-        "prijs": 8.78,
         "id": "1-1013-000509-0368",
         "kleur": "Lilac",
         "naam": "Satijnen Bralette",
@@ -466,5 +453,18 @@
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_edge_soft_micro_top_1013-001044-0719_01g.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_edge_soft_micro_top_1013-001044-0719_01g.jpg"
+    },
+    {
+        "prijs": 15.95,
+        "id": "1-1013-000272-8174",
+        "kleur": "Buff Beige",
+        "naam": "Basic Gebloemde Kanten Bh",
+        "url": "https://www.na-kd.com/nl/zoek-producten/basic-gebloemde-kanten-bh-beige",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_basic_frloral_lace_bra_1013-000272-8174_01a-1.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_basic_frloral_lace_bra_1013-000272-8174_01a-1.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_basic_frloral_lace_bra_1013-000272-8174_01a-1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_basic_frloral_lace_bra_1013-000272-8174_01a-1.jpg"
     }
 ]
