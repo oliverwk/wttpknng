@@ -20,26 +20,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Mesh Body",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_03j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_02k.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_01j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_04a.jpg?width=640"
-        ],
-        "prijs": 14.78,
-        "kleur": "White",
-        "kleurFamilies": [
-            "White",
-            "Black"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_03j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_04a.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/mesh-body-wit",
-        "id": "1-1013-000762-0001-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Geribde Body Met Cupvorm En Lage Rug",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_cup_shape_ribbed_low_back_body-1013-000838-0002_01b.jpg?width=640",
@@ -58,6 +38,26 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/210121-valentines-day_1013-000838-0002_01s.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/geribde-body-met-cupvorm-en-lage-rug-zwart",
         "id": "1-1013-000838-0002-664",
+        "kleurHex": null
+    },
+    {
+        "naam": "Mesh Body",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_03j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_02k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_04a.jpg?width=640"
+        ],
+        "prijs": 14.78,
+        "kleur": "White",
+        "kleurFamilies": [
+            "White",
+            "Black"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_03j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_04a.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/mesh-body-wit",
+        "id": "1-1013-000762-0001-004",
         "kleurHex": null
     },
     {
@@ -169,6 +169,29 @@
         "kleurHex": null
     },
     {
+        "naam": "Body",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/matiamubysofiastrap_strap_jersey_body_1690-000019-0001_01a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/matiamubysofiastrap_strap_jersey_body_1690-000019-0001_02j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/matiamubysofiastrap_strap_jersey_body_1690-000019-0001_02k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/matiamubysofiastrap_strap_jersey_body_1690-000019-0001_02a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/matiamubysofiastrap_strap_jersey_body_1690-000019-0001_04b.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/matiamubysofiastrap_strap_jersey_body_1690-000019-0001_05c.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/matiamubysofiastrap_strap_jersey_body_1690-000019-0001_06g.jpg?width=640"
+        ],
+        "prijs": 24.95,
+        "kleur": "White",
+        "kleurFamilies": [
+            "White",
+            "Black"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/matiamubysofiastrap_strap_jersey_body_1690-000019-0001_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/matiamubysofiastrap_strap_jersey_body_1690-000019-0001_06g.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/body-wit-8",
+        "id": "1-1690-000019-0001-004",
+        "kleurHex": null
+    },
+    {
         "naam": "Bodysuit met schouderstrik en kant",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_shoulder_tie_lace_bodysuit-1013-001127-0002_polaroid.jpg?width=640",
@@ -207,6 +230,25 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakdshoulder_tie_lace_bodysuit_1013-001127-107347354.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/shoulder-tie-lace-bodysuit-brick-red-1013-001127-1073",
         "id": "1-1013-001127-1073-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Bodysuit Met Stippen",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_all_over_dotted_bodysuit_1013-000798-0002_01g.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_all_over_dotted_bodysuit_1013-000798-0002_03k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_all_over_dotted_bodysuit_1013-000798-0002_02j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_all_over_dotted_bodysuit_1013-000798-0002_04g.jpg?width=640"
+        ],
+        "prijs": 30.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "Black"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_all_over_dotted_bodysuit_1013-000798-0002_01g.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_all_over_dotted_bodysuit_1013-000798-0002_04g.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/bodysuit-met-stippen-zwart",
+        "id": "1-1013-000798-0002-004",
         "kleurHex": null
     },
     {
@@ -487,27 +529,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_round_neck_micro_thong_body_1013-000884-0002_05g.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/string-body-zwart",
         "id": "1-1013-000884-0002-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Kanten body",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_nakd_dotted_mesh_lace_bodysuits_1013-000455-0002_01j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_nakd_dotted_mesh_lace_bodysuits_1013-000455-0002_02k.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_nakd_dotted_mesh_lace_bodysuits_1013-000455-0002_03j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_nakd_dotted_mesh_lace_bodysuits_1013-000455-0002_04c.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_nakd_dotted_mesh_lace_bodysuits_1013-000455-0002_05g.jpg?width=640"
-        ],
-        "prijs": 42.95,
-        "kleur": "Black",
-        "kleurFamilies": [
-            "Black",
-            "Pink"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_nakd_dotted_mesh_lace_bodysuits_1013-000455-0002_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_nakd_dotted_mesh_lace_bodysuits_1013-000455-0002_05g.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/dotted-mesh-lace-bodysuit-zwart",
-        "id": "1-1013-000455-0002-004",
         "kleurHex": null
     },
     {
