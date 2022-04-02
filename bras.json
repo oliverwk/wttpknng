@@ -209,19 +209,6 @@
     },
     {
         "prijs": 9.58,
-        "id": "1-1680-000028-0017",
-        "kleur": "Brown",
-        "naam": "Bh",
-        "url": "https://www.na-kd.com/nl/zoek-producten/bh-bruin-3",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/trine_kjaer_frill_detail_bra_1680-000028-0017_02a.jpg",
-            "https://www.na-kd.com/resize/globalassets/trine_kjaer_frill_detail_bra_1680-000028-0017_02a.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/trine_kjaer_frill_detail_bra_1680-000028-0017_02a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/trine_kjaer_frill_detail_bra_1680-000028-0017_02a.jpg"
-    },
-    {
-        "prijs": 9.58,
         "id": "1-1013-000772-0068",
         "kleur": "Light Grey",
         "naam": "Triangel Bh",
@@ -466,5 +453,18 @@
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/finnia_cut_out_bralette_1724-000004-9389_05a.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/finnia_cut_out_bralette_1724-000004-9389_05a.jpg"
+    },
+    {
+        "prijs": 11.97,
+        "id": "1-1013-001034-0719",
+        "kleur": "Pearl",
+        "naam": "Satijnen Bh",
+        "url": "https://www.na-kd.com/nl/zoek-producten/satijnen-bh-gebroken-wit-1013-001034-0719",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_ruffled_edge_satin_bra_1013-001034-0719_01a-1.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_ruffled_edge_satin_bra_1013-001034-0719_01a-1.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_ruffled_edge_satin_bra_1013-001034-0719_01a-1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_ruffled_edge_satin_bra_1013-001034-0719_01a-1.jpg"
     }
 ]
