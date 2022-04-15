@@ -13,19 +13,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_sporty_mesh_bra_1013-000702-0719_01a.jpg"
     },
     {
-        "prijs": 7.58,
-        "id": "1-1013-000817-0198",
-        "kleur": "Terracotta",
-        "naam": "Geribd Katoenen Triangeltop",
-        "url": "https://www.na-kd.com/nl/zoek-producten/geribd-katoenen-triangeltop-bruin",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_triangle_top_1013-000817-0198_01a_r.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_triangle_top_1013-000817-0198_01a_r.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_triangle_top_1013-000817-0198_01a_r.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_triangle_top_1013-000817-0198_01a_r.jpg"
-    },
-    {
         "prijs": 8.47,
         "id": "1-1013-000937-1820",
         "kleur": "Bark",
@@ -37,6 +24,19 @@
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_organic_pointelle_babylock_top_1013-000937-1820_04b.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_organic_pointelle_babylock_top_1013-000937-1820_04b.jpg"
+    },
+    {
+        "prijs": 8.38,
+        "id": "1-1013-000817-0198",
+        "kleur": "Terracotta",
+        "naam": "Geribd Katoenen Triangeltop",
+        "url": "https://www.na-kd.com/nl/zoek-producten/geribd-katoenen-triangeltop-bruin",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_triangle_top_1013-000817-0198_01a_r.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_triangle_top_1013-000817-0198_01a_r.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_triangle_top_1013-000817-0198_01a_r.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_cotton_triangle_top_1013-000817-0198_01a_r.jpg"
     },
     {
         "prijs": 8.97,
@@ -391,19 +391,6 @@
     },
     {
         "prijs": 12.57,
-        "id": "1-1013-000821-0010",
-        "kleur": "Green",
-        "naam": "Triangel-top van elastisch kant",
-        "url": "https://www.na-kd.com/nl/zoek-producten/triangel-top-van-elastisch-kant-green-1013-000821-0010",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_elastic_lace_trinagle_top_1013-000821-0010_bgd.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_elastic_lace_trinagle_top_1013-000821-0010_bgd.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_elastic_lace_trinagle_top_1013-000821-0010_bgd.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_elastic_lace_trinagle_top_1013-000821-0010_bgd.jpg"
-    },
-    {
-        "prijs": 12.57,
         "id": "1-1013-000948-0001",
         "kleur": "White",
         "naam": "Katoenen top met naaddetail en patch",
@@ -466,5 +453,18 @@
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cute_wireless_cup_shape_lace_bralette_1013-001041-0261_01a.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_cute_wireless_cup_shape_lace_bralette_1013-001041-0261_01a.jpg"
+    },
+    {
+        "prijs": 13.26,
+        "id": "1-1013-000959-0002",
+        "kleur": "Black",
+        "naam": "Mesh bh met geschulpte rand",
+        "url": "https://www.na-kd.com/nl/zoek-producten/mesh-bh-met-geschulpte-rand-zwart-1013-000959-0002",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_clean_scallop_edge_mesh_bra_1013-000959-0002_02a.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_clean_scallop_edge_mesh_bra_1013-000959-0002_02a.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_clean_scallop_edge_mesh_bra_1013-000959-0002_02a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_clean_scallop_edge_mesh_bra_1013-000959-0002_02a.jpg"
     }
 ]
