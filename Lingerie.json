@@ -706,31 +706,6 @@
         "kleurHex": null
     },
     {
-        "naam": "String van elastisch kant",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_1013-000822-0010_1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_elastic_lace_thong_1013-000822-0010_01d.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_elastic_lace_thong_1013-000822-0010_02c.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_elastic_lace_thong_1013-000822-0010_03i.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_elastic_lace_thong_1013-000822-0010_04h.jpg?width=640"
-        ],
-        "prijs": 8.37,
-        "kleur": "Green",
-        "kleurFamilies": [
-            "Black",
-            "Brown",
-            "Offwhite",
-            "Purple",
-            "Green",
-            "Purple"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_1013-000822-0010_1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_elastic_lace_thong_1013-000822-0010_04h.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/string-van-elastisch-kant-green-1013-000822-0010",
-        "id": "1-1013-000822-0010-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Naadloze slip met hoge taille",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_highwaist_seamless_micro_brief_1013-000886-9577_01c.jpg?width=640",
@@ -749,6 +724,27 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_highwaist_seamless_micro_brief_1013-000886-9577_04g.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/naadloze-slip-met-hoge-taille-lavender-grey",
         "id": "1-1013-000886-9577-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Panty",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/finnia_hw_hl_rio_1724-000015-1096_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/finnia_hw_hl_rio_1724-000015-1096_02i.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/finnia_hw_hl_rio_1724-000015-1096_03h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/finnia_hw_hl_rio_1724-000015-1096_04k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/finnia_hw_hl_rio_1724-000015-1096_05g.jpg?width=640"
+        ],
+        "prijs": 8.97,
+        "kleur": "Snow White",
+        "kleurFamilies": [
+            "White",
+            "Black"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/finnia_hw_hl_rio_1724-000015-1096_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/finnia_hw_hl_rio_1724-000015-1096_05g.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/panty-wit-1",
+        "id": "1-1724-000015-1096-005",
         "kleurHex": null
     }
 ]
