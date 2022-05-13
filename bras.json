@@ -208,19 +208,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/strappy_weekend_bra_1013-000725-0002_02b.jpg"
     },
     {
-        "prijs": 9.58,
-        "id": "1-1680-000028-0017",
-        "kleur": "Brown",
-        "naam": "Bh",
-        "url": "https://www.na-kd.com/nl/zoek-producten/bh-bruin-3",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/trine_kjaer_frill_detail_bra_1680-000028-0017_02a.jpg",
-            "https://www.na-kd.com/resize/globalassets/trine_kjaer_frill_detail_bra_1680-000028-0017_02a.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/trine_kjaer_frill_detail_bra_1680-000028-0017_02a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/trine_kjaer_frill_detail_bra_1680-000028-0017_02a.jpg"
-    },
-    {
         "prijs": 10.17,
         "id": "1-1013-000573-0920",
         "kleur": "Black/Pink",
@@ -466,5 +453,18 @@
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_scallop_edge_mesh_top_1013-000963-0002_01a.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_scallop_edge_mesh_top_1013-000963-0002_01a.jpg"
+    },
+    {
+        "prijs": 11.37,
+        "id": "1-1013-000729-0261",
+        "kleur": "Orange",
+        "naam": "Bh Met Mesh-Randen",
+        "url": "https://www.na-kd.com/nl/zoek-producten/bh-met-mesh-randen-oranje-1",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_wow_mesh_edge_triangle_bra_1013-000729-0261_01a.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_wow_mesh_edge_triangle_bra_1013-000729-0261_01a.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_wow_mesh_edge_triangle_bra_1013-000729-0261_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_wow_mesh_edge_triangle_bra_1013-000729-0261_01a.jpg"
     }
 ]
