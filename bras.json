@@ -430,19 +430,6 @@
     },
     {
         "prijs": 11.37,
-        "id": "1-1013-000959-0142",
-        "kleur": "Zebra",
-        "naam": "Mesh bh met geschulpte rand",
-        "url": "https://www.na-kd.com/nl/zoek-producten/mesh-bh-met-geschulpte-rand-zebra-1013-000959-0142",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_clean_scallop_edge_mesh_bra_1013-000959-0142_01g.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_clean_scallop_edge_mesh_bra_1013-000959-0142_01g.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_clean_scallop_edge_mesh_bra_1013-000959-0142_01g.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_clean_scallop_edge_mesh_bra_1013-000959-0142_01g.jpg"
-    },
-    {
-        "prijs": 11.37,
         "id": "1-1013-000963-0002",
         "kleur": "Black",
         "naam": "Mesh top met geschulpte rand",
@@ -466,5 +453,18 @@
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_wow_mesh_edge_triangle_bra_1013-000729-0261_01a.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_wow_mesh_edge_triangle_bra_1013-000729-0261_01a.jpg"
+    },
+    {
+        "prijs": 11.18,
+        "id": "1-1724-000023-1096",
+        "kleur": "Snow White",
+        "naam": "Bralette",
+        "url": "https://www.na-kd.com/nl/zoek-producten/bralette-wit-9",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/amalia_rib_bralette_snow_white_1724-000023-1096_01a.jpg",
+            "https://www.na-kd.com/resize/globalassets/amalia_rib_bralette_snow_white_1724-000023-1096_01a.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/amalia_rib_bralette_snow_white_1724-000023-1096_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/amalia_rib_bralette_snow_white_1724-000023-1096_01a.jpg"
     }
 ]
