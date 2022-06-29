@@ -1,6 +1,19 @@
 [
     {
         "prijs": 5.98,
+        "id": "1-1013-000781-0005",
+        "kleur": "Beige",
+        "naam": "Bh",
+        "url": "https://www.na-kd.com/nl/zoek-producten/bh-geel",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_one_shoulder_ribbed_bra_1013-000781-0005_01b-1.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_one_shoulder_ribbed_bra_1013-000781-0005_01b-1.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_one_shoulder_ribbed_bra_1013-000781-0005_01b-1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_one_shoulder_ribbed_bra_1013-000781-0005_01b-1.jpg"
+    },
+    {
+        "prijs": 5.98,
         "id": "1-1013-000781-0765",
         "kleur": "Dark Brown",
         "naam": "Bh",
@@ -37,19 +50,6 @@
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_thin_strap_ribbed_top-1013-000835-0002_01a.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_thin_strap_ribbed_top-1013-000835-0002_01a.jpg"
-    },
-    {
-        "prijs": 5.98,
-        "id": "1-1013-000781-0005",
-        "kleur": "Beige",
-        "naam": "Bh",
-        "url": "https://www.na-kd.com/nl/zoek-producten/bh-geel",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_one_shoulder_ribbed_bra_1013-000781-0005_01b-1.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_one_shoulder_ribbed_bra_1013-000781-0005_01b-1.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_one_shoulder_ribbed_bra_1013-000781-0005_01b-1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_one_shoulder_ribbed_bra_1013-000781-0005_01b-1.jpg"
     },
     {
         "prijs": 6.78,
@@ -170,19 +170,6 @@
     },
     {
         "prijs": 8.97,
-        "id": "1-1013-000906-0260",
-        "kleur": "Offwhite",
-        "naam": "Strakke micro top met kant",
-        "url": "https://www.na-kd.com/nl/zoek-producten/clean-micro-lace-top-offwhite-1013-000906-0260",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_clean_micro_top_1013-000906-0260_01c.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_clean_micro_top_1013-000906-0260_01c.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_clean_micro_top_1013-000906-0260_01c.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_clean_micro_top_1013-000906-0260_01c.jpg"
-    },
-    {
-        "prijs": 8.97,
         "id": "1-1013-000914-0404",
         "kleur": "Light Yellow",
         "naam": "Satijnen Triangelbh Met Kantdetail",
@@ -193,6 +180,19 @@
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_satin_triangle_bra_1013-000914-0404_01a_r.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_satin_triangle_bra_1013-000914-0404_01a_r.jpg"
+    },
+    {
+        "prijs": 8.97,
+        "id": "1-1013-000906-0260",
+        "kleur": "Offwhite",
+        "naam": "Strakke micro top met kant",
+        "url": "https://www.na-kd.com/nl/zoek-producten/clean-micro-lace-top-offwhite-1013-000906-0260",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_clean_micro_top_1013-000906-0260_01c.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_clean_micro_top_1013-000906-0260_01c.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_clean_micro_top_1013-000906-0260_01c.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_clean_micro_top_1013-000906-0260_01c.jpg"
     },
     {
         "prijs": 8.97,
