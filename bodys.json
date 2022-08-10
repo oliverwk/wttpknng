@@ -1,25 +1,5 @@
 [
     {
-        "naam": "Kanten Body",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_cut_out_lace_v-string_bodysuit-1013-000769-0002_01j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_cut_out_lace_v-string_bodysuit-1013-000769-0002_02b.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_cut_out_lace_v-string_bodysuit-1013-000769-0002_03a.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_cut_out_lace_v-string_bodysuit_1013-000769-0002_01m.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_cut_out_lace_v-string_bodysuit_1013-000769-0002_02m.jpg?width=640"
-        ],
-        "prijs": 11.98,
-        "kleur": "Black",
-        "kleurFamilies": [
-            "Black"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cut_out_lace_v-string_bodysuit-1013-000769-0002_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_cut_out_lace_v-string_bodysuit_1013-000769-0002_02m.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-body-zwart-9",
-        "id": "1-1013-000769-0002-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Mesh Body",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_03j.jpg?width=640",
@@ -37,47 +17,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_04a.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/mesh-body-wit",
         "id": "1-1013-000762-0001-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Geribde Body Met Cupvorm En Lage Rug",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_cup_shape_ribbed_low_back_body-1013-000838-0002_01b.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_cup_shape_ribbed_low_back_body-1013-000838-0002_02a.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_cup_shape_ribbed_low_back_body-1013-000838-0002_03a.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_cup_shape_ribbed_low_back_body-1013-000838-0002_04g.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/210121-valentines-day_1013-000838-0002_01s.jpg?width=640"
-        ],
-        "prijs": 13.98,
-        "kleur": "Black",
-        "kleurFamilies": [
-            "Black",
-            "Pink"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cup_shape_ribbed_low_back_body-1013-000838-0002_01b.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/210121-valentines-day_1013-000838-0002_01s.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/geribde-body-met-cupvorm-en-lage-rug-zwart",
-        "id": "1-1013-000838-0002-664",
-        "kleurHex": null
-    },
-    {
-        "naam": "Geribde Body Met Cupvorm En Lage Rug",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_cup_shape_ribbed_low_back_body_1013-000838-0115_01b.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_cup_shape_ribbed_low_back_body_1013-000838-0115_03k.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_cup_shape_ribbed_low_back_body_1013-000838-0115_2j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_cup_shape_ribbed_low_back_body_1013-000838-0115_04j.jpg?width=640"
-        ],
-        "prijs": 13.98,
-        "kleur": "Dusty Pink",
-        "kleurFamilies": [
-            "Black",
-            "Pink"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cup_shape_ribbed_low_back_body_1013-000838-0115_01b.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_cup_shape_ribbed_low_back_body_1013-000838-0115_04j.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/geribde-body-met-cupvorm-en-lage-rug-roze",
-        "id": "1-1013-000838-0115-664",
         "kleurHex": null
     },
     {
@@ -285,6 +224,26 @@
         "kleurHex": null
     },
     {
+        "naam": "Kanten Body",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_cut_out_lace_v-string_bodysuit-1013-000769-0002_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_cut_out_lace_v-string_bodysuit-1013-000769-0002_02b.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_cut_out_lace_v-string_bodysuit-1013-000769-0002_03a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_cut_out_lace_v-string_bodysuit_1013-000769-0002_01m.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_cut_out_lace_v-string_bodysuit_1013-000769-0002_02m.jpg?width=640"
+        ],
+        "prijs": 29.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "Black"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cut_out_lace_v-string_bodysuit-1013-000769-0002_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_cut_out_lace_v-string_bodysuit_1013-000769-0002_02m.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-body-zwart-9",
+        "id": "1-1013-000769-0002-004",
+        "kleurHex": null
+    },
+    {
         "naam": "Satijnen body met V-string en volant en kant",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_satin_flounce_lace_v-string_body_1013-000994-0719_04a.jpg?width=640",
@@ -302,6 +261,47 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_satin_flounce_lace_v-string_body_1013-000994-0719_03a.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/satijnen-body-met-v-string-en-volant-en-kant-beige-1013-000994-0719",
         "id": "1-1013-000994-0719-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Geribde Body Met Cupvorm En Lage Rug",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_cup_shape_ribbed_low_back_body-1013-000838-0002_01b.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_cup_shape_ribbed_low_back_body-1013-000838-0002_02a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_cup_shape_ribbed_low_back_body-1013-000838-0002_03a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_cup_shape_ribbed_low_back_body-1013-000838-0002_04g.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/210121-valentines-day_1013-000838-0002_01s.jpg?width=640"
+        ],
+        "prijs": 34.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "Black",
+            "Pink"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cup_shape_ribbed_low_back_body-1013-000838-0002_01b.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/210121-valentines-day_1013-000838-0002_01s.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/geribde-body-met-cupvorm-en-lage-rug-zwart",
+        "id": "1-1013-000838-0002-664",
+        "kleurHex": null
+    },
+    {
+        "naam": "Geribde Body Met Cupvorm En Lage Rug",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_cup_shape_ribbed_low_back_body_1013-000838-0115_01b.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_cup_shape_ribbed_low_back_body_1013-000838-0115_03k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_cup_shape_ribbed_low_back_body_1013-000838-0115_2j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_cup_shape_ribbed_low_back_body_1013-000838-0115_04j.jpg?width=640"
+        ],
+        "prijs": 34.95,
+        "kleur": "Dusty Pink",
+        "kleurFamilies": [
+            "Black",
+            "Pink"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cup_shape_ribbed_low_back_body_1013-000838-0115_01b.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_cup_shape_ribbed_low_back_body_1013-000838-0115_04j.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/geribde-body-met-cupvorm-en-lage-rug-roze",
+        "id": "1-1013-000838-0115-664",
         "kleurHex": null
     },
     {
@@ -323,6 +323,27 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-4070_04g.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-body-gebroken-wit-1731-000026-4070",
         "id": "1-1731-000026-4070-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Kanten body",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-0002_03j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-0002_02k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-0002_04c.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-0002_01g.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-0002_01a-1.jpg?width=640"
+        ],
+        "prijs": 36.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "Black",
+            "Offwhite"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-0002_03j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-0002_01a-1.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-body-zwart-1731-000026-0002",
+        "id": "1-1731-000026-0002-004",
         "kleurHex": null
     },
     {
@@ -444,6 +465,32 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_v-neck_lace_bodysuit-1013-000222-0799_04g.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-body-hot-pink",
         "id": "1-1013-000222-0799-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Kanten body",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0008_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0008_02k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0008_03j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0008_04g.jpg?width=640"
+        ],
+        "prijs": 41.95,
+        "kleur": "Grey",
+        "kleurFamilies": [
+            "Black",
+            "Pink",
+            "White",
+            "Red",
+            "Grey",
+            "Offwhite",
+            "Red",
+            "Pink"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0008_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0008_04g.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-body-grijs",
+        "id": "1-1013-000222-0008-004",
         "kleurHex": null
     }
 ]
