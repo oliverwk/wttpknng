@@ -1,25 +1,5 @@
 [
     {
-        "naam": "Mesh Body",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_03j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_02k.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_01j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_04a.jpg?width=640"
-        ],
-        "prijs": 10.48,
-        "kleur": "White",
-        "kleurFamilies": [
-            "White",
-            "Black"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_03j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_04a.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/mesh-body-wit",
-        "id": "1-1013-000762-0001-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Geribde Body Met Cupvorm En Lage Rug",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_cup_shape_ribbed_low_back_body-1013-000838-0002_01b.jpg?width=640",
@@ -38,6 +18,26 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/210121-valentines-day_1013-000838-0002_01s.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/geribde-body-met-cupvorm-en-lage-rug-zwart",
         "id": "1-1013-000838-0002-664",
+        "kleurHex": null
+    },
+    {
+        "naam": "Mesh Body",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_03j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_02k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_04a.jpg?width=640"
+        ],
+        "prijs": 10.48,
+        "kleur": "White",
+        "kleurFamilies": [
+            "White",
+            "Black"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_03j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_04a.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/mesh-body-wit",
+        "id": "1-1013-000762-0001-004",
         "kleurHex": null
     },
     {
