@@ -188,6 +188,26 @@
         "kleurHex": null
     },
     {
+        "naam": "Kanten Slip",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/thin_strap_lace_v_string_1013-000724-0569_01a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/thin_strap_lace_v_string_1013-000724-0569_02k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/thin_strap_lace_v_string_1013-000724-0569_03j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/thin_strap_lace_v_string_1013-000724-0569_04b.jpg?width=640"
+        ],
+        "prijs": 4.18,
+        "kleur": "Peach",
+        "kleurFamilies": [
+            "White",
+            "Pink"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/thin_strap_lace_v_string_1013-000724-0569_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/thin_strap_lace_v_string_1013-000724-0569_04b.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-slip-roze-6",
+        "id": "1-1013-000724-0569-004",
+        "kleurHex": null
+    },
+    {
         "naam": "Hoog Uitgesneden Slip Met Satijnen Randje",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_satin_edge_highcut_panty_1013-000736-0179_01j.jpg?width=640",
@@ -226,26 +246,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_floral_satin_panty_1013-000673-0261_02k.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/slip-met-ruches-oranje",
         "id": "1-1013-000673-0261-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Kanten Slip",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/thin_strap_lace_v_string_1013-000724-0569_01a.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/thin_strap_lace_v_string_1013-000724-0569_02k.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/thin_strap_lace_v_string_1013-000724-0569_03j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/thin_strap_lace_v_string_1013-000724-0569_04b.jpg?width=640"
-        ],
-        "prijs": 4.18,
-        "kleur": "Peach",
-        "kleurFamilies": [
-            "White",
-            "Pink"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/thin_strap_lace_v_string_1013-000724-0569_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/thin_strap_lace_v_string_1013-000724-0569_04b.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-slip-roze-6",
-        "id": "1-1013-000724-0569-004",
         "kleurHex": null
     },
     {
@@ -497,23 +497,24 @@
         "kleurHex": null
     },
     {
-        "naam": "Satin Highwaist Panty",
+        "naam": "String",
         "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_satin_highwaist_pantie_1013-000773-0068_02j-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_satin_highwaist_pantie_1013-000773-0068_03i-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_satin_highwaist_pantie_1013-000773-0068_04h-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_satin_highwaist_pantie_1013-000773-0068_05k-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_satin_highwaist_pantie_1013-000773-0068_01j-1.jpg?width=640"
+            "https://www.na-kd.com/resize/globalassets/nakd_blush_detail_satin_panty_1013-000510-0368_01j-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_blush_detail_satin_panty_1013-000510-0368_02i-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_blush_detail_satin_panty_1013-000510-0368_03h-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_blush_detail_satin_panty_1013-000510-0368_04k-1.jpg?width=640"
         ],
         "prijs": 5.08,
-        "kleur": "Light Grey",
+        "kleur": "Lilac",
         "kleurFamilies": [
-            "Offwhite"
+            "Black",
+            "Beige",
+            "Purple"
         ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_satin_highwaist_pantie_1013-000773-0068_02j-1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_satin_highwaist_pantie_1013-000773-0068_01j-1.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/satin-highwaist-panty-gebroken-wit",
-        "id": "1-1013-000773-0068-004",
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_blush_detail_satin_panty_1013-000510-0368_01j-1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_blush_detail_satin_panty_1013-000510-0368_04k-1.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/string-paars",
+        "id": "1-1013-000510-0368-004",
         "kleurHex": null
     },
     {
@@ -533,6 +534,26 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_dotty_v_string_1013-000738-0002_04k.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/gestippelde-v-string-zwart-2",
         "id": "1-1013-000738-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Satin Highwaist Panty",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_satin_highwaist_pantie_1013-000773-0068_02j-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_satin_highwaist_pantie_1013-000773-0068_03i-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_satin_highwaist_pantie_1013-000773-0068_04h-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_satin_highwaist_pantie_1013-000773-0068_05k-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_satin_highwaist_pantie_1013-000773-0068_01j-1.jpg?width=640"
+        ],
+        "prijs": 5.08,
+        "kleur": "Light Grey",
+        "kleurFamilies": [
+            "Offwhite"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_satin_highwaist_pantie_1013-000773-0068_02j-1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_satin_highwaist_pantie_1013-000773-0068_01j-1.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/satin-highwaist-panty-gebroken-wit",
+        "id": "1-1013-000773-0068-004",
         "kleurHex": null
     },
     {
@@ -556,27 +577,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_scalloped_lace_high_waist_panty_1013-000488-0719_04k.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/scalloped-lace-high-waist-panty-wit-1",
         "id": "1-1013-000488-0719-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "String",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_blush_detail_satin_panty_1013-000510-0368_01j-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_blush_detail_satin_panty_1013-000510-0368_02i-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_blush_detail_satin_panty_1013-000510-0368_03h-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_blush_detail_satin_panty_1013-000510-0368_04k-1.jpg?width=640"
-        ],
-        "prijs": 5.08,
-        "kleur": "Lilac",
-        "kleurFamilies": [
-            "Black",
-            "Beige",
-            "Purple"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_blush_detail_satin_panty_1013-000510-0368_01j-1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_blush_detail_satin_panty_1013-000510-0368_04k-1.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/string-paars",
-        "id": "1-1013-000510-0368-004",
         "kleurHex": null
     },
     {
