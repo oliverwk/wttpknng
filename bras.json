@@ -65,19 +65,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/strap_detailed_bra-1687-000101-02604154_.jpg"
     },
     {
-        "prijs": 6.58,
-        "id": "1-1013-001106-0002",
-        "kleur": "Black",
-        "naam": "Triangeltop",
-        "url": "https://www.na-kd.com/nl/zoek-producten/high-triangle-lace-top-black-1013-001106-0002",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_wide_lace_top_1013-001106-0002_6.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_wide_lace_top_1013-001106-0002_6.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_wide_lace_top_1013-001106-0002_6.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_recycled_wide_lace_top_1013-001106-0002_6.jpg"
-    },
-    {
         "prijs": 7.18,
         "id": "1-1013-001034-0719",
         "kleur": "Pearl",
@@ -466,5 +453,18 @@
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_seam_detail_patched_cotton_top_1013-000948-0001_01c.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_seam_detail_patched_cotton_top_1013-000948-0001_01c.jpg"
+    },
+    {
+        "prijs": 10.47,
+        "id": "1-1013-001055-0001",
+        "kleur": "White",
+        "naam": "Mesh BH met een veter",
+        "url": "https://www.na-kd.com/nl/zoek-producten/recycled-lace-detail-mesh-bra-white-1013-001055-0001",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_recycled_lace_detail_mesh_bra_1013-001055-0001_01c.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_recycled_lace_detail_mesh_bra_1013-001055-0001_01c.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_lace_detail_mesh_bra_1013-001055-0001_01c.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_recycled_lace_detail_mesh_bra_1013-001055-0001_01c.jpg"
     }
 ]
