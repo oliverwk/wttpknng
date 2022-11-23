@@ -65,19 +65,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/strap_detailed_bra-1687-000101-02604154_.jpg"
     },
     {
-        "prijs": 6.58,
-        "id": "1-1013-001106-0002",
-        "kleur": "Black",
-        "naam": "Triangeltop",
-        "url": "https://www.na-kd.com/nl/zoek-producten/high-triangle-lace-top-black-1013-001106-0002",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_wide_lace_top_1013-001106-0002_6.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_wide_lace_top_1013-001106-0002_6.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_wide_lace_top_1013-001106-0002_6.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_recycled_wide_lace_top_1013-001106-0002_6.jpg"
-    },
-    {
         "prijs": 7.18,
         "id": "1-1013-001034-0719",
         "kleur": "Pearl",
@@ -339,19 +326,6 @@
     },
     {
         "prijs": 10.17,
-        "id": "1-1013-000930-9593",
-        "kleur": "Whistful Mauve",
-        "naam": "Elastische cupbh met kant",
-        "url": "https://www.na-kd.com/nl/zoek-producten/elastische-cupbh-met-kant-whistful-mauve-1013-000930-9593",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_elastic_cup_bra_1013-000930-9593_01a.jpg",
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_elastic_cup_bra_1013-000930-9593_01a.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_elastic_cup_bra_1013-000930-9593_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_elastic_cup_bra_1013-000930-9593_01a.jpg"
-    },
-    {
-        "prijs": 10.17,
         "id": "1-1013-001046-0002",
         "kleur": "Black",
         "naam": "Gestreepte micro bh",
@@ -375,6 +349,19 @@
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_striped_micro_bra_1013-001046-6391_01j.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_striped_micro_bra_1013-001046-6391_01j.jpg"
+    },
+    {
+        "prijs": 10.17,
+        "id": "1-1013-000930-9593",
+        "kleur": "Whistful Mauve",
+        "naam": "Elastische cupbh met kant",
+        "url": "https://www.na-kd.com/nl/zoek-producten/elastische-cupbh-met-kant-whistful-mauve-1013-000930-9593",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_elastic_cup_bra_1013-000930-9593_01a.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_elastic_cup_bra_1013-000930-9593_01a.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_elastic_cup_bra_1013-000930-9593_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_elastic_cup_bra_1013-000930-9593_01a.jpg"
     },
     {
         "prijs": 10.17,
@@ -466,5 +453,18 @@
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/v_shape_elastic_lace_top_1013-000926-01152033.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/v_shape_elastic_lace_top_1013-000926-01152033.jpg"
+    },
+    {
+        "prijs": 10.47,
+        "id": "1-1730-000053-0010",
+        "kleur": "Green",
+        "naam": "Bh met kleine stipjes",
+        "url": "https://www.na-kd.com/nl/zoek-producten/swiss-dot-bra-green-1730-000053-0010",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102899.jpg",
+            "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102899.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102899.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102899.jpg"
     }
 ]
