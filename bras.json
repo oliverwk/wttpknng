@@ -26,19 +26,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_lace_detail_satin_triangle_bra_1013-000914-5482_01a_r.jpg"
     },
     {
-        "prijs": 5.98,
-        "id": "1-1687-000101-0260",
-        "kleur": "Offwhite",
-        "naam": "BH met smalle bandjes",
-        "url": "https://www.na-kd.com/nl/zoek-producten/strap-detailed-bra-offwhite-1687-000101-0260",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/strap_detailed_bra-1687-000101-02604154_.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/strap_detailed_bra-1687-000101-02604154_.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/strap_detailed_bra-1687-000101-02604154_.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/strap_detailed_bra-1687-000101-02604154_.jpg"
-    },
-    {
         "prijs": 7.18,
         "id": "1-1013-001034-0719",
         "kleur": "Pearl",
@@ -466,5 +453,18 @@
         ],
         "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_lace_detail_mesh_bra_1013-001055-0002_01c.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_lace_detail_mesh_bra_1013-001055-0002_01c.jpg"
+    },
+    {
+        "prijs": 10.47,
+        "id": "1-1013-001068-0140",
+        "kleur": "Light Beige",
+        "naam": "Gekreukte triangel top",
+        "url": "https://www.na-kd.com/nl/zoek-producten/gekreukte-triangel-top-beige-1013-001068-0140",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_crinkle_triangle_top_1013-001068-0140_02c.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_crinkle_triangle_top_1013-001068-0140_02c.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_crinkle_triangle_top_1013-001068-0140_02c.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_crinkle_triangle_top_1013-001068-0140_02c.jpg"
     }
 ]
