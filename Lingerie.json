@@ -630,26 +630,6 @@
         "kleurHex": null
     },
     {
-        "naam": "String",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_elastic_band_lace_high_thong-1013-001107-0002_1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_elastic_band_lace_high_thong-1013-001107-0002_2.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_elastic_band_lace_high_thong-1013-001107-0002_4.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_elastic_band_lace_high_thong-1013-001107-0002_3.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_elastic_band_lace_high_thong-1013-001107-0002_5.jpg?width=640"
-        ],
-        "prijs": 8.37,
-        "kleur": "Black",
-        "kleurFamilies": [
-            "Z"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_elastic_band_lace_high_thong-1013-001107-0002_1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_recycled_elastic_band_lace_high_thong-1013-001107-0002_5.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/string-black-1013-001107-0002",
-        "id": "1-1013-001107-0002-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Kanten string",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_strap_thong_1013-001177-0307_03.jpg?width=640",
@@ -666,6 +646,25 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_strap_thong_1013-001177-0307_02.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/lace-detail-strap-thong-cerise-1013-001177-0307",
         "id": "1-1013-001177-0307-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Mesh slip",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_mesh_brief_1013-000972-0002_03.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_mesh_brief_1013-000972-0002_04.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_mesh_brief_1013-000972-0002_01.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_mesh_brief_1013-000972-0002_02.jpg?width=640"
+        ],
+        "prijs": 8.97,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "Z"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_mesh_brief_1013-000972-0002_03.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_mesh_brief_1013-000972-0002_02.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/mesh-slip-zwart-1013-000972-0002",
+        "id": "1-1013-000972-0002-004",
         "kleurHex": null
     }
 ]
