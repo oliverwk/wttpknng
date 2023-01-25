@@ -1,6 +1,19 @@
 [
     {
         "prijs": 5.08,
+        "id": "1-1013-000937-1820",
+        "kleur": "Bark",
+        "naam": "Organic Pointelle Babylock Top",
+        "url": "https://www.na-kd.com/nl/zoek-producten/organic-pointelle-babylock-top-roze",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_organic_pointelle_babylock_top_1013-000937-1820_04b.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_organic_pointelle_babylock_top_1013-000937-1820_04b.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_organic_pointelle_babylock_top_1013-000937-1820_04b.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_organic_pointelle_babylock_top_1013-000937-1820_04b.jpg"
+    },
+    {
+        "prijs": 5.08,
         "id": "1-1013-000912-8316",
         "kleur": "Black/White Check",
         "naam": "Recht Geruite Balconette Bh",
@@ -453,18 +466,5 @@
         ],
         "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_crinkle_ruffle_bra_1013-001066-0073_03c.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_crinkle_ruffle_bra_1013-001066-0073_03c.jpg"
-    },
-    {
-        "prijs": 10.97,
-        "id": "1-1013-001104-0002",
-        "kleur": "Black",
-        "naam": "Kanten top",
-        "url": "https://www.na-kd.com/nl/zoek-producten/kanten-top-black-1013-001104-0002",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_wide_lace_top_1013-001104-0002_3.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_wide_lace_top_1013-001104-0002_3.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_wide_lace_top_1013-001104-0002_3.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_wide_lace_top_1013-001104-0002_3.jpg"
     }
 ]
