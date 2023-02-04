@@ -125,7 +125,6 @@
     {
         "naam": "Body met bandjes",
         "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-0001_collage.jpg?width=640",
             "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00011670.jpg?width=640",
             "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00011676.jpg?width=640",
             "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00011689.jpg?width=640",
@@ -137,7 +136,7 @@
         "kleurFamilies": [
             "W"
         ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-0001_collage.jpg",
+        "img_url": "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00011670.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00011646.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/strap-detail-lace-body-wit-1013-001189-0001",
         "id": "1-1013-001189-0001-004",
@@ -162,6 +161,25 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00021746.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/strap-detail-lace-body-zwart-1013-001189-0002",
         "id": "1-1013-001189-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Lace Detail Bodysuit",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_02c.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_03b.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_04a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_01d.jpg?width=640"
+        ],
+        "prijs": 39.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "Z"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_02c.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_01d.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/lace-detail-bodysuit-zwart",
+        "id": "1-1013-000495-0002-004",
         "kleurHex": null
     }
 ]
