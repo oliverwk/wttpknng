@@ -381,25 +381,6 @@
         "kleurHex": null
     },
     {
-        "naam": "String",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_elastic_band_high_waist_thong_1013-001107-0208_31874.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_elastic_band_high_waist_thong_1013-001107-0208_31887.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_elastic_band_high_waist_thong_1013-001107-0208_4.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_elastic_band_high_waist_thong_1013-001107-0208_3.jpg?width=640"
-        ],
-        "prijs": 7.77,
-        "kleur": "Purple",
-        "kleurFamilies": [
-            "P"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_elastic_band_high_waist_thong_1013-001107-0208_31874.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_recycled_elastic_band_high_waist_thong_1013-001107-0208_3.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/string-purple-1013-001107-0208",
-        "id": "1-1013-001107-0208-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Kanten string",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_strap_thong_1013-001177-0307_03.jpg?width=640",
@@ -665,6 +646,25 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_highwaist_ribbed_wide_brief-1013-000834-0001_02i.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/highwaist-ribbed-wide-brief-wit",
         "id": "1-1013-000834-0001-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Lace Thong",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/lace_thong_1013-001211-0002_3-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/lace_thong_1013-001211-0002_2.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/lace_thong_1013-001211-0002_1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/lace_thong_1013-001211-0002_4.jpg?width=640"
+        ],
+        "prijs": 8.37,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "Z"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/lace_thong_1013-001211-0002_3-1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/lace_thong_1013-001211-0002_4.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/lace-thong-black-1013-001211-0002",
+        "id": "1-1013-001211-0002-004",
         "kleurHex": null
     }
 ]
