@@ -39,6 +39,19 @@
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_striped_eyeash_lace_triangle_top_1013-001086-00021.jpg"
     },
     {
+        "prijs": 7.98,
+        "id": "1-1730-000053-0010",
+        "kleur": "Green",
+        "naam": "Bh met kleine stipjes",
+        "url": "https://www.na-kd.com/nl/zoek-producten/swiss-dot-bra-green-1730-000053-0010",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102899.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102899.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102899.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102899.jpg"
+    },
+    {
         "prijs": 7.47,
         "id": "1-1013-001128-1388",
         "kleur": "Dried herb",
@@ -131,6 +144,19 @@
     },
     {
         "prijs": 9.98,
+        "id": "1-1013-001098-0002",
+        "kleur": "Black",
+        "naam": "Satijnen wikkel top met strik",
+        "url": "https://www.na-kd.com/nl/zoek-producten/wrap-around-satin-tie-top-black-1013-001098-0002",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_wrap_around_satin_tie_top_1013-001098-0002_01.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_wrap_around_satin_tie_top_1013-001098-0002_01.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_wrap_around_satin_tie_top_1013-001098-0002_01.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_wrap_around_satin_tie_top_1013-001098-0002_01.jpg"
+    },
+    {
+        "prijs": 9.98,
         "id": "1-1013-000992-0004",
         "kleur": "Red",
         "naam": "Flowy top met knopen en kant",
@@ -154,19 +180,6 @@
         ],
         "img_url": "https://www.na-kd.com/resize/resize/globalassets/v_shape_elastic_lace_top_1013-000926-01152033.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/v_shape_elastic_lace_top_1013-000926-01152033.jpg"
-    },
-    {
-        "prijs": 9.97,
-        "id": "1-1730-000053-0010",
-        "kleur": "Green",
-        "naam": "Bh met kleine stipjes",
-        "url": "https://www.na-kd.com/nl/zoek-producten/swiss-dot-bra-green-1730-000053-0010",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102899.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102899.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102899.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102899.jpg"
     },
     {
         "prijs": 9.97,
@@ -453,18 +466,5 @@
         ],
         "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_elastic_band_triangle_lace_top_1013-001105-0002_02.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_elastic_band_triangle_lace_top_1013-001105-0002_02.jpg"
-    },
-    {
-        "prijs": 11.97,
-        "id": "1-1013-001104-0176",
-        "kleur": "Dusty Dark Pink",
-        "naam": "Kanten top",
-        "url": "https://www.na-kd.com/nl/zoek-producten/kanten-top-roze-1013-001104-0176",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_wide_lace_top-1013-001104-0176_100.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_wide_lace_top-1013-001104-0176_100.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_wide_lace_top-1013-001104-0176_100.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_wide_lace_top-1013-001104-0176_100.jpg"
     }
 ]
