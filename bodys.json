@@ -20,6 +20,25 @@
         "kleurHex": null
     },
     {
+        "naam": "Floral Lace Cup Bodysuit",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/episode_floral_lace_cup_bodysauit_1013-000318-0002_03a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/episode_floral_lace_cup_bodysauit_1013-000318-0002_02b.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/episode_floral_lace_cup_bodysauit_1013-000318-0002_01a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/episode_floral_lace_cup_bodysauit_1013-000318-0002_04c.jpg?width=640"
+        ],
+        "prijs": 24.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "Z"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/episode_floral_lace_cup_bodysauit_1013-000318-0002_03a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/episode_floral_lace_cup_bodysauit_1013-000318-0002_04c.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/floral-lace-cup-bodysuit-zwart",
+        "id": "1-1013-000318-0002-004",
+        "kleurHex": null
+    },
+    {
         "naam": "Geribde Body Met Cupvorm En Lage Rug",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_cup_shape_ribbed_low_back_body_1013-000838-0115_01b.jpg?width=640",
@@ -56,6 +75,65 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_all_mesh_v-string_bodysuit_1013-000762-0002_02m.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/mesh-body-zwart-2",
         "id": "1-1013-000762-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Kanten body",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_glittery_lace_strap_bodysuit_1013-000529-0001_01a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_glittery_lace_strap_bodysuit_1013-000529-0001_02k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_glittery_lace_strap_bodysuit_1013-000529-0001_03j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_glittery_lace_strap_bodysuit_1013-000529-0001_04b.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_glittery_lace_strap_bodysuit_1013-000529-0001_05c.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_glittery_lace_strap_bodysuit_1013-000529-0001_05g.jpg?width=640"
+        ],
+        "prijs": 29.95,
+        "kleur": "White",
+        "kleurFamilies": [
+            "G"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_glittery_lace_strap_bodysuit_1013-000529-0001_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_glittery_lace_strap_bodysuit_1013-000529-0001_05g.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-body-wit",
+        "id": "1-1013-000529-0001-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Kanten body",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-0002_03j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-0002_02k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-0002_04c.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-0002_01g.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-0002_01a-1.jpg?width=640"
+        ],
+        "prijs": 34.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "Z"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-0002_03j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/taylor_lace_bodysuit_1731-000026-0002_01a-1.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-body-zwart-1731-000026-0002",
+        "id": "1-1731-000026-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Bodysuit Met Flirterige Volant",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_flirty_flounce_bodysuit_1013-000800-0002_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_flirty_flounce_bodysuit_1013-000800-0002_02k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_flirty_flounce_bodysuit_1013-000800-0002_03a.jpg?width=640"
+        ],
+        "prijs": 34.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "Z"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_flirty_flounce_bodysuit_1013-000800-0002_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_flirty_flounce_bodysuit_1013-000800-0002_03a.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/bodysuit-met-flirterige-volant-zwart",
+        "id": "1-1013-000800-0002-004",
         "kleurHex": null
     },
     {
@@ -139,6 +217,26 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00021746.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/strap-detail-lace-body-zwart-1013-001189-0002",
         "id": "1-1013-001189-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Gerecycleerd kanten body met mesh-mouwen",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_mesh_sleeve_body_1017-001265-0002_28017.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_mesh_sleeve_body_1017-001265-0002_27984.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_mesh_sleeve_body_1017-001265-0002_28035.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_mesh_sleeve_body_1017-001265-0002_0411.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_mesh_sleeve_body_1017-001265-0002_27992.jpg?width=640"
+        ],
+        "prijs": 39.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "Z"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_mesh_sleeve_body_1017-001265-0002_28017.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_mesh_sleeve_body_1017-001265-0002_27992.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/lace-mesh-sleeve-body-black-1017-001265-0002",
+        "id": "1-1017-001265-0002-004",
         "kleurHex": null
     }
 ]
