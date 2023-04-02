@@ -430,19 +430,6 @@
     },
     {
         "prijs": 14.97,
-        "id": "1-1013-001036-0324",
-        "kleur": "Dusty Green",
-        "naam": "Kanten BH",
-        "url": "https://www.na-kd.com/nl/zoek-producten/kanten-bh-groen-1013-001036-0324",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_flower_lace_underlined_bra_1013-001036-0324_01a.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_flower_lace_underlined_bra_1013-001036-0324_01a.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_flower_lace_underlined_bra_1013-001036-0324_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_flower_lace_underlined_bra_1013-001036-0324_01a.jpg"
-    },
-    {
-        "prijs": 14.97,
         "id": "1-1013-001162-0001",
         "kleur": "White",
         "naam": "Kanten bustier",
@@ -466,5 +453,18 @@
         ],
         "img_url": "https://www.na-kd.com/resize/resize/globalassets/high_shine_bra_1013-001222-0002_01.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/high_shine_bra_1013-001222-0002_01.jpg"
+    },
+    {
+        "prijs": 14.95,
+        "id": "1-1013-000398-0001",
+        "kleur": "White",
+        "naam": "Paisley Lace Bra",
+        "url": "https://www.na-kd.com/nl/zoek-producten/paisley-lace-bra-wit",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_paisley_lace_bra_white_1013-000398-0001_01a.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_paisley_lace_bra_white_1013-000398-0001_01a.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_paisley_lace_bra_white_1013-000398-0001_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_paisley_lace_bra_white_1013-000398-0001_01a.jpg"
     }
 ]
