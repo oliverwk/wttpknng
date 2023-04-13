@@ -324,25 +324,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Kanten string",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/lace_detail_cotton_thong_1013-001166-13395742.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_detail_cotton_thong_1013-001166-13395786.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_detail_cotton_thong_1013-001166-13395781.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_detail_cotton_thong_1013-001166-1339_09.jpg?width=640"
-        ],
-        "prijs": 8.97,
-        "kleur": "Baby Blue",
-        "kleurFamilies": [
-            "L"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/lace_detail_cotton_thong_1013-001166-13395742.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/lace_detail_cotton_thong_1013-001166-1339_09.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-string-blauw-1013-001166-1339",
-        "id": "1-1013-001166-1339-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Kant brazilian slip",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/mid_waist_lace_brazilian-1013-001074-0015_2884.jpg?width=640",
@@ -669,6 +650,25 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/heart_detailed_v-shape_panty-1013-001252-0004_3530.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/heart-detailed-v-shape-panty-red-1013-001252-0004",
         "id": "1-1013-001252-0004-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Klassieke string met halfhoge taille en kant",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong_1013-000862-0002_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong_1013-000862-0002_02i.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong_1013-000862-0002_03h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong_1013-000862-0002_04k.jpg?width=640"
+        ],
+        "prijs": 9.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "Z"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong_1013-000862-0002_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong_1013-000862-0002_04k.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/klassieke-string-met-halfhoge-taille-en-kant-zwart",
+        "id": "1-1013-000862-0002-004",
         "kleurHex": null
     }
 ]
