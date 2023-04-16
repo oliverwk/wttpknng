@@ -391,19 +391,6 @@
     },
     {
         "prijs": 11.97,
-        "id": "1-1013-001057-0719",
-        "kleur": "Pearl",
-        "naam": "Triangel-top van elastisch kant",
-        "url": "https://www.na-kd.com/nl/zoek-producten/triangel-top-van-elastisch-kant-pearl-1013-001057-0719",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_lace_triangle_top_1013-001057-0719-0109.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_lace_triangle_top_1013-001057-0719-0109.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_lace_triangle_top_1013-001057-0719-0109.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_lace_triangle_top_1013-001057-0719-0109.jpg"
-    },
-    {
-        "prijs": 11.97,
         "id": "1-1013-001104-0176",
         "kleur": "Dusty Dark Pink",
         "naam": "Kanten top",
@@ -466,5 +453,18 @@
         ],
         "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_wide_lace_triangle_top_1013-001073-0002_01a.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_wide_lace_triangle_top_1013-001073-0002_01a.jpg"
+    },
+    {
+        "prijs": 14.95,
+        "id": "1-1013-001073-0015",
+        "kleur": "Pink",
+        "naam": "Triangeltop",
+        "url": "https://www.na-kd.com/nl/zoek-producten/triangeltop-pink-1013-001073-0015",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/resize/globalassets/wide_lace_triangle_top-1013-001073-0015_2910.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/wide_lace_triangle_top-1013-001073-0015_2910.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/wide_lace_triangle_top-1013-001073-0015_2910.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/wide_lace_triangle_top-1013-001073-0015_2910.jpg"
     }
 ]
