@@ -442,19 +442,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0001_01a_r.jpg"
     },
     {
-        "prijs": 13.96,
-        "id": "1-1013-001170-0002",
-        "kleur": "Black",
-        "naam": "Kanten BH",
-        "url": "https://www.na-kd.com/nl/zoek-producten/kanten-bh-zwart-1013-001170-0002",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/lace_edge_cotton_bra_1013-001170-0002_01.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/lace_edge_cotton_bra_1013-001170-0002_01.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/lace_edge_cotton_bra_1013-001170-0002_01.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/lace_edge_cotton_bra_1013-001170-0002_01.jpg"
-    },
-    {
         "prijs": 14.97,
         "id": "1-1013-001091-0005",
         "kleur": "Beige",
@@ -466,5 +453,18 @@
         ],
         "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_gathered_cup_satin_bra_1013-001091-0005_01.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_gathered_cup_satin_bra_1013-001091-0005_01.jpg"
+    },
+    {
+        "prijs": 14.95,
+        "id": "1-1013-001251-0004",
+        "kleur": "Red",
+        "naam": "Cup-bh met hartdetail",
+        "url": "https://www.na-kd.com/nl/zoek-producten/heart-detailed-cup-bra-red-1013-001251-0004",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/resize/globalassets/heart_detailed_cup_bra-1013-001251-0004_3508.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/heart_detailed_cup_bra-1013-001251-0004_3508.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/heart_detailed_cup_bra-1013-001251-0004_3508.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/heart_detailed_cup_bra-1013-001251-0004_3508.jpg"
     }
 ]
