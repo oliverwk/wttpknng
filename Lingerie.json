@@ -145,7 +145,7 @@
         "prijs": 3.98,
         "kleur": "Offwhite",
         "kleurFamilies": [
-            "W"
+            "Z"
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/strap_detailed_pantie-1687-000102-02604146_.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/strap_detailed_pantie-1687-000102-02604176_.jpg",
@@ -246,6 +246,25 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_striped_eyelash_lace_high_rise_brief_1013-001087-0002-11330.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-onderbroek-zwart-1013-001087-0002",
         "id": "1-1013-001087-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Broekje met bandjes",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/strap_detailed_pantie-1687-000102-00024178_.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/strap_detailed_pantie-1687-000102-00024206_.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/strap_detailed_pantie-1687-000102-00024201_.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/strap_detailed_pantie-1687-000102-00024220_.jpg?width=640"
+        ],
+        "prijs": 4.97,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "Z"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/strap_detailed_pantie-1687-000102-00024178_.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/strap_detailed_pantie-1687-000102-00024220_.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/strap-detailed-pantie-black-1687-000102-0002",
+        "id": "1-1687-000102-0002-004",
         "kleurHex": null
     },
     {
@@ -652,25 +671,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_transparent_stripe_mesh_brief_1013_000241-0002_04k_r1.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/transparent-stripe-mesh-brief-zwart",
         "id": "1-1013-000241-0002-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Gedraaide satijnen tanga met hoge uitsnijding",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_twisted_high_leg_satin_thong_1013-001094-1147_04.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_twisted_high_leg_satin_thong_1013-001094-1147_02.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_twisted_high_leg_satin_thong_1013-001094-1147_01.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_twisted_high_leg_satin_thong_1013-001094-1147_03.jpg?width=640"
-        ],
-        "prijs": 9.97,
-        "kleur": "Cappuccino",
-        "kleurFamilies": [
-            "Z"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_twisted_high_leg_satin_thong_1013-001094-1147_04.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_twisted_high_leg_satin_thong_1013-001094-1147_03.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/twisted-high-leg-satin-thong-cappuccino-1013-001094-1147",
-        "id": "1-1013-001094-1147-004",
         "kleurHex": null
     }
 ]
