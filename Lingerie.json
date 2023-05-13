@@ -307,25 +307,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Kanten V-String Broekje Met Hoge Taille",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_flower_structured_v-string_1013-000689-0002_04k.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_flower_structured_v-string_1013-000689-0002_02i.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_flower_structured_v-string_1013-000689-0002_03h.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_flower_structured_v-string_1013-000689-0002_01j.jpg?width=640"
-        ],
-        "prijs": 9.95,
-        "kleur": "Black",
-        "kleurFamilies": [
-            "Z"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_flower_structured_v-string_1013-000689-0002_04k.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_flower_structured_v-string_1013-000689-0002_01j.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-v-string-broekje-met-hoge-taille-zwart-1",
-        "id": "1-1013-000689-0002-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Babylock string met rand van kant",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/babylock_edge_lace_thong_1013-001234-0208_01.jpg?width=640",
@@ -671,6 +652,25 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/twisted_high_leg_satin_thong_1013-001094-0002_06e.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/twisted-high-leg-satin-thong-black-1013-001094-0002",
         "id": "1-1013-001094-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Panty",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/rib_knitted_panties-1018-007291-0226_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/rib_knitted_panties-1018-007291-0226_02i.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/rib_knitted_panties-1018-007291-0226_03h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/rib_knitted_panties-1018-007291-0226_04b.jpg?width=640"
+        ],
+        "prijs": 9.97,
+        "kleur": "Nougat",
+        "kleurFamilies": [
+            "B"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/rib_knitted_panties-1018-007291-0226_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/rib_knitted_panties-1018-007291-0226_04b.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/panty-bruin",
+        "id": "1-1018-007291-0226-004",
         "kleurHex": null
     }
 ]
