@@ -105,7 +105,7 @@
         "prijs": 3.98,
         "kleur": "Offwhite",
         "kleurFamilies": [
-            "Z"
+            "W"
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/strap_detailed_pantie-1687-000102-02604146_.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/strap_detailed_pantie-1687-000102-02604176_.jpg",
@@ -187,25 +187,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_pleated_lace_thong-1013-000917-0324_2.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/halfhoge-geplooide-tanga-met-kant-groen-1013-000917-0324",
         "id": "1-1013-000917-0324-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Broekje met bandjes",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/strap_detailed_pantie-1687-000102-00024178_.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/strap_detailed_pantie-1687-000102-00024206_.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/strap_detailed_pantie-1687-000102-00024201_.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/strap_detailed_pantie-1687-000102-00024220_.jpg?width=640"
-        ],
-        "prijs": 4.97,
-        "kleur": "Black",
-        "kleurFamilies": [
-            "Z"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/strap_detailed_pantie-1687-000102-00024178_.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/strap_detailed_pantie-1687-000102-00024220_.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/strap-detailed-pantie-black-1687-000102-0002",
-        "id": "1-1687-000102-0002-004",
         "kleurHex": null
     },
     {
@@ -323,25 +304,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/babylock_edge_lace_thong_1013-001234-0002_04.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/babylock-edge-lace-thong-black-1013-001234-0002",
         "id": "1-1013-001234-0002-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Gestreeptte micro elastische tanga",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_striped_micro_elastic_thong-1013-001111-8369_01.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_striped_micro_elastic_thong-1013-001111-8369_04.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_striped_micro_elastic_thong-1013-001111-8369_02.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_striped_micro_elastic_thong-1013-001111-8369_03.jpg?width=640"
-        ],
-        "prijs": 8.97,
-        "kleur": "High Sky",
-        "kleurFamilies": [
-            "B"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_striped_micro_elastic_thong-1013-001111-8369_01.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_striped_micro_elastic_thong-1013-001111-8369_03.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/gestreeptte-micro-elastische-tanga-blauw-1013-001111-8369",
-        "id": "1-1013-001111-8369-004",
         "kleurHex": null
     },
     {
@@ -671,6 +633,45 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/adjustable_strap_lace_thong-1013-001209-00020619.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-string-met-verstelbare-bandjes-zwart-1013-001209-0002",
         "id": "1-1013-001209-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Hoog uitgesneden kanten slipje",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/high_leg_lace_panties_1013-001181-0348_02.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/high_leg_lace_panties_1013-001181-0348_03.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/high_leg_lace_panties_1013-001181-0348_01.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/high_leg_lace_panties_1013-001181-0348_04.jpg?width=640"
+        ],
+        "prijs": 10.46,
+        "kleur": "Berry",
+        "kleurFamilies": [
+            "Z"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/high_leg_lace_panties_1013-001181-0348_02.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/high_leg_lace_panties_1013-001181-0348_04.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/high-leg-lace-panties-berry-1013-001181-0348",
+        "id": "1-1013-001181-0348-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Panty met hoge taille en romantische kant",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/romantic_detailed_lace_thong_1013-001206-0260_7426.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/romantic_detailed_lace_thong_1013-001206-0260_7452.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/romantic_detailed_lace_thong_1013-001206-0260_7436.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/romantic_detailed_lace_thong_1013-001206-0260_7468.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/romantic_detailed_lace_thong_1013-001206-0260_7449.jpg?width=640"
+        ],
+        "prijs": 8.97,
+        "kleur": "Offwhite",
+        "kleurFamilies": [
+            "B"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/romantic_detailed_lace_thong_1013-001206-0260_7426.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/romantic_detailed_lace_thong_1013-001206-0260_7449.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/romantic-detailed-lace-thong-offwhite-1013-001206-0260",
+        "id": "1-1013-001206-0260-004",
         "kleurHex": null
     }
 ]
