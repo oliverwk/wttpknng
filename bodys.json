@@ -1,5 +1,24 @@
 [
     {
+        "naam": "Kanten body",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_1013-000455-9593_01c.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_1013-000455-9593_04d.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_1013-000455-9593_02d.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_1013-000455-9593_03g.jpg?width=640"
+        ],
+        "prijs": 17.47,
+        "kleur": "Whistful Mauve",
+        "kleurFamilies": [
+            "R"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_1013-000455-9593_01c.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_1013-000455-9593_03g.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/dotted-mesh-lace-bodysuit-whistful-mauve",
+        "id": "1-1013-000455-9593-004",
+        "kleurHex": null
+    },
+    {
         "naam": "Bodysuit met schouderstrik en kant",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_shoulder_tie_lace_bodysuit-1013-001127-000230699.jpg?width=640",
@@ -99,26 +118,6 @@
     {
         "naam": "Body met bandjes",
         "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00011670.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00011676.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00011689.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00011632.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00011646.jpg?width=640"
-        ],
-        "prijs": 34.95,
-        "kleur": "White",
-        "kleurFamilies": [
-            "W"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00011670.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00011646.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/strap-detail-lace-body-wit-1013-001189-0001",
-        "id": "1-1013-001189-0001-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Body met bandjes",
-        "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00021754.jpg?width=640",
             "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00021766.jpg?width=640",
             "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-0002_flatlay.jpg?width=640",
@@ -129,7 +128,7 @@
         "prijs": 34.95,
         "kleur": "Black",
         "kleurFamilies": [
-            "W"
+            "Z"
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00021754.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00021746.jpg",
