@@ -412,12 +412,32 @@
         "prijs": 8.97,
         "kleur": "Pearl",
         "kleurFamilies": [
-            "Z"
+            "W"
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong-1013-000862-0719_01c.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong-1013-000862-0719_04h.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/klassieke-string-met-halfhoge-taille-en-kant-pearl",
         "id": "1-1013-000862-0719-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Klassieke string met halfhoge taille en kant",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong-1013-000862-0001_04j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong-1013-000862-0001_03d.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong-1013-000862-0001_01i.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong-1013-000862-0001_02h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong-1013-000862-0001_05j.jpg?width=640"
+        ],
+        "prijs": 8.97,
+        "kleur": "White",
+        "kleurFamilies": [
+            "W"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong-1013-000862-0001_04j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong-1013-000862-0001_05j.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/klassieke-string-met-halfhoge-taille-en-kant-white",
+        "id": "1-1013-000862-0001-004",
         "kleurHex": null
     },
     {
@@ -653,25 +673,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/twisted_high_leg_satin_thong_1013-001094-0002_06e.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/twisted-high-leg-satin-thong-black-1013-001094-0002",
         "id": "1-1013-001094-0002-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Gedraaide satijnen tanga met hoge uitsnijding",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_twisted_high_leg_satin_thong_1013-001094-651_03_r.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_twisted_high_leg_satin_thong_1013-001094-651_02_r.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_twisted_high_leg_satin_thong_1013-001094-651_01_r.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_twisted_high_leg_satin_thong_1013-001094-651_04_r.jpg?width=640"
-        ],
-        "prijs": 9.97,
-        "kleur": "Oxford Tan",
-        "kleurFamilies": [
-            "Z"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_twisted_high_leg_satin_thong_1013-001094-651_03_r.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_twisted_high_leg_satin_thong_1013-001094-651_04_r.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/twisted-high-leg-satin-thong-oxford-tan-1013-001094-651",
-        "id": "1-1013-001094-651-004",
         "kleurHex": null
     }
 ]
