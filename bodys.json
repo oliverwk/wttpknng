@@ -10,7 +10,7 @@
         "prijs": 17.47,
         "kleur": "Whistful Mauve",
         "kleurFamilies": [
-            "R"
+            "Roze"
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_1013-000455-9593_01c.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_1013-000455-9593_03g.jpg",
@@ -29,12 +29,53 @@
         "prijs": 19.95,
         "kleur": "Black",
         "kleurFamilies": [
-            "Z"
+            "Zwart"
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_shoulder_tie_lace_bodysuit-1013-001127-000230699.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_shoulder_tie_lace_bodysuit-1013-001127-000230704.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/shoulder-tie-lace-bodysuit-black-1013-001127-0002",
         "id": "1-1013-001127-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Body met v-hals",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_v-neck_lace_bodysuit_1013-001109-0003_11782.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v-neck_lace_bodysuit_1013-001109-0003_11788-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v-neck_lace_bodysuit_1013-001109-0003_11775.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v-neck_lace_bodysuit-1013-001109-00030125.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v-neck_lace_bodysuit_1013-001109-0003_11761-1.jpg?width=640"
+        ],
+        "prijs": 24.46,
+        "kleur": "Blue",
+        "kleurFamilies": [
+            "Zwart",
+            "Blauw"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_v-neck_lace_bodysuit_1013-001109-0003_11782.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_v-neck_lace_bodysuit_1013-001109-0003_11761-1.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/body-met-v-hals-blue-1013-001109-0003",
+        "id": "1-1013-001109-0003-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Floral Lace Thong Bodysuit",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/episode_floral_lace_thong_bodysuit_1013-000319-0002_03a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/episode_floral_lace_thong_bodysuit_1013-000319-0002_02b.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/episode_floral_lace_thong_bodysuit_1013-000319-0002_01a_r1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/episode_floral_lace_thong_bodysuit_1013-000319-0002_04c_r1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/episode_floral_lace_thong_bodysuit_1013-000319-0002_05g_b1.jpg?width=640"
+        ],
+        "prijs": 24.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "Zwart"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/episode_floral_lace_thong_bodysuit_1013-000319-0002_03a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/episode_floral_lace_thong_bodysuit_1013-000319-0002_05g_b1.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/floral-lace-thong-bodysuit-zwart",
+        "id": "1-1013-000319-0002-004",
         "kleurHex": null
     },
     {
@@ -50,7 +91,7 @@
         "prijs": 29.95,
         "kleur": "White",
         "kleurFamilies": [
-            "W"
+            "Wit"
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0001_01a.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0001_06g.jpg",
@@ -70,7 +111,8 @@
         "prijs": 34.95,
         "kleur": "Black",
         "kleurFamilies": [
-            "Z"
+            "Zwart",
+            "Blauw"
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_v-neck_lace_bodysuit-1013-001109-0002_2.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_recycled_v-neck_lace_bodysuit-1013-001109-0002_1.jpg",
@@ -90,32 +132,13 @@
         "prijs": 34.95,
         "kleur": "White",
         "kleurFamilies": [
-            "W"
+            "Wit",
+            "Zwart"
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00011670.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00011646.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/strap-detail-lace-body-wit-1013-001189-0001",
         "id": "1-1013-001189-0001-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Body met v-hals",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_v-neck_lace_bodysuit_1013-001109-0003_11782.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_v-neck_lace_bodysuit_1013-001109-0003_11788-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_v-neck_lace_bodysuit_1013-001109-0003_11775.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_v-neck_lace_bodysuit-1013-001109-00030125.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_v-neck_lace_bodysuit_1013-001109-0003_11761-1.jpg?width=640"
-        ],
-        "prijs": 34.95,
-        "kleur": "Blue",
-        "kleurFamilies": [
-            "Z"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_v-neck_lace_bodysuit_1013-001109-0003_11782.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_v-neck_lace_bodysuit_1013-001109-0003_11761-1.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/body-met-v-hals-blue-1013-001109-0003",
-        "id": "1-1013-001109-0003-004",
         "kleurHex": null
     },
     {
@@ -131,7 +154,8 @@
         "prijs": 34.95,
         "kleur": "Black",
         "kleurFamilies": [
-            "W"
+            "Wit",
+            "Zwart"
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00021754.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00021746.jpg",
@@ -152,7 +176,7 @@
         "prijs": 34.95,
         "kleur": "Black",
         "kleurFamilies": [
-            "Z"
+            "Zwart"
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0002_01j_r1.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_v_neck_lace_bodysuit_1013-000222-0002_06g_r1.jpg",
