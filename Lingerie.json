@@ -50,8 +50,7 @@
         "prijs": 4.97,
         "kleur": "White",
         "kleurFamilies": [
-            "Wit",
-            "Paars"
+            "Wit"
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/cotton_panel_lace_brief_1013-001167-0001_4.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/cotton_panel_lace_brief_1013-001167-0001_2.jpg",
@@ -418,26 +417,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Kanten onderbroek",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/cotton_panel_lave_brief_1013-001167-03685387_2.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/cotton_panel_lave_brief_1013-001167-03685387_3.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/cotton_panel_lave_brief_1013-001167-03685387_1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/cotton_panel_lave_brief_1013-001167-03685387_4.jpg?width=640"
-        ],
-        "prijs": 8.97,
-        "kleur": "Lilac",
-        "kleurFamilies": [
-            "Wit",
-            "Paars"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/cotton_panel_lave_brief_1013-001167-03685387_2.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/cotton_panel_lave_brief_1013-001167-03685387_4.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-onderbroek-paars-1013-001167-0368",
-        "id": "1-1013-001167-0368-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Klassieke string met halfhoge taille en kant",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong-1013-000862-0001_04j.jpg?width=640",
@@ -705,6 +684,30 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_twisted_high_leg_satin_thong_1013-001094-1147_03.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/twisted-high-leg-satin-thong-cappuccino-1013-001094-1147",
         "id": "1-1013-001094-1147-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Gedraaide satijnen tanga met hoge uitsnijding",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/twisted_high_leg_satin_thong_1013-001094-0002_07e.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_twisted_high_leg_satin_thong-1013-001094-0002_02.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_twisted_high_leg_satin_thong-1013-001094-0002_8614.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_twisted_high_leg_satin_thong-1013-001094-0002_03.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_twisted_high_leg_satin_thong-1013-001094-0002_01.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/twisted_high_leg_satin_thong_1013-001094-0002_06e.jpg?width=640"
+        ],
+        "prijs": 9.97,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "Zwart",
+            "Lichtpaars",
+            "Bruin",
+            "Beige"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/twisted_high_leg_satin_thong_1013-001094-0002_07e.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/twisted_high_leg_satin_thong_1013-001094-0002_06e.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/twisted-high-leg-satin-thong-black-1013-001094-0002",
+        "id": "1-1013-001094-0002-004",
         "kleurHex": null
     }
 ]
