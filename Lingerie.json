@@ -318,6 +318,26 @@
         "kleurHex": null
     },
     {
+        "naam": "Babylock string met rand van kant",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/babylock_edge_lace_thong_1013-001234-0208_01.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/babylock_edge_lace_thong_1013-001234-0208_03.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/babylock_edge_lace_thong_1013-001234-0208_02.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/babylock_edge_lace_thong_1013-001234-0208_04.jpg?width=640"
+        ],
+        "prijs": 8.97,
+        "kleur": "Purple",
+        "kleurFamilies": [
+            "Zwart",
+            "Paars"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/babylock_edge_lace_thong_1013-001234-0208_01.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/babylock_edge_lace_thong_1013-001234-0208_04.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/babylock-edge-lace-thong-purple-1013-001234-0208",
+        "id": "1-1013-001234-0208-004",
+        "kleurHex": null
+    },
+    {
         "naam": "Hooguitgesneden string met kant",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/high_cut_adjustable_lace_thong__1013-001163-0010_1.jpg?width=640",
@@ -368,7 +388,8 @@
         "prijs": 8.97,
         "kleur": "Black",
         "kleurFamilies": [
-            "Zwart"
+            "Zwart",
+            "Paars"
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/babylock_edge_lace_thong_1013-001234-0002_01.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/babylock_edge_lace_thong_1013-001234-0002_04.jpg",
@@ -412,7 +433,8 @@
             "Wit",
             "Zwart",
             "Blauw",
-            "Groen"
+            "Groen",
+            "Rood"
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong-1013-000862-0001_04j.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong-1013-000862-0001_05j.jpg",
@@ -689,28 +711,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/twisted_high_leg_satin_thong_1013-001094-0002_06e.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/twisted-high-leg-satin-thong-black-1013-001094-0002",
         "id": "1-1013-001094-0002-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Gedraaide satijnen tanga met hoge uitsnijding",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_twisted_high_leg_satin_thong_1013-001094-651_03_r.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_twisted_high_leg_satin_thong_1013-001094-651_02_r.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_twisted_high_leg_satin_thong_1013-001094-651_01_r.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_twisted_high_leg_satin_thong_1013-001094-651_04_r.jpg?width=640"
-        ],
-        "prijs": 9.97,
-        "kleur": "Oxford Tan",
-        "kleurFamilies": [
-            "Zwart",
-            "Lichtpaars",
-            "Bruin",
-            "Beige"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_twisted_high_leg_satin_thong_1013-001094-651_03_r.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_twisted_high_leg_satin_thong_1013-001094-651_04_r.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/twisted-high-leg-satin-thong-oxford-tan-1013-001094-651",
-        "id": "1-1013-001094-651-004",
         "kleurHex": null
     }
 ]
