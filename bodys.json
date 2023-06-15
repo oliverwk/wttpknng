@@ -1,24 +1,5 @@
 [
     {
-        "naam": "Kanten body",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_1013-000455-9593_01c.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_1013-000455-9593_04d.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_1013-000455-9593_02d.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_1013-000455-9593_03g.jpg?width=640"
-        ],
-        "prijs": 17.47,
-        "kleur": "Whistful Mauve",
-        "kleurFamilies": [
-            "Roze"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_1013-000455-9593_01c.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_1013-000455-9593_03g.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/dotted-mesh-lace-bodysuit-whistful-mauve",
-        "id": "1-1013-000455-9593-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Body met v-hals",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_v-neck_lace_bodysuit_1013-001109-0003_11782.jpg?width=640",
@@ -142,6 +123,28 @@
     {
         "naam": "Body met bandjes",
         "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00021754.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00021766.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-0002_flatlay.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00021739_01c.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00021789.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00021746.jpg?width=640"
+        ],
+        "prijs": 34.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "Wit",
+            "Zwart"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00021754.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00021746.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/strap-detail-lace-body-zwart-1013-001189-0002",
+        "id": "1-1013-001189-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Body met bandjes",
+        "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00011670.jpg?width=640",
             "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00011676.jpg?width=640",
             "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00011689.jpg?width=640",
@@ -151,12 +154,33 @@
         "prijs": 34.95,
         "kleur": "White",
         "kleurFamilies": [
-            "Wit"
+            "Wit",
+            "Zwart"
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00011670.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00011646.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/strap-detail-lace-body-wit-1013-001189-0001",
         "id": "1-1013-001189-0001-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Body met diep decollet\u00e9 en borduursel",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/embroidery_plunge_body-1013-001300-000242463-copy.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/embroidery_plunge_body-1013-001300-000242467.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/embroidery_plunge_body-1013-001300-000242449-copy.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/embroidery_plunge_body-1013-001300-000242475.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/embroidery_plunge_body-1013-001300-000242459-copy-2.jpg?width=640"
+        ],
+        "prijs": 34.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            "Zwart"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/embroidery_plunge_body-1013-001300-000242463-copy.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/embroidery_plunge_body-1013-001300-000242459-copy-2.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/embroidery-plunge-body-black-1013-001300-0002",
+        "id": "1-1013-001300-0002-004",
         "kleurHex": null
     },
     {
