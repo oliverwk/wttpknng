@@ -380,25 +380,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Kanten string",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/lace_detail_cotton_thong_1013-001166-0010_6843.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_detail_cotton_thong_1013-001166-0010_6866.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_detail_cotton_thong_1013-001166-0010_6861.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_detail_cotton_thong_1013-001166-0010_6880.jpg?width=640"
-        ],
-        "prijs": 5.97,
-        "kleur": "Green",
-        "kleurFamilies": [
-            "Groen"
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/lace_detail_cotton_thong_1013-001166-0010_6843.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/lace_detail_cotton_thong_1013-001166-0010_6880.jpg",
-        "url": "https://www.na-kd.com/resize/nl/zoek-producten/kanten-string-groen-1013-001166-0010",
-        "id": "1-1013-001166-0010-004",
-        "kleurHex": null
-    },
-    {
         "naam": "String",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_recycled_elastic_band_lace_high_thong-1013-001107-0002_1.jpg?width=640",
@@ -714,6 +695,25 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/mid_waist_mesh_brief-1013-000972-7826_4.jpg",
         "url": "https://www.na-kd.com/resize/nl/zoek-producten/mesh-slip-nudeflower-1013-000972-7826",
         "id": "1-1013-000972-7826-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Panty met vlinderdetail aan de voorkant",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/butterfly_front_detail_panty-1013-001204-0448_7083.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/butterfly_front_detail_panty-1013-001204-0448_7115.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/butterfly_front_detail_panty-1013-001204-0448_7104.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/butterfly_front_detail_panty-1013-001204-0448_7125.jpg?width=640"
+        ],
+        "prijs": 6.96,
+        "kleur": "Fuchsia",
+        "kleurFamilies": [
+            "Roze"
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/butterfly_front_detail_panty-1013-001204-0448_7083.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/butterfly_front_detail_panty-1013-001204-0448_7125.jpg",
+        "url": "https://www.na-kd.com/resize/nl/zoek-producten/butterfly-front-detail-panty-fuchsia-1013-001204-0448",
+        "id": "1-1013-001204-0448-004",
         "kleurHex": null
     }
 ]
