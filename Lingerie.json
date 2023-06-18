@@ -10,19 +10,20 @@
         "prijs": 3.98,
         "kleur": "Light Green",
         "kleurFamilies": [
-            {
-                "id": "1-1013-001140-0048",
-                "naam": "Roze",
-                "hex": "#C0818C",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_waist_mesh_detail_brief_1013-001140-0048_0384.jpg?ref=E6C83642B3",
-                "url": "https://www.na-kd.com/nl/zoek-producten/high-waist-mesh-detail-brief-light-pink-1013-001140-0048"
-            },
+            "1-1013-001140-1130",
             {
                 "id": "1-1013-001140-1130",
                 "naam": "Groen",
                 "hex": "#828B37",
                 "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_waist_mesh_detail_brief_1013-001140-1130_0297.jpg?ref=6630263B93",
                 "url": "https://www.na-kd.com/nl/zoek-producten/high-waist-mesh-detail-brief-light-green-1013-001140-1130"
+            },
+            {
+                "id": "1-1013-001140-0048",
+                "naam": "Roze",
+                "hex": "#C0818C",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_waist_mesh_detail_brief_1013-001140-0048_0384.jpg?ref=E6C83642B3",
+                "url": "https://www.na-kd.com/nl/zoek-producten/high-waist-mesh-detail-brief-light-pink-1013-001140-0048"
             }
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_waist_mesh_detail_brief_1013-001140-1130_0297.jpg",
@@ -44,13 +45,7 @@
         "prijs": 4.48,
         "kleur": "Grey Beige",
         "kleurFamilies": [
-            {
-                "id": "1-1013-001099-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-0002_01.jpg?ref=51F76FD34F",
-                "url": "https://www.na-kd.com/nl/zoek-producten/side-tie-satin-panty-black-1013-001099-0002"
-            },
+            "1-1013-001099-8626",
             {
                 "id": "1-1013-001099-0005",
                 "naam": "Beige",
@@ -64,6 +59,13 @@
                 "hex": "#E5CFA8",
                 "img_url": "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-8626_04.jpg?ref=A56A5406D2",
                 "url": "https://www.na-kd.com/nl/zoek-producten/side-tie-satin-panty-grey-beige-1013-001099-8626"
+            },
+            {
+                "id": "1-1013-001099-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-0002_01.jpg?ref=51F76FD34F",
+                "url": "https://www.na-kd.com/nl/zoek-producten/side-tie-satin-panty-black-1013-001099-0002"
             }
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-8626_04.jpg",
@@ -204,19 +206,20 @@
         "prijs": 3.98,
         "kleur": "Pearl",
         "kleurFamilies": [
-            {
-                "id": "1-1013-001087-0405",
-                "naam": "Roze",
-                "hex": "#E3B1B1",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_striped_eyelash_lace_high_rise_brief_1013-001087-0405-11381.jpg?ref=CAAEC34C10",
-                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-onderbroek-roze-1013-001087-0405"
-            },
+            "1-1013-001087-0719",
             {
                 "id": "1-1013-001087-0719",
                 "naam": "Beige",
                 "hex": "#CB9170",
                 "img_url": "https://www.na-kd.com/resize/globalassets/nakd_striped_eyelash_lace_high_rise_brief_1013-001087-0719-11269.jpg?ref=3343685A03",
                 "url": "https://www.na-kd.com/nl/zoek-producten/kanten-onderbroek-nude-1013-001087-0719"
+            },
+            {
+                "id": "1-1013-001087-0405",
+                "naam": "Roze",
+                "hex": "#E3B1B1",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_striped_eyelash_lace_high_rise_brief_1013-001087-0405-11381.jpg?ref=CAAEC34C10",
+                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-onderbroek-roze-1013-001087-0405"
             }
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_striped_eyelash_lace_high_rise_brief_1013-001087-0719-11269.jpg",
@@ -236,13 +239,7 @@
         "prijs": 5.98,
         "kleur": "Beige",
         "kleurFamilies": [
-            {
-                "id": "1-1013-001099-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-0002_01.jpg?ref=51F76FD34F",
-                "url": "https://www.na-kd.com/nl/zoek-producten/side-tie-satin-panty-black-1013-001099-0002"
-            },
+            "1-1013-001099-0005",
             {
                 "id": "1-1013-001099-0005",
                 "naam": "Beige",
@@ -256,6 +253,13 @@
                 "hex": "#E5CFA8",
                 "img_url": "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-8626_04.jpg?ref=A56A5406D2",
                 "url": "https://www.na-kd.com/nl/zoek-producten/side-tie-satin-panty-grey-beige-1013-001099-8626"
+            },
+            {
+                "id": "1-1013-001099-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-0002_01.jpg?ref=51F76FD34F",
+                "url": "https://www.na-kd.com/nl/zoek-producten/side-tie-satin-panty-black-1013-001099-0002"
             }
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-000547075.jpg",
@@ -496,19 +500,20 @@
         "prijs": 4.97,
         "kleur": "Yellow",
         "kleurFamilies": [
-            {
-                "id": "1-1730-000050-0015",
-                "naam": "Roze",
-                "hex": "#EFA8BA",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_multicolour_lace_panties-1730-000050-0015_3.jpg?ref=AC8F4F720F",
-                "url": "https://www.na-kd.com/nl/zoek-producten/multicolour-lace-panties-pink-1730-000050-0015"
-            },
+            "1-1730-000050-0024",
             {
                 "id": "1-1730-000050-0024",
                 "naam": "Geel",
                 "hex": "#F0CA74",
                 "img_url": "https://www.na-kd.com/resize/globalassets/nakd_multicolour_lace_panties-1730-000050-0024_6.jpg?ref=058FEBE983",
                 "url": "https://www.na-kd.com/nl/zoek-producten/multicolour-lace-panties-yellow-1730-000050-0024"
+            },
+            {
+                "id": "1-1730-000050-0015",
+                "naam": "Roze",
+                "hex": "#EFA8BA",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_multicolour_lace_panties-1730-000050-0015_3.jpg?ref=AC8F4F720F",
+                "url": "https://www.na-kd.com/nl/zoek-producten/multicolour-lace-panties-pink-1730-000050-0015"
             }
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_multicolour_lace_panties-1730-000050-0024_6.jpg",
@@ -528,13 +533,7 @@
         "prijs": 5.98,
         "kleur": "Lilac Print",
         "kleurFamilies": [
-            {
-                "id": "1-1013-000972-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_mesh_brief_1013-000972-0002_03.jpg?ref=0736A5D15F",
-                "url": "https://www.na-kd.com/nl/zoek-producten/mesh-slip-zwart-1013-000972-0002"
-            },
+            "1-1013-000972-3186",
             {
                 "id": "1-1013-000972-3186",
                 "naam": "Veelkleurig",
@@ -555,6 +554,13 @@
                 "hex": "#DEC7C9",
                 "img_url": "https://www.na-kd.com/resize/globalassets/mid_waist_mesh_brief-1013-000972-7826_1.jpg?ref=71FB41D841",
                 "url": "https://www.na-kd.com/nl/zoek-producten/mesh-slip-nudeflower-1013-000972-7826"
+            },
+            {
+                "id": "1-1013-000972-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_mesh_brief_1013-000972-0002_03.jpg?ref=0736A5D15F",
+                "url": "https://www.na-kd.com/nl/zoek-producten/mesh-slip-zwart-1013-000972-0002"
             }
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_waist_mesh_brief_1013-000972-3186-5004.jpg",
@@ -574,19 +580,20 @@
         "prijs": 7.47,
         "kleur": "Pale Banana",
         "kleurFamilies": [
-            {
-                "id": "1-1013-001078-0368",
-                "naam": "Lichtpaars",
-                "hex": "#BD98A9",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_high_rise_wide_lace_brief_1013-001078-0368_01j.jpg?ref=6D81C9EC23",
-                "url": "https://www.na-kd.com/nl/zoek-producten/gerecycleerd-hoog-breed-kanten-onderbroek-paars-1013-001078-0368"
-            },
+            "1-1013-001078-9252",
             {
                 "id": "1-1013-001078-9252",
                 "naam": "Lichtgeel",
                 "hex": "#E4C999",
                 "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_high_rise_wide_lace_brief_1013-001078-9252_01j.jpg?ref=5340E1F5D0",
                 "url": "https://www.na-kd.com/nl/zoek-producten/gerecycleerd-hoog-breed-kanten-onderbroek-geel-1013-001078-9252"
+            },
+            {
+                "id": "1-1013-001078-0368",
+                "naam": "Lichtpaars",
+                "hex": "#BD98A9",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_high_rise_wide_lace_brief_1013-001078-0368_01j.jpg?ref=6D81C9EC23",
+                "url": "https://www.na-kd.com/nl/zoek-producten/gerecycleerd-hoog-breed-kanten-onderbroek-paars-1013-001078-0368"
             }
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_high_rise_wide_lace_brief_1013-001078-9252_01j.jpg",
@@ -642,19 +649,20 @@
         "prijs": 9.95,
         "kleur": "Pink",
         "kleurFamilies": [
-            {
-                "id": "1-1013-001074-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mid_waist_lace_brazilian_1013-001074-0002_02b.jpg?ref=B84EFAD8CC",
-                "url": "https://www.na-kd.com/nl/zoek-producten/mid-waist-lace-brazilian-black-1013-001074-0002"
-            },
+            "1-1013-001074-0015",
             {
                 "id": "1-1013-001074-0015",
                 "naam": "Roze",
                 "hex": "#E5619D",
                 "img_url": "https://www.na-kd.com/resize/globalassets/mid_waist_lace_brazilian-1013-001074-0015_2884.jpg?ref=84745F6FB0",
                 "url": "https://www.na-kd.com/nl/zoek-producten/kant-brazilian-slip-pink-1013-001074-0015"
+            },
+            {
+                "id": "1-1013-001074-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mid_waist_lace_brazilian_1013-001074-0002_02b.jpg?ref=B84EFAD8CC",
+                "url": "https://www.na-kd.com/nl/zoek-producten/mid-waist-lace-brazilian-black-1013-001074-0002"
             }
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/mid_waist_lace_brazilian-1013-001074-0015_2884.jpg",
@@ -756,19 +764,20 @@
         "prijs": 8.97,
         "kleur": "Purple",
         "kleurFamilies": [
-            {
-                "id": "1-1013-001234-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/babylock_edge_lace_thong_1013-001234-0002_01.jpg?ref=2C8352E52A",
-                "url": "https://www.na-kd.com/nl/zoek-producten/babylock-edge-lace-thong-black-1013-001234-0002"
-            },
+            "1-1013-001234-0208",
             {
                 "id": "1-1013-001234-0208",
                 "naam": "Paars",
                 "hex": "#853875",
                 "img_url": "https://www.na-kd.com/resize/globalassets/babylock_edge_lace_thong_1013-001234-0208_01.jpg?ref=731FB5328E",
                 "url": "https://www.na-kd.com/nl/zoek-producten/babylock-edge-lace-thong-purple-1013-001234-0208"
+            },
+            {
+                "id": "1-1013-001234-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/babylock_edge_lace_thong_1013-001234-0002_01.jpg?ref=2C8352E52A",
+                "url": "https://www.na-kd.com/nl/zoek-producten/babylock-edge-lace-thong-black-1013-001234-0002"
             }
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/babylock_edge_lace_thong_1013-001234-0208_01.jpg",
@@ -788,19 +797,20 @@
         "prijs": 8.97,
         "kleur": "Lilac",
         "kleurFamilies": [
-            {
-                "id": "1-1013-001167-0001",
-                "naam": "Wit",
-                "hex": "#FFFFFF",
-                "img_url": "https://www.na-kd.com/resize/globalassets/cotton_panel_lace_brief_1013-001167-0001_4.jpg?ref=2ECD3EDC3D",
-                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-onderbroek-wit-1013-001167-0001"
-            },
+            "1-1013-001167-0368",
             {
                 "id": "1-1013-001167-0368",
                 "naam": "Paars",
                 "hex": "#AF80B4",
                 "img_url": "https://www.na-kd.com/resize/globalassets/cotton_panel_lave_brief_1013-001167-03685387_2.jpg?ref=45CD425310",
                 "url": "https://www.na-kd.com/nl/zoek-producten/kanten-onderbroek-paars-1013-001167-0368"
+            },
+            {
+                "id": "1-1013-001167-0001",
+                "naam": "Wit",
+                "hex": "#FFFFFF",
+                "img_url": "https://www.na-kd.com/resize/globalassets/cotton_panel_lace_brief_1013-001167-0001_4.jpg?ref=2ECD3EDC3D",
+                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-onderbroek-wit-1013-001167-0001"
             }
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/cotton_panel_lave_brief_1013-001167-03685387_2.jpg",
@@ -820,19 +830,20 @@
         "prijs": 8.97,
         "kleur": "Green",
         "kleurFamilies": [
-            {
-                "id": "1-1013-001163-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_adjustable_lace_thong_1013-001163-00023543.jpg?ref=E39FE180F9",
-                "url": "https://www.na-kd.com/nl/zoek-producten/hooguitgesneden-string-met-kant-black-1013-001163-0002"
-            },
+            "1-1013-001163-0010",
             {
                 "id": "1-1013-001163-0010",
                 "naam": "Groen",
                 "hex": "#35754B",
                 "img_url": "https://www.na-kd.com/resize/globalassets/high_cut_adjustable_lace_thong__1013-001163-0010_1.jpg?ref=4DA58CE172",
                 "url": "https://www.na-kd.com/nl/zoek-producten/hooguitgesneden-string-met-kant-groen-1013-001163-0010"
+            },
+            {
+                "id": "1-1013-001163-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_adjustable_lace_thong_1013-001163-00023543.jpg?ref=E39FE180F9",
+                "url": "https://www.na-kd.com/nl/zoek-producten/hooguitgesneden-string-met-kant-black-1013-001163-0002"
             }
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/high_cut_adjustable_lace_thong__1013-001163-0010_1.jpg",
@@ -852,19 +863,20 @@
         "prijs": 8.97,
         "kleur": "Ming Green",
         "kleurFamilies": [
-            {
-                "id": "1-1013-001103-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_shiny_strap_lace_thong-1013-001103-0002_4.jpg?ref=76398139D2",
-                "url": "https://www.na-kd.com/nl/zoek-producten/kant-tanga-met-glanzende-bandjes-zwart-1013-001103-0002"
-            },
+            "1-1013-001103-8347",
             {
                 "id": "1-1013-001103-8347",
                 "naam": "Groen",
                 "hex": "#67A16E",
                 "img_url": "https://www.na-kd.com/resize/globalassets/nakd_shiny_strap_lace_thong-1013-001103-8347_4.jpg?ref=24A0E38D99",
                 "url": "https://www.na-kd.com/nl/zoek-producten/kant-tanga-met-glanzende-bandjes-groen-1013-001103-8347"
+            },
+            {
+                "id": "1-1013-001103-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_shiny_strap_lace_thong-1013-001103-0002_4.jpg?ref=76398139D2",
+                "url": "https://www.na-kd.com/nl/zoek-producten/kant-tanga-met-glanzende-bandjes-zwart-1013-001103-0002"
             }
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_shiny_strap_lace_thong-1013-001103-8347_4.jpg",
@@ -1016,13 +1028,7 @@
         "prijs": 8.97,
         "kleur": "Pearl",
         "kleurFamilies": [
-            {
-                "id": "1-1013-000862-0001",
-                "naam": "Wit",
-                "hex": "#FFFFFF",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong-1013-000862-0001_04j.jpg?ref=42BB44063C",
-                "url": "https://www.na-kd.com/nl/zoek-producten/klassieke-string-met-halfhoge-taille-en-kant-white"
-            },
+            "1-1013-000862-0719",
             {
                 "id": "1-1013-000862-0002",
                 "naam": "Zwart",
@@ -1071,6 +1077,13 @@
                 "hex": "#650C11",
                 "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong-1013-000862-0212_0392.jpg?ref=6092C21F00",
                 "url": "https://www.na-kd.com/nl/zoek-producten/klassieke-string-met-halfhoge-taille-en-kant-burgundy-1013-000862-0212"
+            },
+            {
+                "id": "1-1013-000862-0001",
+                "naam": "Wit",
+                "hex": "#FFFFFF",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong-1013-000862-0001_04j.jpg?ref=42BB44063C",
+                "url": "https://www.na-kd.com/nl/zoek-producten/klassieke-string-met-halfhoge-taille-en-kant-white"
             }
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong-1013-000862-0719_01c.jpg",
@@ -1136,13 +1149,7 @@
         "prijs": 7.47,
         "kleur": "Nude/Flower",
         "kleurFamilies": [
-            {
-                "id": "1-1013-000972-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_mesh_brief_1013-000972-0002_03.jpg?ref=0736A5D15F",
-                "url": "https://www.na-kd.com/nl/zoek-producten/mesh-slip-zwart-1013-000972-0002"
-            },
+            "1-1013-000972-7826",
             {
                 "id": "1-1013-000972-3186",
                 "naam": "Veelkleurig",
@@ -1163,6 +1170,13 @@
                 "hex": "#DEC7C9",
                 "img_url": "https://www.na-kd.com/resize/globalassets/mid_waist_mesh_brief-1013-000972-7826_1.jpg?ref=71FB41D841",
                 "url": "https://www.na-kd.com/nl/zoek-producten/mesh-slip-nudeflower-1013-000972-7826"
+            },
+            {
+                "id": "1-1013-000972-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_mesh_brief_1013-000972-0002_03.jpg?ref=0736A5D15F",
+                "url": "https://www.na-kd.com/nl/zoek-producten/mesh-slip-zwart-1013-000972-0002"
             }
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/mid_waist_mesh_brief-1013-000972-7826_1.jpg",
