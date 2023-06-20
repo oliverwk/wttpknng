@@ -166,6 +166,33 @@
         "kleurHex": null
     },
     {
+        "naam": "Body met diep decollet\u00e9 en borduursel",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/embroidery_plunge_body-1013-001300-000242463-copy.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/embroidery_plunge_body-1013-001300-000242467.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/embroidery_plunge_body-1013-001300-000242449-copy.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/embroidery_plunge_body-1013-001300-000242475.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/embroidery_plunge_body-1013-001300-000242459-copy-2.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/embroidery_plunge_body_1013-001300-0002_1.jpg?width=640"
+        ],
+        "prijs": 34.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001300-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/embroidery_plunge_body-1013-001300-000242463-copy.jpg?ref=41F654849E",
+                "url": "https://www.na-kd.com/nl/zoek-producten/embroidery-plunge-body-black-1013-001300-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/embroidery_plunge_body-1013-001300-000242463-copy.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/embroidery_plunge_body_1013-001300-0002_1.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/embroidery-plunge-body-black-1013-001300-0002",
+        "id": "1-1013-001300-0002-004",
+        "kleurHex": null
+    },
+    {
         "naam": "Body met bandjes",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00011670.jpg?width=640",
@@ -230,32 +257,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00021746.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/strap-detail-lace-body-zwart-1013-001189-0002",
         "id": "1-1013-001189-0002-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Body met diep decollet\u00e9 en borduursel",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/embroidery_plunge_body-1013-001300-000242463-copy.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/embroidery_plunge_body-1013-001300-000242467.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/embroidery_plunge_body-1013-001300-000242449-copy.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/embroidery_plunge_body-1013-001300-000242475.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/embroidery_plunge_body-1013-001300-000242459-copy-2.jpg?width=640"
-        ],
-        "prijs": 34.95,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001300-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/embroidery_plunge_body-1013-001300-000242463-copy.jpg?ref=41F654849E",
-                "url": "https://www.na-kd.com/nl/zoek-producten/embroidery-plunge-body-black-1013-001300-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/embroidery_plunge_body-1013-001300-000242463-copy.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/embroidery_plunge_body-1013-001300-000242459-copy-2.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/embroidery-plunge-body-black-1013-001300-0002",
-        "id": "1-1013-001300-0002-004",
         "kleurHex": null
     }
 ]
