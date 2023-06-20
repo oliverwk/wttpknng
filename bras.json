@@ -220,6 +220,28 @@
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_shoulder_tie_wide_lace_top-1013-001128-1096_100.jpg"
     },
     {
+        "prijs": 7.47,
+        "id": "1-1013-001055-0002",
+        "kleur": "Black",
+        "naam": "Mesh BH met een veter",
+        "url": "https://www.na-kd.com/nl/zoek-producten/recycled-lace-detail-mesh-bra-black-1013-001055-0002",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001055-0002",
+                "naam": "Black",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_lace_detail_mesh_bra_1013-001055-0002_01c.jpg",
+                "url": "https://www.na-kd.com/nl/zoek-producten/recycled-lace-detail-mesh-bra-black-1013-001055-0002"
+            }
+        ],
+        "imageUrls": [
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_lace_detail_mesh_bra_1013-001055-0002_01c.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_lace_detail_mesh_bra_1013-001055-0002_01c.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_lace_detail_mesh_bra_1013-001055-0002_01c.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_lace_detail_mesh_bra_1013-001055-0002_01c.jpg"
+    },
+    {
         "prijs": 7.98,
         "id": "1-1013-000821-0010",
         "kleur": "Green",
@@ -768,27 +790,5 @@
         ],
         "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_lace_detail_strap_top_1013-001176-0307-03.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_lace_detail_strap_top_1013-001176-0307-03.jpg"
-    },
-    {
-        "prijs": 11.97,
-        "id": "1-1013-001106-8347",
-        "kleur": "Ming Green",
-        "naam": "Triangeltop",
-        "url": "https://www.na-kd.com/nl/zoek-producten/high-triangle-lace-top-ming-green-1013-001106-8347",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001106-8347",
-                "naam": "Ming Green",
-                "hex": "#000000",
-                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_high_triangle_lace_top-1013-001106-8347_4.jpg",
-                "url": "https://www.na-kd.com/nl/zoek-producten/high-triangle-lace-top-ming-green-1013-001106-8347"
-            }
-        ],
-        "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_high_triangle_lace_top-1013-001106-8347_4.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_high_triangle_lace_top-1013-001106-8347_4.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_high_triangle_lace_top-1013-001106-8347_4.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_high_triangle_lace_top-1013-001106-8347_4.jpg"
     }
 ]
