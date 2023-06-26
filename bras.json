@@ -418,28 +418,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_ruffled_satin_bra_1730-000051-0003_03.jpg"
     },
     {
-        "prijs": 8.97,
-        "id": "1-1013-000967-0002",
-        "kleur": "Black",
-        "naam": "Satijnen bh met kant en geschulpte rand",
-        "url": "https://www.na-kd.com/nl/zoek-producten/lace-cup-scallop-strap-satin-bra-black-1013-000967-0002",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-000967-0002",
-                "naam": "Black",
-                "hex": "#000000",
-                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_1013-000967-0002.jpg",
-                "url": "https://www.na-kd.com/nl/zoek-producten/lace-cup-scallop-strap-satin-bra-black-1013-000967-0002"
-            }
-        ],
-        "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_1013-000967-0002.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_1013-000967-0002.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_1013-000967-0002.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_1013-000967-0002.jpg"
-    },
-    {
         "prijs": 9.97,
         "id": "1-1013-000926-0002",
         "kleur": "Black",
@@ -790,5 +768,27 @@
         ],
         "img_url": "https://www.na-kd.com/resize/resize/globalassets/triangle_cotton_bralette_1013-000901-00106111.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/triangle_cotton_bralette_1013-000901-00106111.jpg"
+    },
+    {
+        "prijs": 11.97,
+        "id": "1-1013-000901-0024",
+        "kleur": "Yellow",
+        "naam": "Katoenen triangel bralette",
+        "url": "https://www.na-kd.com/nl/zoek-producten/katoenen-triangel-bralette-yellow-1013-000901-0024",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000901-0024",
+                "naam": "Yellow",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/resize/globalassets/triangle_cotton_bralette_1013-000901-00246071.jpg",
+                "url": "https://www.na-kd.com/nl/zoek-producten/katoenen-triangel-bralette-yellow-1013-000901-0024"
+            }
+        ],
+        "imageUrls": [
+            "https://www.na-kd.com/resize/resize/globalassets/triangle_cotton_bralette_1013-000901-00246071.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/triangle_cotton_bralette_1013-000901-00246071.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/triangle_cotton_bralette_1013-000901-00246071.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/triangle_cotton_bralette_1013-000901-00246071.jpg"
     }
 ]
