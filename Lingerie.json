@@ -1,5 +1,37 @@
 [
     {
+        "naam": "Hoog uitgesneden katoenen slip",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/high_rise_cotton_brief_1013-000902-0024_04.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/high_rise_cotton_brief_1013-000902-0024_03.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/high_rise_cotton_brief_1013-000902-0024_01.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/high_rise_cotton_brief_1013-000902-0024_02.jpg?width=640"
+        ],
+        "prijs": 2.47,
+        "kleur": "Yellow",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000902-0024",
+                "naam": "Geel",
+                "hex": "#D5C08C",
+                "img_url": "https://www.na-kd.com/resize/globalassets/high_rise_cotton_brief_1013-000902-0024_04.jpg?ref=E07FE47FBD",
+                "url": "https://www.na-kd.com/nl/zoek-producten/hoog-uitgesneden-katoenen-slip-yellow-1013-000902-0024"
+            },
+            {
+                "id": "1-1013-000902-0010",
+                "naam": "Groen",
+                "hex": "#0D9753",
+                "img_url": "https://www.na-kd.com/resize/globalassets/high_rise_cotton_brief_1013-000902-0010_03.jpg?ref=D337C0401A",
+                "url": "https://www.na-kd.com/nl/zoek-producten/hoog-uitgesneden-katoenen-slip-green-1013-000902-0010"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/high_rise_cotton_brief_1013-000902-0024_04.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/high_rise_cotton_brief_1013-000902-0024_02.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/hoog-uitgesneden-katoenen-slip-yellow-1013-000902-0024",
+        "id": "1-1013-000902-0024-004",
+        "kleurHex": null
+    },
+    {
         "naam": "Gerecyclede slip met hoge taille en meshdetail",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_high_waist_mesh_detail_brief_1013-001140-1130_0297.jpg?width=640",
@@ -57,6 +89,13 @@
                 "hex": "#C5A490",
                 "img_url": "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-000547075.jpg?ref=016CB09955",
                 "url": "https://www.na-kd.com/nl/zoek-producten/side-tie-satin-panty-beige-1013-001099-0005"
+            },
+            {
+                "id": "1-1013-001099-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-0002_01.jpg?ref=51F76FD34F",
+                "url": "https://www.na-kd.com/nl/zoek-producten/side-tie-satin-panty-black-1013-001099-0002"
             }
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-8626_04.jpg",
@@ -146,6 +185,13 @@
                 "hex": "#0D9753",
                 "img_url": "https://www.na-kd.com/resize/globalassets/high_rise_cotton_brief_1013-000902-0010_03.jpg?ref=D337C0401A",
                 "url": "https://www.na-kd.com/nl/zoek-producten/hoog-uitgesneden-katoenen-slip-green-1013-000902-0010"
+            },
+            {
+                "id": "1-1013-000902-0024",
+                "naam": "Geel",
+                "hex": "#D5C08C",
+                "img_url": "https://www.na-kd.com/resize/globalassets/high_rise_cotton_brief_1013-000902-0024_04.jpg?ref=E07FE47FBD",
+                "url": "https://www.na-kd.com/nl/zoek-producten/hoog-uitgesneden-katoenen-slip-yellow-1013-000902-0024"
             }
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/high_rise_cotton_brief_1013-000902-0010_03.jpg",
@@ -242,12 +288,58 @@
                 "hex": "#E5CFA8",
                 "img_url": "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-8626_04.jpg?ref=A56A5406D2",
                 "url": "https://www.na-kd.com/nl/zoek-producten/side-tie-satin-panty-grey-beige-1013-001099-8626"
+            },
+            {
+                "id": "1-1013-001099-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-0002_01.jpg?ref=51F76FD34F",
+                "url": "https://www.na-kd.com/nl/zoek-producten/side-tie-satin-panty-black-1013-001099-0002"
             }
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-000547075.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-0005_03.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/side-tie-satin-panty-beige-1013-001099-0005",
         "id": "1-1013-001099-0005-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Satijnen panty met zijstrik",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-0002_01.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-0002_02.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-0002_03.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-0002_04.jpg?width=640"
+        ],
+        "prijs": 5.98,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001099-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-0002_01.jpg?ref=51F76FD34F",
+                "url": "https://www.na-kd.com/nl/zoek-producten/side-tie-satin-panty-black-1013-001099-0002"
+            },
+            {
+                "id": "1-1013-001099-0005",
+                "naam": "Beige",
+                "hex": "#C5A490",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-000547075.jpg?ref=016CB09955",
+                "url": "https://www.na-kd.com/nl/zoek-producten/side-tie-satin-panty-beige-1013-001099-0005"
+            },
+            {
+                "id": "1-1013-001099-8626",
+                "naam": "Beige",
+                "hex": "#E5CFA8",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-8626_04.jpg?ref=A56A5406D2",
+                "url": "https://www.na-kd.com/nl/zoek-producten/side-tie-satin-panty-grey-beige-1013-001099-8626"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-0002_01.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-0002_04.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/side-tie-satin-panty-black-1013-001099-0002",
+        "id": "1-1013-001099-0002-004",
         "kleurHex": null
     },
     {
@@ -1135,63 +1227,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_shiny_strap_lace_thong-1013-001103-834731428.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/kant-tanga-met-glanzende-bandjes-groen-1013-001103-8347",
         "id": "1-1013-001103-8347-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Gestreeptte micro elastische tanga",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_striped_micro_elastic_thong-1013-001111-8369_01.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_striped_micro_elastic_thong-1013-001111-8369_04.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_striped_micro_elastic_thong-1013-001111-8369_02.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_striped_micro_elastic_thong-1013-001111-8369_03.jpg?width=640"
-        ],
-        "prijs": 8.97,
-        "kleur": "High Sky",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001111-8369",
-                "naam": "Blauw",
-                "hex": "#BAC3C8",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_striped_micro_elastic_thong-1013-001111-8369_01.jpg?ref=6A862C8651",
-                "url": "https://www.na-kd.com/nl/zoek-producten/gestreeptte-micro-elastische-tanga-blauw-1013-001111-8369"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_striped_micro_elastic_thong-1013-001111-8369_01.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_striped_micro_elastic_thong-1013-001111-8369_03.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/gestreeptte-micro-elastische-tanga-blauw-1013-001111-8369",
-        "id": "1-1013-001111-8369-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Kant tanga met glanzende bandjes",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_shiny_strap_lace_thong-1013-001103-0002_4.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_shiny_strap_lace_thong-1013-001103-000231468.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_shiny_strap_lace_thong-1013-001103-000231457.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_shiny_strap_lace_thong-1013-001103-0002_3.jpg?width=640"
-        ],
-        "prijs": 8.97,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001103-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_shiny_strap_lace_thong-1013-001103-0002_4.jpg?ref=76398139D2",
-                "url": "https://www.na-kd.com/nl/zoek-producten/kant-tanga-met-glanzende-bandjes-zwart-1013-001103-0002"
-            },
-            {
-                "id": "1-1013-001103-8347",
-                "naam": "Groen",
-                "hex": "#67A16E",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_shiny_strap_lace_thong-1013-001103-8347_4.jpg?ref=24A0E38D99",
-                "url": "https://www.na-kd.com/nl/zoek-producten/kant-tanga-met-glanzende-bandjes-groen-1013-001103-8347"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_shiny_strap_lace_thong-1013-001103-0002_4.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_shiny_strap_lace_thong-1013-001103-0002_3.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/kant-tanga-met-glanzende-bandjes-zwart-1013-001103-0002",
-        "id": "1-1013-001103-0002-004",
         "kleurHex": null
     }
 ]
