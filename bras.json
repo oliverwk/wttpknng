@@ -440,28 +440,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_ruffled_satin_bra_1730-000051-0003_03.jpg"
     },
     {
-        "prijs": 8.97,
-        "id": "1-1013-000967-0002",
-        "kleur": "Black",
-        "naam": "Satijnen bh met kant en geschulpte rand",
-        "url": "https://www.na-kd.com/nl/zoek-producten/lace-cup-scallop-strap-satin-bra-black-1013-000967-0002",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-000967-0002",
-                "naam": "Black",
-                "hex": "#000000",
-                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_1013-000967-0002.jpg",
-                "url": "https://www.na-kd.com/nl/zoek-producten/lace-cup-scallop-strap-satin-bra-black-1013-000967-0002"
-            }
-        ],
-        "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_1013-000967-0002.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_1013-000967-0002.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_1013-000967-0002.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_1013-000967-0002.jpg"
-    },
-    {
         "prijs": 9.97,
         "id": "1-1013-001098-0005",
         "kleur": "Beige",
@@ -790,5 +768,27 @@
         ],
         "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_lace_cup_striped_micro_bra_1013-001112-0002_1.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_lace_cup_striped_micro_bra_1013-001112-0002_1.jpg"
+    },
+    {
+        "prijs": 9.95,
+        "id": "1-1013-000582-0002",
+        "kleur": "Black",
+        "naam": "Mesh-Triangel-Bh Met Stippen",
+        "url": "https://www.na-kd.com/nl/zoek-producten/mesh-triangel-bh-met-stippen-zwart",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000582-0002",
+                "naam": "Black",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_mesh_triangle_lace_edge_dotted_bra_1013-000582-0002_01a.jpg",
+                "url": "https://www.na-kd.com/nl/zoek-producten/mesh-triangel-bh-met-stippen-zwart"
+            }
+        ],
+        "imageUrls": [
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_mesh_triangle_lace_edge_dotted_bra_1013-000582-0002_01a.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_mesh_triangle_lace_edge_dotted_bra_1013-000582-0002_01a.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_mesh_triangle_lace_edge_dotted_bra_1013-000582-0002_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_mesh_triangle_lace_edge_dotted_bra_1013-000582-0002_01a.jpg"
     }
 ]
