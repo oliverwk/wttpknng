@@ -50,13 +50,6 @@
                 "hex": "#C5A490",
                 "img_url": "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-000547075.jpg?ref=016CB09955",
                 "url": "https://www.na-kd.com/nl/zoek-producten/side-tie-satin-panty-beige-1013-001099-0005"
-            },
-            {
-                "id": "1-1013-001099-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-0002_01.jpg?ref=51F76FD34F",
-                "url": "https://www.na-kd.com/nl/zoek-producten/side-tie-satin-panty-black-1013-001099-0002"
             }
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-8626_04.jpg",
@@ -91,38 +84,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Broekje met bandjes",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/strap_detailed_pantie-1687-000102-02604146_.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/strap_detailed_pantie-1687-000102-02604162_.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/strap_detailed_pantie-1687-000102-02604159_.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/strap_detailed_pantie-1687-000102-02604176_.jpg?width=640"
-        ],
-        "prijs": 3.98,
-        "kleur": "Offwhite",
-        "kleurFamilies": [
-            {
-                "id": "1-1687-000102-0260",
-                "naam": "Wit",
-                "hex": "#FFFFFF",
-                "img_url": "https://www.na-kd.com/resize/globalassets/strap_detailed_pantie-1687-000102-02604146_.jpg?ref=D56CBC5A68",
-                "url": "https://www.na-kd.com/nl/zoek-producten/strap-detailed-pantie-offwhite-1687-000102-0260"
-            },
-            {
-                "id": "1-1687-000102-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/strap_detailed_pantie-1687-000102-00024178_.jpg?ref=10128AB07A",
-                "url": "https://www.na-kd.com/nl/zoek-producten/strap-detailed-pantie-black-1687-000102-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/strap_detailed_pantie-1687-000102-02604146_.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/strap_detailed_pantie-1687-000102-02604176_.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/strap-detailed-pantie-offwhite-1687-000102-0260",
-        "id": "1-1687-000102-0260-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Kanten onderbroek",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_striped_eyelash_lace_high_rise_brief_1013-001087-0405-11381.jpg?width=640",
@@ -152,6 +113,38 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_striped_eyelash_lace_high_rise_brief_1013-001087-0405-11401.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/kanten-onderbroek-roze-1013-001087-0405",
         "id": "1-1013-001087-0405-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Broekje met bandjes",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/strap_detailed_pantie-1687-000102-02604146_.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/strap_detailed_pantie-1687-000102-02604162_.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/strap_detailed_pantie-1687-000102-02604159_.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/strap_detailed_pantie-1687-000102-02604176_.jpg?width=640"
+        ],
+        "prijs": 3.98,
+        "kleur": "Offwhite",
+        "kleurFamilies": [
+            {
+                "id": "1-1687-000102-0260",
+                "naam": "Wit",
+                "hex": "#FFFFFF",
+                "img_url": "https://www.na-kd.com/resize/globalassets/strap_detailed_pantie-1687-000102-02604146_.jpg?ref=D56CBC5A68",
+                "url": "https://www.na-kd.com/nl/zoek-producten/strap-detailed-pantie-offwhite-1687-000102-0260"
+            },
+            {
+                "id": "1-1687-000102-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/strap_detailed_pantie-1687-000102-00024178_.jpg?ref=10128AB07A",
+                "url": "https://www.na-kd.com/nl/zoek-producten/strap-detailed-pantie-black-1687-000102-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/strap_detailed_pantie-1687-000102-02604146_.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/strap_detailed_pantie-1687-000102-02604176_.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/strap-detailed-pantie-offwhite-1687-000102-0260",
+        "id": "1-1687-000102-0260-004",
         "kleurHex": null
     },
     {
@@ -210,58 +203,12 @@
                 "hex": "#E5CFA8",
                 "img_url": "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-8626_04.jpg?ref=A56A5406D2",
                 "url": "https://www.na-kd.com/nl/zoek-producten/side-tie-satin-panty-grey-beige-1013-001099-8626"
-            },
-            {
-                "id": "1-1013-001099-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-0002_01.jpg?ref=51F76FD34F",
-                "url": "https://www.na-kd.com/nl/zoek-producten/side-tie-satin-panty-black-1013-001099-0002"
             }
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-000547075.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-0005_03.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/side-tie-satin-panty-beige-1013-001099-0005",
         "id": "1-1013-001099-0005-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Satijnen panty met zijstrik",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-0002_01.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-0002_02.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-0002_03.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-0002_04.jpg?width=640"
-        ],
-        "prijs": 5.98,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001099-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-0002_01.jpg?ref=51F76FD34F",
-                "url": "https://www.na-kd.com/nl/zoek-producten/side-tie-satin-panty-black-1013-001099-0002"
-            },
-            {
-                "id": "1-1013-001099-0005",
-                "naam": "Beige",
-                "hex": "#C5A490",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-000547075.jpg?ref=016CB09955",
-                "url": "https://www.na-kd.com/nl/zoek-producten/side-tie-satin-panty-beige-1013-001099-0005"
-            },
-            {
-                "id": "1-1013-001099-8626",
-                "naam": "Beige",
-                "hex": "#E5CFA8",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-8626_04.jpg?ref=A56A5406D2",
-                "url": "https://www.na-kd.com/nl/zoek-producten/side-tie-satin-panty-grey-beige-1013-001099-8626"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-0002_01.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-0002_04.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/side-tie-satin-panty-black-1013-001099-0002",
-        "id": "1-1013-001099-0002-004",
         "kleurHex": null
     },
     {
@@ -436,31 +383,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_nakd_mid_rise_classic_lace_thong-1013-000862-0003_04i.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/klassieke-string-met-halfhoge-taille-en-kant-blue-1013-000862-0003",
         "id": "1-1013-000862-0003-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "GesGerecyclede Eyelash satijnen tanga",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_eyelash_satin_thong-1013-001137-942830488.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_eyelash_satin_thong-1013-001137-942830488200.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_eyelash_satin_thong-1013-001137-942830488100.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_eyelash_satin_thong-1013-001137-942830488400.jpg?width=640"
-        ],
-        "prijs": 4.97,
-        "kleur": "Neon Floral Print",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001137-9428",
-                "naam": "Bloem",
-                "hex": "#B6B177",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_eyelash_satin_thong-1013-001137-942830488.jpg?ref=B13B75F5C3",
-                "url": "https://www.na-kd.com/nl/zoek-producten/eyelash-satin-thong-neon-floral-print-1013-001137-9428"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_eyelash_satin_thong-1013-001137-942830488.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_recycled_eyelash_satin_thong-1013-001137-942830488400.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/eyelash-satin-thong-neon-floral-print-1013-001137-9428",
-        "id": "1-1013-001137-9428-004",
         "kleurHex": null
     },
     {
@@ -1206,6 +1128,126 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_shiny_strap_lace_thong-1013-001103-0002_3.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/kant-tanga-met-glanzende-bandjes-zwart-1013-001103-0002",
         "id": "1-1013-001103-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Dubbele string met bandjes",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_qute_dobule_strap_thong_1013-001033-0039_03h_r12.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_qute_dobule_strap_thong_1013-001033-0039_03h_r14.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_qute_dobule_strap_thong_1013-001033-0039_03h_r11.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_qute_dobule_strap_thong_1013-001033-0039_02i_r11.jpg?width=640"
+        ],
+        "prijs": 7.47,
+        "kleur": "Dark Red",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001033-0039",
+                "naam": "Roze",
+                "hex": "#894039",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_qute_dobule_strap_thong_1013-001033-0039_03h_r12.jpg?ref=13DA8C06E0",
+                "url": "https://www.na-kd.com/nl/zoek-producten/qute-double-strap-thong-dark-red-1013-001033-0039"
+            },
+            {
+                "id": "1-1013-001033-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_qute_dobule_strap_thong_1013-001033-0002_02i_r12.jpg?ref=5DF159AF56",
+                "url": "https://www.na-kd.com/nl/zoek-producten/qute-double-strap-thong-black-1013-001033-0002"
+            },
+            {
+                "id": "1-1013-001033-9410",
+                "naam": "Roze",
+                "hex": "#B56B88",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_qute_double_strap_thong-1013-001033-9410_01a.jpg?ref=3C6D661FC7",
+                "url": "https://www.na-kd.com/nl/zoek-producten/qute-double-strap-thong-super-pink-1013-001033-9410"
+            },
+            {
+                "id": "1-1013-001033-0003",
+                "naam": "Turquoise",
+                "hex": "#3ddeff",
+                "img_url": "https://www.na-kd.com/resize/globalassets/qute_double_strap_thong_1013-001033-0003_1313.jpg?ref=9E53B9270F",
+                "url": "https://www.na-kd.com/nl/zoek-producten/dubbele-string-met-bandjes-blue-1013-001033-0003"
+            },
+            {
+                "id": "1-1013-001033-0256",
+                "naam": "Roze",
+                "hex": "#ffbea0",
+                "img_url": "https://www.na-kd.com/resize/globalassets/qute_double_strap_thong_1013-001033-0256_1231.jpg?ref=DF0EBDC474",
+                "url": "https://www.na-kd.com/nl/zoek-producten/dubbele-string-met-bandjes-coral-1013-001033-0256"
+            },
+            {
+                "id": "1-1013-001033-0001",
+                "naam": "Wit",
+                "hex": "#FFFFFF",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_qute_dobule_strap_thong_1013-001033-0001_02i_r13.jpg?ref=C6E489E033",
+                "url": "https://www.na-kd.com/nl/zoek-producten/qute-double-strap-thong-white-1013-001033-0001"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_qute_dobule_strap_thong_1013-001033-0039_03h_r12.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_qute_dobule_strap_thong_1013-001033-0039_02i_r11.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/qute-double-strap-thong-dark-red-1013-001033-0039",
+        "id": "1-1013-001033-0039-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Kanten string",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_sugar_bow_lace_thong_1013-001049-3043_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_sugar_bow_lace_thong_1013-001049-3043_02i.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_sugar_bow_lace_thong_1013-001049-3043_03h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_sugar_bow_lace_thong_1013-001049-3043_04k.jpg?width=640"
+        ],
+        "prijs": 7.47,
+        "kleur": "Old Rose",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001049-3043",
+                "naam": "Lichtroze",
+                "hex": "#956059",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_sugar_bow_lace_thong_1013-001049-3043_01j.jpg?ref=E177466A2E",
+                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-string-roze-1013-001049-3043"
+            },
+            {
+                "id": "1-1013-001049-0719",
+                "naam": "Lichtbeige",
+                "hex": "#AD9C8A",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_sugar_bow_lace_thong_1013-001049-0719_02i_r13.jpg?ref=00A8BE4071",
+                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-string-beige-1013-001049-0719"
+            },
+            {
+                "id": "1-1013-001049-0256",
+                "naam": "Roze",
+                "hex": "#E5619D",
+                "img_url": "https://www.na-kd.com/resize/globalassets/sugar_bow_lace_thong_1013-001049-0256_0289-copy.jpg?ref=E209313816",
+                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-string-coral-1013-001049-0256"
+            },
+            {
+                "id": "1-1013-001049-9680",
+                "naam": "Lichtgroen",
+                "hex": "#bbf296",
+                "img_url": "https://www.na-kd.com/resize/globalassets/sugar_bow_lace_thong_1013-001049-9680_0439.jpg?ref=876E15DCBE",
+                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-string-kiwi-green-1013-001049-9680"
+            },
+            {
+                "id": "1-1013-001049-0003",
+                "naam": "Blauw",
+                "hex": "#14349e",
+                "img_url": "https://www.na-kd.com/resize/globalassets/sugar_bow_lace_thong_1013-001049-0003_0217-copy.jpg?ref=AE7610F136",
+                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-string-blue-1013-001049-0003"
+            },
+            {
+                "id": "1-1013-001049-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_sugar_bow_lace_thong_1013-001049-0002_02h_r11.jpg?ref=C03A566AE6",
+                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-string-zwart-1013-001049-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_sugar_bow_lace_thong_1013-001049-3043_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_sugar_bow_lace_thong_1013-001049-3043_04k.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/kanten-string-roze-1013-001049-3043",
+        "id": "1-1013-001049-3043-004",
         "kleurHex": null
     }
 ]
