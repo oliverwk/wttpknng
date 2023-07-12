@@ -16,6 +16,13 @@
                 "hex": "#828B37",
                 "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_waist_mesh_detail_brief_1013-001140-1130_0297.jpg?ref=6630263B93",
                 "url": "https://www.na-kd.com/nl/zoek-producten/high-waist-mesh-detail-brief-light-green-1013-001140-1130"
+            },
+            {
+                "id": "1-1013-001140-0048",
+                "naam": "Roze",
+                "hex": "#C0818C",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_waist_mesh_detail_brief_1013-001140-0048_0384.jpg?ref=E6C83642B3",
+                "url": "https://www.na-kd.com/nl/zoek-producten/high-waist-mesh-detail-brief-light-pink-1013-001140-0048"
             }
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_waist_mesh_detail_brief_1013-001140-1130_0297.jpg",
@@ -124,6 +131,38 @@
         "kleurHex": null
     },
     {
+        "naam": "Gerecyclede slip met hoge taille en meshdetail",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_high_waist_mesh_detail_brief_1013-001140-0048_0384.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_high_waist_mesh_detail_brief_1013-001140-0048_0363.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_high_waist_mesh_detail_brief_1013-001140-0048_0350.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_high_waist_mesh_detail_brief_1013-001140-0048_0376.jpg?width=640"
+        ],
+        "prijs": 4.97,
+        "kleur": "Light Pink",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001140-0048",
+                "naam": "Roze",
+                "hex": "#C0818C",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_waist_mesh_detail_brief_1013-001140-0048_0384.jpg?ref=E6C83642B3",
+                "url": "https://www.na-kd.com/nl/zoek-producten/high-waist-mesh-detail-brief-light-pink-1013-001140-0048"
+            },
+            {
+                "id": "1-1013-001140-1130",
+                "naam": "Groen",
+                "hex": "#828B37",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_waist_mesh_detail_brief_1013-001140-1130_0297.jpg?ref=6630263B93",
+                "url": "https://www.na-kd.com/nl/zoek-producten/high-waist-mesh-detail-brief-light-green-1013-001140-1130"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_waist_mesh_detail_brief_1013-001140-0048_0384.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_high_waist_mesh_detail_brief_1013-001140-0048_0376.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/high-waist-mesh-detail-brief-light-pink-1013-001140-0048",
+        "id": "1-1013-001140-0048-004",
+        "kleurHex": null
+    },
+    {
         "naam": "Kant brazilian slip",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/mid_waist_lace_brazilian-1013-001074-0015_2884.jpg?width=640",
@@ -226,6 +265,13 @@
                 "hex": "#E3B1B1",
                 "img_url": "https://www.na-kd.com/resize/globalassets/nakd_striped_eyelash_lace_high_rise_brief_1013-001087-0405-11381.jpg?ref=CAAEC34C10",
                 "url": "https://www.na-kd.com/nl/zoek-producten/kanten-onderbroek-roze-1013-001087-0405"
+            },
+            {
+                "id": "1-1013-001087-0719",
+                "naam": "Beige",
+                "hex": "#CB9170",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_striped_eyelash_lace_high_rise_brief_1013-001087-0719-11269.jpg?ref=3343685A03",
+                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-onderbroek-nude-1013-001087-0719"
             }
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_striped_eyelash_lace_high_rise_brief_1013-001087-0405-11381.jpg",
@@ -264,6 +310,38 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/strap_detailed_pantie-1687-000102-02604176_.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/strap-detailed-pantie-offwhite-1687-000102-0260",
         "id": "1-1687-000102-0260-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Kanten onderbroek",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_striped_eyelash_lace_high_rise_brief_1013-001087-0719-11269.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_striped_eyelash_lace_high_rise_brief_1013-001087-0719-11289.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_striped_eyelash_lace_high_rise_brief_1013-001087-0719-11257.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_striped_eyelash_lace_high_rise_brief_1013-001087-0719-11301.jpg?width=640"
+        ],
+        "prijs": 3.98,
+        "kleur": "Pearl",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001087-0719",
+                "naam": "Beige",
+                "hex": "#CB9170",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_striped_eyelash_lace_high_rise_brief_1013-001087-0719-11269.jpg?ref=3343685A03",
+                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-onderbroek-nude-1013-001087-0719"
+            },
+            {
+                "id": "1-1013-001087-0405",
+                "naam": "Roze",
+                "hex": "#E3B1B1",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_striped_eyelash_lace_high_rise_brief_1013-001087-0405-11381.jpg?ref=CAAEC34C10",
+                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-onderbroek-roze-1013-001087-0405"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_striped_eyelash_lace_high_rise_brief_1013-001087-0719-11269.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_striped_eyelash_lace_high_rise_brief_1013-001087-0719-11301.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/kanten-onderbroek-nude-1013-001087-0719",
+        "id": "1-1013-001087-0719-004",
         "kleurHex": null
     },
     {
@@ -721,6 +799,13 @@
                 "url": "https://www.na-kd.com/nl/zoek-producten/klassieke-string-met-halfhoge-taille-en-kant-pearl"
             },
             {
+                "id": "1-1013-000862-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong_1013-000862-0002_01j-1.jpg?ref=FF0D600125",
+                "url": "https://www.na-kd.com/nl/zoek-producten/klassieke-string-met-halfhoge-taille-en-kant-zwart"
+            },
+            {
                 "id": "1-1013-000862-0004",
                 "naam": "Rood",
                 "hex": "#BB4740",
@@ -749,11 +834,11 @@
                 "url": "https://www.na-kd.com/nl/zoek-producten/klassieke-string-met-halfhoge-taille-en-kant-burgundy-1013-000862-0212"
             },
             {
-                "id": "1-1013-000862-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong_1013-000862-0002_01j-1.jpg?ref=FF0D600125",
-                "url": "https://www.na-kd.com/nl/zoek-producten/klassieke-string-met-halfhoge-taille-en-kant-zwart"
+                "id": "1-1013-000862-0001",
+                "naam": "Wit",
+                "hex": "#FFFFFF",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong-1013-000862-0001_04j.jpg?ref=42BB44063C",
+                "url": "https://www.na-kd.com/nl/zoek-producten/klassieke-string-met-halfhoge-taille-en-kant-white"
             }
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong-1013-000862-0719_01c.jpg",
@@ -1040,70 +1125,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_multicolour_lace_panties-1730-000050-0015_4.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/multicolour-lace-panties-pink-1730-000050-0015",
         "id": "1-1730-000050-0015-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Kanten string",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/lace_thong_1687-000100-02614084_.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_thong_1687-000100-02614098_.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_thong_1687-000100-02614070_.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_thong_1687-000100-02614087_.jpg?width=640"
-        ],
-        "prijs": 4.97,
-        "kleur": "Orange",
-        "kleurFamilies": [
-            {
-                "id": "1-1687-000100-0261",
-                "naam": "Oranje",
-                "hex": "#DD6700",
-                "img_url": "https://www.na-kd.com/resize/globalassets/lace_thong_1687-000100-02614084_.jpg?ref=258CE5F5A7",
-                "url": "https://www.na-kd.com/nl/zoek-producten/lace-thong-orange-1687-000100-0261"
-            },
-            {
-                "id": "1-1687-000100-0347",
-                "naam": "Donkerpaars",
-                "hex": "#320A49",
-                "img_url": "https://www.na-kd.com/resize/globalassets/lace_thong_1687-000100-03474108_.jpg?ref=9948D3B99B",
-                "url": "https://www.na-kd.com/nl/zoek-producten/lace-thong-dark-purple-1687-000100-0347"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/lace_thong_1687-000100-02614084_.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/lace_thong_1687-000100-02614087_.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/lace-thong-orange-1687-000100-0261",
-        "id": "1-1687-000100-0261-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Kanten string",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/lace_thong_1687-000100-03474108_.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_thong_1687-000100-03474120_.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_thong_1687-000100-03474127_.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_thong_1687-000100-03474140_.jpg?width=640"
-        ],
-        "prijs": 4.97,
-        "kleur": "Dark Purple",
-        "kleurFamilies": [
-            {
-                "id": "1-1687-000100-0347",
-                "naam": "Donkerpaars",
-                "hex": "#320A49",
-                "img_url": "https://www.na-kd.com/resize/globalassets/lace_thong_1687-000100-03474108_.jpg?ref=9948D3B99B",
-                "url": "https://www.na-kd.com/nl/zoek-producten/lace-thong-dark-purple-1687-000100-0347"
-            },
-            {
-                "id": "1-1687-000100-0261",
-                "naam": "Oranje",
-                "hex": "#DD6700",
-                "img_url": "https://www.na-kd.com/resize/globalassets/lace_thong_1687-000100-02614084_.jpg?ref=258CE5F5A7",
-                "url": "https://www.na-kd.com/nl/zoek-producten/lace-thong-orange-1687-000100-0261"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/lace_thong_1687-000100-03474108_.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/lace_thong_1687-000100-03474140_.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/lace-thong-dark-purple-1687-000100-0347",
-        "id": "1-1687-000100-0347-004",
         "kleurHex": null
     }
 ]
