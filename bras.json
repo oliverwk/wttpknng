@@ -375,28 +375,6 @@
     },
     {
         "prijs": 9.97,
-        "id": "1-1013-001105-0002",
-        "kleur": "Black",
-        "naam": "Triangel-BH met kanten bedekking",
-        "url": "https://www.na-kd.com/nl/zoek-producten/triangel-bh-met-kanten-bedekking-black-1013-001105-0002",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001105-0002",
-                "naam": "Black",
-                "hex": "#000000",
-                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_elastic_band_triangle_lace_top_1013-001105-0002_02.jpg",
-                "url": "https://www.na-kd.com/nl/zoek-producten/triangel-bh-met-kanten-bedekking-black-1013-001105-0002"
-            }
-        ],
-        "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_elastic_band_triangle_lace_top_1013-001105-0002_02.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_elastic_band_triangle_lace_top_1013-001105-0002_02.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_elastic_band_triangle_lace_top_1013-001105-0002_02.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_elastic_band_triangle_lace_top_1013-001105-0002_02.jpg"
-    },
-    {
-        "prijs": 9.97,
         "id": "1-1013-001104-0176",
         "kleur": "Dusty Dark Pink",
         "naam": "Kanten top",
@@ -790,5 +768,27 @@
         ],
         "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_high_triangle_lace_top-1013-001106-8347_4.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_high_triangle_lace_top-1013-001106-8347_4.jpg"
+    },
+    {
+        "prijs": 9.97,
+        "id": "1-1730-000053-0010",
+        "kleur": "Green",
+        "naam": "Bh met kleine stipjes",
+        "url": "https://www.na-kd.com/nl/zoek-producten/swiss-dot-bra-green-1730-000053-0010",
+        "kleurFamilies": [
+            {
+                "id": "1-1730-000053-0010",
+                "naam": "Green",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102899.jpg",
+                "url": "https://www.na-kd.com/nl/zoek-producten/swiss-dot-bra-green-1730-000053-0010"
+            }
+        ],
+        "imageUrls": [
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102899.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102899.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102899.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102899.jpg"
     }
 ]
