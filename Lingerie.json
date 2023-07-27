@@ -101,32 +101,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Slip in V-vorm met hartdetail",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/heart_detailed_v-shape_panty-1013-001252-0002_3004.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/heart_detailed_v-shape_panty-1013-001252-0002_3029.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/heart_detailed_v-shape_panty-1013-001252-0002_3024.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/heart_detailed_v-shape_panty-1013-001252-0002_3048.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/heart_detailed_v-shape_panty_1013-001252-0002.jpg?width=640"
-        ],
-        "prijs": 4.97,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001252-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/heart_detailed_v-shape_panty-1013-001252-0002_3004.jpg?ref=9F11D5FAB6",
-                "url": "https://www.na-kd.com/nl/zoek-producten/heart-detailed-v-shape-panty-black-1013-001252-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/heart_detailed_v-shape_panty-1013-001252-0002_3004.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/heart_detailed_v-shape_panty_1013-001252-0002.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/heart-detailed-v-shape-panty-black-1013-001252-0002",
-        "id": "1-1013-001252-0002-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Satijnen tanga met kant voor",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_front_lace_satin_thong_1013-000968-0002_02j.jpg?width=640",
@@ -525,13 +499,6 @@
                 "hex": "#AF365C",
                 "img_url": "https://www.na-kd.com/resize/globalassets/detail_flowy_lace_brazilian_panty_1013-001198-1192_1.jpg?ref=E65FB855AC",
                 "url": "https://www.na-kd.com/nl/zoek-producten/detail-flowy-lace-brazilian-panty-strong-pink-1013-001198-1192"
-            },
-            {
-                "id": "1-1013-001198-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/detail_flowy_lace_brazilian_panty_1013-001198-0002_22552.jpg?ref=F0C86F159F",
-                "url": "https://www.na-kd.com/nl/zoek-producten/detail-flowy-lace-brazilian-panty-black-1013-001198-0002"
             }
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/detail_flowy_lace_brazilian_panty_1013-001198-0277_22235.jpg",
@@ -597,19 +564,38 @@
                 "hex": "#5477BB",
                 "img_url": "https://www.na-kd.com/resize/globalassets/detail_flowy_lace_brazilian_panty_1013-001198-0277_22235.jpg?ref=7E04322B1C",
                 "url": "https://www.na-kd.com/nl/zoek-producten/detail-flowy-lace-brazilian-panty-cobolt-1013-001198-0277"
-            },
-            {
-                "id": "1-1013-001198-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/detail_flowy_lace_brazilian_panty_1013-001198-0002_22552.jpg?ref=F0C86F159F",
-                "url": "https://www.na-kd.com/nl/zoek-producten/detail-flowy-lace-brazilian-panty-black-1013-001198-0002"
             }
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/detail_flowy_lace_brazilian_panty_1013-001198-1192_1.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/detail_flowy_lace_brazilian_panty_1013-001198-1192_2.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/detail-flowy-lace-brazilian-panty-strong-pink-1013-001198-1192",
         "id": "1-1013-001198-1192-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Laag uitgesneden string",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/low_cut_thong_1737-000027-0003_flatlay.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_low_cut_thong_1737-000027-0003_4974.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_low_cut_thong_1737-000027-0003_5004.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_low_cut_thong_1737-000027-0003_5020.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_low_cut_thong_1737-000027-0003_4992.jpg?width=640"
+        ],
+        "prijs": 4.97,
+        "kleur": "Blue",
+        "kleurFamilies": [
+            {
+                "id": "1-1737-000027-0003",
+                "naam": "Blauw",
+                "hex": "#4073BD",
+                "img_url": "https://www.na-kd.com/resize/globalassets/low_cut_thong_1737-000027-0003_flatlay.jpg?ref=878C1B5477",
+                "url": "https://www.na-kd.com/nl/zoek-producten/low-cut-thong-blue-1737-000027-0003"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/low_cut_thong_1737-000027-0003_flatlay.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_low_cut_thong_1737-000027-0003_4992.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/low-cut-thong-blue-1737-000027-0003",
+        "id": "1-1737-000027-0003-004",
         "kleurHex": null
     },
     {
@@ -643,46 +629,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_all_lace_hipster-1013-001263-0015_0273_flatlay.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/all-lace-hipster-pink-1013-001263-0015",
         "id": "1-1013-001263-0015-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Flowy brazilian slip met kantdetail",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/detail_flowy_lace_brazilian_panty_1013-001198-0002_22552.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/detail_flowy_lace_brazilian_panty_1013-001198-0002_22517.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/detail_flowy_lace_brazilian_panty_1013-001198-0002_22548.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/detail_flowy_lace_brazilian_panty_1013-001198-0002_22534.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/detail_flowy_lace_brazilian_panty_1013-001198-0002_10.jpg?width=640"
-        ],
-        "prijs": 4.97,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001198-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/detail_flowy_lace_brazilian_panty_1013-001198-0002_22552.jpg?ref=F0C86F159F",
-                "url": "https://www.na-kd.com/nl/zoek-producten/detail-flowy-lace-brazilian-panty-black-1013-001198-0002"
-            },
-            {
-                "id": "1-1013-001198-0277",
-                "naam": "Blauw",
-                "hex": "#5477BB",
-                "img_url": "https://www.na-kd.com/resize/globalassets/detail_flowy_lace_brazilian_panty_1013-001198-0277_22235.jpg?ref=7E04322B1C",
-                "url": "https://www.na-kd.com/nl/zoek-producten/detail-flowy-lace-brazilian-panty-cobolt-1013-001198-0277"
-            },
-            {
-                "id": "1-1013-001198-1192",
-                "naam": "Roze",
-                "hex": "#AF365C",
-                "img_url": "https://www.na-kd.com/resize/globalassets/detail_flowy_lace_brazilian_panty_1013-001198-1192_1.jpg?ref=E65FB855AC",
-                "url": "https://www.na-kd.com/nl/zoek-producten/detail-flowy-lace-brazilian-panty-strong-pink-1013-001198-1192"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/detail_flowy_lace_brazilian_panty_1013-001198-0002_22552.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/detail_flowy_lace_brazilian_panty_1013-001198-0002_10.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/detail-flowy-lace-brazilian-panty-black-1013-001198-0002",
-        "id": "1-1013-001198-0002-004",
         "kleurHex": null
     },
     {
@@ -1168,6 +1114,31 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/lace_thong_1687-000100-03474140_.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/lace-thong-dark-purple-1687-000100-0347",
         "id": "1-1687-000100-0347-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Broekje met bandjes",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/strap_detailed_pantie-1687-000102-00024178_.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/strap_detailed_pantie-1687-000102-00024206_.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/strap_detailed_pantie-1687-000102-00024201_.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/strap_detailed_pantie-1687-000102-00024220_.jpg?width=640"
+        ],
+        "prijs": 4.97,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1687-000102-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/strap_detailed_pantie-1687-000102-00024178_.jpg?ref=10128AB07A",
+                "url": "https://www.na-kd.com/nl/zoek-producten/strap-detailed-pantie-black-1687-000102-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/strap_detailed_pantie-1687-000102-00024178_.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/strap_detailed_pantie-1687-000102-00024220_.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/strap-detailed-pantie-black-1687-000102-0002",
+        "id": "1-1687-000102-0002-004",
         "kleurHex": null
     }
 ]
