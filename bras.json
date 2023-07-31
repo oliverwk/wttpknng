@@ -110,28 +110,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_clean_scallop_edge_mesh_bra-1013-000959-0261_4.jpg"
     },
     {
-        "prijs": 8.97,
-        "id": "1-1013-001046-0002",
-        "kleur": "Black",
-        "naam": "Gestreepte micro bh",
-        "url": "https://www.na-kd.com/nl/zoek-producten/striped-micro-bra-black-1013-001046-0002",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001046-0002",
-                "naam": "Black",
-                "hex": "#000000",
-                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_striped_micro_bra_1013-001046-0002_01j.jpg",
-                "url": "https://www.na-kd.com/nl/zoek-producten/striped-micro-bra-black-1013-001046-0002"
-            }
-        ],
-        "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_striped_micro_bra_1013-001046-0002_01j.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_striped_micro_bra_1013-001046-0002_01j.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_striped_micro_bra_1013-001046-0002_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_striped_micro_bra_1013-001046-0002_01j.jpg"
-    },
-    {
         "prijs": 7.47,
         "id": "1-1013-001086-0405",
         "kleur": "Bubblegum",
@@ -790,5 +768,27 @@
         ],
         "img_url": "https://www.na-kd.com/resize/resize/globalassets/1769-000012-0002_editorial.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/1769-000012-0002_editorial.jpg"
+    },
+    {
+        "prijs": 9.97,
+        "id": "1-1013-001080-8814",
+        "kleur": "Watercolor Print",
+        "naam": "Gerimpelde mesh triangel top",
+        "url": "https://www.na-kd.com/nl/zoek-producten/gerimpelde-mesh-triangel-top-veelkleurig-1013-001080-8814",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001080-8814",
+                "naam": "Watercolor Print",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_gathered_circle_detail_mesh_triangle_top_1013-001080-8814-1.jpg",
+                "url": "https://www.na-kd.com/nl/zoek-producten/gerimpelde-mesh-triangel-top-veelkleurig-1013-001080-8814"
+            }
+        ],
+        "imageUrls": [
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_gathered_circle_detail_mesh_triangle_top_1013-001080-8814-1.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_gathered_circle_detail_mesh_triangle_top_1013-001080-8814-1.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_gathered_circle_detail_mesh_triangle_top_1013-001080-8814-1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_gathered_circle_detail_mesh_triangle_top_1013-001080-8814-1.jpg"
     }
 ]
