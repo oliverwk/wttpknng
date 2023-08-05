@@ -66,31 +66,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Kanten onderbroek",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/cotton_panel_lace_brief_1013-001167-0001_1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/cotton_panel_lace_brief_1013-001167-0001_4.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/cotton_panel_lace_brief_1013-001167-0001_3.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/cotton_panel_lace_brief_1013-001167-0001_2.jpg?width=640"
-        ],
-        "prijs": 4.97,
-        "kleur": "White",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001167-0001",
-                "naam": "Wit",
-                "hex": "#FFFFFF",
-                "img_url": "https://www.na-kd.com/resize/globalassets/cotton_panel_lace_brief_1013-001167-0001_1.jpg?ref=0964C993E1",
-                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-onderbroek-wit-1013-001167-0001"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/cotton_panel_lace_brief_1013-001167-0001_1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/cotton_panel_lace_brief_1013-001167-0001_2.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/kanten-onderbroek-wit-1013-001167-0001",
-        "id": "1-1013-001167-0001-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Kant brazilian slip",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/mid_waist_lace_brazilian-1013-001074-0015_2884.jpg?width=640",
@@ -813,7 +788,7 @@
                 "id": "1-1013-000862-0002",
                 "naam": "Zwart",
                 "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong_1013-000862-0002_01j-1.jpg?ref=FF0D600125",
+                "img_url": "https://www.na-kd.com/resize/globalassets/mid_rise_classic_lace_thong_1013-000862-0002_2_flatlay.jpg?ref=327A74B388",
                 "url": "https://www.na-kd.com/nl/zoek-producten/klassieke-string-met-halfhoge-taille-en-kant-zwart"
             }
         ],
@@ -1048,6 +1023,38 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/strap_detailed_pantie-1687-000102-00024220_.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/strap-detailed-pantie-black-1687-000102-0002",
         "id": "1-1687-000102-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Kant brazilian slip",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_mid_waist_lace_brazilian_1013-001074-0002_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_mid_waist_lace_brazilian_1013-001074-0002_02b.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_mid_waist_lace_brazilian_1013-001074-0002_04i.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_mid_waist_lace_brazilian_1013-001074-0002_03h.jpg?width=640"
+        ],
+        "prijs": 6.96,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001074-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mid_waist_lace_brazilian_1013-001074-0002_01j.jpg?ref=733766B83E",
+                "url": "https://www.na-kd.com/nl/zoek-producten/mid-waist-lace-brazilian-black-1013-001074-0002"
+            },
+            {
+                "id": "1-1013-001074-0015",
+                "naam": "Roze",
+                "hex": "#E5619D",
+                "img_url": "https://www.na-kd.com/resize/globalassets/mid_waist_lace_brazilian-1013-001074-0015_2884.jpg?ref=84745F6FB0",
+                "url": "https://www.na-kd.com/nl/zoek-producten/kant-brazilian-slip-pink-1013-001074-0015"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mid_waist_lace_brazilian_1013-001074-0002_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_mid_waist_lace_brazilian_1013-001074-0002_03h.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/mid-waist-lace-brazilian-black-1013-001074-0002",
+        "id": "1-1013-001074-0002-004",
         "kleurHex": null
     }
 ]
