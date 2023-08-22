@@ -243,6 +243,28 @@
     },
     {
         "prijs": 7.47,
+        "id": "1-1013-001128-1388",
+        "kleur": "Dried herb",
+        "naam": "Wijde kanttop met schouderstrik",
+        "url": "https://www.na-kd.com/nl/zoek-producten/shoulder-tie-wide-lace-top-dried-herb-1013-001128-1388",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001128-1388",
+                "naam": "Dried herb",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/resize/globalassets/shoulder_tie_wide_lace_top_1013-001128-1388_10.jpg",
+                "url": "https://www.na-kd.com/nl/zoek-producten/shoulder-tie-wide-lace-top-dried-herb-1013-001128-1388"
+            }
+        ],
+        "imageUrls": [
+            "https://www.na-kd.com/resize/resize/globalassets/shoulder_tie_wide_lace_top_1013-001128-1388_10.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/shoulder_tie_wide_lace_top_1013-001128-1388_10.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/shoulder_tie_wide_lace_top_1013-001128-1388_10.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/shoulder_tie_wide_lace_top_1013-001128-1388_10.jpg"
+    },
+    {
+        "prijs": 7.47,
         "id": "1-1013-001262-0015",
         "kleur": "Pink",
         "naam": "Beugelbh van kant",
@@ -416,6 +438,28 @@
         ],
         "img_url": "https://www.na-kd.com/resize/resize/globalassets/embroidered_mesh_bra-1687-000097-00104040.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/embroidered_mesh_bra-1687-000097-00104040.jpg"
+    },
+    {
+        "prijs": 9.95,
+        "id": "1-1013-000239-0002",
+        "kleur": "Black",
+        "naam": "Romantic Lace Bra",
+        "url": "https://www.na-kd.com/nl/zoek-producten/romantic-lace-bra-zwart",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000239-0002",
+                "naam": "Black",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_romantic_lace_bra_1013-000239-0002_01a.jpg",
+                "url": "https://www.na-kd.com/nl/zoek-producten/romantic-lace-bra-zwart"
+            }
+        ],
+        "imageUrls": [
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_romantic_lace_bra_1013-000239-0002_01a.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_romantic_lace_bra_1013-000239-0002_01a.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_romantic_lace_bra_1013-000239-0002_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_romantic_lace_bra_1013-000239-0002_01a.jpg"
     },
     {
         "prijs": 9.97,
@@ -746,49 +790,5 @@
         ],
         "img_url": "https://www.na-kd.com/resize/resize/globalassets/1769-000012-0002_editorial.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/1769-000012-0002_editorial.jpg"
-    },
-    {
-        "prijs": 9.97,
-        "id": "1-1013-001080-8814",
-        "kleur": "Watercolor Print",
-        "naam": "Gerimpelde mesh triangel top",
-        "url": "https://www.na-kd.com/nl/zoek-producten/gerimpelde-mesh-triangel-top-veelkleurig-1013-001080-8814",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001080-8814",
-                "naam": "Watercolor Print",
-                "hex": "#000000",
-                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_gathered_circle_detail_mesh_triangle_top_1013-001080-8814-1.jpg",
-                "url": "https://www.na-kd.com/nl/zoek-producten/gerimpelde-mesh-triangel-top-veelkleurig-1013-001080-8814"
-            }
-        ],
-        "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_gathered_circle_detail_mesh_triangle_top_1013-001080-8814-1.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_gathered_circle_detail_mesh_triangle_top_1013-001080-8814-1.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_gathered_circle_detail_mesh_triangle_top_1013-001080-8814-1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_gathered_circle_detail_mesh_triangle_top_1013-001080-8814-1.jpg"
-    },
-    {
-        "prijs": 9.97,
-        "id": "1-1730-000053-0010",
-        "kleur": "Green",
-        "naam": "Bh met kleine stipjes",
-        "url": "https://www.na-kd.com/nl/zoek-producten/swiss-dot-bra-green-1730-000053-0010",
-        "kleurFamilies": [
-            {
-                "id": "1-1730-000053-0010",
-                "naam": "Green",
-                "hex": "#000000",
-                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102899.jpg",
-                "url": "https://www.na-kd.com/nl/zoek-producten/swiss-dot-bra-green-1730-000053-0010"
-            }
-        ],
-        "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102899.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102899.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102899.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102899.jpg"
     }
 ]
