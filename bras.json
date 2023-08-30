@@ -199,28 +199,6 @@
     },
     {
         "prijs": 7.47,
-        "id": "1-1013-001251-0015",
-        "kleur": "Pink",
-        "naam": "Cup-bh met hartdetail",
-        "url": "https://www.na-kd.com/nl/zoek-producten/heart-detailed-cup-bra-pink-1013-001251-0015",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001251-0015",
-                "naam": "Pink",
-                "hex": "#000000",
-                "img_url": "https://www.na-kd.com/resize/resize/globalassets/heart_detailed_cup_bra-1013-001251-0015_3139.jpg",
-                "url": "https://www.na-kd.com/nl/zoek-producten/heart-detailed-cup-bra-pink-1013-001251-0015"
-            }
-        ],
-        "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/heart_detailed_cup_bra-1013-001251-0015_3139.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/heart_detailed_cup_bra-1013-001251-0015_3139.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/heart_detailed_cup_bra-1013-001251-0015_3139.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/heart_detailed_cup_bra-1013-001251-0015_3139.jpg"
-    },
-    {
-        "prijs": 7.47,
         "id": "1-1013-001262-0002",
         "kleur": "Black",
         "naam": "Beugelbh van kant",
@@ -771,24 +749,46 @@
     },
     {
         "prijs": 9.97,
-        "id": "1-1730-000053-0024",
-        "kleur": "Yellow",
-        "naam": "Bh met kleine stipjes",
-        "url": "https://www.na-kd.com/nl/zoek-producten/swiss-dot-bra-yellow-1730-000053-0024",
+        "id": "1-1013-001106-0261",
+        "kleur": "Orange",
+        "naam": "Triangeltop",
+        "url": "https://www.na-kd.com/nl/zoek-producten/high-triangle-lace-top-orange-1013-001106-0261",
         "kleurFamilies": [
             {
-                "id": "1-1730-000053-0024",
-                "naam": "Yellow",
+                "id": "1-1013-001106-0261",
+                "naam": "Orange",
                 "hex": "#000000",
-                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00243013.jpg",
-                "url": "https://www.na-kd.com/nl/zoek-producten/swiss-dot-bra-yellow-1730-000053-0024"
+                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_high_triangle_lace_top-1013-001106-026130556.jpg",
+                "url": "https://www.na-kd.com/nl/zoek-producten/high-triangle-lace-top-orange-1013-001106-0261"
             }
         ],
         "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00243013.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00243013.jpg"
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_high_triangle_lace_top-1013-001106-026130556.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_high_triangle_lace_top-1013-001106-026130556.jpg"
         ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00243013.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00243013.jpg"
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_high_triangle_lace_top-1013-001106-026130556.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_high_triangle_lace_top-1013-001106-026130556.jpg"
+    },
+    {
+        "prijs": 9.97,
+        "id": "1-1730-000051-0003",
+        "kleur": "Blue",
+        "naam": "Satijnen bh met rafels",
+        "url": "https://www.na-kd.com/nl/zoek-producten/ruffled-satin-bra-blue-1730-000051-0003",
+        "kleurFamilies": [
+            {
+                "id": "1-1730-000051-0003",
+                "naam": "Blue",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_ruffled_satin_bra_1730-000051-0003_03.jpg",
+                "url": "https://www.na-kd.com/nl/zoek-producten/ruffled-satin-bra-blue-1730-000051-0003"
+            }
+        ],
+        "imageUrls": [
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_ruffled_satin_bra_1730-000051-0003_03.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_ruffled_satin_bra_1730-000051-0003_03.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_ruffled_satin_bra_1730-000051-0003_03.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_ruffled_satin_bra_1730-000051-0003_03.jpg"
     }
 ]
