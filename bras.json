@@ -462,28 +462,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/embroidered_mesh_bra-1687-000097-00104040.jpg"
     },
     {
-        "prijs": 9.95,
-        "id": "1-1013-000239-0002",
-        "kleur": "Black",
-        "naam": "Romantic Lace Bra",
-        "url": "https://www.na-kd.com/nl/zoek-producten/romantic-lace-bra-zwart",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-000239-0002",
-                "naam": "Black",
-                "hex": "#000000",
-                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_romantic_lace_bra_1013-000239-0002_01a.jpg",
-                "url": "https://www.na-kd.com/nl/zoek-producten/romantic-lace-bra-zwart"
-            }
-        ],
-        "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_romantic_lace_bra_1013-000239-0002_01a.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_romantic_lace_bra_1013-000239-0002_01a.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_romantic_lace_bra_1013-000239-0002_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_romantic_lace_bra_1013-000239-0002_01a.jpg"
-    },
-    {
         "prijs": 9.97,
         "id": "1-1013-001191-1084",
         "kleur": "Soft Red",
@@ -790,5 +768,27 @@
         ],
         "img_url": "https://www.na-kd.com/resize/resize/globalassets/cut_out_detailed_lace_bra_1013-001266-0010_234324.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/cut_out_detailed_lace_bra_1013-001266-0010_234324.jpg"
+    },
+    {
+        "prijs": 9.97,
+        "id": "1-1769-000012-0002",
+        "kleur": "Black",
+        "naam": "Gebreide bh",
+        "url": "https://www.na-kd.com/nl/zoek-producten/knitted-bra-black-1769-000012-0002",
+        "kleurFamilies": [
+            {
+                "id": "1-1769-000012-0002",
+                "naam": "Black",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/resize/globalassets/1769-000012-0002_editorial.jpg",
+                "url": "https://www.na-kd.com/nl/zoek-producten/knitted-bra-black-1769-000012-0002"
+            }
+        ],
+        "imageUrls": [
+            "https://www.na-kd.com/resize/resize/globalassets/1769-000012-0002_editorial.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/1769-000012-0002_editorial.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/1769-000012-0002_editorial.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/1769-000012-0002_editorial.jpg"
     }
 ]
