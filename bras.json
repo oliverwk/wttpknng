@@ -199,28 +199,6 @@
     },
     {
         "prijs": 7.47,
-        "id": "1-1013-000930-0001",
-        "kleur": "White",
-        "naam": "Elastische cupbh met kant",
-        "url": "https://www.na-kd.com/nl/zoek-producten/elastische-cupbh-met-kant-wit-1013-000930-0001",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-000930-0001",
-                "naam": "White",
-                "hex": "#000000",
-                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_lace_elastic_cup_bra_1013-000930-0001_01a.jpg",
-                "url": "https://www.na-kd.com/nl/zoek-producten/elastische-cupbh-met-kant-wit-1013-000930-0001"
-            }
-        ],
-        "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_lace_elastic_cup_bra_1013-000930-0001_01a.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_lace_elastic_cup_bra_1013-000930-0001_01a.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_lace_elastic_cup_bra_1013-000930-0001_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_lace_elastic_cup_bra_1013-000930-0001_01a.jpg"
-    },
-    {
-        "prijs": 7.47,
         "id": "1-1013-001262-0015",
         "kleur": "Pink",
         "naam": "Beugelbh van kant",
@@ -790,5 +768,27 @@
         ],
         "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_gathered_circle_detail_mesh_triangle_top_1013-001080-8814-1.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_gathered_circle_detail_mesh_triangle_top_1013-001080-8814-1.jpg"
+    },
+    {
+        "prijs": 9.97,
+        "id": "1-1730-000053-0010",
+        "kleur": "Green",
+        "naam": "Bh met kleine stipjes",
+        "url": "https://www.na-kd.com/nl/zoek-producten/swiss-dot-bra-green-1730-000053-0010",
+        "kleurFamilies": [
+            {
+                "id": "1-1730-000053-0010",
+                "naam": "Green",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102899.jpg",
+                "url": "https://www.na-kd.com/nl/zoek-producten/swiss-dot-bra-green-1730-000053-0010"
+            }
+        ],
+        "imageUrls": [
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102899.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102899.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102899.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102899.jpg"
     }
 ]
