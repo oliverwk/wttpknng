@@ -167,6 +167,31 @@
         "kleurHex": null
     },
     {
+        "naam": "Wikkelbodysuit Met V-Hals",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_v-neck_strap_around_bodysuit_1013-000666-0002_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v-neck_strap_around_bodysuit_1013-000666-0002_02k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v-neck_strap_around_bodysuit_1013-000666-0002_03c.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v-neck_strap_around_bodysuit_1013-000666-0002_04g.jpg?width=640"
+        ],
+        "prijs": 29.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000666-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_v-neck_strap_around_bodysuit_1013-000666-0002_01j.jpg?ref=E5569CA041",
+                "url": "https://www.na-kd.com/nl/zoek-producten/wikkelbodysuit-met-v-hals-zwart"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_v-neck_strap_around_bodysuit_1013-000666-0002_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_v-neck_strap_around_bodysuit_1013-000666-0002_04g.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/wikkelbodysuit-met-v-hals-zwart",
+        "id": "1-1013-000666-0002-004",
+        "kleurHex": null
+    },
+    {
         "naam": "Body met diep decollet\u00e9 en borduursel",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/embroidery_plunge_body-1013-001300-0002_76150.jpg?width=640",
@@ -196,40 +221,6 @@
     {
         "naam": "Body met bandjes",
         "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00021754.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00021766.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-0002_flatlay.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00021739_01c.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00021789.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00021746.jpg?width=640"
-        ],
-        "prijs": 34.95,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001189-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00021754.jpg?ref=D35D7E1F2C",
-                "url": "https://www.na-kd.com/nl/zoek-producten/strap-detail-lace-body-zwart-1013-001189-0002"
-            },
-            {
-                "id": "1-1013-001189-0001",
-                "naam": "Wit",
-                "hex": "#FFFFFF",
-                "img_url": "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00011670.jpg?ref=90D5E6D232",
-                "url": "https://www.na-kd.com/nl/zoek-producten/strap-detail-lace-body-wit-1013-001189-0001"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00021754.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00021746.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/strap-detail-lace-body-zwart-1013-001189-0002",
-        "id": "1-1013-001189-0002-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Body met bandjes",
-        "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00011670.jpg?width=640",
             "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00011676.jpg?width=640",
             "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00011689.jpg?width=640",
@@ -245,13 +236,6 @@
                 "hex": "#FFFFFF",
                 "img_url": "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00011670.jpg?ref=90D5E6D232",
                 "url": "https://www.na-kd.com/nl/zoek-producten/strap-detail-lace-body-wit-1013-001189-0001"
-            },
-            {
-                "id": "1-1013-001189-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00021754.jpg?ref=D35D7E1F2C",
-                "url": "https://www.na-kd.com/nl/zoek-producten/strap-detail-lace-body-zwart-1013-001189-0002"
             }
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00011670.jpg",
@@ -263,10 +247,10 @@
     {
         "naam": "Body met diep uitgesneden rug",
         "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/deep_back_cut_out_body-1018-010488-0002_0663.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/deep_back_cut_out_body-1018-010488-0002_0643.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/deep_back_cut_out_body-1018-010488-0002_0620.jpg?width=640",
             "https://www.na-kd.com/resize/globalassets/deep_back_cut_out_body-1018-010488-0002_0636.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/deep_back_cut_out_body-1018-010488-0002_0620.jpg?width=640"
+            "https://www.na-kd.com/resize/globalassets/deep_back_cut_out_body-1018-010488-0002_0663.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/deep_back_cut_out_body-1018-010488-0002_0643.jpg?width=640"
         ],
         "prijs": 39.95,
         "kleur": "Black",
@@ -275,12 +259,12 @@
                 "id": "1-1018-010488-0002",
                 "naam": "Zwart",
                 "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/deep_back_cut_out_body-1018-010488-0002_0663.jpg?ref=53D155E909",
+                "img_url": "https://www.na-kd.com/resize/globalassets/deep_back_cut_out_body-1018-010488-0002_0620.jpg?ref=0EDF6F89AD",
                 "url": "https://www.na-kd.com/nl/zoek-producten/deep-back-cut-body-black-1018-010488-0002"
             }
         ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/deep_back_cut_out_body-1018-010488-0002_0663.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/deep_back_cut_out_body-1018-010488-0002_0620.jpg",
+        "img_url": "https://www.na-kd.com/resize/globalassets/deep_back_cut_out_body-1018-010488-0002_0620.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/deep_back_cut_out_body-1018-010488-0002_0643.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/deep-back-cut-body-black-1018-010488-0002",
         "id": "1-1018-010488-0002-004",
         "kleurHex": null
