@@ -330,28 +330,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_wide_lace_top-1013-001104-0176_100.jpg"
     },
     {
-        "prijs": 9.97,
-        "id": "1-1013-000883-4113",
-        "kleur": "Chocolate Truffle",
-        "naam": "Triangel micro wikkeltop",
-        "url": "https://www.na-kd.com/nl/zoek-producten/triangel-micro-wikkeltop-chocolate-truffle-1013-000883-4113",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-000883-4113",
-                "naam": "Chocolate Truffle",
-                "hex": "#000000",
-                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_overlap_triangle_micro_top_1013-000883-4113_07.jpg",
-                "url": "https://www.na-kd.com/nl/zoek-producten/triangel-micro-wikkeltop-chocolate-truffle-1013-000883-4113"
-            }
-        ],
-        "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_overlap_triangle_micro_top_1013-000883-4113_07.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_overlap_triangle_micro_top_1013-000883-4113_07.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_overlap_triangle_micro_top_1013-000883-4113_07.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_overlap_triangle_micro_top_1013-000883-4113_07.jpg"
-    },
-    {
         "prijs": 9.71,
         "id": "1-1687-000097-0010",
         "kleur": "Green",
@@ -790,5 +768,27 @@
         ],
         "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102899.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102899.jpg"
+    },
+    {
+        "prijs": 9.97,
+        "id": "1-1013-001106-0261",
+        "kleur": "Orange",
+        "naam": "Triangeltop",
+        "url": "https://www.na-kd.com/nl/zoek-producten/high-triangle-lace-top-orange-1013-001106-0261",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001106-0261",
+                "naam": "Orange",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_high_triangle_lace_top-1013-001106-026130556.jpg",
+                "url": "https://www.na-kd.com/nl/zoek-producten/high-triangle-lace-top-orange-1013-001106-0261"
+            }
+        ],
+        "imageUrls": [
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_high_triangle_lace_top-1013-001106-026130556.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_high_triangle_lace_top-1013-001106-026130556.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_high_triangle_lace_top-1013-001106-026130556.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_high_triangle_lace_top-1013-001106-026130556.jpg"
     }
 ]
