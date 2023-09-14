@@ -392,6 +392,31 @@
         "kleurHex": null
     },
     {
+        "naam": "Halfhoge geplooide tanga met kant",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_pleated_lace_thong-1013-000917-0324_4.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_pleated_lace_thong-1013-000917-0324_3.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_pleated_lace_thong-1013-000917-0324_1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_pleated_lace_thong-1013-000917-0324_2.jpg?width=640"
+        ],
+        "prijs": 4.97,
+        "kleur": "Dusty Green",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000917-0324",
+                "naam": "Groen",
+                "hex": "#BBA98A",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_pleated_lace_thong-1013-000917-0324_4.jpg?ref=F4CFBC6373",
+                "url": "https://www.na-kd.com/nl/zoek-producten/halfhoge-geplooide-tanga-met-kant-groen-1013-000917-0324"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_pleated_lace_thong-1013-000917-0324_4.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_pleated_lace_thong-1013-000917-0324_2.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/halfhoge-geplooide-tanga-met-kant-groen-1013-000917-0324",
+        "id": "1-1013-000917-0324-004",
+        "kleurHex": null
+    },
+    {
         "naam": "Kanten Braziliaanse slip",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/lace_brazilian_panty_1013-001212-0001_12579.jpg?width=640",
@@ -421,6 +446,38 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/lace_brazilian_panty_1013-001212-0001_12602.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/lace-brazilian-panty-white-1013-001212-0001",
         "id": "1-1013-001212-0001-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Flowy brazilian slip met kantdetail",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_flowy_detail_lace_brazilian_panty_1013-001193-0010_22147.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_flowy_detail_lace_brazilian_panty_1013-001193-0010_22190.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_flowy_detail_lace_brazilian_panty_1013-001193-0010_22168.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_flowy_detail_lace_brazilian_panty_1013-001193-0010_22174.jpg?width=640"
+        ],
+        "prijs": 4.97,
+        "kleur": "Green",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001193-0010",
+                "naam": "Groen",
+                "hex": "#629D5D",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_flowy_detail_lace_brazilian_panty_1013-001193-0010_22147.jpg?ref=FA7C2AC266",
+                "url": "https://www.na-kd.com/nl/zoek-producten/flowy-detail-lace-brazilian-panty-green-1013-001193-0010"
+            },
+            {
+                "id": "1-1013-001193-1084",
+                "naam": "Rood",
+                "hex": "#D26C69",
+                "img_url": "https://www.na-kd.com/resize/globalassets/detail_flowy_lace_brazilian_panty_1013-001193-1084_01.jpg?ref=E0941B2E7C",
+                "url": "https://www.na-kd.com/nl/zoek-producten/flowy-detail-lace-brazilian-panty-soft-red-1013-001193-1084"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_flowy_detail_lace_brazilian_panty_1013-001193-0010_22147.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_flowy_detail_lace_brazilian_panty_1013-001193-0010_22174.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/flowy-detail-lace-brazilian-panty-green-1013-001193-0010",
+        "id": "1-1013-001193-0010-004",
         "kleurHex": null
     },
     {
@@ -894,13 +951,6 @@
                 "url": "https://www.na-kd.com/nl/zoek-producten/qute-double-strap-thong-black-1013-001033-0002"
             },
             {
-                "id": "1-1013-001033-9410",
-                "naam": "Roze",
-                "hex": "#B56B88",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_qute_double_strap_thong-1013-001033-9410_01a.jpg?ref=3C6D661FC7",
-                "url": "https://www.na-kd.com/nl/zoek-producten/qute-double-strap-thong-super-pink-1013-001033-9410"
-            },
-            {
                 "id": "1-1013-001033-0003",
                 "naam": "Turquoise",
                 "hex": "#3ddeff",
@@ -1088,71 +1138,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/low_waisted_v-shaped_thong_1737-000029-0002_flatlay.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/low-waisted-v-shaped-thong-black-1737-000029-0002",
         "id": "1-1737-000029-0002-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Delicate kanten string",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/delicate_lace_thongs_1013-001242-0002_1.jpg.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/delicate_lace_thongs_1013-001242-0002_3.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/delicate_lace_thongs_1013-001242-0002_4.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/delicate_lace_thongs_1013-001242-0002_5.jpg?width=640"
-        ],
-        "prijs": 7.47,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001242-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/delicate_lace_thongs_1013-001242-0002_1.jpg.jpg?ref=FEAEC13507",
-                "url": "https://www.na-kd.com/nl/zoek-producten/delicate-lace-thongs-black-1013-001242-0002"
-            },
-            {
-                "id": "1-1013-001242-0004",
-                "naam": "Rood",
-                "hex": "#A51D2F",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_delicate_lace_thongs_1013-001242-0004_3.jpg?ref=2B51181545",
-                "url": "https://www.na-kd.com/nl/zoek-producten/delicate-lace-thongs-red-1013-001242-0004"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/delicate_lace_thongs_1013-001242-0002_1.jpg.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/delicate_lace_thongs_1013-001242-0002_5.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/delicate-lace-thongs-black-1013-001242-0002",
-        "id": "1-1013-001242-0002-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Gedetailleerde kanten panty met bandjes",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_strappy_detailed_lace_panty_1013-001267-0010_1593.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_strappy_detailed_lace_panty_1013-001267-0010_1564.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_strappy_detailed_lace_panty_1013-001267-0010_1535.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_strappy_detailed_lace_panty_1013-001267-0010_1576.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_strappy_detailed_lace_panty-1013-001267-0010_0028.jpg?width=640"
-        ],
-        "prijs": 7.47,
-        "kleur": "Green",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001267-0010",
-                "naam": "Groen",
-                "hex": "#6A827A",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_strappy_detailed_lace_panty_1013-001267-0010_1593.jpg?ref=AC4CF327AB",
-                "url": "https://www.na-kd.com/nl/zoek-producten/strappy-detailed-lace-panty-green-1013-001267-0010"
-            },
-            {
-                "id": "1-1013-001267-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_strappy_detailed_lace_panty_1013-001267-0002_1462.jpg?ref=13EBC05FC9",
-                "url": "https://www.na-kd.com/nl/zoek-producten/strappy-detailed-lace-panty-black-1013-001267-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_strappy_detailed_lace_panty_1013-001267-0010_1593.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_strappy_detailed_lace_panty-1013-001267-0010_0028.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/strappy-detailed-lace-panty-green-1013-001267-0010",
-        "id": "1-1013-001267-0010-004",
         "kleurHex": null
     }
 ]
