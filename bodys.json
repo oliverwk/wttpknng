@@ -169,6 +169,33 @@
         "kleurHex": null
     },
     {
+        "naam": "Micro body",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/micro_body_1100-007495-00022760_01c.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/micro_body_1100-007495-00022782.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/micro_body_1100-007495-00022801.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/micro_body_1100-007495-00022764.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/micro_body_1100-007495-00022792.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/micro_body_1100-007495-0002_2_flatlay.jpg?width=640"
+        ],
+        "prijs": 34.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-007495-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/micro_body_1100-007495-00022760_01c.jpg?ref=7F3ADE7313",
+                "url": "https://www.na-kd.com/nl/zoek-producten/micro-body--1100-007495-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/micro_body_1100-007495-00022760_01c.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/micro_body_1100-007495-0002_2_flatlay.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/micro-body--1100-007495-0002",
+        "id": "1-1100-007495-0002-004",
+        "kleurHex": null
+    },
+    {
         "naam": "Body met bandjes",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00021754.jpg?width=640",
@@ -233,33 +260,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00011646.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/strap-detail-lace-body-wit-1013-001189-0001",
         "id": "1-1013-001189-0001-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Micro body",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/micro_body_1100-007495-00022760_01c.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/micro_body_1100-007495-00022782.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/micro_body_1100-007495-00022801.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/micro_body_1100-007495-00022764.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/micro_body_1100-007495-00022792.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/micro_body_1100-007495-0002_2_flatlay.jpg?width=640"
-        ],
-        "prijs": 34.95,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-007495-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/micro_body_1100-007495-00022760_01c.jpg?ref=7F3ADE7313",
-                "url": "https://www.na-kd.com/nl/zoek-producten/micro-body--1100-007495-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/micro_body_1100-007495-00022760_01c.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/micro_body_1100-007495-0002_2_flatlay.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/micro-body--1100-007495-0002",
-        "id": "1-1100-007495-0002-004",
         "kleurHex": null
     },
     {
@@ -331,10 +331,10 @@
     {
         "naam": "Body met diep uitgesneden rug",
         "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/deep_back_cut_out_body-1018-010488-0002_0620.jpg?width=640",
             "https://www.na-kd.com/resize/globalassets/deep_back_cut_out_body-1018-010488-0002_0636.jpg?width=640",
             "https://www.na-kd.com/resize/globalassets/deep_back_cut_out_body-1018-010488-0002_0663.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/deep_back_cut_out_body-1018-010488-0002_0643.jpg?width=640"
+            "https://www.na-kd.com/resize/globalassets/deep_back_cut_out_body-1018-010488-0002_0643.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/deep_back_cut_out_body-1018-010488-0002_0620.jpg?width=640"
         ],
         "prijs": 39.95,
         "kleur": "Black",
@@ -343,12 +343,12 @@
                 "id": "1-1018-010488-0002",
                 "naam": "Zwart",
                 "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/deep_back_cut_out_body-1018-010488-0002_0620.jpg?ref=0EDF6F89AD",
+                "img_url": "https://www.na-kd.com/resize/globalassets/deep_back_cut_out_body-1018-010488-0002_0636.jpg?ref=DD92EEE000",
                 "url": "https://www.na-kd.com/nl/zoek-producten/deep-back-cut-body-black-1018-010488-0002"
             }
         ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/deep_back_cut_out_body-1018-010488-0002_0620.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/deep_back_cut_out_body-1018-010488-0002_0643.jpg",
+        "img_url": "https://www.na-kd.com/resize/globalassets/deep_back_cut_out_body-1018-010488-0002_0636.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/deep_back_cut_out_body-1018-010488-0002_0620.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/deep-back-cut-body-black-1018-010488-0002",
         "id": "1-1018-010488-0002-004",
         "kleurHex": null
