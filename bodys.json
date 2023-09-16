@@ -91,6 +91,32 @@
         "kleurHex": null
     },
     {
+        "naam": "Bodysuit",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/body_black_1724-000042-0002_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/body_black_1724-000042-0002_02j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/body_black_1724-000042-0002_03g.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/body_black_1724-000042-0002_04j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/body_black_1724-000042-0002_05g.jpg?width=640"
+        ],
+        "prijs": 29.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1724-000042-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/body_black_1724-000042-0002_01j.jpg?ref=5D733AF93D",
+                "url": "https://www.na-kd.com/nl/zoek-producten/bodysuit-zwart-15"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/body_black_1724-000042-0002_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/body_black_1724-000042-0002_05g.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/bodysuit-zwart-15",
+        "id": "1-1724-000042-0002-415",
+        "kleurHex": null
+    },
+    {
         "naam": "Geribde body met hartvormige hals",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/heart_neckline_rib_body_1100-007784-0002_1510.jpg?width=640",
@@ -139,6 +165,155 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_v-neck_strap_around_bodysuit_1013-000666-0002_04g.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/wikkelbodysuit-met-v-hals-zwart",
         "id": "1-1013-000666-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "V-String Bodysuit Met Ruwe Zoom En Kanten Cups",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0001_01a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0001_02j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0001_03k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0001_04k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0001_05c.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0001_06g.jpg?width=640"
+        ],
+        "prijs": 29.95,
+        "kleur": "White",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000641-0001",
+                "naam": "Wit",
+                "hex": "#FFFFFF",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0001_01a.jpg?ref=A90E976417",
+                "url": "https://www.na-kd.com/nl/zoek-producten/v-string-bodysuit-met-ruwe-zoom-en-kanten-cups-wit"
+            },
+            {
+                "id": "1-1013-000641-0004",
+                "naam": "Rood",
+                "hex": "#BD162C",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0004_03j_r.jpg?ref=9E2D9CF328",
+                "url": "https://www.na-kd.com/nl/zoek-producten/v-string-bodysuit-met-ruwe-zoom-en-kanten-cups-rood"
+            },
+            {
+                "id": "1-1013-000641-0719",
+                "naam": "Beige",
+                "hex": "#D2BDAD",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0719_01a.jpg?ref=5B0E5A7F1F",
+                "url": "https://www.na-kd.com/nl/zoek-producten/v-string-bodysuit-met-ruwe-zoom-en-kanten-cups-beige"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0001_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0001_06g.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/v-string-bodysuit-met-ruwe-zoom-en-kanten-cups-wit",
+        "id": "1-1013-000641-0001-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "String",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_round_neck_micro_thong_body_1013-000884-0002_01c.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_round_neck_micro_thong_body_1013-000884-0002_02k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_round_neck_micro_thong_body_1013-000884-0002_03j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_round_neck_micro_thong_body_1013-000884-0002_04g.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_round_neck_micro_thong_body_1013-000884-0002_05g.jpg?width=640"
+        ],
+        "prijs": 29.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000884-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_round_neck_micro_thong_body_1013-000884-0002_01c.jpg?ref=763E4F8B89",
+                "url": "https://www.na-kd.com/nl/zoek-producten/string-body-zwart"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_round_neck_micro_thong_body_1013-000884-0002_01c.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_round_neck_micro_thong_body_1013-000884-0002_05g.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/string-body-zwart",
+        "id": "1-1013-000884-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "V-String Bodysuit Met Ruwe Zoom En Kanten Cups",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0004_03j_r.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0004_02b_r.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0004_04k_r.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0004_01a_r.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0004_05c_r.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0004_06g_r.jpg?width=640"
+        ],
+        "prijs": 29.95,
+        "kleur": "Red",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000641-0004",
+                "naam": "Rood",
+                "hex": "#BD162C",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0004_03j_r.jpg?ref=9E2D9CF328",
+                "url": "https://www.na-kd.com/nl/zoek-producten/v-string-bodysuit-met-ruwe-zoom-en-kanten-cups-rood"
+            },
+            {
+                "id": "1-1013-000641-0719",
+                "naam": "Beige",
+                "hex": "#D2BDAD",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0719_01a.jpg?ref=5B0E5A7F1F",
+                "url": "https://www.na-kd.com/nl/zoek-producten/v-string-bodysuit-met-ruwe-zoom-en-kanten-cups-beige"
+            },
+            {
+                "id": "1-1013-000641-0001",
+                "naam": "Wit",
+                "hex": "#FFFFFF",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0001_01a.jpg?ref=A90E976417",
+                "url": "https://www.na-kd.com/nl/zoek-producten/v-string-bodysuit-met-ruwe-zoom-en-kanten-cups-wit"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0004_03j_r.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0004_06g_r.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/v-string-bodysuit-met-ruwe-zoom-en-kanten-cups-rood",
+        "id": "1-1013-000641-0004-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "V-String Bodysuit Met Ruwe Zoom En Kanten Cups",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0719_01a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0719_02j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0719_03k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0719_04b.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0719_05c.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0719_06g.jpg?width=640"
+        ],
+        "prijs": 29.95,
+        "kleur": "Pearl",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000641-0719",
+                "naam": "Beige",
+                "hex": "#D2BDAD",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0719_01a.jpg?ref=5B0E5A7F1F",
+                "url": "https://www.na-kd.com/nl/zoek-producten/v-string-bodysuit-met-ruwe-zoom-en-kanten-cups-beige"
+            },
+            {
+                "id": "1-1013-000641-0004",
+                "naam": "Rood",
+                "hex": "#BD162C",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0004_03j_r.jpg?ref=9E2D9CF328",
+                "url": "https://www.na-kd.com/nl/zoek-producten/v-string-bodysuit-met-ruwe-zoom-en-kanten-cups-rood"
+            },
+            {
+                "id": "1-1013-000641-0001",
+                "naam": "Wit",
+                "hex": "#FFFFFF",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0001_01a.jpg?ref=A90E976417",
+                "url": "https://www.na-kd.com/nl/zoek-producten/v-string-bodysuit-met-ruwe-zoom-en-kanten-cups-wit"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0719_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_raw_edge_lace_cup_v-string_bodysuit_1013-000641-0719_06g.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/v-string-bodysuit-met-ruwe-zoom-en-kanten-cups-beige",
+        "id": "1-1013-000641-0719-004",
         "kleurHex": null
     },
     {
@@ -263,6 +438,57 @@
         "kleurHex": null
     },
     {
+        "naam": "Kanten body",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_nakd_dotted_mesh_lace_bodysuits_1013-000455-0002_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_nakd_dotted_mesh_lace_bodysuits_1013-000455-0002_02k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_nakd_dotted_mesh_lace_bodysuits_1013-000455-0002_03j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_nakd_dotted_mesh_lace_bodysuits_1013-000455-0002_04c.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_nakd_dotted_mesh_lace_bodysuits_1013-000455-0002_05g.jpg?width=640"
+        ],
+        "prijs": 34.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000455-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_nakd_dotted_mesh_lace_bodysuits_1013-000455-0002_01j.jpg?ref=397A58D100",
+                "url": "https://www.na-kd.com/nl/zoek-producten/dotted-mesh-lace-bodysuit-zwart"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_nakd_dotted_mesh_lace_bodysuits_1013-000455-0002_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_dotted_mesh_lace_bodysuit_nakd_dotted_mesh_lace_bodysuits_1013-000455-0002_05g.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/dotted-mesh-lace-bodysuit-zwart",
+        "id": "1-1013-000455-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Lace Detail Bodysuit",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_02c.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_03b.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_04a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_01d.jpg?width=640"
+        ],
+        "prijs": 34.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000495-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_02c.jpg?ref=83A2A3DA8E",
+                "url": "https://www.na-kd.com/nl/zoek-producten/lace-detail-bodysuit-zwart"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_02c.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_01d.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/lace-detail-bodysuit-zwart",
+        "id": "1-1013-000495-0002-004",
+        "kleurHex": null
+    },
+    {
         "naam": "Bodysuit met korset en kant",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/corset_lace_bodysuit-1013-001327-0002_0557_01c.jpg?width=640",
@@ -351,6 +577,31 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/deep_back_cut_out_body-1018-010488-0002_0620.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/deep-back-cut-body-black-1018-010488-0002",
         "id": "1-1018-010488-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Body met V-hals met kant voor",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_v-neck_front_lacing_body_1013-000908-0002_03a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v-neck_front_lacing_body_1013-000908-0002_02b.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v-neck_front_lacing_body_1013-000908-0002_04g.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_v-neck_front_lacing_body_1013-000908-0002_01g.jpg?width=640"
+        ],
+        "prijs": 39.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000908-0002",
+                "naam": "Zwart",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_v-neck_front_lacing_body_1013-000908-0002_03a.jpg?ref=C234D55335",
+                "url": "https://www.na-kd.com/nl/zoek-producten/v-neck-front-lacing-body-black-1013-000908-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_v-neck_front_lacing_body_1013-000908-0002_03a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_v-neck_front_lacing_body_1013-000908-0002_01g.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/v-neck-front-lacing-body-black-1013-000908-0002",
+        "id": "1-1013-000908-0002-004",
         "kleurHex": null
     }
 ]
