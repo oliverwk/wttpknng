@@ -110,31 +110,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Satijnen panty met zijstrik",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-000547075.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-000547108.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-0005_04.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-0005_03.jpg?width=640"
-        ],
-        "prijs": 5.98,
-        "kleur": "Beige",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001099-0005",
-                "naam": "Beige",
-                "hex": "#C5A490",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-000547075.jpg?ref=016CB09955",
-                "url": "https://www.na-kd.com/nl/zoek-producten/side-tie-satin-panty-beige-1013-001099-0005"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-000547075.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_side_tie_satin_panty_1013-001099-0005_03.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/side-tie-satin-panty-beige-1013-001099-0005",
-        "id": "1-1013-001099-0005-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Tanga met kant en strikbandjes",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_tie_strap_lace_thong-1013-001129-1096_3107100.jpg?width=640",
@@ -1091,6 +1066,32 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_recycled_high_rise_wide_lace_brief_1013-001078-0368_05j.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/gerecycleerd-hoog-breed-kanten-onderbroek-paars-1013-001078-0368",
         "id": "1-1013-001078-0368-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "String",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_recycled_elastic_band_lace_high_thong-1013-001107-0002_1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_recycled_elastic_band_lace_high_thong-1013-001107-0002_2.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_recycled_elastic_band_lace_high_thong-1013-001107-0002_4.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_recycled_elastic_band_lace_high_thong-1013-001107-0002_3.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_recycled_elastic_band_lace_high_thong-1013-001107-0002_5.jpg?width=640"
+        ],
+        "prijs": 5.97,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001107-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_elastic_band_lace_high_thong-1013-001107-0002_1.jpg?ref=C26B7F3C1E",
+                "url": "https://www.na-kd.com/nl/zoek-producten/string-black-1013-001107-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_elastic_band_lace_high_thong-1013-001107-0002_1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_recycled_elastic_band_lace_high_thong-1013-001107-0002_5.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/string-black-1013-001107-0002",
+        "id": "1-1013-001107-0002-004",
         "kleurHex": null
     }
 ]
