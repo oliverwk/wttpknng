@@ -155,28 +155,6 @@
     },
     {
         "prijs": 7.47,
-        "id": "1-1013-001262-0015",
-        "kleur": "Pink",
-        "naam": "Beugelbh van kant",
-        "url": "https://www.na-kd.com/nl/zoek-producten/all-lace-wire-bra-pink-1013-001262-0015",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001262-0015",
-                "naam": "Pink",
-                "hex": "#000000",
-                "img_url": "https://www.na-kd.com/resize/resize/globalassets/all_lacewire_bra-1013-001262-0015_3558.jpg",
-                "url": "https://www.na-kd.com/nl/zoek-producten/all-lace-wire-bra-pink-1013-001262-0015"
-            }
-        ],
-        "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/all_lacewire_bra-1013-001262-0015_3558.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/all_lacewire_bra-1013-001262-0015_3558.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/all_lacewire_bra-1013-001262-0015_3558.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/all_lacewire_bra-1013-001262-0015_3558.jpg"
-    },
-    {
-        "prijs": 7.47,
         "id": "1-1013-000916-0324",
         "kleur": "Dusty Green",
         "naam": "Geplooide bh met ruchebandjes",
@@ -790,5 +768,27 @@
         ],
         "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_wrap_around_satin_tie_top_1013-001098-0005_01.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_wrap_around_satin_tie_top_1013-001098-0005_01.jpg"
+    },
+    {
+        "prijs": 9.97,
+        "id": "1-1013-001095-0002",
+        "kleur": "Black",
+        "naam": "Ingerimpelde satijnen bh met kant",
+        "url": "https://www.na-kd.com/nl/zoek-producten/gathered-satin-strap-lace-bra-black-1013-001095-0002",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001095-0002",
+                "naam": "Black",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/resize/globalassets/gathered_satin_strap_lace_bra_1013-001095-0002_06e.jpg",
+                "url": "https://www.na-kd.com/nl/zoek-producten/gathered-satin-strap-lace-bra-black-1013-001095-0002"
+            }
+        ],
+        "imageUrls": [
+            "https://www.na-kd.com/resize/resize/globalassets/gathered_satin_strap_lace_bra_1013-001095-0002_06e.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/gathered_satin_strap_lace_bra_1013-001095-0002_06e.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/gathered_satin_strap_lace_bra_1013-001095-0002_06e.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/gathered_satin_strap_lace_bra_1013-001095-0002_06e.jpg"
     }
 ]
