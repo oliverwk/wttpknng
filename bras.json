@@ -154,6 +154,28 @@
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_ruffle_strap_pleated_bra-1013-000916-032430948.jpg"
     },
     {
+        "prijs": 7.47,
+        "id": "1-1013-000930-0001",
+        "kleur": "White",
+        "naam": "Elastische cupbh met kant",
+        "url": "https://www.na-kd.com/nl/zoek-producten/elastische-cupbh-met-kant-wit-1013-000930-0001",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000930-0001",
+                "naam": "White",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_lace_elastic_cup_bra_1013-000930-0001_01a.jpg",
+                "url": "https://www.na-kd.com/nl/zoek-producten/elastische-cupbh-met-kant-wit-1013-000930-0001"
+            }
+        ],
+        "imageUrls": [
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_lace_elastic_cup_bra_1013-000930-0001_01a.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_lace_elastic_cup_bra_1013-000930-0001_01a.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_lace_elastic_cup_bra_1013-000930-0001_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_lace_elastic_cup_bra_1013-000930-0001_01a.jpg"
+    },
+    {
         "prijs": 7.98,
         "id": "1-1013-001139-1130",
         "kleur": "Light Green",
@@ -768,27 +790,5 @@
         ],
         "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_shiny_strap_lace_balconette_bra-1013-001102-0002_1.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_shiny_strap_lace_balconette_bra-1013-001102-0002_1.jpg"
-    },
-    {
-        "prijs": 9.97,
-        "id": "1-1013-001139-0048",
-        "kleur": "Light Pink",
-        "naam": "Binding Detail Mesh Bra",
-        "url": "https://www.na-kd.com/nl/zoek-producten/binding-detail-mesh-bra-light-pink-1013-001139-0048",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001139-0048",
-                "naam": "Light Pink",
-                "hex": "#000000",
-                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_binding_detail_mesh_bra_1013-001139-0048_0343.jpg",
-                "url": "https://www.na-kd.com/nl/zoek-producten/binding-detail-mesh-bra-light-pink-1013-001139-0048"
-            }
-        ],
-        "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_binding_detail_mesh_bra_1013-001139-0048_0343.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_binding_detail_mesh_bra_1013-001139-0048_0343.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_binding_detail_mesh_bra_1013-001139-0048_0343.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_binding_detail_mesh_bra_1013-001139-0048_0343.jpg"
     }
 ]
