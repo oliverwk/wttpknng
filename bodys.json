@@ -66,6 +66,31 @@
         "kleurHex": null
     },
     {
+        "naam": "Mesh body",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/mesh_body-1100-007629-0002_1568_01c.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/mesh_body-1100-007629-0002_1602.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/mesh_body-1100-007629-0002_1587.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/mesh_body-1100-007629-0002_1576.jpg?width=640"
+        ],
+        "prijs": 24.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-007629-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/mesh_body-1100-007629-0002_1568_01c.jpg?ref=4DAF63BD1D",
+                "url": "https://www.na-kd.com/nl/zoek-producten/mesh-body-black-1100-007629-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/mesh_body-1100-007629-0002_1568_01c.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/mesh_body-1100-007629-0002_1576.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/mesh-body-black-1100-007629-0002",
+        "id": "1-1100-007629-0002-004",
+        "kleurHex": null
+    },
+    {
         "naam": "Geribde body met hartvormige hals",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/heart_neckline_rib_body_1100-007784-0002_1510.jpg?width=640",
