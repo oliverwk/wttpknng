@@ -25,6 +25,31 @@
         "kleurHex": null
     },
     {
+        "naam": "Panty met kleine stipjes",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_panties-1730-000054-0010_1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_panties-1730-000054-0010_2.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_panties-1730-000054-0010_3.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_panties-1730-000054-0010_4.jpg?width=640"
+        ],
+        "prijs": 2.98,
+        "kleur": "Green",
+        "kleurFamilies": [
+            {
+                "id": "1-1730-000054-0010",
+                "naam": "Groen",
+                "hex": "#86AD3E",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_panties-1730-000054-0010_1.jpg?ref=C27122B13B",
+                "url": "https://www.na-kd.com/nl/zoek-producten/swiss-dot-panties-green-1730-000054-0010"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_panties-1730-000054-0010_1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_panties-1730-000054-0010_4.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/swiss-dot-panties-green-1730-000054-0010",
+        "id": "1-1730-000054-0010-004",
+        "kleurHex": null
+    },
+    {
         "naam": "Tanga met kant en strikbandjes",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_tie_strap_lace_thong-1013-001129-1096_3107100.jpg?width=640",
@@ -47,31 +72,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_tie_strap_lace_thong-1013-001129-1096_31076300.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/tie-strap-lace-thong-snow-white-1013-001129-1096",
         "id": "1-1013-001129-1096-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Hoog uitgesneden katoenen slip",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/high_rise_cotton_brief_1013-000902-0010_04.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/high_rise_cotton_brief_1013-000902-0010_01.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/high_rise_cotton_brief_1013-000902-0010_02.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/high_rise_cotton_brief_1013-000902-0010_03.jpg?width=640"
-        ],
-        "prijs": 2.98,
-        "kleur": "Green",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-000902-0010",
-                "naam": "Groen",
-                "hex": "#0D9753",
-                "img_url": "https://www.na-kd.com/resize/globalassets/high_rise_cotton_brief_1013-000902-0010_04.jpg?ref=A02FAA4734",
-                "url": "https://www.na-kd.com/nl/zoek-producten/hoog-uitgesneden-katoenen-slip-green-1013-000902-0010"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/high_rise_cotton_brief_1013-000902-0010_04.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/high_rise_cotton_brief_1013-000902-0010_03.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/hoog-uitgesneden-katoenen-slip-green-1013-000902-0010",
-        "id": "1-1013-000902-0010-004",
         "kleurHex": null
     },
     {
@@ -605,13 +605,6 @@
                 "hex": "#937C8C",
                 "img_url": "https://www.na-kd.com/resize/globalassets/nakd_nakd_mid_rise_classic_lace_thong-1013-000862-0113_03h.jpg?ref=337C853846",
                 "url": "https://www.na-kd.com/nl/zoek-producten/klassieke-string-met-halfhoge-taille-en-kant-violet-1013-000862-0113"
-            },
-            {
-                "id": "1-1013-000862-0212",
-                "naam": "Rood",
-                "hex": "#650C11",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong-1013-000862-0212_0392.jpg?ref=6092C21F00",
-                "url": "https://www.na-kd.com/nl/zoek-producten/klassieke-string-met-halfhoge-taille-en-kant-burgundy-1013-000862-0212"
             },
             {
                 "id": "1-1013-000862-0002",
