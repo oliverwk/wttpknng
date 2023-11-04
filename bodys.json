@@ -208,34 +208,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Micro body",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/micro_body_1100-007495-00022760_01c.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/micro_body_1100-007495-00022782.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/micro_body_1100-007495-00022801.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/micro_body_1100-007495-00022764.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/micro_body_1100-007495-00022792.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/micro_body_1100-007495-0002_2_flatlay.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/micro_body_1100-007495-0002_campaign.jpg?width=640"
-        ],
-        "prijs": 29.95,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-007495-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/micro_body_1100-007495-00022760_01c.jpg?ref=7F3ADE7313",
-                "url": "https://www.na-kd.com/nl/zoek-producten/micro-body--1100-007495-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/micro_body_1100-007495-00022760_01c.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/micro_body_1100-007495-0002_campaign.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/micro-body--1100-007495-0002",
-        "id": "1-1100-007495-0002-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Body met bandjes",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00011670.jpg?width=640",
@@ -259,6 +231,32 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1013-001189-00011646.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/strap-detail-lace-body-wit-1013-001189-0001",
         "id": "1-1013-001189-0001-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Kanten body",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/lace_body-1100-007630-0002_1787_01c.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/lace_body-1100-007630-0002_1829.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/lace_body-1100-007630-0002_1819.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/lace_body-1100-007630-0002_1810.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/lace_body-1100-007630-0002_1804.jpg?width=640"
+        ],
+        "prijs": 29.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-007630-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/lace_body-1100-007630-0002_1787_01c.jpg?ref=62E3665173",
+                "url": "https://www.na-kd.com/nl/zoek-producten/lace-body-black-1100-007630-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/lace_body-1100-007630-0002_1787_01c.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/lace_body-1100-007630-0002_1804.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/lace-body-black-1100-007630-0002",
+        "id": "1-1100-007630-0002-004",
         "kleurHex": null
     },
     {
@@ -328,6 +326,31 @@
         "kleurHex": null
     },
     {
+        "naam": "Lace Detail Bodysuit",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_02c.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_03b.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_04a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_01d.jpg?width=640"
+        ],
+        "prijs": 34.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000495-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_02c.jpg?ref=83A2A3DA8E",
+                "url": "https://www.na-kd.com/nl/zoek-producten/lace-detail-bodysuit-zwart"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_02c.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_bodysuit_1013-000495-0002_01d.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/lace-detail-bodysuit-zwart",
+        "id": "1-1013-000495-0002-004",
+        "kleurHex": null
+    },
+    {
         "naam": "Kanten bodysuit met dunne bandjes",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/thin_strap_lace_body_1812-000030-00025610_01c.jpg?width=640",
@@ -352,6 +375,34 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/thin_strap_lace_bodysuit_1812-000030-00020732-copy.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/thin-strap-lace-bodysuit-black-1812-000030-0002",
         "id": "1-1812-000030-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Micro body",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/micro_body_1100-007495-00022760_01c.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/micro_body_1100-007495-00022782.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/micro_body_1100-007495-00022801.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/micro_body_1100-007495-00022764.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/micro_body_1100-007495-00022792.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/micro_body_1100-007495-0002_2_flatlay.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/micro_body_1100-007495-0002_campaign.jpg?width=640"
+        ],
+        "prijs": 34.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-007495-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/micro_body_1100-007495-00022760_01c.jpg?ref=7F3ADE7313",
+                "url": "https://www.na-kd.com/nl/zoek-producten/micro-body--1100-007495-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/micro_body_1100-007495-00022760_01c.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/micro_body_1100-007495-0002_campaign.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/micro-body--1100-007495-0002",
+        "id": "1-1100-007495-0002-004",
         "kleurHex": null
     },
     {
