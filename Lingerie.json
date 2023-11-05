@@ -25,31 +25,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Panty met kleine stipjes",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_panties-1730-000054-0010_1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_panties-1730-000054-0010_2.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_panties-1730-000054-0010_3.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_panties-1730-000054-0010_4.jpg?width=640"
-        ],
-        "prijs": 2.98,
-        "kleur": "Green",
-        "kleurFamilies": [
-            {
-                "id": "1-1730-000054-0010",
-                "naam": "Groen",
-                "hex": "#86AD3E",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_panties-1730-000054-0010_1.jpg?ref=C27122B13B",
-                "url": "https://www.na-kd.com/nl/zoek-producten/swiss-dot-panties-green-1730-000054-0010"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_panties-1730-000054-0010_1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_panties-1730-000054-0010_4.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/swiss-dot-panties-green-1730-000054-0010",
-        "id": "1-1730-000054-0010-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Tanga met kant en strikbandjes",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_tie_strap_lace_thong-1013-001129-1096_3107100.jpg?width=640",
@@ -1131,6 +1106,31 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_satin_front_highwaist_v-cut_thong-1013-001054-0068_04i.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/satijnen-tange-met-hoge-taille-grijs-1013-001054-0068",
         "id": "1-1013-001054-0068-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Gerecyclede Braziliaanse slip met kant en halfhoge taille",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_rise_lace_brazizlian_1013-000998-0176_02c.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_rise_lace_brazizlian_1013-000998-0176_01h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_rise_lace_brazizlian_1013-000998-0176_04d.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_rise_lace_brazizlian_1013-000998-0176_02a.jpg?width=640"
+        ],
+        "prijs": 5.97,
+        "kleur": "Dusty Dark Pink",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000998-0176",
+                "naam": "Roze",
+                "hex": "#C39586",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_rise_lace_brazizlian_1013-000998-0176_02c.jpg?ref=D9A2F4B6DD",
+                "url": "https://www.na-kd.com/nl/zoek-producten/recycled-mid-rise-lace-brazilian-dusty-dark-pink-1013-000998-0176"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_rise_lace_brazizlian_1013-000998-0176_02c.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_rise_lace_brazizlian_1013-000998-0176_02a.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/recycled-mid-rise-lace-brazilian-dusty-dark-pink-1013-000998-0176",
+        "id": "1-1013-000998-0176-004",
         "kleurHex": null
     }
 ]
