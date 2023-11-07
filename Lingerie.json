@@ -25,6 +25,31 @@
         "kleurHex": null
     },
     {
+        "naam": "String met micro kant rand - 1-pak",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_micro_lace_edge_string_1-pack_1013-001045-0719_01h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_micro_lace_edge_string_1-pack_1013-001045-0719_02i.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_micro_lace_edge_string_1-pack_1013-001045-0719_03g.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_micro_lace_edge_string_1-pack_1013-001045-0719_04a.jpg?width=640"
+        ],
+        "prijs": 2.47,
+        "kleur": "Pearl",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001045-0719",
+                "naam": "Roze",
+                "hex": "#DDC5AF",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_micro_lace_edge_string_1-pack_1013-001045-0719_01h.jpg?ref=9DFDC2ADDA",
+                "url": "https://www.na-kd.com/nl/zoek-producten/string-met-micro-kant-rand---1-pak-roze-1013-001045-0719"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_micro_lace_edge_string_1-pack_1013-001045-0719_01h.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_micro_lace_edge_string_1-pack_1013-001045-0719_04a.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/string-met-micro-kant-rand---1-pak-roze-1013-001045-0719",
+        "id": "1-1013-001045-0719-004",
+        "kleurHex": null
+    },
+    {
         "naam": "Tanga met kant en strikbandjes",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_tie_strap_lace_thong-1013-001129-1096_3107100.jpg?width=640",
@@ -41,12 +66,58 @@
                 "hex": "#FFFFFF",
                 "img_url": "https://www.na-kd.com/resize/globalassets/nakd_tie_strap_lace_thong-1013-001129-1096_3107100.jpg?ref=253BC6C5A7",
                 "url": "https://www.na-kd.com/nl/zoek-producten/tie-strap-lace-thong-snow-white-1013-001129-1096"
+            },
+            {
+                "id": "1-1013-001129-1388",
+                "naam": "Groen",
+                "hex": "#6B523C",
+                "img_url": "https://www.na-kd.com/resize/globalassets/tie_stap_lace_thong_1013-001129-1388_40.jpg?ref=4223368332",
+                "url": "https://www.na-kd.com/nl/zoek-producten/tie-strap-lace-thong-dried-herb-1013-001129-1388"
+            },
+            {
+                "id": "1-1013-001129-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_tie_strap_lace_thong-1013-001129-0002_31026100.jpg?ref=3B458C89FE",
+                "url": "https://www.na-kd.com/nl/zoek-producten/tie-strap-lace-thong-black-1013-001129-0002"
             }
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_tie_strap_lace_thong-1013-001129-1096_3107100.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_tie_strap_lace_thong-1013-001129-1096_31076300.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/tie-strap-lace-thong-snow-white-1013-001129-1096",
         "id": "1-1013-001129-1096-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Hoog uitgesneden katoenen slip",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/high_rise_cotton_brief_1013-000902-0010_04.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/high_rise_cotton_brief_1013-000902-0010_01.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/high_rise_cotton_brief_1013-000902-0010_02.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/high_rise_cotton_brief_1013-000902-0010_03.jpg?width=640"
+        ],
+        "prijs": 2.98,
+        "kleur": "Green",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000902-0010",
+                "naam": "Groen",
+                "hex": "#0D9753",
+                "img_url": "https://www.na-kd.com/resize/globalassets/high_rise_cotton_brief_1013-000902-0010_04.jpg?ref=A02FAA4734",
+                "url": "https://www.na-kd.com/nl/zoek-producten/hoog-uitgesneden-katoenen-slip-green-1013-000902-0010"
+            },
+            {
+                "id": "1-1013-000902-0138",
+                "naam": "Grijs",
+                "hex": "#B3B4AE",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_rise_cotton_brief_1013-000902-0138_01j.jpg?ref=071E72FAE3",
+                "url": "https://www.na-kd.com/nl/zoek-producten/high-rise-cotton-brief-grey-melange-1013-000902-0138"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/high_rise_cotton_brief_1013-000902-0010_04.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/high_rise_cotton_brief_1013-000902-0010_03.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/hoog-uitgesneden-katoenen-slip-green-1013-000902-0010",
+        "id": "1-1013-000902-0010-004",
         "kleurHex": null
     },
     {
@@ -101,12 +172,313 @@
                 "hex": "#0C1214",
                 "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mid_waist_lace_brazilian_1013-001074-0002_01j.jpg?ref=733766B83E",
                 "url": "https://www.na-kd.com/nl/zoek-producten/mid-waist-lace-brazilian-black-1013-001074-0002"
+            },
+            {
+                "id": "1-1013-001074-0001",
+                "naam": "Wit",
+                "hex": "#FFFFFF",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mid_waist_lace_brazilian_1013-001074-0001_01j.jpg?ref=5210C61FF2",
+                "url": "https://www.na-kd.com/nl/zoek-producten/mid-waist-lace-brazilian-white-1013-001074-0001"
             }
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/mid_waist_lace_brazilian-1013-001074-0015_2884.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/mid_waist_lace_brazilian_1013-001074-0015_flatlay.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/kant-brazilian-slip-pink-1013-001074-0015",
         "id": "1-1013-001074-0015-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Highwaist Uitgesneden Geribde String",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_highwaist_cut_out_ribbed_thong-1013-000832-0002_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_highwaist_cut_out_ribbed_thong-1013-000832-0002_04a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_highwaist_cut_out_ribbed_thong-1013-000832-0002_03h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_highwaist_cut_out_ribbed_thong-1013-000832-0002_02i.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/210121-valentines-day_1013-000832-0002_01s.jpg?width=640"
+        ],
+        "prijs": 4.97,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000832-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_highwaist_cut_out_ribbed_thong-1013-000832-0002_01j.jpg?ref=6B05A8B034",
+                "url": "https://www.na-kd.com/nl/zoek-producten/highwaist-uitgesneden-geribde-string-zwart"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_highwaist_cut_out_ribbed_thong-1013-000832-0002_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/210121-valentines-day_1013-000832-0002_01s.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/highwaist-uitgesneden-geribde-string-zwart",
+        "id": "1-1013-000832-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Kant brazilian slip",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_mid_waist_lace_brazilian_1013-001074-0001_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_mid_waist_lace_brazilian_1013-001074-0001_02b.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_mid_waist_lace_brazilian_1013-001074-0001_03h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_mid_waist_lace_brazilian_1013-001074-0001_04i.jpg?width=640"
+        ],
+        "prijs": 4.97,
+        "kleur": "White",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001074-0001",
+                "naam": "Wit",
+                "hex": "#FFFFFF",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mid_waist_lace_brazilian_1013-001074-0001_01j.jpg?ref=5210C61FF2",
+                "url": "https://www.na-kd.com/nl/zoek-producten/mid-waist-lace-brazilian-white-1013-001074-0001"
+            },
+            {
+                "id": "1-1013-001074-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mid_waist_lace_brazilian_1013-001074-0002_01j.jpg?ref=733766B83E",
+                "url": "https://www.na-kd.com/nl/zoek-producten/mid-waist-lace-brazilian-black-1013-001074-0002"
+            },
+            {
+                "id": "1-1013-001074-0015",
+                "naam": "Roze",
+                "hex": "#E5619D",
+                "img_url": "https://www.na-kd.com/resize/globalassets/mid_waist_lace_brazilian-1013-001074-0015_2884.jpg?ref=84745F6FB0",
+                "url": "https://www.na-kd.com/nl/zoek-producten/kant-brazilian-slip-pink-1013-001074-0015"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mid_waist_lace_brazilian_1013-001074-0001_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_mid_waist_lace_brazilian_1013-001074-0001_04i.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/mid-waist-lace-brazilian-white-1013-001074-0001",
+        "id": "1-1013-001074-0001-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Mesh tanga met dunne geschulpte bandjes",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_thin_strap_scallop_mesh_thong_1013-000962-0002_04c.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_thin_strap_scallop_mesh_thong_1013-000962-0002_01d.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_thin_strap_scallop_mesh_thong_1013-000962-0002_02h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_thin_strap_scallop_mesh_thong_1013-000962-0002_03i.jpg?width=640"
+        ],
+        "prijs": 4.97,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000962-0002",
+                "naam": "Zwart",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_thin_strap_scallop_mesh_thong_1013-000962-0002_04c.jpg?ref=AE64A20DA9",
+                "url": "https://www.na-kd.com/nl/zoek-producten/mesh-tanga-met-dunne-geschulpte-bandjes-zwart-1013-000962-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_thin_strap_scallop_mesh_thong_1013-000962-0002_04c.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_thin_strap_scallop_mesh_thong_1013-000962-0002_03i.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/mesh-tanga-met-dunne-geschulpte-bandjes-zwart-1013-000962-0002",
+        "id": "1-1013-000962-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Hooguitgesneden katoenen tanga met kantdetail",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_lace_etail_cotton_thng_1013-000931-0001_01a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_lace_etail_cotton_thng_1013-000931-0001_04b.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_lace_etail_cotton_thng_1013-000931-0001_02i.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_lace_etail_cotton_thng_1013-000931-0001_03h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_lace_etail_cotton_thng_1013-000931-0001_05a.jpg?width=640"
+        ],
+        "prijs": 4.97,
+        "kleur": "White",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000931-0001",
+                "naam": "Wit",
+                "hex": "#FFFFFF",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_lace_etail_cotton_thng_1013-000931-0001_01a.jpg?ref=EF86AB5322",
+                "url": "https://www.na-kd.com/nl/zoek-producten/hooguitgesneden-katoenen-tanga-met-kantdetail-wit-1013-000931-0001"
+            },
+            {
+                "id": "1-1013-000931-0004",
+                "naam": "Rood",
+                "hex": "#BB3A39",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_lace_detail_cotton_thong_1013-000931-0004_1j_r.jpg?ref=233B5E9B91",
+                "url": "https://www.na-kd.com/nl/zoek-producten/hooguitgesneden-katoenen-tanga-met-kantdetail-rood-1013-000931-0004"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_lace_etail_cotton_thng_1013-000931-0001_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_lace_etail_cotton_thng_1013-000931-0001_05a.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/hooguitgesneden-katoenen-tanga-met-kantdetail-wit-1013-000931-0001",
+        "id": "1-1013-000931-0001-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Zachte Geribde Tanga Met Kantdetail",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_soft_ribbed_lace_detail_thong_1013-000922-0404_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_soft_ribbed_lace_detail_thong_1013-000922-0404_02i.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_soft_ribbed_lace_detail_thong_1013-000922-0404_03h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_soft_ribbed_lace_detail_thong_1013-000922-0404_04k.jpg?width=640"
+        ],
+        "prijs": 4.97,
+        "kleur": "Light Yellow",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000922-0404",
+                "naam": "Geel",
+                "hex": "#EDCBA2",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_soft_ribbed_lace_detail_thong_1013-000922-0404_01j.jpg?ref=39145916F1",
+                "url": "https://www.na-kd.com/nl/zoek-producten/soft-ribbed-lace-detail-thong-light-yellow-1013-000922-0404"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_soft_ribbed_lace_detail_thong_1013-000922-0404_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_soft_ribbed_lace_detail_thong_1013-000922-0404_04k.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/soft-ribbed-lace-detail-thong-light-yellow-1013-000922-0404",
+        "id": "1-1013-000922-0404-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Gestreepte micro slip met hoge taille",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_high_rise_striped_micro_brief_1013-001047-6391_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_high_rise_striped_micro_brief_1013-001047-6391_02k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_high_rise_striped_micro_brief_1013-001047-6391_03h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_high_rise_striped_micro_brief_1013-001047-6391_04i.jpg?width=640"
+        ],
+        "prijs": 4.97,
+        "kleur": "Simply Taupe",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001047-6391",
+                "naam": "Beige",
+                "hex": "#B39E8A",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_rise_striped_micro_brief_1013-001047-6391_01j.jpg?ref=6E12C6F535",
+                "url": "https://www.na-kd.com/nl/zoek-producten/gestreepte-micro-slip-met-hoge-taille-simply-taupe-1013-001047-6391"
+            },
+            {
+                "id": "1-1013-001047-1096",
+                "naam": "Gebroken wit",
+                "hex": "#FAF9F8",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_rise_striped_micro_brief_1013-001047-1096_01j.jpg?ref=7E8FABFA9D",
+                "url": "https://www.na-kd.com/nl/zoek-producten/gestreepte-micro-slip-met-hoge-taille-gebroken-wit-1013-001047-1096"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_rise_striped_micro_brief_1013-001047-6391_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_high_rise_striped_micro_brief_1013-001047-6391_04i.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/gestreepte-micro-slip-met-hoge-taille-simply-taupe-1013-001047-6391",
+        "id": "1-1013-001047-6391-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Hooguitgesneden katoenen tanga met kantdetail",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_lace_detail_cotton_thong_1013-000931-0004_1j_r.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_lace_detail_cotton_thong_1013-000931-0004_02k_r.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_lace_detail_cotton_thong_1013-000931-0004_03h_r.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_lace_detail_cotton_thong_1013-000931-0004_04i_r.jpg?width=640"
+        ],
+        "prijs": 4.97,
+        "kleur": "Red",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000931-0004",
+                "naam": "Rood",
+                "hex": "#BB3A39",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_lace_detail_cotton_thong_1013-000931-0004_1j_r.jpg?ref=233B5E9B91",
+                "url": "https://www.na-kd.com/nl/zoek-producten/hooguitgesneden-katoenen-tanga-met-kantdetail-rood-1013-000931-0004"
+            },
+            {
+                "id": "1-1013-000931-0001",
+                "naam": "Wit",
+                "hex": "#FFFFFF",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_lace_etail_cotton_thng_1013-000931-0001_01a.jpg?ref=EF86AB5322",
+                "url": "https://www.na-kd.com/nl/zoek-producten/hooguitgesneden-katoenen-tanga-met-kantdetail-wit-1013-000931-0001"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_lace_detail_cotton_thong_1013-000931-0004_1j_r.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_lace_detail_cotton_thong_1013-000931-0004_04i_r.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/hooguitgesneden-katoenen-tanga-met-kantdetail-rood-1013-000931-0004",
+        "id": "1-1013-000931-0004-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Aanpasbare tanga met kant",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_adjustable_lace_thong_1013-000970-0039_01h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_adjustable_lace_thong_1013-000970-0039_02i.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_adjustable_lace_thong_1013-000970-0039_03c.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_adjustable_lace_thong_1013-000970-0039_04d.jpg?width=640"
+        ],
+        "prijs": 4.97,
+        "kleur": "Dark Red",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000970-0039",
+                "naam": "Donkerrood",
+                "hex": "#862431",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_adjustable_lace_thong_1013-000970-0039_01h.jpg?ref=4EEDAB0378",
+                "url": "https://www.na-kd.com/nl/zoek-producten/aanpasbare-tanga-met-kant-dark-red-1013-000970-0039"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_adjustable_lace_thong_1013-000970-0039_01h.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_adjustable_lace_thong_1013-000970-0039_04d.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/aanpasbare-tanga-met-kant-dark-red-1013-000970-0039",
+        "id": "1-1013-000970-0039-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Naadloze microstring",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_seamless_micro_thong_1013-000887-0765_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_seamless_micro_thong_1013-000887-0765_02i.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_seamless_micro_thong_1013-000887-0765_03h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_seamless_micro_thong_1013-000887-0765_04k.jpg?width=640"
+        ],
+        "prijs": 4.97,
+        "kleur": "Dark Brown",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000887-0765",
+                "naam": "Donkerbruin",
+                "hex": "#442F33",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_seamless_micro_thong_1013-000887-0765_01j.jpg?ref=35FD759106",
+                "url": "https://www.na-kd.com/nl/zoek-producten/naadloze-microstring-bruin"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_seamless_micro_thong_1013-000887-0765_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_seamless_micro_thong_1013-000887-0765_04k.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/naadloze-microstring-bruin",
+        "id": "1-1013-000887-0765-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Gestreepte micro slip met hoge taille",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_high_rise_striped_micro_brief_1013-001047-1096_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_high_rise_striped_micro_brief_1013-001047-1096_02k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_high_rise_striped_micro_brief_1013-001047-1096_03h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_high_rise_striped_micro_brief_1013-001047-1096_04i.jpg?width=640"
+        ],
+        "prijs": 4.97,
+        "kleur": "Snow White",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001047-1096",
+                "naam": "Gebroken wit",
+                "hex": "#FAF9F8",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_rise_striped_micro_brief_1013-001047-1096_01j.jpg?ref=7E8FABFA9D",
+                "url": "https://www.na-kd.com/nl/zoek-producten/gestreepte-micro-slip-met-hoge-taille-gebroken-wit-1013-001047-1096"
+            },
+            {
+                "id": "1-1013-001047-6391",
+                "naam": "Beige",
+                "hex": "#B39E8A",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_rise_striped_micro_brief_1013-001047-6391_01j.jpg?ref=6E12C6F535",
+                "url": "https://www.na-kd.com/nl/zoek-producten/gestreepte-micro-slip-met-hoge-taille-simply-taupe-1013-001047-6391"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_rise_striped_micro_brief_1013-001047-1096_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_high_rise_striped_micro_brief_1013-001047-1096_04i.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/gestreepte-micro-slip-met-hoge-taille-gebroken-wit-1013-001047-1096",
+        "id": "1-1013-001047-1096-004",
         "kleurHex": null
     },
     {
@@ -273,6 +645,590 @@
         "kleurHex": null
     },
     {
+        "naam": "Panty met kleine stipjes",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_panties-1730-000054-0024_1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_panties-1730-000054-0024_2.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_panties-1730-000054-0024_3.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_panties-1730-000054-0024_4.jpg?width=640"
+        ],
+        "prijs": 4.97,
+        "kleur": "Yellow",
+        "kleurFamilies": [
+            {
+                "id": "1-1730-000054-0024",
+                "naam": "Geel",
+                "hex": "#F0CA74",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_panties-1730-000054-0024_1.jpg?ref=5432397BA9",
+                "url": "https://www.na-kd.com/nl/zoek-producten/swiss-dot-panties-yellow-1730-000054-0024"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_panties-1730-000054-0024_1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_panties-1730-000054-0024_4.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/swiss-dot-panties-yellow-1730-000054-0024",
+        "id": "1-1730-000054-0024-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Tanga met kant en strikbandjes",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/tie_stap_lace_thong_1013-001129-1388_40.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/tie_stap_lace_thong_1013-001129-1388_20.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/tie_stap_lace_thong_1013-001129-1388_30.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/tie_stap_lace_thong_1013-001129-1388_10.jpg?width=640"
+        ],
+        "prijs": 4.97,
+        "kleur": "Dried herb",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001129-1388",
+                "naam": "Groen",
+                "hex": "#6B523C",
+                "img_url": "https://www.na-kd.com/resize/globalassets/tie_stap_lace_thong_1013-001129-1388_40.jpg?ref=4223368332",
+                "url": "https://www.na-kd.com/nl/zoek-producten/tie-strap-lace-thong-dried-herb-1013-001129-1388"
+            },
+            {
+                "id": "1-1013-001129-1096",
+                "naam": "Wit",
+                "hex": "#FFFFFF",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_tie_strap_lace_thong-1013-001129-1096_3107100.jpg?ref=253BC6C5A7",
+                "url": "https://www.na-kd.com/nl/zoek-producten/tie-strap-lace-thong-snow-white-1013-001129-1096"
+            },
+            {
+                "id": "1-1013-001129-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_tie_strap_lace_thong-1013-001129-0002_31026100.jpg?ref=3B458C89FE",
+                "url": "https://www.na-kd.com/nl/zoek-producten/tie-strap-lace-thong-black-1013-001129-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/tie_stap_lace_thong_1013-001129-1388_40.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/tie_stap_lace_thong_1013-001129-1388_10.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/tie-strap-lace-thong-dried-herb-1013-001129-1388",
+        "id": "1-1013-001129-1388-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Broekjes met hoge taille",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/taylor_high_waist_panties_1731-000023-0002_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/taylor_high_waist_panties_1731-000023-0002_02k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/taylor_high_waist_panties_1731-000023-0002_03h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/taylor_high_waist_panties_1731-000023-0002_04g.jpg?width=640"
+        ],
+        "prijs": 4.97,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1731-000023-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/taylor_high_waist_panties_1731-000023-0002_01j.jpg?ref=94561946CE",
+                "url": "https://www.na-kd.com/nl/zoek-producten/broekjes-met-hoge-taille-zwart-1731-000023-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/taylor_high_waist_panties_1731-000023-0002_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/taylor_high_waist_panties_1731-000023-0002_04g.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/broekjes-met-hoge-taille-zwart-1731-000023-0002",
+        "id": "1-1731-000023-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Kanten string",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_string_1736-000042-5313_90864-copy.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_string_1736-000042-5313_908644.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_string_1736-000042-5313_908643.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_string_1736-000042-5313_908642.jpg?width=640"
+        ],
+        "prijs": 4.97,
+        "kleur": "Deep Blue",
+        "kleurFamilies": [
+            {
+                "id": "1-1736-000042-5313",
+                "naam": "Blauw",
+                "hex": "#7A8493",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_string_1736-000042-5313_90864-copy.jpg?ref=4970C09C6B",
+                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-string-blauw-1736-000042-5313"
+            },
+            {
+                "id": "1-1736-000042-0001",
+                "naam": "Wit",
+                "hex": "#FFFFFF",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_string_1736-000042-0001_91393.jpg?ref=4B3EDA1D29",
+                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-string-wit-1736-000042-0001"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_string_1736-000042-5313_90864-copy.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_string_1736-000042-5313_908642.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/kanten-string-blauw-1736-000042-5313",
+        "id": "1-1736-000042-5313-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Hooguitgesneden string met kant",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0719_01j-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0719_04k-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0719_03h-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0719_02i-1.jpg?width=640"
+        ],
+        "prijs": 4.97,
+        "kleur": "Pearl",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001042-0719",
+                "naam": "Beige",
+                "hex": "#D7BE9F",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0719_01j-1.jpg?ref=6D3F16CFC8",
+                "url": "https://www.na-kd.com/nl/zoek-producten/cute-high-cut-lace-thong-pearl-1013-001042-0719"
+            },
+            {
+                "id": "1-1013-001042-0617",
+                "naam": "Blauw",
+                "hex": "#A099A7",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0617_01j_r.jpg?ref=23E8697960",
+                "url": "https://www.na-kd.com/nl/zoek-producten/cute-high-cut-lace-thong-dusty-blue-1013-001042-0617"
+            },
+            {
+                "id": "1-1013-001042-0176",
+                "naam": "Roze",
+                "hex": "#E4E4DD",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0176_01j-1.jpg?ref=752B43FA08",
+                "url": "https://www.na-kd.com/nl/zoek-producten/hooguitgesneden-string-met-kant-dusty-dark-pink-1013-001042-0176"
+            },
+            {
+                "id": "1-1013-001042-0261",
+                "naam": "Oranje",
+                "hex": "#BD7139",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0261_01c.jpg?ref=E522233C36",
+                "url": "https://www.na-kd.com/nl/zoek-producten/hooguitgesneden-string-met-kant-orange-1013-001042-0261"
+            },
+            {
+                "id": "1-1013-001042-0819",
+                "naam": "Groen",
+                "hex": "#B4C02B",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0819_01c.jpg?ref=24BD1A8267",
+                "url": "https://www.na-kd.com/nl/zoek-producten/hooguitgesneden-string-met-kant-lime-1013-001042-0819"
+            },
+            {
+                "id": "1-1013-001042-0002",
+                "naam": "Zwart",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0002_01d.jpg?ref=4E3B931126",
+                "url": "https://www.na-kd.com/nl/zoek-producten/cute-high-cut-lace-thong-black-1013-001042-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0719_01j-1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0719_02i-1.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/cute-high-cut-lace-thong-pearl-1013-001042-0719",
+        "id": "1-1013-001042-0719-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Kanten string",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_string_1736-000042-0001_91393.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_string_1736-000042-0001_91348.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_string_1736-000042-0001_91347.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_string_1736-000042-0001_91374.jpg?width=640"
+        ],
+        "prijs": 4.97,
+        "kleur": "White",
+        "kleurFamilies": [
+            {
+                "id": "1-1736-000042-0001",
+                "naam": "Wit",
+                "hex": "#FFFFFF",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_string_1736-000042-0001_91393.jpg?ref=4B3EDA1D29",
+                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-string-wit-1736-000042-0001"
+            },
+            {
+                "id": "1-1736-000042-5313",
+                "naam": "Blauw",
+                "hex": "#7A8493",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_string_1736-000042-5313_90864-copy.jpg?ref=4970C09C6B",
+                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-string-blauw-1736-000042-5313"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_string_1736-000042-0001_91393.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_string_1736-000042-0001_91374.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/kanten-string-wit-1736-000042-0001",
+        "id": "1-1736-000042-0001-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Hooguitgesneden string met kant",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0261_01c.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0261_02d.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0261_03h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0261_04i.jpg?width=640"
+        ],
+        "prijs": 4.97,
+        "kleur": "Orange",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001042-0261",
+                "naam": "Oranje",
+                "hex": "#BD7139",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0261_01c.jpg?ref=E522233C36",
+                "url": "https://www.na-kd.com/nl/zoek-producten/hooguitgesneden-string-met-kant-orange-1013-001042-0261"
+            },
+            {
+                "id": "1-1013-001042-0617",
+                "naam": "Blauw",
+                "hex": "#A099A7",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0617_01j_r.jpg?ref=23E8697960",
+                "url": "https://www.na-kd.com/nl/zoek-producten/cute-high-cut-lace-thong-dusty-blue-1013-001042-0617"
+            },
+            {
+                "id": "1-1013-001042-0719",
+                "naam": "Beige",
+                "hex": "#D7BE9F",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0719_01j-1.jpg?ref=6D3F16CFC8",
+                "url": "https://www.na-kd.com/nl/zoek-producten/cute-high-cut-lace-thong-pearl-1013-001042-0719"
+            },
+            {
+                "id": "1-1013-001042-0176",
+                "naam": "Roze",
+                "hex": "#E4E4DD",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0176_01j-1.jpg?ref=752B43FA08",
+                "url": "https://www.na-kd.com/nl/zoek-producten/hooguitgesneden-string-met-kant-dusty-dark-pink-1013-001042-0176"
+            },
+            {
+                "id": "1-1013-001042-0819",
+                "naam": "Groen",
+                "hex": "#B4C02B",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0819_01c.jpg?ref=24BD1A8267",
+                "url": "https://www.na-kd.com/nl/zoek-producten/hooguitgesneden-string-met-kant-lime-1013-001042-0819"
+            },
+            {
+                "id": "1-1013-001042-0002",
+                "naam": "Zwart",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0002_01d.jpg?ref=4E3B931126",
+                "url": "https://www.na-kd.com/nl/zoek-producten/cute-high-cut-lace-thong-black-1013-001042-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0261_01c.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0261_04i.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/hooguitgesneden-string-met-kant-orange-1013-001042-0261",
+        "id": "1-1013-001042-0261-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Hooguitgesneden string met kant",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0002_01d.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0002_02h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0002_03i.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0002_04c.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0002_05g.jpg?width=640"
+        ],
+        "prijs": 4.97,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001042-0002",
+                "naam": "Zwart",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0002_01d.jpg?ref=4E3B931126",
+                "url": "https://www.na-kd.com/nl/zoek-producten/cute-high-cut-lace-thong-black-1013-001042-0002"
+            },
+            {
+                "id": "1-1013-001042-0617",
+                "naam": "Blauw",
+                "hex": "#A099A7",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0617_01j_r.jpg?ref=23E8697960",
+                "url": "https://www.na-kd.com/nl/zoek-producten/cute-high-cut-lace-thong-dusty-blue-1013-001042-0617"
+            },
+            {
+                "id": "1-1013-001042-0719",
+                "naam": "Beige",
+                "hex": "#D7BE9F",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0719_01j-1.jpg?ref=6D3F16CFC8",
+                "url": "https://www.na-kd.com/nl/zoek-producten/cute-high-cut-lace-thong-pearl-1013-001042-0719"
+            },
+            {
+                "id": "1-1013-001042-0176",
+                "naam": "Roze",
+                "hex": "#E4E4DD",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0176_01j-1.jpg?ref=752B43FA08",
+                "url": "https://www.na-kd.com/nl/zoek-producten/hooguitgesneden-string-met-kant-dusty-dark-pink-1013-001042-0176"
+            },
+            {
+                "id": "1-1013-001042-0261",
+                "naam": "Oranje",
+                "hex": "#BD7139",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0261_01c.jpg?ref=E522233C36",
+                "url": "https://www.na-kd.com/nl/zoek-producten/hooguitgesneden-string-met-kant-orange-1013-001042-0261"
+            },
+            {
+                "id": "1-1013-001042-0819",
+                "naam": "Groen",
+                "hex": "#B4C02B",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0819_01c.jpg?ref=24BD1A8267",
+                "url": "https://www.na-kd.com/nl/zoek-producten/hooguitgesneden-string-met-kant-lime-1013-001042-0819"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0002_01d.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0002_05g.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/cute-high-cut-lace-thong-black-1013-001042-0002",
+        "id": "1-1013-001042-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "V-String",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0765_01j-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0765_03i-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0765_02h-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0765_04k-1.jpg?width=640"
+        ],
+        "prijs": 4.97,
+        "kleur": "Dark Brown",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000782-0765",
+                "naam": "Bruin",
+                "hex": "#3C2A1E",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0765_01j-1.jpg?ref=522E935F9C",
+                "url": "https://www.na-kd.com/nl/zoek-producten/v-string-bruin"
+            },
+            {
+                "id": "1-1013-000782-0005",
+                "naam": "Geel",
+                "hex": "#D8C7A9",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0005_01j-1.jpg?ref=4AF2E16EA6",
+                "url": "https://www.na-kd.com/nl/zoek-producten/v-string-geel"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0765_01j-1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0765_04k-1.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/v-string-bruin",
+        "id": "1-1013-000782-0765-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Hooguitgesneden string met kant",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0617_01j_r.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0617_04k_r.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0617_03h_r.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0617_02i_r.jpg?width=640"
+        ],
+        "prijs": 4.97,
+        "kleur": "Dusty Blue",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001042-0617",
+                "naam": "Blauw",
+                "hex": "#A099A7",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0617_01j_r.jpg?ref=23E8697960",
+                "url": "https://www.na-kd.com/nl/zoek-producten/cute-high-cut-lace-thong-dusty-blue-1013-001042-0617"
+            },
+            {
+                "id": "1-1013-001042-0719",
+                "naam": "Beige",
+                "hex": "#D7BE9F",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0719_01j-1.jpg?ref=6D3F16CFC8",
+                "url": "https://www.na-kd.com/nl/zoek-producten/cute-high-cut-lace-thong-pearl-1013-001042-0719"
+            },
+            {
+                "id": "1-1013-001042-0176",
+                "naam": "Roze",
+                "hex": "#E4E4DD",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0176_01j-1.jpg?ref=752B43FA08",
+                "url": "https://www.na-kd.com/nl/zoek-producten/hooguitgesneden-string-met-kant-dusty-dark-pink-1013-001042-0176"
+            },
+            {
+                "id": "1-1013-001042-0261",
+                "naam": "Oranje",
+                "hex": "#BD7139",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0261_01c.jpg?ref=E522233C36",
+                "url": "https://www.na-kd.com/nl/zoek-producten/hooguitgesneden-string-met-kant-orange-1013-001042-0261"
+            },
+            {
+                "id": "1-1013-001042-0819",
+                "naam": "Groen",
+                "hex": "#B4C02B",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0819_01c.jpg?ref=24BD1A8267",
+                "url": "https://www.na-kd.com/nl/zoek-producten/hooguitgesneden-string-met-kant-lime-1013-001042-0819"
+            },
+            {
+                "id": "1-1013-001042-0002",
+                "naam": "Zwart",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0002_01d.jpg?ref=4E3B931126",
+                "url": "https://www.na-kd.com/nl/zoek-producten/cute-high-cut-lace-thong-black-1013-001042-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0617_01j_r.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0617_02i_r.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/cute-high-cut-lace-thong-dusty-blue-1013-001042-0617",
+        "id": "1-1013-001042-0617-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "V-String",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0005_01j-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0005_02i-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0005_02h-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0005_04k-1.jpg?width=640"
+        ],
+        "prijs": 4.97,
+        "kleur": "Beige",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000782-0005",
+                "naam": "Geel",
+                "hex": "#D8C7A9",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0005_01j-1.jpg?ref=4AF2E16EA6",
+                "url": "https://www.na-kd.com/nl/zoek-producten/v-string-geel"
+            },
+            {
+                "id": "1-1013-000782-0765",
+                "naam": "Bruin",
+                "hex": "#3C2A1E",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0765_01j-1.jpg?ref=522E935F9C",
+                "url": "https://www.na-kd.com/nl/zoek-producten/v-string-bruin"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0005_01j-1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0005_04k-1.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/v-string-geel",
+        "id": "1-1013-000782-0005-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Tanga met kant en strikbandjes",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_tie_strap_lace_thong-1013-001129-0002_31026100.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_tie_strap_lace_thong-1013-001129-0002_31038.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_tie_strap_lace_thong-1013-001129-0002_31026.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_tie_strap_lace_thong-1013-001129-0002_31026200.jpg?width=640"
+        ],
+        "prijs": 4.97,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001129-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_tie_strap_lace_thong-1013-001129-0002_31026100.jpg?ref=3B458C89FE",
+                "url": "https://www.na-kd.com/nl/zoek-producten/tie-strap-lace-thong-black-1013-001129-0002"
+            },
+            {
+                "id": "1-1013-001129-1096",
+                "naam": "Wit",
+                "hex": "#FFFFFF",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_tie_strap_lace_thong-1013-001129-1096_3107100.jpg?ref=253BC6C5A7",
+                "url": "https://www.na-kd.com/nl/zoek-producten/tie-strap-lace-thong-snow-white-1013-001129-1096"
+            },
+            {
+                "id": "1-1013-001129-1388",
+                "naam": "Groen",
+                "hex": "#6B523C",
+                "img_url": "https://www.na-kd.com/resize/globalassets/tie_stap_lace_thong_1013-001129-1388_40.jpg?ref=4223368332",
+                "url": "https://www.na-kd.com/nl/zoek-producten/tie-strap-lace-thong-dried-herb-1013-001129-1388"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_tie_strap_lace_thong-1013-001129-0002_31026100.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_tie_strap_lace_thong-1013-001129-0002_31026200.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/tie-strap-lace-thong-black-1013-001129-0002",
+        "id": "1-1013-001129-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "String",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_strap_detailed_high_waist_ribbed_thong-1013-000836-0002_01k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_strap_detailed_high_waist_ribbed_thong-1013-000836-0002_04j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_strap_detailed_high_waist_ribbed_thong-1013-000836-0002_03h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_strap_detailed_high_waist_ribbed_thong-1013-000836-0002_02h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_strap_detailed_high_waist_ribbed_thong-1013-000836-0002_05k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_strap_detailed_high_waist_ribbed_thong-1013-000836-0002_05a.jpg?width=640"
+        ],
+        "prijs": 4.97,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000836-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_strap_detailed_high_waist_ribbed_thong-1013-000836-0002_01k.jpg?ref=A080975FFB",
+                "url": "https://www.na-kd.com/nl/zoek-producten/string-zwart-21"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_strap_detailed_high_waist_ribbed_thong-1013-000836-0002_01k.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_strap_detailed_high_waist_ribbed_thong-1013-000836-0002_05a.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/string-zwart-21",
+        "id": "1-1013-000836-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Hooguitgesneden string met kant",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0176_01j-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0176_04k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0176_03h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0176_02i.jpg?width=640"
+        ],
+        "prijs": 4.97,
+        "kleur": "Dusty Dark Pink",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001042-0176",
+                "naam": "Roze",
+                "hex": "#E4E4DD",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0176_01j-1.jpg?ref=752B43FA08",
+                "url": "https://www.na-kd.com/nl/zoek-producten/hooguitgesneden-string-met-kant-dusty-dark-pink-1013-001042-0176"
+            },
+            {
+                "id": "1-1013-001042-0617",
+                "naam": "Blauw",
+                "hex": "#A099A7",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0617_01j_r.jpg?ref=23E8697960",
+                "url": "https://www.na-kd.com/nl/zoek-producten/cute-high-cut-lace-thong-dusty-blue-1013-001042-0617"
+            },
+            {
+                "id": "1-1013-001042-0719",
+                "naam": "Beige",
+                "hex": "#D7BE9F",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0719_01j-1.jpg?ref=6D3F16CFC8",
+                "url": "https://www.na-kd.com/nl/zoek-producten/cute-high-cut-lace-thong-pearl-1013-001042-0719"
+            },
+            {
+                "id": "1-1013-001042-0261",
+                "naam": "Oranje",
+                "hex": "#BD7139",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0261_01c.jpg?ref=E522233C36",
+                "url": "https://www.na-kd.com/nl/zoek-producten/hooguitgesneden-string-met-kant-orange-1013-001042-0261"
+            },
+            {
+                "id": "1-1013-001042-0819",
+                "naam": "Groen",
+                "hex": "#B4C02B",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0819_01c.jpg?ref=24BD1A8267",
+                "url": "https://www.na-kd.com/nl/zoek-producten/hooguitgesneden-string-met-kant-lime-1013-001042-0819"
+            },
+            {
+                "id": "1-1013-001042-0002",
+                "naam": "Zwart",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0002_01d.jpg?ref=4E3B931126",
+                "url": "https://www.na-kd.com/nl/zoek-producten/cute-high-cut-lace-thong-black-1013-001042-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0176_01j-1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0176_02i.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/hooguitgesneden-string-met-kant-dusty-dark-pink-1013-001042-0176",
+        "id": "1-1013-001042-0176-004",
+        "kleurHex": null
+    },
+    {
         "naam": "Hipster van kant",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/all_lace_hipster-1013-001263-0002_3060.jpg?width=640",
@@ -303,818 +1259,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_all_lace_hipster-1013-001263-0002_0285_flatlay.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/all-lace-hipster-black-1013-001263-0002",
         "id": "1-1013-001263-0002-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Klassieke string met halfhoge taille en kant",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong_1013-000862-0010_334copy.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong_1013-000862-0010_221434.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong_1013-000862-0010_9222.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong_1013-000862-0010_3243r.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_mid_rise-_classic_lace_thong_1013-000862-0010_0388.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_mid-rise-classic-lace-thong-green-1013-000862-0010_01m-1.jpg?width=640"
-        ],
-        "prijs": 4.97,
-        "kleur": "Green",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-000862-0010",
-                "naam": "Groen",
-                "hex": "#4C8244",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong_1013-000862-0010_334copy.jpg?ref=65C4C27A38",
-                "url": "https://www.na-kd.com/nl/zoek-producten/klassieke-string-met-halfhoge-taille-en-kant-green-1013-000862-0010"
-            },
-            {
-                "id": "1-1013-000862-0004",
-                "naam": "Rood",
-                "hex": "#BB4740",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_1013-000862-0004_1.jpg?ref=D2F4F33C56",
-                "url": "https://www.na-kd.com/nl/zoek-producten/klassieke-string-met-halfhoge-taille-en-kant-red"
-            },
-            {
-                "id": "1-1013-000862-0719",
-                "naam": "Lichtbeige",
-                "hex": "#CBB8A8",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong-1013-000862-0719_01c.jpg?ref=941F375F16",
-                "url": "https://www.na-kd.com/nl/zoek-producten/klassieke-string-met-halfhoge-taille-en-kant-pearl"
-            },
-            {
-                "id": "1-1013-000862-0113",
-                "naam": "Paars",
-                "hex": "#937C8C",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_nakd_mid_rise_classic_lace_thong-1013-000862-0113_03h.jpg?ref=337C853846",
-                "url": "https://www.na-kd.com/nl/zoek-producten/klassieke-string-met-halfhoge-taille-en-kant-violet-1013-000862-0113"
-            },
-            {
-                "id": "1-1013-000862-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/mid_rise_classic_lace_thong_1013-000862-0002_2_flatlay.jpg?ref=327A74B388",
-                "url": "https://www.na-kd.com/nl/zoek-producten/klassieke-string-met-halfhoge-taille-en-kant-zwart"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong_1013-000862-0010_334copy.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_mid-rise-classic-lace-thong-green-1013-000862-0010_01m-1.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/klassieke-string-met-halfhoge-taille-en-kant-green-1013-000862-0010",
-        "id": "1-1013-000862-0010-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Hipster van kant",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/all_lace_hipster-1013-001263-0015_3540.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/all_lace_hipster-1013-001263-0015_3565.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/all_lace_hipster-1013-001263-0015_3561.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/all_lace_hipster-1013-001263-0015_3574.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_all_lace_hipster-1013-001263-0015_0273_flatlay.jpg?width=640"
-        ],
-        "prijs": 4.97,
-        "kleur": "Pink",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001263-0015",
-                "naam": "Roze",
-                "hex": "#E5619D",
-                "img_url": "https://www.na-kd.com/resize/globalassets/all_lace_hipster-1013-001263-0015_3540.jpg?ref=E5C2D196AD",
-                "url": "https://www.na-kd.com/nl/zoek-producten/all-lace-hipster-pink-1013-001263-0015"
-            },
-            {
-                "id": "1-1013-001263-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/all_lace_hipster-1013-001263-0002_3060.jpg?ref=E986BE5357",
-                "url": "https://www.na-kd.com/nl/zoek-producten/all-lace-hipster-black-1013-001263-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/all_lace_hipster-1013-001263-0015_3540.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_all_lace_hipster-1013-001263-0015_0273_flatlay.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/all-lace-hipster-pink-1013-001263-0015",
-        "id": "1-1013-001263-0015-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Lace Thong",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/lace_thong_1013-001211-0001_12633.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_thong_1013-001211-0001_12657.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_thong_1013-001211-0001_12646.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_thong_1013-001211-0001_12662.jpg?width=640"
-        ],
-        "prijs": 4.97,
-        "kleur": "White",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001211-0001",
-                "naam": "Wit",
-                "hex": "#FFFFFF",
-                "img_url": "https://www.na-kd.com/resize/globalassets/lace_thong_1013-001211-0001_12633.jpg?ref=3839FD423C",
-                "url": "https://www.na-kd.com/nl/zoek-producten/lace-thong-white-1013-001211-0001"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/lace_thong_1013-001211-0001_12633.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/lace_thong_1013-001211-0001_12662.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/lace-thong-white-1013-001211-0001",
-        "id": "1-1013-001211-0001-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Kanten Braziliaanse slip",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/lace_brazilian_panty_1013-001212-0001_12579.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_brazilian_panty_1013-001212-0001_12593.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_brazilian_panty_1013-001212-0001_12565-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_brazilian_panty_1013-001212-0001_12602.jpg?width=640"
-        ],
-        "prijs": 4.97,
-        "kleur": "White",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001212-0001",
-                "naam": "Wit",
-                "hex": "#FFFFFF",
-                "img_url": "https://www.na-kd.com/resize/globalassets/lace_brazilian_panty_1013-001212-0001_12579.jpg?ref=DF1E41D046",
-                "url": "https://www.na-kd.com/nl/zoek-producten/lace-brazilian-panty-white-1013-001212-0001"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/lace_brazilian_panty_1013-001212-0001_12579.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/lace_brazilian_panty_1013-001212-0001_12602.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/lace-brazilian-panty-white-1013-001212-0001",
-        "id": "1-1013-001212-0001-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Klassieke string met halfhoge taille en kant",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong-1013-000862-0719_01c.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong-1013-000862-0719_02b.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong-1013-000862-0719_02h.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong-1013-000862-0719_04h.jpg?width=640"
-        ],
-        "prijs": 4.97,
-        "kleur": "Pearl",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-000862-0719",
-                "naam": "Lichtbeige",
-                "hex": "#CBB8A8",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong-1013-000862-0719_01c.jpg?ref=941F375F16",
-                "url": "https://www.na-kd.com/nl/zoek-producten/klassieke-string-met-halfhoge-taille-en-kant-pearl"
-            },
-            {
-                "id": "1-1013-000862-0004",
-                "naam": "Rood",
-                "hex": "#BB4740",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_1013-000862-0004_1.jpg?ref=D2F4F33C56",
-                "url": "https://www.na-kd.com/nl/zoek-producten/klassieke-string-met-halfhoge-taille-en-kant-red"
-            },
-            {
-                "id": "1-1013-000862-0010",
-                "naam": "Groen",
-                "hex": "#4C8244",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong_1013-000862-0010_334copy.jpg?ref=65C4C27A38",
-                "url": "https://www.na-kd.com/nl/zoek-producten/klassieke-string-met-halfhoge-taille-en-kant-green-1013-000862-0010"
-            },
-            {
-                "id": "1-1013-000862-0113",
-                "naam": "Paars",
-                "hex": "#937C8C",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_nakd_mid_rise_classic_lace_thong-1013-000862-0113_03h.jpg?ref=337C853846",
-                "url": "https://www.na-kd.com/nl/zoek-producten/klassieke-string-met-halfhoge-taille-en-kant-violet-1013-000862-0113"
-            },
-            {
-                "id": "1-1013-000862-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/mid_rise_classic_lace_thong_1013-000862-0002_2_flatlay.jpg?ref=327A74B388",
-                "url": "https://www.na-kd.com/nl/zoek-producten/klassieke-string-met-halfhoge-taille-en-kant-zwart"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong-1013-000862-0719_01c.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong-1013-000862-0719_04h.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/klassieke-string-met-halfhoge-taille-en-kant-pearl",
-        "id": "1-1013-000862-0719-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Gestreepte micro tanga met kant",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_side_striped_micro_thong-1013-001113-0368-31325.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_side_striped_micro_thong-1013-001113-0368-31358.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_side_striped_micro_thong-1013-001113-0368-31342.jpg?width=640"
-        ],
-        "prijs": 4.97,
-        "kleur": "Lilac",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001113-0368",
-                "naam": "Paars",
-                "hex": "#CB9EC7",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_side_striped_micro_thong-1013-001113-0368-31325.jpg?ref=FCDC480A15",
-                "url": "https://www.na-kd.com/nl/zoek-producten/lace-side-striped-micro-thong-lilac-1013-001113-0368"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_side_striped_micro_thong-1013-001113-0368-31325.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_side_striped_micro_thong-1013-001113-0368-31342.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/lace-side-striped-micro-thong-lilac-1013-001113-0368",
-        "id": "1-1013-001113-0368-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Kant brazilian slip",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_mid_waist_lace_brazilian_1013-001074-0002_01j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_mid_waist_lace_brazilian_1013-001074-0002_02b.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_mid_waist_lace_brazilian_1013-001074-0002_04i.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_mid_waist_lace_brazilian_1013-001074-0002_03h.jpg?width=640"
-        ],
-        "prijs": 6.96,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001074-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mid_waist_lace_brazilian_1013-001074-0002_01j.jpg?ref=733766B83E",
-                "url": "https://www.na-kd.com/nl/zoek-producten/mid-waist-lace-brazilian-black-1013-001074-0002"
-            },
-            {
-                "id": "1-1013-001074-0015",
-                "naam": "Roze",
-                "hex": "#E5619D",
-                "img_url": "https://www.na-kd.com/resize/globalassets/mid_waist_lace_brazilian-1013-001074-0015_2884.jpg?ref=84745F6FB0",
-                "url": "https://www.na-kd.com/nl/zoek-producten/kant-brazilian-slip-pink-1013-001074-0015"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mid_waist_lace_brazilian_1013-001074-0002_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_mid_waist_lace_brazilian_1013-001074-0002_03h.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/mid-waist-lace-brazilian-black-1013-001074-0002",
-        "id": "1-1013-001074-0002-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Kanten String",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_high_cut_thong_1013-000714-1715_01j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_high_cut_thong_1013-000714-1715_02i.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_high_cut_thong_1013-000714-1715_03h.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_high_cut_thong_1013-000714-1715_04k.jpg?width=640"
-        ],
-        "prijs": 5.97,
-        "kleur": "Cloud Dancer",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-000714-1715",
-                "naam": "Wit",
-                "hex": "#FFFFFF",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_high_cut_thong_1013-000714-1715_01j.jpg?ref=9F26C9BCE6",
-                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-string-wit-4"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_high_cut_thong_1013-000714-1715_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_high_cut_thong_1013-000714-1715_04k.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/kanten-string-wit-4",
-        "id": "1-1013-000714-1715-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Katoenen paneelslip met hoge taille en kant",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_high_rise_cotton_panel_lace_brief_1013-000927-9593_01h.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_high_rise_cotton_panel_lace_brief_1013-000927-9593_04i.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_high_rise_cotton_panel_lace_brief_1013-000927-9593_02d.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_high_rise_cotton_panel_lace_brief_1013-000927-9593_02c.jpg?width=640"
-        ],
-        "prijs": 5.97,
-        "kleur": "Whistful Mauve",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-000927-9593",
-                "naam": "Paars",
-                "hex": "#B79492",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_rise_cotton_panel_lace_brief_1013-000927-9593_01h.jpg?ref=A2D612F73D",
-                "url": "https://www.na-kd.com/nl/zoek-producten/katoenen-paneelslip-met-hoge-taille-en-kant-whistful-mauve-1013-000927-9593"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_rise_cotton_panel_lace_brief_1013-000927-9593_01h.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_high_rise_cotton_panel_lace_brief_1013-000927-9593_02c.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/katoenen-paneelslip-met-hoge-taille-en-kant-whistful-mauve-1013-000927-9593",
-        "id": "1-1013-000927-9593-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Hooguitgesneden string met kant",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0819_01c.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0819_02d.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0819_03h.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0819_04i.jpg?width=640"
-        ],
-        "prijs": 5.97,
-        "kleur": "Lime",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001042-0819",
-                "naam": "Groen",
-                "hex": "#B4C02B",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0819_01c.jpg?ref=24BD1A8267",
-                "url": "https://www.na-kd.com/nl/zoek-producten/hooguitgesneden-string-met-kant-lime-1013-001042-0819"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0819_01c.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0819_04i.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/hooguitgesneden-string-met-kant-lime-1013-001042-0819",
-        "id": "1-1013-001042-0819-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "String van elastisch kant",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/elastic_lace_thong-1013-000822-0002_01j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/elastic_lace_thong-1013-000822-0002_02i.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/elastic_lace_thong-1013-000822-0002_03h.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/elastic_lace_thong-1013-000822-0002_04k.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/elastic_lace_thong-1013-000822-0002_04j.jpg?width=640"
-        ],
-        "prijs": 7.47,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-000822-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/elastic_lace_thong-1013-000822-0002_01j.jpg?ref=B076840537",
-                "url": "https://www.na-kd.com/nl/zoek-producten/string-van-elastisch-kant-zwart"
-            },
-            {
-                "id": "1-1013-000822-0198",
-                "naam": "Light",
-                "hex": "#AE856D",
-                "img_url": "https://www.na-kd.com/resize/globalassets/elastic_lace_thong-1013-000822-0198_01j.jpg?ref=606B566A7F",
-                "url": "https://www.na-kd.com/nl/zoek-producten/string-van-elastisch-kant-bruin"
-            },
-            {
-                "id": "1-1013-000822-0368",
-                "naam": "Paars",
-                "hex": "#794376",
-                "img_url": "https://www.na-kd.com/resize/globalassets/elastic_lace_thing_1013-000822-036842059.jpg?ref=D346237008",
-                "url": "https://www.na-kd.com/nl/zoek-producten/string-van-elastisch-kant-lilac"
-            },
-            {
-                "id": "1-1013-000822-0182",
-                "naam": "Kakigroen",
-                "hex": "#A5976D",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_elastic_lace_thong-1013-000822-0182_0582.jpg?ref=194247D418",
-                "url": "https://www.na-kd.com/nl/zoek-producten/string-van-elastisch-kant-vintage-khaki-1013-000822-0182"
-            },
-            {
-                "id": "1-1013-000822-0404",
-                "naam": "Geel",
-                "hex": "#f7ee8f",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_elastic_lace_thong_1013-000822-0404_32393.jpg?ref=F190C3C901",
-                "url": "https://www.na-kd.com/nl/zoek-producten/string-van-elastisch-kant-light-yellow-1013-000822-0404"
-            },
-            {
-                "id": "1-1013-000822-5310",
-                "naam": "Groen",
-                "hex": "#c0eac3",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_elastic_lace_thong_1013-000822-5310_32458.jpg?ref=ED57E32D6D",
-                "url": "https://www.na-kd.com/nl/zoek-producten/string-van-elastisch-kant-jade-1013-000822-5310"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/elastic_lace_thong-1013-000822-0002_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/elastic_lace_thong-1013-000822-0002_04j.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/string-van-elastisch-kant-zwart",
-        "id": "1-1013-000822-0002-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Gedetailleerde kanten panty met bandjes",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_strappy_detailed_lace_panty_1013-001267-0010_1593.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_strappy_detailed_lace_panty_1013-001267-0010_1564.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_strappy_detailed_lace_panty_1013-001267-0010_1535.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_strappy_detailed_lace_panty_1013-001267-0010_1576.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_strappy_detailed_lace_panty-1013-001267-0010_0028.jpg?width=640"
-        ],
-        "prijs": 7.47,
-        "kleur": "Green",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001267-0010",
-                "naam": "Groen",
-                "hex": "#6A827A",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_strappy_detailed_lace_panty_1013-001267-0010_1593.jpg?ref=AC4CF327AB",
-                "url": "https://www.na-kd.com/nl/zoek-producten/strappy-detailed-lace-panty-green-1013-001267-0010"
-            },
-            {
-                "id": "1-1013-001267-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_strappy_detailed_lace_panty_1013-001267-0002_1462.jpg?ref=13EBC05FC9",
-                "url": "https://www.na-kd.com/nl/zoek-producten/strappy-detailed-lace-panty-black-1013-001267-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_strappy_detailed_lace_panty_1013-001267-0010_1593.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_strappy_detailed_lace_panty-1013-001267-0010_0028.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/strappy-detailed-lace-panty-green-1013-001267-0010",
-        "id": "1-1013-001267-0010-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Gedetailleerde kanten panty met bandjes",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_strappy_detailed_lace_panty_1013-001267-0002_1462.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_strappy_detailed_lace_panty_1013-001267-0002_1505.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_strappy_detailed_lace_panty_1013-001267-0002_64.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_strappy_detailed_lace_panty_1013-001267-0002_1530.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_strappy_detailed_lace_panty-1013-001267-0002_0591_flatlay.jpg?width=640"
-        ],
-        "prijs": 7.47,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001267-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_strappy_detailed_lace_panty_1013-001267-0002_1462.jpg?ref=13EBC05FC9",
-                "url": "https://www.na-kd.com/nl/zoek-producten/strappy-detailed-lace-panty-black-1013-001267-0002"
-            },
-            {
-                "id": "1-1013-001267-0010",
-                "naam": "Groen",
-                "hex": "#6A827A",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_strappy_detailed_lace_panty_1013-001267-0010_1593.jpg?ref=AC4CF327AB",
-                "url": "https://www.na-kd.com/nl/zoek-producten/strappy-detailed-lace-panty-green-1013-001267-0010"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_strappy_detailed_lace_panty_1013-001267-0002_1462.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_strappy_detailed_lace_panty-1013-001267-0002_0591_flatlay.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/strappy-detailed-lace-panty-black-1013-001267-0002",
-        "id": "1-1013-001267-0002-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Braziliaanse slip met kant en hoge taille",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/high_waist_lace_brazilian_1013-001282-0002_1367-copy.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/high_waist_lace_brazilian_1013-001282-0002_1374-copy.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/high_waist_lace_brazilian_1013-001282-0002_1326-copy-3.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_high_waist_lace_brazilian-1013-001282-0002_0541_flatlay.jpg?width=640"
-        ],
-        "prijs": 7.47,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001282-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/high_waist_lace_brazilian_1013-001282-0002_1367-copy.jpg?ref=35EC9D4ABE",
-                "url": "https://www.na-kd.com/nl/zoek-producten/high-waist-lace-brazilian-black-1013-001282-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/high_waist_lace_brazilian_1013-001282-0002_1367-copy.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_high_waist_lace_brazilian-1013-001282-0002_0541_flatlay.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/high-waist-lace-brazilian-black-1013-001282-0002",
-        "id": "1-1013-001282-0002-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Kanten string met verstelbare bandjes",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/adjustable_strap_lace_thong-1013-001209-00020592.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/adjustable_strap_lace_thong-1013-001209-00020627.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/adjustable_strap_lace_thong-1013-001209-00020604.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/adjustable_strap_lace_thong-1013-001209-00020619.jpg?width=640"
-        ],
-        "prijs": 7.47,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001209-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/adjustable_strap_lace_thong-1013-001209-00020592.jpg?ref=B65CBFEC7D",
-                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-string-met-verstelbare-bandjes-zwart-1013-001209-0002"
-            },
-            {
-                "id": "1-1013-001209-0418",
-                "naam": "Brick Red",
-                "hex": "#7C3033",
-                "img_url": "https://www.na-kd.com/resize/globalassets/adjustable_strap_lace_thong-1013-001209-04180654.jpg?ref=978EAB3CC7",
-                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-string-met-verstelbare-bandjes-rood-1013-001209-0418"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/adjustable_strap_lace_thong-1013-001209-00020592.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/adjustable_strap_lace_thong-1013-001209-00020619.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/kanten-string-met-verstelbare-bandjes-zwart-1013-001209-0002",
-        "id": "1-1013-001209-0002-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Dubbele string met bandjes",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_qute_dobule_strap_thong_1013-001033-0039_03h_r12.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_qute_dobule_strap_thong_1013-001033-0039_03h_r14.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_qute_dobule_strap_thong_1013-001033-0039_03h_r11.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_qute_dobule_strap_thong_1013-001033-0039_02i_r11.jpg?width=640"
-        ],
-        "prijs": 7.47,
-        "kleur": "Dark Red",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001033-0039",
-                "naam": "Roze",
-                "hex": "#894039",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_qute_dobule_strap_thong_1013-001033-0039_03h_r12.jpg?ref=13DA8C06E0",
-                "url": "https://www.na-kd.com/nl/zoek-producten/qute-double-strap-thong-dark-red-1013-001033-0039"
-            },
-            {
-                "id": "1-1013-001033-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/qute_double_strap_thong_1013-001033-0002_3.jpg?ref=D5257819C4",
-                "url": "https://www.na-kd.com/nl/zoek-producten/qute-double-strap-thong-black-1013-001033-0002"
-            },
-            {
-                "id": "1-1013-001033-0003",
-                "naam": "Turquoise",
-                "hex": "#3ddeff",
-                "img_url": "https://www.na-kd.com/resize/globalassets/qute_double_strap_thong_1013-001033-0003_1313.jpg?ref=9E53B9270F",
-                "url": "https://www.na-kd.com/nl/zoek-producten/dubbele-string-met-bandjes-blue-1013-001033-0003"
-            },
-            {
-                "id": "1-1013-001033-0256",
-                "naam": "Roze",
-                "hex": "#ffbea0",
-                "img_url": "https://www.na-kd.com/resize/globalassets/qute_double_strap_thong_1013-001033-0256_1231.jpg?ref=DF0EBDC474",
-                "url": "https://www.na-kd.com/nl/zoek-producten/dubbele-string-met-bandjes-coral-1013-001033-0256"
-            },
-            {
-                "id": "1-1013-001033-0001",
-                "naam": "Wit",
-                "hex": "#FFFFFF",
-                "img_url": "https://www.na-kd.com/resize/globalassets/qute_double_strap_thong_1013-001033-0001_1_flatlay.jpg?ref=ED58295366",
-                "url": "https://www.na-kd.com/nl/zoek-producten/qute-double-strap-thong-white-1013-001033-0001"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_qute_dobule_strap_thong_1013-001033-0039_03h_r12.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_qute_dobule_strap_thong_1013-001033-0039_02i_r11.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/qute-double-strap-thong-dark-red-1013-001033-0039",
-        "id": "1-1013-001033-0039-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "V-vormige string met lage taille",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_low_waisted_v_shaped_thong_1737-000029-0002_4855.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_low_waisted_v_shaped_thong_1737-000029-0002_4901.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_low_waisted_v_shaped_thong_1737-000029-0002_4862.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_low_waisted_v_shaped_thong_1737-000029-0002_4872-copy.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/low_waisted_v-shaped_thong_1737-000029-0002_flatlay.jpg?width=640"
-        ],
-        "prijs": 7.47,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1737-000029-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_low_waisted_v_shaped_thong_1737-000029-0002_4855.jpg?ref=EE5DA99B75",
-                "url": "https://www.na-kd.com/nl/zoek-producten/low-waisted-v-shaped-thong-black-1737-000029-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_low_waisted_v_shaped_thong_1737-000029-0002_4855.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/low_waisted_v-shaped_thong_1737-000029-0002_flatlay.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/low-waisted-v-shaped-thong-black-1737-000029-0002",
-        "id": "1-1737-000029-0002-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Satijnen Tanga Met Kantdetail",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_satin_thong_1013-000915-5482_03c_r.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_satin_thong_1013-000915-5482_02i_r.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_satin_thong_1013-000915-5482_01g_r.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_satin_thong_1013-000915-5482_04d_r.jpg?width=640"
-        ],
-        "prijs": 5.97,
-        "kleur": "Light flower",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-000915-5482",
-                "naam": "Veelkleurig",
-                "hex": "#E1D9CE",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_satin_thong_1013-000915-5482_03c_r.jpg?ref=DBF1280F2B",
-                "url": "https://www.na-kd.com/nl/zoek-producten/satijnen-tanga-met-kantdetail-veelkleurig-1013-000915-5482"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_satin_thong_1013-000915-5482_03c_r.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_detail_satin_thong_1013-000915-5482_04d_r.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/satijnen-tanga-met-kantdetail-veelkleurig-1013-000915-5482",
-        "id": "1-1013-000915-5482-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "String",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_elastic_band_lace_high_thong-1013-001107-0002_1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_elastic_band_lace_high_thong-1013-001107-0002_2.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_elastic_band_lace_high_thong-1013-001107-0002_4.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_elastic_band_lace_high_thong-1013-001107-0002_3.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_elastic_band_lace_high_thong-1013-001107-0002_5.jpg?width=640"
-        ],
-        "prijs": 5.97,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001107-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_elastic_band_lace_high_thong-1013-001107-0002_1.jpg?ref=C26B7F3C1E",
-                "url": "https://www.na-kd.com/nl/zoek-producten/string-black-1013-001107-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_elastic_band_lace_high_thong-1013-001107-0002_1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_recycled_elastic_band_lace_high_thong-1013-001107-0002_5.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/string-black-1013-001107-0002",
-        "id": "1-1013-001107-0002-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Kanten slip",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_scallop_back_lace_panty_1013-001065-1522_01d.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_scallop_back_lace_panty_1013-001065-1522_02c.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_scallop_back_lace_panty_1013-001065-1522_03i.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_scallop_back_lace_panty_1013-001065-1522_04h.jpg?width=640"
-        ],
-        "prijs": 5.97,
-        "kleur": "Russet",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001065-1522",
-                "naam": "Rood",
-                "hex": "#A4593F",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_scallop_back_lace_panty_1013-001065-1522_01d.jpg?ref=208F6CE080",
-                "url": "https://www.na-kd.com/nl/zoek-producten/mid-rise-scallop-back-lace-panty-russet-1013-001065-1522"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_scallop_back_lace_panty_1013-001065-1522_01d.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_scallop_back_lace_panty_1013-001065-1522_04h.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/mid-rise-scallop-back-lace-panty-russet-1013-001065-1522",
-        "id": "1-1013-001065-1522-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "String van elastisch kant",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_elastic_lace_thong_1013-001058-1420-06.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_elastic_lace_thong_1013-001058-1420-4795.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_elastic_lace_thong_1013-001058-1420-05.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_elastic_lace_thong_1013-001058-1420-4811.jpg?width=640"
-        ],
-        "prijs": 5.97,
-        "kleur": "Pink Umber",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001058-1420",
-                "naam": "Donkerroze",
-                "hex": "#CE816C",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_elastic_lace_thong_1013-001058-1420-06.jpg?ref=9B9132375B",
-                "url": "https://www.na-kd.com/nl/zoek-producten/string-van-elastisch-kant-pink-umber-1013-001058-1420"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_elastic_lace_thong_1013-001058-1420-06.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_recycled_elastic_lace_thong_1013-001058-1420-4811.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/string-van-elastisch-kant-pink-umber-1013-001058-1420",
-        "id": "1-1013-001058-1420-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Satijnen tange met hoge taille",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_satin_front_highwaist_v-cut_thong-1013-001054-0068_01c.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_satin_front_highwaist_v-cut_thong-1013-001054-0068_02d.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_satin_front_highwaist_v-cut_thong-1013-001054-0068_03h.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_satin_front_highwaist_v-cut_thong-1013-001054-0068_04i.jpg?width=640"
-        ],
-        "prijs": 5.97,
-        "kleur": "Light Grey",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001054-0068",
-                "naam": "Grijs",
-                "hex": "#DAD6CB",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_satin_front_highwaist_v-cut_thong-1013-001054-0068_01c.jpg?ref=5D87481DFD",
-                "url": "https://www.na-kd.com/nl/zoek-producten/satijnen-tange-met-hoge-taille-grijs-1013-001054-0068"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_satin_front_highwaist_v-cut_thong-1013-001054-0068_01c.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_satin_front_highwaist_v-cut_thong-1013-001054-0068_04i.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/satijnen-tange-met-hoge-taille-grijs-1013-001054-0068",
-        "id": "1-1013-001054-0068-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Gerecyclede Braziliaanse slip met kant en halfhoge taille",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_rise_lace_brazizlian_1013-000998-0176_02c.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_rise_lace_brazizlian_1013-000998-0176_01h.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_rise_lace_brazizlian_1013-000998-0176_04d.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_rise_lace_brazizlian_1013-000998-0176_02a.jpg?width=640"
-        ],
-        "prijs": 5.97,
-        "kleur": "Dusty Dark Pink",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-000998-0176",
-                "naam": "Roze",
-                "hex": "#C39586",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_rise_lace_brazizlian_1013-000998-0176_02c.jpg?ref=D9A2F4B6DD",
-                "url": "https://www.na-kd.com/nl/zoek-producten/recycled-mid-rise-lace-brazilian-dusty-dark-pink-1013-000998-0176"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_rise_lace_brazizlian_1013-000998-0176_02c.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_rise_lace_brazizlian_1013-000998-0176_02a.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/recycled-mid-rise-lace-brazilian-dusty-dark-pink-1013-000998-0176",
-        "id": "1-1013-000998-0176-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Ingerimpelde santijnen tanga met kant",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_gathered_satin_strap_lace_thong-1013-001096-0002_02.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_gathered_satin_strap_lace_thong-1013-001096-0002_04.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_gathered_satin_strap_lace_thong-1013-001096-0002_0040.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_gathered_satin_strap_lace_thong-1013-001096-0002_03.jpg?width=640"
-        ],
-        "prijs": 7.47,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001096-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_gathered_satin_strap_lace_thong-1013-001096-0002_02.jpg?ref=11D8B16AC3",
-                "url": "https://www.na-kd.com/nl/zoek-producten/gathered-satin-strap-lace-thong-black-1013-001096-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_gathered_satin_strap_lace_thong-1013-001096-0002_02.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_gathered_satin_strap_lace_thong-1013-001096-0002_03.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/gathered-satin-strap-lace-thong-black-1013-001096-0002",
-        "id": "1-1013-001096-0002-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Kanten panty met halfhoge taille",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/mid_waist_lace_panty-1013-001297-000223695.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/mid_waist_lace_panty-1013-001297-000223730-copy.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/mid_waist_lace_panty-1013-001297-000223720.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/mid_waist_lace_panty-1013-001297-000223743.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/mid_waist_lace_panty_1013-001297-0002_1_flatlay.jpg?width=640"
-        ],
-        "prijs": 6.96,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001297-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/mid_waist_lace_panty-1013-001297-000223695.jpg?ref=4DEC18CDA8",
-                "url": "https://www.na-kd.com/nl/zoek-producten/mid-waist-lace-panty-zwart-1013-001297-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/mid_waist_lace_panty-1013-001297-000223695.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/mid_waist_lace_panty_1013-001297-0002_1_flatlay.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/mid-waist-lace-panty-zwart-1013-001297-0002",
-        "id": "1-1013-001297-0002-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Mesh slip",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_seashell_mesh_brazilian_1013-001076-8369_04c.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_seashell_mesh_brazilian_1013-001076-8369_03d.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_seashell_mesh_brazilian_1013-001076-8369_01i.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_seashell_mesh_brazilian_1013-001076-8369_02h.jpg?width=640"
-        ],
-        "prijs": 5.97,
-        "kleur": "High Sky",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001076-8369",
-                "naam": "Lichtblauw",
-                "hex": "#ACBBBF",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_seashell_mesh_brazilian_1013-001076-8369_04c.jpg?ref=F7BDBA3EC0",
-                "url": "https://www.na-kd.com/nl/zoek-producten/mesh-slip-blauw-1013-001076-8369"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_seashell_mesh_brazilian_1013-001076-8369_04c.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_seashell_mesh_brazilian_1013-001076-8369_02h.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/mesh-slip-blauw-1013-001076-8369",
-        "id": "1-1013-001076-8369-004",
         "kleurHex": null
     }
 ]
