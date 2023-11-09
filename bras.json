@@ -45,6 +45,28 @@
     },
     {
         "prijs": 5.98,
+        "id": "1-1013-001086-0002",
+        "kleur": "Black",
+        "naam": "Kanten triangel-BH",
+        "url": "https://www.na-kd.com/nl/zoek-producten/kanten-triangel-bh-zwart-1013-001086-0002",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001086-0002",
+                "naam": "Black",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_striped_eyeash_lace_triangle_top_1013-001086-00021.jpg",
+                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-triangel-bh-zwart-1013-001086-0002"
+            }
+        ],
+        "imageUrls": [
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_striped_eyeash_lace_triangle_top_1013-001086-00021.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_striped_eyeash_lace_triangle_top_1013-001086-00021.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_striped_eyeash_lace_triangle_top_1013-001086-00021.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_striped_eyeash_lace_triangle_top_1013-001086-00021.jpg"
+    },
+    {
+        "prijs": 5.98,
         "id": "1-1013-001139-1130",
         "kleur": "Light Green",
         "naam": "Binding Detail Mesh Bra",
@@ -86,28 +108,6 @@
         ],
         "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_binding_detail_mesh_bra_1013-001139-0002_0255.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_binding_detail_mesh_bra_1013-001139-0002_0255.jpg"
-    },
-    {
-        "prijs": 4.97,
-        "id": "1-1013-000937-0001",
-        "kleur": "White",
-        "naam": "Organic Pointelle Babylock Top",
-        "url": "https://www.na-kd.com/nl/zoek-producten/organic-pointelle-babylock-top-wit",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-000937-0001",
-                "naam": "White",
-                "hex": "#000000",
-                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_organic_pointelle_babylock_top_1013-000937-0001_06g.jpg",
-                "url": "https://www.na-kd.com/nl/zoek-producten/organic-pointelle-babylock-top-wit"
-            }
-        ],
-        "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_organic_pointelle_babylock_top_1013-000937-0001_06g.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_organic_pointelle_babylock_top_1013-000937-0001_06g.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_organic_pointelle_babylock_top_1013-000937-0001_06g.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_organic_pointelle_babylock_top_1013-000937-0001_06g.jpg"
     },
     {
         "prijs": 4.97,
@@ -154,28 +154,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_striped_micro_bra_1013-001046-1096_05g.jpg"
     },
     {
-        "prijs": 4.97,
-        "id": "1-1013-000818-0138",
-        "kleur": "Grey Melange",
-        "naam": "Geribd Katoenen Top",
-        "url": "https://www.na-kd.com/nl/zoek-producten/geribd-katoenen-top-grijs",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-000818-0138",
-                "naam": "Grey Melange",
-                "hex": "#000000",
-                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0138_01a_r.jpg",
-                "url": "https://www.na-kd.com/nl/zoek-producten/geribd-katoenen-top-grijs"
-            }
-        ],
-        "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0138_01a_r.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0138_01a_r.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0138_01a_r.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_ribbed_cotton_top_1013-000818-0138_01a_r.jpg"
-    },
-    {
         "prijs": 7.47,
         "id": "1-1013-000914-5482",
         "kleur": "Light flower",
@@ -218,28 +196,6 @@
         ],
         "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_lace_edge_soft_micro_top_1013-001044-0719_01g.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_lace_edge_soft_micro_top_1013-001044-0719_01g.jpg"
-    },
-    {
-        "prijs": 7.47,
-        "id": "1-1013-000906-9530",
-        "kleur": "Burned Apricot",
-        "naam": "Strakke micro top met kant",
-        "url": "https://www.na-kd.com/nl/zoek-producten/clean-micro-lace-top-burned-apricot-1013-000906-9530",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-000906-9530",
-                "naam": "Burned Apricot",
-                "hex": "#000000",
-                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_clean_micro_top_1013-000906-9530_03a.jpg",
-                "url": "https://www.na-kd.com/nl/zoek-producten/clean-micro-lace-top-burned-apricot-1013-000906-9530"
-            }
-        ],
-        "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_clean_micro_top_1013-000906-9530_03a.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_clean_micro_top_1013-000906-9530_03a.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_clean_micro_top_1013-000906-9530_03a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_clean_micro_top_1013-000906-9530_03a.jpg"
     },
     {
         "prijs": 7.47,
@@ -484,28 +440,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_ribbed_triangle_wide_top-1013-000833-0002_01a.jpg"
     },
     {
-        "prijs": 7.48,
-        "id": "1-1013-000996-5310",
-        "kleur": "Jade",
-        "naam": "Gerecyclede gevoerde bh met kant",
-        "url": "https://www.na-kd.com/nl/zoek-producten/recycled-lace-padded-cup-bra-jade-1013-000996-5310",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-000996-5310",
-                "naam": "Jade",
-                "hex": "#000000",
-                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_lace_padded_cup_bra-1013-000996-53101.jpg",
-                "url": "https://www.na-kd.com/nl/zoek-producten/recycled-lace-padded-cup-bra-jade-1013-000996-5310"
-            }
-        ],
-        "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_lace_padded_cup_bra-1013-000996-53101.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_lace_padded_cup_bra-1013-000996-53101.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_lace_padded_cup_bra-1013-000996-53101.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_lace_padded_cup_bra-1013-000996-53101.jpg"
-    },
-    {
         "prijs": 7.47,
         "id": "1-1013-000925-0002",
         "kleur": "Black",
@@ -661,6 +595,28 @@
     },
     {
         "prijs": 7.47,
+        "id": "1-1013-001055-0001",
+        "kleur": "White",
+        "naam": "Mesh BH met een veter",
+        "url": "https://www.na-kd.com/nl/zoek-producten/recycled-lace-detail-mesh-bra-white-1013-001055-0001",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001055-0001",
+                "naam": "White",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_lace_detail_mesh_bra_1013-001055-0001_01c.jpg",
+                "url": "https://www.na-kd.com/nl/zoek-producten/recycled-lace-detail-mesh-bra-white-1013-001055-0001"
+            }
+        ],
+        "imageUrls": [
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_lace_detail_mesh_bra_1013-001055-0001_01c.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_lace_detail_mesh_bra_1013-001055-0001_01c.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_lace_detail_mesh_bra_1013-001055-0001_01c.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_lace_detail_mesh_bra_1013-001055-0001_01c.jpg"
+    },
+    {
+        "prijs": 7.47,
         "id": "1-1013-000916-0324",
         "kleur": "Dusty Green",
         "naam": "Geplooide bh met ruchebandjes",
@@ -702,28 +658,6 @@
         ],
         "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_shoulder_tie_wide_lace_top-1013-001128-0002_100.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_shoulder_tie_wide_lace_top-1013-001128-0002_100.jpg"
-    },
-    {
-        "prijs": 7.47,
-        "id": "1-1013-001055-0001",
-        "kleur": "White",
-        "naam": "Mesh BH met een veter",
-        "url": "https://www.na-kd.com/nl/zoek-producten/recycled-lace-detail-mesh-bra-white-1013-001055-0001",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001055-0001",
-                "naam": "White",
-                "hex": "#000000",
-                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_lace_detail_mesh_bra_1013-001055-0001_01c.jpg",
-                "url": "https://www.na-kd.com/nl/zoek-producten/recycled-lace-detail-mesh-bra-white-1013-001055-0001"
-            }
-        ],
-        "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_lace_detail_mesh_bra_1013-001055-0001_01c.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_lace_detail_mesh_bra_1013-001055-0001_01c.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_lace_detail_mesh_bra_1013-001055-0001_01c.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_lace_detail_mesh_bra_1013-001055-0001_01c.jpg"
     },
     {
         "prijs": 7.47,
@@ -790,5 +724,71 @@
         ],
         "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_seam_detail_patched_cotton_top_1013-000948-0138_01g.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_seam_detail_patched_cotton_top_1013-000948-0138_01g.jpg"
+    },
+    {
+        "prijs": 7.47,
+        "id": "1-1013-001068-0140",
+        "kleur": "Light Beige",
+        "naam": "Gekreukte triangel top",
+        "url": "https://www.na-kd.com/nl/zoek-producten/gekreukte-triangel-top-beige-1013-001068-0140",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001068-0140",
+                "naam": "Light Beige",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_crinkle_triangle_top_1013-001068-0140_02c.jpg",
+                "url": "https://www.na-kd.com/nl/zoek-producten/gekreukte-triangel-top-beige-1013-001068-0140"
+            }
+        ],
+        "imageUrls": [
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_crinkle_triangle_top_1013-001068-0140_02c.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_crinkle_triangle_top_1013-001068-0140_02c.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_crinkle_triangle_top_1013-001068-0140_02c.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_crinkle_triangle_top_1013-001068-0140_02c.jpg"
+    },
+    {
+        "prijs": 7.47,
+        "id": "1-1013-001066-0073",
+        "kleur": "Rose",
+        "naam": "Gekreukte bh met ruches",
+        "url": "https://www.na-kd.com/nl/zoek-producten/gekreukte-bh-met-ruches-roze-1013-001066-0073",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001066-0073",
+                "naam": "Rose",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_crinkle_ruffle_bra_1013-001066-0073_03c.jpg",
+                "url": "https://www.na-kd.com/nl/zoek-producten/gekreukte-bh-met-ruches-roze-1013-001066-0073"
+            }
+        ],
+        "imageUrls": [
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_crinkle_ruffle_bra_1013-001066-0073_03c.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_crinkle_ruffle_bra_1013-001066-0073_03c.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_crinkle_ruffle_bra_1013-001066-0073_03c.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_crinkle_ruffle_bra_1013-001066-0073_03c.jpg"
+    },
+    {
+        "prijs": 7.47,
+        "id": "1-1013-001068-0002",
+        "kleur": "Black",
+        "naam": "Gekreukte triangel top",
+        "url": "https://www.na-kd.com/nl/zoek-producten/gekreukte-triangel-top-zwart-1013-001068-0002",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001068-0002",
+                "naam": "Black",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_crinkle_triangle_top_1013-001068-0002_01a.jpg",
+                "url": "https://www.na-kd.com/nl/zoek-producten/gekreukte-triangel-top-zwart-1013-001068-0002"
+            }
+        ],
+        "imageUrls": [
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_crinkle_triangle_top_1013-001068-0002_01a.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_crinkle_triangle_top_1013-001068-0002_01a.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_crinkle_triangle_top_1013-001068-0002_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_crinkle_triangle_top_1013-001068-0002_01a.jpg"
     }
 ]
