@@ -497,45 +497,6 @@
     {
         "naam": "Mesh string met een veter",
         "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_lace_detail_mesh_thong_1013-001056-0545_01c.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_lace_detail_mesh_thong_1013-001056-0545_02d.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_lace_detail_mesh_thong_1013-001056-0545_03h.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_lace_detail_mesh_thong_1013-001056-0545_04i.jpg?width=640"
-        ],
-        "prijs": 5.97,
-        "kleur": "Midnight Blue",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001056-0545",
-                "naam": "Blauw",
-                "hex": "#554A58",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_lace_detail_mesh_thong_1013-001056-0545_01c.jpg?ref=9C0BB00F9A",
-                "url": "https://www.na-kd.com/nl/zoek-producten/recycled-lace-detail-mesh-thong-midnight-blue-1013-001056-0545"
-            },
-            {
-                "id": "1-1013-001056-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_lace_detail_mesh_thong_1013-001056-0002_01h.jpg?ref=B6F654F74A",
-                "url": "https://www.na-kd.com/nl/zoek-producten/recycled-lace-detail-mesh-thong-black-1013-001056-0002"
-            },
-            {
-                "id": "1-1013-001056-0001",
-                "naam": "Wit",
-                "hex": "#FFFFFF",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_lace_detail_mesh_thong_1013-001056-0001_01c.jpg?ref=A5D555EA73",
-                "url": "https://www.na-kd.com/nl/zoek-producten/recycled-lace-detail-mesh-thong-white-1013-001056-0001"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_lace_detail_mesh_thong_1013-001056-0545_01c.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_recycled_lace_detail_mesh_thong_1013-001056-0545_04i.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/recycled-lace-detail-mesh-thong-midnight-blue-1013-001056-0545",
-        "id": "1-1013-001056-0545-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Mesh string met een veter",
-        "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_recycled_lace_detail_mesh_thong_1013-001056-0001_01c.jpg?width=640",
             "https://www.na-kd.com/resize/globalassets/nakd_recycled_lace_detail_mesh_thong_1013-001056-0001_02d.jpg?width=640",
             "https://www.na-kd.com/resize/globalassets/nakd_recycled_lace_detail_mesh_thong_1013-001056-0001_03h.jpg?width=640",
@@ -570,6 +531,45 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_recycled_lace_detail_mesh_thong_1013-001056-0001_04i.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/recycled-lace-detail-mesh-thong-white-1013-001056-0001",
         "id": "1-1013-001056-0001-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Mesh string met een veter",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_recycled_lace_detail_mesh_thong_1013-001056-0545_01c.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_recycled_lace_detail_mesh_thong_1013-001056-0545_02d.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_recycled_lace_detail_mesh_thong_1013-001056-0545_03h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_recycled_lace_detail_mesh_thong_1013-001056-0545_04i.jpg?width=640"
+        ],
+        "prijs": 5.97,
+        "kleur": "Midnight Blue",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001056-0545",
+                "naam": "Blauw",
+                "hex": "#554A58",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_lace_detail_mesh_thong_1013-001056-0545_01c.jpg?ref=9C0BB00F9A",
+                "url": "https://www.na-kd.com/nl/zoek-producten/recycled-lace-detail-mesh-thong-midnight-blue-1013-001056-0545"
+            },
+            {
+                "id": "1-1013-001056-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_lace_detail_mesh_thong_1013-001056-0002_01h.jpg?ref=B6F654F74A",
+                "url": "https://www.na-kd.com/nl/zoek-producten/recycled-lace-detail-mesh-thong-black-1013-001056-0002"
+            },
+            {
+                "id": "1-1013-001056-0001",
+                "naam": "Wit",
+                "hex": "#FFFFFF",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_lace_detail_mesh_thong_1013-001056-0001_01c.jpg?ref=A5D555EA73",
+                "url": "https://www.na-kd.com/nl/zoek-producten/recycled-lace-detail-mesh-thong-white-1013-001056-0001"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_lace_detail_mesh_thong_1013-001056-0545_01c.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_recycled_lace_detail_mesh_thong_1013-001056-0545_04i.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/recycled-lace-detail-mesh-thong-midnight-blue-1013-001056-0545",
+        "id": "1-1013-001056-0545-004",
         "kleurHex": null
     },
     {
@@ -862,31 +862,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0002_05g.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/cute-high-cut-lace-thong-black-1013-001042-0002",
         "id": "1-1013-001042-0002-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "V-String",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0005_01j-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0005_02i-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0005_02h-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0005_04k-1.jpg?width=640"
-        ],
-        "prijs": 4.97,
-        "kleur": "Beige",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-000782-0005",
-                "naam": "Geel",
-                "hex": "#D8C7A9",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0005_01j-1.jpg?ref=4AF2E16EA6",
-                "url": "https://www.na-kd.com/nl/zoek-producten/v-string-geel"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0005_01j-1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_ribbed_vstring_1013-000782-0005_04k-1.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/v-string-geel",
-        "id": "1-1013-000782-0005-004",
         "kleurHex": null
     },
     {
@@ -1218,6 +1193,38 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/hunkemoller_x_nakd_elle_highleg_string_1724-000063-0565_01j-1.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/gerecycleerd-elle-hooguitgesneden-string-zwart-1724-000063-0565",
         "id": "1-1724-000063-0565-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Brazilian slip",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_waist_lace_brazillian_1013-001108-0002_2.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_waist_lace_brazillian_1013-001108-0002_1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_waist_lace_brazillian_1013-001108-0002_3.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_waist_lace_brazillian_1013-001108-0002_4.jpg?width=640"
+        ],
+        "prijs": 4.97,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001108-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_waist_lace_brazillian_1013-001108-0002_2.jpg?ref=B72D78E7EB",
+                "url": "https://www.na-kd.com/nl/zoek-producten/brazilian-slip-black-1013-001108-0002"
+            },
+            {
+                "id": "1-1013-001108-0176",
+                "naam": "Roze",
+                "hex": "#915746",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_waist_lace_brazilian-1013-001108-017630850.jpg?ref=5F3E54DD85",
+                "url": "https://www.na-kd.com/nl/zoek-producten/brazilian-slip-dusty-dark-pink-1013-001108-0176"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_waist_lace_brazillian_1013-001108-0002_2.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_waist_lace_brazillian_1013-001108-0002_4.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/brazilian-slip-black-1013-001108-0002",
+        "id": "1-1013-001108-0002-004",
         "kleurHex": null
     }
 ]
