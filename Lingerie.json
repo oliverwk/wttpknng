@@ -50,6 +50,31 @@
         "kleurHex": null
     },
     {
+        "naam": "Kanten string",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/lace_detail_cotton_thong_1013-001166-13395742.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/lace_detail_cotton_thong_1013-001166-13395786.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/lace_detail_cotton_thong_1013-001166-13395781.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/lace_detail_cotton_thong_1013-001166-1339_09.jpg?width=640"
+        ],
+        "prijs": 2.98,
+        "kleur": "Baby Blue",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001166-1339",
+                "naam": "Lichtblauw",
+                "hex": "#B7CDC8",
+                "img_url": "https://www.na-kd.com/resize/globalassets/lace_detail_cotton_thong_1013-001166-13395742.jpg?ref=54C7AF66F0",
+                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-string-blauw-1013-001166-1339"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/lace_detail_cotton_thong_1013-001166-13395742.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/lace_detail_cotton_thong_1013-001166-1339_09.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/kanten-string-blauw-1013-001166-1339",
+        "id": "1-1013-001166-1339-004",
+        "kleurHex": null
+    },
+    {
         "naam": "Kant brazilian slip",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/mid_waist_lace_brazilian-1013-001074-0015_2884.jpg?width=640",
@@ -82,31 +107,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/mid_waist_lace_brazilian_1013-001074-0015_flatlay.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/kant-brazilian-slip-pink-1013-001074-0015",
         "id": "1-1013-001074-0015-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Mesh tanga met dunne geschulpte bandjes",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_thin_strap_scallop_mesh_thong_1013-000962-0002_04c.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_thin_strap_scallop_mesh_thong_1013-000962-0002_01d.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_thin_strap_scallop_mesh_thong_1013-000962-0002_02h.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_thin_strap_scallop_mesh_thong_1013-000962-0002_03i.jpg?width=640"
-        ],
-        "prijs": 4.97,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-000962-0002",
-                "naam": "Zwart",
-                "hex": "#000000",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_thin_strap_scallop_mesh_thong_1013-000962-0002_04c.jpg?ref=AE64A20DA9",
-                "url": "https://www.na-kd.com/nl/zoek-producten/mesh-tanga-met-dunne-geschulpte-bandjes-zwart-1013-000962-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_thin_strap_scallop_mesh_thong_1013-000962-0002_04c.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_thin_strap_scallop_mesh_thong_1013-000962-0002_03i.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/mesh-tanga-met-dunne-geschulpte-bandjes-zwart-1013-000962-0002",
-        "id": "1-1013-000962-0002-004",
         "kleurHex": null
     },
     {
@@ -222,6 +222,31 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_high_rise_striped_micro_brief_1013-001047-1096_04i.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/gestreepte-micro-slip-met-hoge-taille-gebroken-wit-1013-001047-1096",
         "id": "1-1013-001047-1096-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Mesh tanga met dunne geschulpte bandjes",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_thin_strap_scallop_mesh_thong_1013-000962-0002_04c.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_thin_strap_scallop_mesh_thong_1013-000962-0002_01d.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_thin_strap_scallop_mesh_thong_1013-000962-0002_02h.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_thin_strap_scallop_mesh_thong_1013-000962-0002_03i.jpg?width=640"
+        ],
+        "prijs": 4.97,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000962-0002",
+                "naam": "Zwart",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_thin_strap_scallop_mesh_thong_1013-000962-0002_04c.jpg?ref=AE64A20DA9",
+                "url": "https://www.na-kd.com/nl/zoek-producten/mesh-tanga-met-dunne-geschulpte-bandjes-zwart-1013-000962-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_thin_strap_scallop_mesh_thong_1013-000962-0002_04c.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_thin_strap_scallop_mesh_thong_1013-000962-0002_03i.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/mesh-tanga-met-dunne-geschulpte-bandjes-zwart-1013-000962-0002",
+        "id": "1-1013-000962-0002-004",
         "kleurHex": null
     },
     {
@@ -453,38 +478,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Kant brazilian slip",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_mid_waist_lace_brazilian_1013-001074-0002_01j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_mid_waist_lace_brazilian_1013-001074-0002_02b.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_mid_waist_lace_brazilian_1013-001074-0002_04i.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_mid_waist_lace_brazilian_1013-001074-0002_03h.jpg?width=640"
-        ],
-        "prijs": 5.97,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001074-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mid_waist_lace_brazilian_1013-001074-0002_01j.jpg?ref=733766B83E",
-                "url": "https://www.na-kd.com/nl/zoek-producten/mid-waist-lace-brazilian-black-1013-001074-0002"
-            },
-            {
-                "id": "1-1013-001074-0015",
-                "naam": "Roze",
-                "hex": "#E5619D",
-                "img_url": "https://www.na-kd.com/resize/globalassets/mid_waist_lace_brazilian-1013-001074-0015_2884.jpg?ref=84745F6FB0",
-                "url": "https://www.na-kd.com/nl/zoek-producten/kant-brazilian-slip-pink-1013-001074-0015"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mid_waist_lace_brazilian_1013-001074-0002_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_mid_waist_lace_brazilian_1013-001074-0002_03h.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/mid-waist-lace-brazilian-black-1013-001074-0002",
-        "id": "1-1013-001074-0002-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Mesh string met een veter",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_recycled_lace_detail_mesh_thong_1013-001056-0002_01h.jpg?width=640",
@@ -546,6 +539,38 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_recycled_lace_detail_mesh_thong_1013-001056-0001_04i.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/recycled-lace-detail-mesh-thong-white-1013-001056-0001",
         "id": "1-1013-001056-0001-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Kant brazilian slip",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_mid_waist_lace_brazilian_1013-001074-0002_01j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_mid_waist_lace_brazilian_1013-001074-0002_02b.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_mid_waist_lace_brazilian_1013-001074-0002_04i.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_mid_waist_lace_brazilian_1013-001074-0002_03h.jpg?width=640"
+        ],
+        "prijs": 5.97,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001074-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mid_waist_lace_brazilian_1013-001074-0002_01j.jpg?ref=733766B83E",
+                "url": "https://www.na-kd.com/nl/zoek-producten/mid-waist-lace-brazilian-black-1013-001074-0002"
+            },
+            {
+                "id": "1-1013-001074-0015",
+                "naam": "Roze",
+                "hex": "#E5619D",
+                "img_url": "https://www.na-kd.com/resize/globalassets/mid_waist_lace_brazilian-1013-001074-0015_2884.jpg?ref=84745F6FB0",
+                "url": "https://www.na-kd.com/nl/zoek-producten/kant-brazilian-slip-pink-1013-001074-0015"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mid_waist_lace_brazilian_1013-001074-0002_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_mid_waist_lace_brazilian_1013-001074-0002_03h.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/mid-waist-lace-brazilian-black-1013-001074-0002",
+        "id": "1-1013-001074-0002-004",
         "kleurHex": null
     },
     {
@@ -617,31 +642,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_cute_high_cut_lace_thong_1013-001042-0261_04i.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/hooguitgesneden-string-met-kant-orange-1013-001042-0261",
         "id": "1-1013-001042-0261-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Panty met kleine stipjes",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_panties-1730-000054-0024_1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_panties-1730-000054-0024_2.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_panties-1730-000054-0024_3.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_panties-1730-000054-0024_4.jpg?width=640"
-        ],
-        "prijs": 4.97,
-        "kleur": "Yellow",
-        "kleurFamilies": [
-            {
-                "id": "1-1730-000054-0024",
-                "naam": "Geel",
-                "hex": "#F0CA74",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_panties-1730-000054-0024_1.jpg?ref=5432397BA9",
-                "url": "https://www.na-kd.com/nl/zoek-producten/swiss-dot-panties-yellow-1730-000054-0024"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_panties-1730-000054-0024_1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_panties-1730-000054-0024_4.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/swiss-dot-panties-yellow-1730-000054-0024",
-        "id": "1-1730-000054-0024-004",
         "kleurHex": null
     },
     {
@@ -805,6 +805,31 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_strap_detailed_high_waist_ribbed_thong-1013-000836-0002_05a.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/string-zwart-21",
         "id": "1-1013-000836-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Panty met kleine stipjes",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_panties-1730-000054-0024_1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_panties-1730-000054-0024_2.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_panties-1730-000054-0024_3.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_panties-1730-000054-0024_4.jpg?width=640"
+        ],
+        "prijs": 4.97,
+        "kleur": "Yellow",
+        "kleurFamilies": [
+            {
+                "id": "1-1730-000054-0024",
+                "naam": "Geel",
+                "hex": "#F0CA74",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_panties-1730-000054-0024_1.jpg?ref=5432397BA9",
+                "url": "https://www.na-kd.com/nl/zoek-producten/swiss-dot-panties-yellow-1730-000054-0024"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_panties-1730-000054-0024_1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_panties-1730-000054-0024_4.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/swiss-dot-panties-yellow-1730-000054-0024",
+        "id": "1-1730-000054-0024-004",
         "kleurHex": null
     },
     {
@@ -1139,31 +1164,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_gathered_satin_strap_lace_thong-1013-001096-0002_03.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/gathered-satin-strap-lace-thong-black-1013-001096-0002",
         "id": "1-1013-001096-0002-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Geborduurde panty",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/embroidered_mesh_thong-1687-000098-00104035.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/embroidered_mesh_thong-1687-000098-00104051.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/embroidered_mesh_thong-1687-000098-00104044.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/embroidered_mesh_thong-1687-000098-00104064.jpg?width=640"
-        ],
-        "prijs": 6.46,
-        "kleur": "Green",
-        "kleurFamilies": [
-            {
-                "id": "1-1687-000098-0010",
-                "naam": "Groen",
-                "hex": "#27A853",
-                "img_url": "https://www.na-kd.com/resize/globalassets/embroidered_mesh_thong-1687-000098-00104035.jpg?ref=A7D2C889AD",
-                "url": "https://www.na-kd.com/nl/zoek-producten/embroidered-mesh-thong-green-1687-000098-0010"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/embroidered_mesh_thong-1687-000098-00104035.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/embroidered_mesh_thong-1687-000098-00104064.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/embroidered-mesh-thong-green-1687-000098-0010",
-        "id": "1-1687-000098-0010-004",
         "kleurHex": null
     }
 ]
