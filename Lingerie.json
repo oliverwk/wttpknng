@@ -1,30 +1,5 @@
 [
     {
-        "naam": "Gerecyclede slip met hoge taille en meshdetail",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_high_waist_mesh_detail_brief_1013-001140-1130_0297.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_high_waist_mesh_detail_brief_1013-001140-1130_0313.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_high_waist_mesh_detail_brief_1013-001140-1130_0306.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_high_waist_mesh_detail_brief_1013-001140-1130_0323.jpg?width=640"
-        ],
-        "prijs": 2.98,
-        "kleur": "Light Green",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001140-1130",
-                "naam": "Groen",
-                "hex": "#828B37",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_waist_mesh_detail_brief_1013-001140-1130_0297.jpg?ref=6630263B93",
-                "url": "https://www.na-kd.com/nl/zoek-producten/high-waist-mesh-detail-brief-light-green-1013-001140-1130"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_waist_mesh_detail_brief_1013-001140-1130_0297.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_high_waist_mesh_detail_brief_1013-001140-1130_0323.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/high-waist-mesh-detail-brief-light-green-1013-001140-1130",
-        "id": "1-1013-001140-1130-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Hoog uitgesneden katoenen slip",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/high_rise_cotton_brief_1013-000902-0024_04.jpg?width=640",
@@ -72,6 +47,38 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/front_cotton_lace_braziliian_1013-001171-00025676.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/brazilian-slip-zwart-1013-001171-0002",
         "id": "1-1013-001171-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Veelkleurige panty met kant",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_multicolour_lace_panties-1730-000050-0015_4.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_multicolour_lace_panties-1730-000050-0015_3.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_multicolour_lace_panties-1730-000050-0015_2.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_multicolour_lace_panties-1730-000050-0015_1.jpg?width=640"
+        ],
+        "prijs": 2.98,
+        "kleur": "Pink",
+        "kleurFamilies": [
+            {
+                "id": "1-1730-000050-0015",
+                "naam": "Roze",
+                "hex": "#EFA8BA",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_multicolour_lace_panties-1730-000050-0015_4.jpg?ref=40560B3548",
+                "url": "https://www.na-kd.com/nl/zoek-producten/multicolour-lace-panties-pink-1730-000050-0015"
+            },
+            {
+                "id": "1-1730-000050-0003",
+                "naam": "Blauw",
+                "hex": "#A6C5D2",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_multicolour_lace_panties-1730-000050-0003_1.jpg?ref=ED428EEF7A",
+                "url": "https://www.na-kd.com/nl/zoek-producten/multicolour-lace-panties-blue-1730-000050-0003"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_multicolour_lace_panties-1730-000050-0015_4.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_multicolour_lace_panties-1730-000050-0015_1.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/multicolour-lace-panties-pink-1730-000050-0015",
+        "id": "1-1730-000050-0015-004",
         "kleurHex": null
     },
     {
@@ -293,12 +300,69 @@
                 "hex": "#0C1214",
                 "img_url": "https://www.na-kd.com/resize/globalassets/all_lace_hipster-1013-001263-0002_3060.jpg?ref=E986BE5357",
                 "url": "https://www.na-kd.com/nl/zoek-producten/all-lace-hipster-black-1013-001263-0002"
+            },
+            {
+                "id": "1-1013-001263-0015",
+                "naam": "Roze",
+                "hex": "#E5619D",
+                "img_url": "https://www.na-kd.com/resize/globalassets/all_lace_hipster-1013-001263-0015_3540.jpg?ref=E5C2D196AD",
+                "url": "https://www.na-kd.com/nl/zoek-producten/all-lace-hipster-pink-1013-001263-0015"
             }
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/all_lace_hipster-1013-001263-0002_3060.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_all_lace_hipster-1013-001263-0002_0285_flatlay.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/all-lace-hipster-black-1013-001263-0002",
         "id": "1-1013-001263-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Satijnen tange met hoge taille",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_satin_front_highwaist_v-cut_thong-1013-001054-0002_01c.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_satin_front_highwaist_v-cut_thong-1013-001054-0002_04d.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_satin_front_highwaist_v-cut_thong-1013-001054-0002_02i.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_satin_front_highwaist_v-cut_thong-1013-001054-0002_01h-2.jpg?width=640"
+        ],
+        "prijs": 3.98,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001054-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_satin_front_highwaist_v-cut_thong-1013-001054-0002_01c.jpg?ref=3BDAF827A5",
+                "url": "https://www.na-kd.com/nl/zoek-producten/satijnen-tange-met-hoge-taille-zwart-1013-001054-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_satin_front_highwaist_v-cut_thong-1013-001054-0002_01c.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_satin_front_highwaist_v-cut_thong-1013-001054-0002_01h-2.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/satijnen-tange-met-hoge-taille-zwart-1013-001054-0002",
+        "id": "1-1013-001054-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Flowy brazilian slip met kantdetail",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/detail_flowy_lace_brazilian_panty_1013-001198-1192_1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/detail_flowy_lace_brazilian_panty_1013-001198-1192_4.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/detail_flowy_lace_brazilian_panty_1013-001198-1192_3.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/detail_flowy_lace_brazilian_panty_1013-001198-1192_2.jpg?width=640"
+        ],
+        "prijs": 3.98,
+        "kleur": "Strong Pink",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001198-1192",
+                "naam": "Roze",
+                "hex": "#AF365C",
+                "img_url": "https://www.na-kd.com/resize/globalassets/detail_flowy_lace_brazilian_panty_1013-001198-1192_1.jpg?ref=E65FB855AC",
+                "url": "https://www.na-kd.com/nl/zoek-producten/detail-flowy-lace-brazilian-panty-strong-pink-1013-001198-1192"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/detail_flowy_lace_brazilian_panty_1013-001198-1192_1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/detail_flowy_lace_brazilian_panty_1013-001198-1192_2.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/detail-flowy-lace-brazilian-panty-strong-pink-1013-001198-1192",
+        "id": "1-1013-001198-1192-004",
         "kleurHex": null
     },
     {
@@ -324,6 +388,39 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/lace_thong_1013-001211-0002_4.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/lace-thong-black-1013-001211-0002",
         "id": "1-1013-001211-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Hipster van kant",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/all_lace_hipster-1013-001263-0015_3540.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/all_lace_hipster-1013-001263-0015_3565.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/all_lace_hipster-1013-001263-0015_3561.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/all_lace_hipster-1013-001263-0015_3574.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_all_lace_hipster-1013-001263-0015_0273_flatlay.jpg?width=640"
+        ],
+        "prijs": 3.98,
+        "kleur": "Pink",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001263-0015",
+                "naam": "Roze",
+                "hex": "#E5619D",
+                "img_url": "https://www.na-kd.com/resize/globalassets/all_lace_hipster-1013-001263-0015_3540.jpg?ref=E5C2D196AD",
+                "url": "https://www.na-kd.com/nl/zoek-producten/all-lace-hipster-pink-1013-001263-0015"
+            },
+            {
+                "id": "1-1013-001263-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/all_lace_hipster-1013-001263-0002_3060.jpg?ref=E986BE5357",
+                "url": "https://www.na-kd.com/nl/zoek-producten/all-lace-hipster-black-1013-001263-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/all_lace_hipster-1013-001263-0015_3540.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_all_lace_hipster-1013-001263-0015_0273_flatlay.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/all-lace-hipster-pink-1013-001263-0015",
+        "id": "1-1013-001263-0015-004",
         "kleurHex": null
     },
     {
@@ -618,6 +715,31 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_panties-1730-000054-0024_4.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/swiss-dot-panties-yellow-1730-000054-0024",
         "id": "1-1730-000054-0024-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Kanten string",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_string_1736-000042-5313_90864-copy.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_string_1736-000042-5313_908644.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_string_1736-000042-5313_908643.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_string_1736-000042-5313_908642.jpg?width=640"
+        ],
+        "prijs": 4.97,
+        "kleur": "Deep Blue",
+        "kleurFamilies": [
+            {
+                "id": "1-1736-000042-5313",
+                "naam": "Blauw",
+                "hex": "#7A8493",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_string_1736-000042-5313_90864-copy.jpg?ref=4970C09C6B",
+                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-string-blauw-1736-000042-5313"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_string_1736-000042-5313_90864-copy.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_string_1736-000042-5313_908642.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/kanten-string-blauw-1736-000042-5313",
+        "id": "1-1736-000042-5313-004",
         "kleurHex": null
     },
     {
@@ -977,169 +1099,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_side_striped_micro_thong_1013-001113-0002_1.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/lace-side-striped-micro-thong-black-1013-001113-0002",
         "id": "1-1013-001113-0002-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Gekreukte halfhoge slip",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_crinkle_mid_rise_brief_1013-001067-0140_01g.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_crinkle_mid_rise_brief_1013-001067-0140_03h.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_crinkle_mid_rise_brief_1013-001067-0140_02d.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_crinkle_mid_rise_brief_1013-001067-0140_04i.jpg?width=640"
-        ],
-        "prijs": 4.97,
-        "kleur": "Light Beige",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001067-0140",
-                "naam": "Beige",
-                "hex": "#D4C0A4",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_crinkle_mid_rise_brief_1013-001067-0140_01g.jpg?ref=11D6AB85BA",
-                "url": "https://www.na-kd.com/nl/zoek-producten/crinkle-mid-rise-brief-light-beige-1013-001067-0140"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_crinkle_mid_rise_brief_1013-001067-0140_01g.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_crinkle_mid_rise_brief_1013-001067-0140_04i.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/crinkle-mid-rise-brief-light-beige-1013-001067-0140",
-        "id": "1-1013-001067-0140-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Mesh slip met geschulpte rand en hoge uitsnijding",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_scallop_edge_mesh_brief_1013-000960-3043_01c.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_scallop_edge_mesh_brief_1013-000960-3043_04d.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_scallop_edge_mesh_brief_1013-000960-3043_03h.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_scallop_edge_mesh_brief_1013-000960-3043_02i.jpg?width=640"
-        ],
-        "prijs": 4.97,
-        "kleur": "Old Rose",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-000960-3043",
-                "naam": "Roze",
-                "hex": "#BA8F89",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_scallop_edge_mesh_brief_1013-000960-3043_01c.jpg?ref=225846541C",
-                "url": "https://www.na-kd.com/nl/zoek-producten/mesh-slip-met-geschulpte-rand-en-hoge-uitsnijding-old-rose-1013-000960-3043"
-            },
-            {
-                "id": "1-1013-000960-0142",
-                "naam": "Veelkleurig",
-                "hex": "#FFFFFF",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_scallop_edge_mesh_brief_1013-000960-0142_04a.jpg?ref=37F19B741E",
-                "url": "https://www.na-kd.com/nl/zoek-producten/mesh-slip-met-geschulpte-rand-en-hoge-uitsnijding-zebra-1013-000960-0142"
-            },
-            {
-                "id": "1-1013-000960-6029",
-                "naam": "Luipaard",
-                "hex": "#653930",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_scallop_edge_mesh_brief-1013-000960-6029_01g.jpg?ref=AD7D9AFD3F",
-                "url": "https://www.na-kd.com/nl/zoek-producten/mesh-slip-met-geschulpte-rand-en-hoge-uitsnijding-chestnut-leopard-1013-000960-6029"
-            },
-            {
-                "id": "1-1013-000960-0002",
-                "naam": "Zwart",
-                "hex": "#000000",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_scallop_edge_mesh_brief_1013-000960-0002_01g.jpg?ref=2C830C7DDE",
-                "url": "https://www.na-kd.com/nl/zoek-producten/mesh-slip-met-geschulpte-rand-en-hoge-uitsnijding-black-1013-000960-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_scallop_edge_mesh_brief_1013-000960-3043_01c.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_scallop_edge_mesh_brief_1013-000960-3043_02i.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/mesh-slip-met-geschulpte-rand-en-hoge-uitsnijding-old-rose-1013-000960-3043",
-        "id": "1-1013-000960-3043-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Mesh slip met geschulpte rand en hoge uitsnijding",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_scallop_edge_mesh_brief_1013-000960-0002_01g.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_scallop_edge_mesh_brief_1013-000960-0002_04d.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_scallop_edge_mesh_brief_1013-000960-0002_03h.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_scallop_edge_mesh_brief_1013-000960-0002_02i.jpg?width=640"
-        ],
-        "prijs": 4.97,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-000960-0002",
-                "naam": "Zwart",
-                "hex": "#000000",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_scallop_edge_mesh_brief_1013-000960-0002_01g.jpg?ref=2C830C7DDE",
-                "url": "https://www.na-kd.com/nl/zoek-producten/mesh-slip-met-geschulpte-rand-en-hoge-uitsnijding-black-1013-000960-0002"
-            },
-            {
-                "id": "1-1013-000960-0142",
-                "naam": "Veelkleurig",
-                "hex": "#FFFFFF",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_scallop_edge_mesh_brief_1013-000960-0142_04a.jpg?ref=37F19B741E",
-                "url": "https://www.na-kd.com/nl/zoek-producten/mesh-slip-met-geschulpte-rand-en-hoge-uitsnijding-zebra-1013-000960-0142"
-            },
-            {
-                "id": "1-1013-000960-3043",
-                "naam": "Roze",
-                "hex": "#BA8F89",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_scallop_edge_mesh_brief_1013-000960-3043_01c.jpg?ref=225846541C",
-                "url": "https://www.na-kd.com/nl/zoek-producten/mesh-slip-met-geschulpte-rand-en-hoge-uitsnijding-old-rose-1013-000960-3043"
-            },
-            {
-                "id": "1-1013-000960-6029",
-                "naam": "Luipaard",
-                "hex": "#653930",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_scallop_edge_mesh_brief-1013-000960-6029_01g.jpg?ref=AD7D9AFD3F",
-                "url": "https://www.na-kd.com/nl/zoek-producten/mesh-slip-met-geschulpte-rand-en-hoge-uitsnijding-chestnut-leopard-1013-000960-6029"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_scallop_edge_mesh_brief_1013-000960-0002_01g.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_scallop_edge_mesh_brief_1013-000960-0002_02i.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/mesh-slip-met-geschulpte-rand-en-hoge-uitsnijding-black-1013-000960-0002",
-        "id": "1-1013-000960-0002-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Mesh slip met geschulpte rand en hoge uitsnijding",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_scallop_edge_mesh_brief_1013-000960-0142_04a.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_scallop_edge_mesh_brief_1013-000960-0142_01b.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_scallop_edge_mesh_brief_1013-000960-0142_02h.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_scallop_edge_mesh_brief_1013-000960-0142_03i.jpg?width=640"
-        ],
-        "prijs": 4.97,
-        "kleur": "Zebra",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-000960-0142",
-                "naam": "Veelkleurig",
-                "hex": "#FFFFFF",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_scallop_edge_mesh_brief_1013-000960-0142_04a.jpg?ref=37F19B741E",
-                "url": "https://www.na-kd.com/nl/zoek-producten/mesh-slip-met-geschulpte-rand-en-hoge-uitsnijding-zebra-1013-000960-0142"
-            },
-            {
-                "id": "1-1013-000960-3043",
-                "naam": "Roze",
-                "hex": "#BA8F89",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_scallop_edge_mesh_brief_1013-000960-3043_01c.jpg?ref=225846541C",
-                "url": "https://www.na-kd.com/nl/zoek-producten/mesh-slip-met-geschulpte-rand-en-hoge-uitsnijding-old-rose-1013-000960-3043"
-            },
-            {
-                "id": "1-1013-000960-6029",
-                "naam": "Luipaard",
-                "hex": "#653930",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_scallop_edge_mesh_brief-1013-000960-6029_01g.jpg?ref=AD7D9AFD3F",
-                "url": "https://www.na-kd.com/nl/zoek-producten/mesh-slip-met-geschulpte-rand-en-hoge-uitsnijding-chestnut-leopard-1013-000960-6029"
-            },
-            {
-                "id": "1-1013-000960-0002",
-                "naam": "Zwart",
-                "hex": "#000000",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_scallop_edge_mesh_brief_1013-000960-0002_01g.jpg?ref=2C830C7DDE",
-                "url": "https://www.na-kd.com/nl/zoek-producten/mesh-slip-met-geschulpte-rand-en-hoge-uitsnijding-black-1013-000960-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_scallop_edge_mesh_brief_1013-000960-0142_04a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_scallop_edge_mesh_brief_1013-000960-0142_03i.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/mesh-slip-met-geschulpte-rand-en-hoge-uitsnijding-zebra-1013-000960-0142",
-        "id": "1-1013-000960-0142-004",
         "kleurHex": null
     }
 ]
