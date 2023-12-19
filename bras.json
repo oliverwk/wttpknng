@@ -331,28 +331,6 @@
     },
     {
         "prijs": 5.98,
-        "id": "1-1013-001262-0002",
-        "kleur": "Black",
-        "naam": "Beugelbh van kant",
-        "url": "https://www.na-kd.com/nl/zoek-producten/all-lace-wire-bra-black-1013-001262-0002",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001262-0002",
-                "naam": "Black",
-                "hex": "#000000",
-                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_all_lace_wire_bra-1013-001262-0002_0283_flatlay.jpg",
-                "url": "https://www.na-kd.com/nl/zoek-producten/all-lace-wire-bra-black-1013-001262-0002"
-            }
-        ],
-        "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_all_lace_wire_bra-1013-001262-0002_0283_flatlay.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_all_lace_wire_bra-1013-001262-0002_0283_flatlay.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_all_lace_wire_bra-1013-001262-0002_0283_flatlay.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_all_lace_wire_bra-1013-001262-0002_0283_flatlay.jpg"
-    },
-    {
-        "prijs": 5.98,
         "id": "1-1013-001055-0545",
         "kleur": "Midnight Blue",
         "naam": "Mesh BH met een veter",
@@ -790,5 +768,27 @@
         ],
         "img_url": "https://www.na-kd.com/resize/resize/globalassets/detail_flowy_lace_balconette_bra_1013-001196-1192_1-1.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/detail_flowy_lace_balconette_bra_1013-001196-1192_1-1.jpg"
+    },
+    {
+        "prijs": 5.98,
+        "id": "1-1013-001191-1084",
+        "kleur": "Soft Red",
+        "naam": "Flowy balconette bh met kantdetail",
+        "url": "https://www.na-kd.com/nl/zoek-producten/flowy-balconette-bh-met-kantdetail-rood-1013-001191-1084",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001191-1084",
+                "naam": "Soft Red",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_detail_flowy_lace_balconeete_bra_1013-001191-1084_22568.jpg",
+                "url": "https://www.na-kd.com/nl/zoek-producten/flowy-balconette-bh-met-kantdetail-rood-1013-001191-1084"
+            }
+        ],
+        "imageUrls": [
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_detail_flowy_lace_balconeete_bra_1013-001191-1084_22568.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_detail_flowy_lace_balconeete_bra_1013-001191-1084_22568.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_detail_flowy_lace_balconeete_bra_1013-001191-1084_22568.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_detail_flowy_lace_balconeete_bra_1013-001191-1084_22568.jpg"
     }
 ]
