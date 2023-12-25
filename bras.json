@@ -595,28 +595,6 @@
     },
     {
         "prijs": 5.98,
-        "id": "1-1013-001262-0015",
-        "kleur": "Pink",
-        "naam": "Beugelbh van kant",
-        "url": "https://www.na-kd.com/nl/zoek-producten/all-lace-wire-bra-pink-1013-001262-0015",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001262-0015",
-                "naam": "Pink",
-                "hex": "#000000",
-                "img_url": "https://www.na-kd.com/resize/resize/globalassets/all_lacewire_bra-1013-001262-0015_3558.jpg",
-                "url": "https://www.na-kd.com/nl/zoek-producten/all-lace-wire-bra-pink-1013-001262-0015"
-            }
-        ],
-        "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/all_lacewire_bra-1013-001262-0015_3558.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/all_lacewire_bra-1013-001262-0015_3558.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/all_lacewire_bra-1013-001262-0015_3558.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/all_lacewire_bra-1013-001262-0015_3558.jpg"
-    },
-    {
-        "prijs": 5.98,
         "id": "1-1013-001055-0545",
         "kleur": "Midnight Blue",
         "naam": "Mesh BH met een veter",
@@ -790,5 +768,27 @@
         ],
         "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_plain_printed_mesh_bra_1013-000171-0689-34.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_plain_printed_mesh_bra_1013-000171-0689-34.jpg"
+    },
+    {
+        "prijs": 7.47,
+        "id": "1-1013-001073-0015",
+        "kleur": "Pink",
+        "naam": "Triangeltop",
+        "url": "https://www.na-kd.com/nl/zoek-producten/triangeltop-pink-1013-001073-0015",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001073-0015",
+                "naam": "Pink",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/resize/globalassets/wide_lace_triangle_top-1013-001073-0015_2910.jpg",
+                "url": "https://www.na-kd.com/nl/zoek-producten/triangeltop-pink-1013-001073-0015"
+            }
+        ],
+        "imageUrls": [
+            "https://www.na-kd.com/resize/resize/globalassets/wide_lace_triangle_top-1013-001073-0015_2910.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/wide_lace_triangle_top-1013-001073-0015_2910.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/wide_lace_triangle_top-1013-001073-0015_2910.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/wide_lace_triangle_top-1013-001073-0015_2910.jpg"
     }
 ]
