@@ -161,32 +161,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Hooguitgesneden katoenen tanga met kantdetail",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_lace_etail_cotton_thng_1013-000931-0001_01a.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_lace_etail_cotton_thng_1013-000931-0001_04b.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_lace_etail_cotton_thng_1013-000931-0001_02i.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_lace_etail_cotton_thng_1013-000931-0001_03h.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_lace_etail_cotton_thng_1013-000931-0001_05a.jpg?width=640"
-        ],
-        "prijs": 3.98,
-        "kleur": "White",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-000931-0001",
-                "naam": "Wit",
-                "hex": "#FFFFFF",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_lace_etail_cotton_thng_1013-000931-0001_01a.jpg?ref=EF86AB5322",
-                "url": "https://www.na-kd.com/nl/zoek-producten/hooguitgesneden-katoenen-tanga-met-kantdetail-wit-1013-000931-0001"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_lace_etail_cotton_thng_1013-000931-0001_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_lace_etail_cotton_thng_1013-000931-0001_05a.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/hooguitgesneden-katoenen-tanga-met-kantdetail-wit-1013-000931-0001",
-        "id": "1-1013-000931-0001-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Gestreepte micro slip met hoge taille",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_high_rise_striped_micro_brief_1013-001047-6391_01j.jpg?width=640",
@@ -1145,6 +1119,38 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_striped_eyelash_lace_adjustble_thong_1013-001085-8369-11558.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/striped-eyelash-lace-adjustable-thong-high-sky-1013-001085-8369",
         "id": "1-1013-001085-8369-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Kanten string met verstelbare bandjes",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/adjustable_strap_lace_thong-1013-001209-00020592.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/adjustable_strap_lace_thong-1013-001209-00020627.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/adjustable_strap_lace_thong-1013-001209-00020604.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/adjustable_strap_lace_thong-1013-001209-00020619.jpg?width=640"
+        ],
+        "prijs": 5.98,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001209-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/adjustable_strap_lace_thong-1013-001209-00020592.jpg?ref=B65CBFEC7D",
+                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-string-met-verstelbare-bandjes-zwart-1013-001209-0002"
+            },
+            {
+                "id": "1-1013-001209-0418",
+                "naam": "Brick Red",
+                "hex": "#7C3033",
+                "img_url": "https://www.na-kd.com/resize/globalassets/adjustable_strap_lace_thong-1013-001209-04180654.jpg?ref=978EAB3CC7",
+                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-string-met-verstelbare-bandjes-rood-1013-001209-0418"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/adjustable_strap_lace_thong-1013-001209-00020592.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/adjustable_strap_lace_thong-1013-001209-00020619.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/kanten-string-met-verstelbare-bandjes-zwart-1013-001209-0002",
+        "id": "1-1013-001209-0002-004",
         "kleurHex": null
     }
 ]
