@@ -529,28 +529,6 @@
     },
     {
         "prijs": 5.98,
-        "id": "1-1013-001055-0002",
-        "kleur": "Black",
-        "naam": "Mesh BH met een veter",
-        "url": "https://www.na-kd.com/nl/zoek-producten/recycled-lace-detail-mesh-bra-black-1013-001055-0002",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001055-0002",
-                "naam": "Black",
-                "hex": "#000000",
-                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_lace_detail_mesh_bra_1013-001055-0002_01c.jpg",
-                "url": "https://www.na-kd.com/nl/zoek-producten/recycled-lace-detail-mesh-bra-black-1013-001055-0002"
-            }
-        ],
-        "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_lace_detail_mesh_bra_1013-001055-0002_01c.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_lace_detail_mesh_bra_1013-001055-0002_01c.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_lace_detail_mesh_bra_1013-001055-0002_01c.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_lace_detail_mesh_bra_1013-001055-0002_01c.jpg"
-    },
-    {
-        "prijs": 5.98,
         "id": "1-1013-001066-0073",
         "kleur": "Rose",
         "naam": "Gekreukte bh met ruches",
@@ -790,5 +768,27 @@
         ],
         "img_url": "https://www.na-kd.com/resize/resize/globalassets/detail_flowy_lace_balconette_bra_1013-001196-1192_1-1.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/detail_flowy_lace_balconette_bra_1013-001196-1192_1-1.jpg"
+    },
+    {
+        "prijs": 5.98,
+        "id": "1-1013-001266-0002",
+        "kleur": "Black",
+        "naam": "Gedetailleerde kanten bh met cut-out",
+        "url": "https://www.na-kd.com/nl/zoek-producten/cut-out-detailed-lace-bra-black-1013-001266-0002",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001266-0002",
+                "naam": "Black",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_cut_out_detailed_lace_bra-1013-001266-0002_0590_flatlay.jpg",
+                "url": "https://www.na-kd.com/nl/zoek-producten/cut-out-detailed-lace-bra-black-1013-001266-0002"
+            }
+        ],
+        "imageUrls": [
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_cut_out_detailed_lace_bra-1013-001266-0002_0590_flatlay.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_cut_out_detailed_lace_bra-1013-001266-0002_0590_flatlay.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_cut_out_detailed_lace_bra-1013-001266-0002_0590_flatlay.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_cut_out_detailed_lace_bra-1013-001266-0002_0590_flatlay.jpg"
     }
 ]
