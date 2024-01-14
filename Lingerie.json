@@ -39,31 +39,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Kanten string",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_string_1736-000042-0001_91393.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_string_1736-000042-0001_91348.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_string_1736-000042-0001_91347.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_string_1736-000042-0001_91374.jpg?width=640"
-        ],
-        "prijs": 2.98,
-        "kleur": "White",
-        "kleurFamilies": [
-            {
-                "id": "1-1736-000042-0001",
-                "naam": "Wit",
-                "hex": "#FFFFFF",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_string_1736-000042-0001_91393.jpg?ref=4B3EDA1D29",
-                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-string-wit-1736-000042-0001"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_string_1736-000042-0001_91393.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_string_1736-000042-0001_91374.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/kanten-string-wit-1736-000042-0001",
-        "id": "1-1736-000042-0001-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Brazilian slip",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/front_cotton_lace_braziliian_1013-001171-00025649.jpg?width=640",
@@ -1124,6 +1099,39 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_all_lace_hipster-1013-001263-0002_0285_flatlay.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/all-lace-hipster-black-1013-001263-0002",
         "id": "1-1013-001263-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Kanten string",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/lace_thong_1100-007986-5689_21811.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/lace_thong_1100-007986-5689__21850.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/lace_thong_1100-007986-5689_689_21821.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/lace_thong_1100-007986-5689__21880.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/lace_thong_1100-007986-5689_flatlay.jpg?width=640"
+        ],
+        "prijs": 9.95,
+        "kleur": "Dusty Purple",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-007986-5689",
+                "naam": "Mauve",
+                "hex": "#76424B",
+                "img_url": "https://www.na-kd.com/resize/globalassets/lace_thong_1100-007986-5689_21811.jpg?ref=0AE0AE9F47",
+                "url": "https://www.na-kd.com/nl/zoek-producten/lace-thong-dusty-purple-1100-007986-5689"
+            },
+            {
+                "id": "1-1100-007986-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/lace_thong-1100-007986-000221598.jpg?ref=78C1F118B0",
+                "url": "https://www.na-kd.com/nl/zoek-producten/lace-thong-black-1100-007986-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/lace_thong_1100-007986-5689_21811.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/lace_thong_1100-007986-5689_flatlay.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/lace-thong-dusty-purple-1100-007986-5689",
+        "id": "1-1100-007986-5689-004",
         "kleurHex": null
     }
 ]
