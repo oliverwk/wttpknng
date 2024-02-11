@@ -45,6 +45,28 @@
     },
     {
         "prijs": 5.98,
+        "id": "1-1013-001104-0176",
+        "kleur": "Dusty Dark Pink",
+        "naam": "Kanten top",
+        "url": "https://www.na-kd.com/nl/zoek-producten/kanten-top-roze-1013-001104-0176",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001104-0176",
+                "naam": "Dusty Dark Pink",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_wide_lace_top-1013-001104-0176_100.jpg",
+                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-top-roze-1013-001104-0176"
+            }
+        ],
+        "imageUrls": [
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_wide_lace_top-1013-001104-0176_100.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_wide_lace_top-1013-001104-0176_100.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_wide_lace_top-1013-001104-0176_100.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_recycled_wide_lace_top-1013-001104-0176_100.jpg"
+    },
+    {
+        "prijs": 5.98,
         "id": "1-1013-000901-0010",
         "kleur": "Green",
         "naam": "Katoenen triangel bralette",
@@ -218,28 +240,6 @@
         ],
         "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_wrap_around_satin_tie_top_1013-001098-0005_01.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_wrap_around_satin_tie_top_1013-001098-0005_01.jpg"
-    },
-    {
-        "prijs": 5.98,
-        "id": "1-1013-001112-0002",
-        "kleur": "Black",
-        "naam": "Gestreepte micro bh met cups en kant",
-        "url": "https://www.na-kd.com/nl/zoek-producten/lace-cup-striped-micro-bra-black-1013-001112-0002",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001112-0002",
-                "naam": "Black",
-                "hex": "#000000",
-                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_lace_cup_striped_micro_bra_1013-001112-0002_1.jpg",
-                "url": "https://www.na-kd.com/nl/zoek-producten/lace-cup-striped-micro-bra-black-1013-001112-0002"
-            }
-        ],
-        "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_lace_cup_striped_micro_bra_1013-001112-0002_1.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_lace_cup_striped_micro_bra_1013-001112-0002_1.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_lace_cup_striped_micro_bra_1013-001112-0002_1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_lace_cup_striped_micro_bra_1013-001112-0002_1.jpg"
     },
     {
         "prijs": 5.98,
@@ -462,28 +462,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/gathered_cup_satin_bra_1013-001091-00011594.jpg"
     },
     {
-        "prijs": 7.98,
-        "id": "1-1724-000085-0183",
-        "kleur": "Vapor Blue",
-        "naam": "Gerecycleerde ovia jersey bralette",
-        "url": "https://www.na-kd.com/nl/zoek-producten/ovia-jersey-bralette-vapor-blue-1724-000085-0183",
-        "kleurFamilies": [
-            {
-                "id": "1-1724-000085-0183",
-                "naam": "Vapor Blue",
-                "hex": "#000000",
-                "img_url": "https://www.na-kd.com/resize/resize/globalassets/hunkemoller_ovia_jersey_bralette_1724-000085-0183_01j.jpg",
-                "url": "https://www.na-kd.com/nl/zoek-producten/ovia-jersey-bralette-vapor-blue-1724-000085-0183"
-            }
-        ],
-        "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/hunkemoller_ovia_jersey_bralette_1724-000085-0183_01j.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/hunkemoller_ovia_jersey_bralette_1724-000085-0183_01j.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/hunkemoller_ovia_jersey_bralette_1724-000085-0183_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/hunkemoller_ovia_jersey_bralette_1724-000085-0183_01j.jpg"
-    },
-    {
         "prijs": 7.47,
         "id": "1-1736-000045-6368",
         "kleur": "Rouge",
@@ -526,6 +504,28 @@
         ],
         "img_url": "https://www.na-kd.com/resize/resize/globalassets/strap_detailed_bra-1687-000101-00024196_.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/strap_detailed_bra-1687-000101-00024196_.jpg"
+    },
+    {
+        "prijs": 9.98,
+        "id": "1-1013-001223-0002",
+        "kleur": "Black",
+        "naam": "Glitter-BH",
+        "url": "https://www.na-kd.com/nl/zoek-producten/glitter-bra-black-1013-001223-0002",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001223-0002",
+                "naam": "Black",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_1013-001223-0002_social.jpg",
+                "url": "https://www.na-kd.com/nl/zoek-producten/glitter-bra-black-1013-001223-0002"
+            }
+        ],
+        "imageUrls": [
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_1013-001223-0002_social.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_1013-001223-0002_social.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_1013-001223-0002_social.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_1013-001223-0002_social.jpg"
     },
     {
         "prijs": 9.98,
