@@ -507,28 +507,6 @@
     },
     {
         "prijs": 9.98,
-        "id": "1-1013-001223-0002",
-        "kleur": "Black",
-        "naam": "Glitter-BH",
-        "url": "https://www.na-kd.com/nl/zoek-producten/glitter-bra-black-1013-001223-0002",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001223-0002",
-                "naam": "Black",
-                "hex": "#000000",
-                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_1013-001223-0002_social.jpg",
-                "url": "https://www.na-kd.com/nl/zoek-producten/glitter-bra-black-1013-001223-0002"
-            }
-        ],
-        "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_1013-001223-0002_social.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_1013-001223-0002_social.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_1013-001223-0002_social.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_1013-001223-0002_social.jpg"
-    },
-    {
-        "prijs": 9.98,
         "id": "1-1013-001093-1147",
         "kleur": "Cappuccino",
         "naam": "Gedraaide satijnen bh met dunne bandjes",
@@ -790,5 +768,27 @@
         ],
         "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_wide_lace_triangle_top_1013-001073-0002_01a.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_wide_lace_triangle_top_1013-001073-0002_01a.jpg"
+    },
+    {
+        "prijs": 17.46,
+        "id": "1-1013-001180-0002",
+        "kleur": "Black",
+        "naam": "Beha met brede bandjes en kanten cup",
+        "url": "https://www.na-kd.com/nl/zoek-producten/wide-strap-lace-cup-bra-black-1013-001180-0002",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001180-0002",
+                "naam": "Black",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/resize/globalassets/wide_strap_lace_cup_bra_1013-001180-0002_6896.jpg",
+                "url": "https://www.na-kd.com/nl/zoek-producten/wide-strap-lace-cup-bra-black-1013-001180-0002"
+            }
+        ],
+        "imageUrls": [
+            "https://www.na-kd.com/resize/resize/globalassets/wide_strap_lace_cup_bra_1013-001180-0002_6896.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/wide_strap_lace_cup_bra_1013-001180-0002_6896.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/wide_strap_lace_cup_bra_1013-001180-0002_6896.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/wide_strap_lace_cup_bra_1013-001180-0002_6896.jpg"
     }
 ]
