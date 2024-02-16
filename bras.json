@@ -440,6 +440,28 @@
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/gathered_cup_satin_bra_1013-001091-00011594.jpg"
     },
     {
+        "prijs": 5.58,
+        "id": "1-1724-000085-0183",
+        "kleur": "Vapor Blue",
+        "naam": "Gerecycleerde ovia jersey bralette",
+        "url": "https://www.na-kd.com/nl/zoek-producten/ovia-jersey-bralette-vapor-blue-1724-000085-0183",
+        "kleurFamilies": [
+            {
+                "id": "1-1724-000085-0183",
+                "naam": "Vapor Blue",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/resize/globalassets/hunkemoller_ovia_jersey_bralette_1724-000085-0183_01j.jpg",
+                "url": "https://www.na-kd.com/nl/zoek-producten/ovia-jersey-bralette-vapor-blue-1724-000085-0183"
+            }
+        ],
+        "imageUrls": [
+            "https://www.na-kd.com/resize/resize/globalassets/hunkemoller_ovia_jersey_bralette_1724-000085-0183_01j.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/hunkemoller_ovia_jersey_bralette_1724-000085-0183_01j.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/hunkemoller_ovia_jersey_bralette_1724-000085-0183_01j.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/hunkemoller_ovia_jersey_bralette_1724-000085-0183_01j.jpg"
+    },
+    {
         "prijs": 5.23,
         "id": "1-1736-000045-6368",
         "kleur": "Rouge",
@@ -768,27 +790,5 @@
         ],
         "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_twisted_thin_strap_satin_bra_1013-001093-0368-0131.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_twisted_thin_strap_satin_bra_1013-001093-0368-0131.jpg"
-    },
-    {
-        "prijs": 10.46,
-        "id": "1-1013-001073-0002",
-        "kleur": "Black",
-        "naam": "Triangeltop",
-        "url": "https://www.na-kd.com/nl/zoek-producten/wide-lace-triangle-top-black-1013-001073-0002",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001073-0002",
-                "naam": "Black",
-                "hex": "#000000",
-                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_wide_lace_triangle_top_1013-001073-0002_01a.jpg",
-                "url": "https://www.na-kd.com/nl/zoek-producten/wide-lace-triangle-top-black-1013-001073-0002"
-            }
-        ],
-        "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_wide_lace_triangle_top_1013-001073-0002_01a.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_wide_lace_triangle_top_1013-001073-0002_01a.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_wide_lace_triangle_top_1013-001073-0002_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_wide_lace_triangle_top_1013-001073-0002_01a.jpg"
     }
 ]
