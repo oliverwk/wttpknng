@@ -834,6 +834,39 @@
         "kleurHex": null
     },
     {
+        "naam": "Slipje met bloemenkant",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/flower_lace_brief-1013-001314-025641878-copy.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/flower_lace_brief-1013-001314-025641908.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/flower_lace_brief-1013-001314-025641894.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/flower_lace_brief-1013-001314-025641871.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/flower_lace_briefs_1013-001314-0256_1-copy-2.jpg?width=640"
+        ],
+        "prijs": 6.96,
+        "kleur": "Coral",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001314-0256",
+                "naam": "Roze",
+                "hex": "#D45D63",
+                "img_url": "https://www.na-kd.com/resize/globalassets/flower_lace_brief-1013-001314-025641878-copy.jpg?ref=03367CDF69",
+                "url": "https://www.na-kd.com/nl/zoek-producten/flower-lace-briefs-coral-1013-001314-0256"
+            },
+            {
+                "id": "1-1013-001314-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/flower_lace_briefs-1013-001314-000241998.jpg?ref=6773AE8D7F",
+                "url": "https://www.na-kd.com/nl/zoek-producten/flower-lace-briefs-black-1013-001314-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/flower_lace_brief-1013-001314-025641878-copy.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/flower_lace_briefs_1013-001314-0256_1-copy-2.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/flower-lace-briefs-coral-1013-001314-0256",
+        "id": "1-1013-001314-0256-004",
+        "kleurHex": null
+    },
+    {
         "naam": "Kanten hipster",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/lace_hipster-1100-007703-0002_20929.jpg?width=640",
@@ -871,39 +904,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/lace_hipster_1100-007703-00020025_flatlayf.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/lace-hipster-black-1100-007703-0002",
         "id": "1-1100-007703-0002-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Slipje met bloemenkant",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/flower_lace_brief-1013-001314-025641878-copy.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/flower_lace_brief-1013-001314-025641908.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/flower_lace_brief-1013-001314-025641894.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/flower_lace_brief-1013-001314-025641871.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/flower_lace_briefs_1013-001314-0256_1-copy-2.jpg?width=640"
-        ],
-        "prijs": 6.96,
-        "kleur": "Coral",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001314-0256",
-                "naam": "Roze",
-                "hex": "#D45D63",
-                "img_url": "https://www.na-kd.com/resize/globalassets/flower_lace_brief-1013-001314-025641878-copy.jpg?ref=03367CDF69",
-                "url": "https://www.na-kd.com/nl/zoek-producten/flower-lace-briefs-coral-1013-001314-0256"
-            },
-            {
-                "id": "1-1013-001314-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/flower_lace_briefs-1013-001314-000241998.jpg?ref=6773AE8D7F",
-                "url": "https://www.na-kd.com/nl/zoek-producten/flower-lace-briefs-black-1013-001314-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/flower_lace_brief-1013-001314-025641878-copy.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/flower_lace_briefs_1013-001314-0256_1-copy-2.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/flower-lace-briefs-coral-1013-001314-0256",
-        "id": "1-1013-001314-0256-004",
         "kleurHex": null
     },
     {
@@ -1025,6 +1025,33 @@
         "kleurHex": null
     },
     {
+        "naam": "Hoog uitgesneden kanten slipje",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties-1013-001304-0010_1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties-1013-001304-0010_5.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties-1013-001304-0010_4.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties-1013-001304-0010_3.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties-1013-001304-0010_2.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties-1013-001304-0010_1_flatlay.jpg?width=640"
+        ],
+        "prijs": 6.96,
+        "kleur": "Green",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001304-0010",
+                "naam": "Groen",
+                "hex": "#90B86F",
+                "img_url": "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties-1013-001304-0010_1.jpg?ref=AD11671962",
+                "url": "https://www.na-kd.com/nl/zoek-producten/high-cut-lace-panties-green-1013-001304-0010"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties-1013-001304-0010_1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties-1013-001304-0010_1_flatlay.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/high-cut-lace-panties-green-1013-001304-0010",
+        "id": "1-1013-001304-0010-004",
+        "kleurHex": null
+    },
+    {
         "naam": "Slipje met bloemenkant",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/flower_lace_briefs-1013-001314-000241998.jpg?width=640",
@@ -1058,70 +1085,36 @@
         "kleurHex": null
     },
     {
-        "naam": "Hoog uitgesneden kanten slipje",
+        "naam": "V-vormig kanten slipje",
         "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties-1013-001304-0010_1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties-1013-001304-0010_5.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties-1013-001304-0010_4.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties-1013-001304-0010_3.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties-1013-001304-0010_2.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties-1013-001304-0010_1_flatlay.jpg?width=640"
-        ],
-        "prijs": 6.96,
-        "kleur": "Green",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001304-0010",
-                "naam": "Groen",
-                "hex": "#90B86F",
-                "img_url": "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties-1013-001304-0010_1.jpg?ref=AD11671962",
-                "url": "https://www.na-kd.com/nl/zoek-producten/high-cut-lace-panties-green-1013-001304-0010"
-            },
-            {
-                "id": "1-1013-001304-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties_1013-001304-0002_5.jpg?ref=A424178776",
-                "url": "https://www.na-kd.com/nl/zoek-producten/high-cut-lace-panties-black-1013-001304-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties-1013-001304-0010_1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties-1013-001304-0010_1_flatlay.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/high-cut-lace-panties-green-1013-001304-0010",
-        "id": "1-1013-001304-0010-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Hoog uitgesneden kanten slipje",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties_1013-001304-0002_5.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties_1013-001304-0002_4.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties_1013-001304-0002_2.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties_1013-001304-0002_3.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties_1013-001304-0002_2_flatlay-1.jpg?width=640"
+            "https://www.na-kd.com/resize/globalassets/v-shape_lace_panty_1013-001306-0002_01.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/v-shape_lace_panty_1013-001306-0002_02.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/v-shape_lace_panty_1013-001306-0002_03.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/v-shape_lace_panty_1013-001306-0002_04.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/v-shape_lace_panty_1013-001306-0002_01_flatlay-1.jpg?width=640"
         ],
         "prijs": 6.96,
         "kleur": "Black",
         "kleurFamilies": [
             {
-                "id": "1-1013-001304-0002",
+                "id": "1-1013-001306-0002",
                 "naam": "Zwart",
                 "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties_1013-001304-0002_5.jpg?ref=A424178776",
-                "url": "https://www.na-kd.com/nl/zoek-producten/high-cut-lace-panties-black-1013-001304-0002"
+                "img_url": "https://www.na-kd.com/resize/globalassets/v-shape_lace_panty_1013-001306-0002_01.jpg?ref=10E66E0E56",
+                "url": "https://www.na-kd.com/nl/zoek-producten/v-shape-lace-panty-black-1013-001306-0002"
             },
             {
-                "id": "1-1013-001304-0010",
+                "id": "1-1013-001306-0010",
                 "naam": "Groen",
-                "hex": "#90B86F",
-                "img_url": "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties-1013-001304-0010_1.jpg?ref=AD11671962",
-                "url": "https://www.na-kd.com/nl/zoek-producten/high-cut-lace-panties-green-1013-001304-0010"
+                "hex": "#ABCD8B",
+                "img_url": "https://www.na-kd.com/resize/globalassets/v-shape_lace_panty-1013-001306-0010_1.jpg?ref=C512F4BD79",
+                "url": "https://www.na-kd.com/nl/zoek-producten/v-shape-lace-panty-green-1013-001306-0010"
             }
         ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties_1013-001304-0002_5.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties_1013-001304-0002_2_flatlay-1.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/high-cut-lace-panties-black-1013-001304-0002",
-        "id": "1-1013-001304-0002-004",
+        "img_url": "https://www.na-kd.com/resize/globalassets/v-shape_lace_panty_1013-001306-0002_01.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/v-shape_lace_panty_1013-001306-0002_01_flatlay-1.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/v-shape-lace-panty-black-1013-001306-0002",
+        "id": "1-1013-001306-0002-004",
         "kleurHex": null
     }
 ]
