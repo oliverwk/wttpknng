@@ -396,28 +396,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_twisted_thin_strap_satin_bra_1013-001093-114746592.jpg"
     },
     {
-        "prijs": 6.98,
-        "id": "1-1013-000282-0002",
-        "kleur": "Black",
-        "naam": "Zacht kanten bh",
-        "url": "https://www.na-kd.com/nl/zoek-producten/soft-lace-bra-zwart",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-000282-0002",
-                "naam": "Black",
-                "hex": "#000000",
-                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_soft_lace_bra-1013-000282-00023614.jpg",
-                "url": "https://www.na-kd.com/nl/zoek-producten/soft-lace-bra-zwart"
-            }
-        ],
-        "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_soft_lace_bra-1013-000282-00023614.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_soft_lace_bra-1013-000282-00023614.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_soft_lace_bra-1013-000282-00023614.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_soft_lace_bra-1013-000282-00023614.jpg"
-    },
-    {
         "prijs": 8.37,
         "id": "1-1013-001303-0002",
         "kleur": "Black",
@@ -661,50 +639,6 @@
     },
     {
         "prijs": 8.73,
-        "id": "1-1013-001222-0002",
-        "kleur": "Black",
-        "naam": "Hoogglanzende bh",
-        "url": "https://www.na-kd.com/nl/zoek-producten/hoogglanzende-bh-zwart-1013-001222-0002",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001222-0002",
-                "naam": "Black",
-                "hex": "#000000",
-                "img_url": "https://www.na-kd.com/resize/resize/globalassets/high_shine_bra_1013-001222-0002_01.jpg",
-                "url": "https://www.na-kd.com/nl/zoek-producten/hoogglanzende-bh-zwart-1013-001222-0002"
-            }
-        ],
-        "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/high_shine_bra_1013-001222-0002_01.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/high_shine_bra_1013-001222-0002_01.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/high_shine_bra_1013-001222-0002_01.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/high_shine_bra_1013-001222-0002_01.jpg"
-    },
-    {
-        "prijs": 8.73,
-        "id": "1-1013-001180-0719",
-        "kleur": "Pearl",
-        "naam": "Beha met brede bandjes en kanten cup",
-        "url": "https://www.na-kd.com/nl/zoek-producten/wide-strap-lace-cup-bra-pearl-1013-001180-0719",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001180-0719",
-                "naam": "Pearl",
-                "hex": "#000000",
-                "img_url": "https://www.na-kd.com/resize/resize/globalassets/wide_strap_lace_cup_bra_1013-001180-0719_03.jpg",
-                "url": "https://www.na-kd.com/nl/zoek-producten/wide-strap-lace-cup-bra-pearl-1013-001180-0719"
-            }
-        ],
-        "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/wide_strap_lace_cup_bra_1013-001180-0719_03.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/wide_strap_lace_cup_bra_1013-001180-0719_03.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/wide_strap_lace_cup_bra_1013-001180-0719_03.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/wide_strap_lace_cup_bra_1013-001180-0719_03.jpg"
-    },
-    {
-        "prijs": 8.73,
         "id": "1-1013-001323-0002",
         "kleur": "Black",
         "naam": "Satin Lace Edge Bra",
@@ -746,6 +680,50 @@
         ],
         "img_url": "https://www.na-kd.com/resize/resize/globalassets/lace_cup_micro_bra_1013-001249-0405_1011.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/lace_cup_micro_bra_1013-001249-0405_1011.jpg"
+    },
+    {
+        "prijs": 8.73,
+        "id": "1-1013-001222-0002",
+        "kleur": "Black",
+        "naam": "Hoogglanzende bh",
+        "url": "https://www.na-kd.com/nl/zoek-producten/hoogglanzende-bh-zwart-1013-001222-0002",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001222-0002",
+                "naam": "Black",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/resize/globalassets/high_shine_bra_1013-001222-0002_01.jpg",
+                "url": "https://www.na-kd.com/nl/zoek-producten/hoogglanzende-bh-zwart-1013-001222-0002"
+            }
+        ],
+        "imageUrls": [
+            "https://www.na-kd.com/resize/resize/globalassets/high_shine_bra_1013-001222-0002_01.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/high_shine_bra_1013-001222-0002_01.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/high_shine_bra_1013-001222-0002_01.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/high_shine_bra_1013-001222-0002_01.jpg"
+    },
+    {
+        "prijs": 8.73,
+        "id": "1-1013-001180-0719",
+        "kleur": "Pearl",
+        "naam": "Beha met brede bandjes en kanten cup",
+        "url": "https://www.na-kd.com/nl/zoek-producten/wide-strap-lace-cup-bra-pearl-1013-001180-0719",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001180-0719",
+                "naam": "Pearl",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/resize/globalassets/wide_strap_lace_cup_bra_1013-001180-0719_03.jpg",
+                "url": "https://www.na-kd.com/nl/zoek-producten/wide-strap-lace-cup-bra-pearl-1013-001180-0719"
+            }
+        ],
+        "imageUrls": [
+            "https://www.na-kd.com/resize/resize/globalassets/wide_strap_lace_cup_bra_1013-001180-0719_03.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/wide_strap_lace_cup_bra_1013-001180-0719_03.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/wide_strap_lace_cup_bra_1013-001180-0719_03.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/wide_strap_lace_cup_bra_1013-001180-0719_03.jpg"
     },
     {
         "prijs": 7.32,
@@ -790,5 +768,27 @@
         ],
         "img_url": "https://www.na-kd.com/resize/resize/globalassets/embroidery_high_waist_panty_1013-001289-0004_1.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/embroidery_high_waist_panty_1013-001289-0004_1.jpg"
+    },
+    {
+        "prijs": 8.37,
+        "id": "1-1013-001315-0256",
+        "kleur": "Coral",
+        "naam": "Triangeltopje met bloemenkant en bandjes",
+        "url": "https://www.na-kd.com/nl/zoek-producten/flower-lace-strappy-detail-triangle-top-coral-1013-001315-0256",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001315-0256",
+                "naam": "Coral",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/resize/globalassets/flower_lace_strappy_detail_triangle_top-1013-001315-025641888.jpg",
+                "url": "https://www.na-kd.com/nl/zoek-producten/flower-lace-strappy-detail-triangle-top-coral-1013-001315-0256"
+            }
+        ],
+        "imageUrls": [
+            "https://www.na-kd.com/resize/resize/globalassets/flower_lace_strappy_detail_triangle_top-1013-001315-025641888.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/flower_lace_strappy_detail_triangle_top-1013-001315-025641888.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/flower_lace_strappy_detail_triangle_top-1013-001315-025641888.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/flower_lace_strappy_detail_triangle_top-1013-001315-025641888.jpg"
     }
 ]
