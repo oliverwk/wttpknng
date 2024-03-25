@@ -581,13 +581,6 @@
                 "url": "https://www.na-kd.com/nl/zoek-producten/klassieke-string-met-halfhoge-taille-en-kant-red"
             },
             {
-                "id": "1-1013-000862-0212",
-                "naam": "Rood",
-                "hex": "#650C11",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong-1013-000862-0212_0392.jpg?ref=6092C21F00",
-                "url": "https://www.na-kd.com/nl/zoek-producten/klassieke-string-met-halfhoge-taille-en-kant-burgundy-1013-000862-0212"
-            },
-            {
                 "id": "1-1013-000862-0002",
                 "naam": "Zwart",
                 "hex": "#0C1214",
@@ -928,31 +921,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Ingerimpeld satijnen braziliaans broekje met hoge uitsnijding",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_gathered_satin_brazilian-1013-001092-0001_0743.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_gathered_satin_brazilian-1013-001092-0001_03.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_gathered_satin_brazilian-1013-001092-0001_04.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_high_cut_gathered_satin_brazilian-1013-001092-0001_02.jpg?width=640"
-        ],
-        "prijs": 4.18,
-        "kleur": "White",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001092-0001",
-                "naam": "Wit",
-                "hex": "#FFFFFF",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_gathered_satin_brazilian-1013-001092-0001_0743.jpg?ref=74D72A36BA",
-                "url": "https://www.na-kd.com/nl/zoek-producten/high-cut-gathered-satin-brazilian-white-1013-001092-0001"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_gathered_satin_brazilian-1013-001092-0001_0743.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_high_cut_gathered_satin_brazilian-1013-001092-0001_02.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/high-cut-gathered-satin-brazilian-white-1013-001092-0001",
-        "id": "1-1013-001092-0001-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Slip Met Hoge Taille En Mesh",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_mesh-striped_highwaist_panty_1013-000745-0002_01j.jpg?width=640",
@@ -1096,6 +1064,31 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_recycled_elastic_lace_thong_1013-001058-1420-4811.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/string-van-elastisch-kant-pink-umber-1013-001058-1420",
         "id": "1-1013-001058-1420-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Veelkleurige panty met kant",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_multicolour_lace_panties-1730-000050-0003_1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_multicolour_lace_panties-1730-000050-0003_2.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_multicolour_lace_panties-1730-000050-0003_3.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_multicolour_lace_panties-1730-000050-0003_4.jpg?width=640"
+        ],
+        "prijs": 3.48,
+        "kleur": "Blue",
+        "kleurFamilies": [
+            {
+                "id": "1-1730-000050-0003",
+                "naam": "Blauw",
+                "hex": "#A6C5D2",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_multicolour_lace_panties-1730-000050-0003_1.jpg?ref=ED428EEF7A",
+                "url": "https://www.na-kd.com/nl/zoek-producten/multicolour-lace-panties-blue-1730-000050-0003"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_multicolour_lace_panties-1730-000050-0003_1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_multicolour_lace_panties-1730-000050-0003_4.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/multicolour-lace-panties-blue-1730-000050-0003",
+        "id": "1-1730-000050-0003-004",
         "kleurHex": null
     }
 ]
