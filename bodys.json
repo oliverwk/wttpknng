@@ -1,5 +1,30 @@
 [
     {
+        "naam": "Bodysuit met schouderstrik en kant",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakdshoulder_tie_lace_bodysuit_1013-001127-107347333.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakdshoulder_tie_lace_bodysuit_1013-001127-107347346.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakdshoulder_tie_lace_bodysuit_1013-001127-107347365.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakdshoulder_tie_lace_bodysuit_1013-001127-107347354.jpg?width=640"
+        ],
+        "prijs": 2.99,
+        "kleur": "Brick Red",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001127-1073",
+                "naam": "Rood",
+                "hex": "#C2785D",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakdshoulder_tie_lace_bodysuit_1013-001127-107347333.jpg?ref=75F98441E8",
+                "url": "https://www.na-kd.com/nl/zoek-producten/shoulder-tie-lace-bodysuit-brick-red-1013-001127-1073"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakdshoulder_tie_lace_bodysuit_1013-001127-107347333.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakdshoulder_tie_lace_bodysuit_1013-001127-107347354.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/shoulder-tie-lace-bodysuit-brick-red-1013-001127-1073",
+        "id": "1-1013-001127-1073-004",
+        "kleurHex": null
+    },
+    {
         "naam": "Katoenen body met racer back",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/racer_back_patched_cotton_body-1013-000947-0138_0515.jpg?width=640",
