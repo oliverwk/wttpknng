@@ -89,28 +89,6 @@
     },
     {
         "prijs": 3.58,
-        "id": "1-1013-000959-0002",
-        "kleur": "Black",
-        "naam": "Mesh bh met geschulpte rand",
-        "url": "https://www.na-kd.com/nl/zoek-producten/mesh-bh-met-geschulpte-rand-zwart-1013-000959-0002",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-000959-0002",
-                "naam": "Black",
-                "hex": "#000000",
-                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_clean_scallop_edge_mesh_bra_1013-000959-0002_02a.jpg",
-                "url": "https://www.na-kd.com/nl/zoek-producten/mesh-bh-met-geschulpte-rand-zwart-1013-000959-0002"
-            }
-        ],
-        "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_clean_scallop_edge_mesh_bra_1013-000959-0002_02a.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_clean_scallop_edge_mesh_bra_1013-000959-0002_02a.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_clean_scallop_edge_mesh_bra_1013-000959-0002_02a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_clean_scallop_edge_mesh_bra_1013-000959-0002_02a.jpg"
-    },
-    {
-        "prijs": 3.58,
         "id": "1-1013-000831-0002",
         "kleur": "Black",
         "naam": "Geribde Top Met Sportieve Cut-Out",
@@ -462,28 +440,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/monogram_wire_bra_1013-001230-0002_02.jpg"
     },
     {
-        "prijs": 4.49,
-        "id": "1-1013-001091-0001",
-        "kleur": "White",
-        "naam": "Satijnen bh met ingerimpelde cup",
-        "url": "https://www.na-kd.com/nl/zoek-producten/gathered-cup-satin-bra-white-1013-001091-0001",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001091-0001",
-                "naam": "White",
-                "hex": "#000000",
-                "img_url": "https://www.na-kd.com/resize/resize/globalassets/gathered_cup_satin_bra_1013-001091-00011594.jpg",
-                "url": "https://www.na-kd.com/nl/zoek-producten/gathered-cup-satin-bra-white-1013-001091-0001"
-            }
-        ],
-        "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/gathered_cup_satin_bra_1013-001091-00011594.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/gathered_cup_satin_bra_1013-001091-00011594.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/gathered_cup_satin_bra_1013-001091-00011594.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/gathered_cup_satin_bra_1013-001091-00011594.jpg"
-    },
-    {
         "prijs": 4.48,
         "id": "1-1013-001086-0719",
         "kleur": "Pearl",
@@ -790,5 +746,49 @@
         ],
         "img_url": "https://www.na-kd.com/resize/resize/globalassets/v_wire_soft_lace_bra_1013-001303-0010_32283.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/v_wire_soft_lace_bra_1013-001303-0010_32283.jpg"
+    },
+    {
+        "prijs": 7.18,
+        "id": "1-1013-001305-0010",
+        "kleur": "Green",
+        "naam": "Ongevoerde beugelbh met kant",
+        "url": "https://www.na-kd.com/nl/zoek-producten/unlined-wire-lace-bra-green-1013-001305-0010",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001305-0010",
+                "naam": "Green",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/resize/globalassets/unlined_wired_lace_bra-1013-001305-0010_3.jpg",
+                "url": "https://www.na-kd.com/nl/zoek-producten/unlined-wire-lace-bra-green-1013-001305-0010"
+            }
+        ],
+        "imageUrls": [
+            "https://www.na-kd.com/resize/resize/globalassets/unlined_wired_lace_bra-1013-001305-0010_3.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/unlined_wired_lace_bra-1013-001305-0010_3.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/unlined_wired_lace_bra-1013-001305-0010_3.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/unlined_wired_lace_bra-1013-001305-0010_3.jpg"
+    },
+    {
+        "prijs": 7.18,
+        "id": "1-1013-001303-0002",
+        "kleur": "Black",
+        "naam": "V-beugelbh van zacht kant",
+        "url": "https://www.na-kd.com/nl/zoek-producten/v-wire-soft-lace-bra-black-1013-001303-0002",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001303-0002",
+                "naam": "Black",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_v_wire_soft_lace_bra_1013-001303-0002_32340.jpg",
+                "url": "https://www.na-kd.com/nl/zoek-producten/v-wire-soft-lace-bra-black-1013-001303-0002"
+            }
+        ],
+        "imageUrls": [
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_v_wire_soft_lace_bra_1013-001303-0002_32340.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_v_wire_soft_lace_bra_1013-001303-0002_32340.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_v_wire_soft_lace_bra_1013-001303-0002_32340.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_v_wire_soft_lace_bra_1013-001303-0002_32340.jpg"
     }
 ]
