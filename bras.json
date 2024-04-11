@@ -1,5 +1,27 @@
 [
     {
+        "prijs": 2.99,
+        "id": "1-1013-001041-0261",
+        "kleur": "Orange",
+        "naam": "Naadloze cup bh met kant",
+        "url": "https://www.na-kd.com/nl/zoek-producten/naadloze-cup-bh-met-kant-orange-1013-001041-0261",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001041-0261",
+                "naam": "Orange",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_cute_wireless_cup_shape_lace_bralette_1013-001041-0261_01a.jpg",
+                "url": "https://www.na-kd.com/nl/zoek-producten/naadloze-cup-bh-met-kant-orange-1013-001041-0261"
+            }
+        ],
+        "imageUrls": [
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_cute_wireless_cup_shape_lace_bralette_1013-001041-0261_01a.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_cute_wireless_cup_shape_lace_bralette_1013-001041-0261_01a.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_cute_wireless_cup_shape_lace_bralette_1013-001041-0261_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_cute_wireless_cup_shape_lace_bralette_1013-001041-0261_01a.jpg"
+    },
+    {
         "prijs": 3.58,
         "id": "1-1013-000914-5482",
         "kleur": "Light flower",
@@ -286,28 +308,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_gathered_circle_detail_mesh_triangle_top_1013-001080-8814-1.jpg"
     },
     {
-        "prijs": 4.78,
-        "id": "1-1013-000866-1420",
-        "kleur": "Pink Umber",
-        "naam": "Top Met Kant",
-        "url": "https://www.na-kd.com/nl/zoek-producten/top-met-kant-roze",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-000866-1420",
-                "naam": "Pink Umber",
-                "hex": "#000000",
-                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_all_over_lace_top_1013-000866-1420_01j.jpg",
-                "url": "https://www.na-kd.com/nl/zoek-producten/top-met-kant-roze"
-            }
-        ],
-        "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_all_over_lace_top_1013-000866-1420_01j.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_all_over_lace_top_1013-000866-1420_01j.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_all_over_lace_top_1013-000866-1420_01j.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_all_over_lace_top_1013-000866-1420_01j.jpg"
-    },
-    {
         "prijs": 4.49,
         "id": "1-1013-001230-0002",
         "kleur": "Black",
@@ -482,28 +482,6 @@
         ],
         "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_twisted_thin_strap_satin_bra_1013-001093-114746592.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_twisted_thin_strap_satin_bra_1013-001093-114746592.jpg"
-    },
-    {
-        "prijs": 5.98,
-        "id": "1-1013-001165-3116",
-        "kleur": "Pale Yellow",
-        "naam": "Kanten BH",
-        "url": "https://www.na-kd.com/nl/zoek-producten/high-cup-triangle-lace-top-pale-yellow-1013-001165-3116",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001165-3116",
-                "naam": "Pale Yellow",
-                "hex": "#000000",
-                "img_url": "https://www.na-kd.com/resize/resize/globalassets/high_cup_triangle_lace_top_1013-001165-3116_03.jpg",
-                "url": "https://www.na-kd.com/nl/zoek-producten/high-cup-triangle-lace-top-pale-yellow-1013-001165-3116"
-            }
-        ],
-        "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/high_cup_triangle_lace_top_1013-001165-3116_03.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/high_cup_triangle_lace_top_1013-001165-3116_03.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/high_cup_triangle_lace_top_1013-001165-3116_03.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/high_cup_triangle_lace_top_1013-001165-3116_03.jpg"
     },
     {
         "prijs": 5.98,
@@ -790,5 +768,27 @@
         ],
         "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0039_01a_r11.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0039_01a_r11.jpg"
+    },
+    {
+        "prijs": 8.98,
+        "id": "1-1013-001290-0002",
+        "kleur": "Black",
+        "naam": "Gedetailleerde bh met borduursel",
+        "url": "https://www.na-kd.com/nl/zoek-producten/embroidery-detailed-bra-black-1013-001290-0002",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001290-0002",
+                "naam": "Black",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/resize/globalassets/embroidery_detailed_bra-1013-001290-0002_4.jpg",
+                "url": "https://www.na-kd.com/nl/zoek-producten/embroidery-detailed-bra-black-1013-001290-0002"
+            }
+        ],
+        "imageUrls": [
+            "https://www.na-kd.com/resize/resize/globalassets/embroidery_detailed_bra-1013-001290-0002_4.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/embroidery_detailed_bra-1013-001290-0002_4.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/embroidery_detailed_bra-1013-001290-0002_4.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/embroidery_detailed_bra-1013-001290-0002_4.jpg"
     }
 ]
