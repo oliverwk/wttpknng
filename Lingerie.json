@@ -1,30 +1,5 @@
 [
     {
-        "naam": "Veelkleurige panty met kant",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_multicolour_lace_panties-1730-000050-0024_6.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_multicolour_lace_panties-1730-000050-0024_3.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_multicolour_lace_panties-1730-000050-0024_1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_multicolour_lace_panties-1730-000050-0024_2.jpg?width=640"
-        ],
-        "prijs": 1.79,
-        "kleur": "Yellow",
-        "kleurFamilies": [
-            {
-                "id": "1-1730-000050-0024",
-                "naam": "Geel",
-                "hex": "#F0CA74",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_multicolour_lace_panties-1730-000050-0024_6.jpg?ref=058FEBE983",
-                "url": "https://www.na-kd.com/nl/zoek-producten/multicolour-lace-panties-yellow-1730-000050-0024"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_multicolour_lace_panties-1730-000050-0024_6.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_multicolour_lace_panties-1730-000050-0024_2.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/multicolour-lace-panties-yellow-1730-000050-0024",
-        "id": "1-1730-000050-0024-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Kanten V-String Met Bandjes",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_qute_lace_double_strap_v-string_1013-000784-0039_01j-1.jpg?width=640",
@@ -732,13 +707,6 @@
                 "hex": "#C4A48C",
                 "img_url": "https://www.na-kd.com/resize/globalassets/binding_detail_lace_thong_1013-001101-651_07.jpg?ref=C240F28407",
                 "url": "https://www.na-kd.com/nl/zoek-producten/binding-detail-lace-thong-oxford-tan-1013-001101-651"
-            },
-            {
-                "id": "1-1013-001101-0212",
-                "naam": "Rood",
-                "hex": "#7a3a44",
-                "img_url": "https://www.na-kd.com/resize/globalassets/binding_detail_lace_thong_1013-001101-0212_01.jpg?ref=B61A38BA69",
-                "url": "https://www.na-kd.com/nl/zoek-producten/gerecyclede-tanga-met-kant-en-binddetail-burgundy-1013-001101-0212"
             }
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/binding_detail_lace_thong_1013-001101-651_07.jpg",
@@ -1025,6 +993,32 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_mid_rise_classic_lace_thong_1013-000862-0002_04k-1.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/klassieke-string-met-halfhoge-taille-en-kant-zwart",
         "id": "1-1013-000862-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Lace Thong",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_thong_1013-001278-0002_2233y.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_thong_1013-001278-0002_321312.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_thong_1013-001278-0002_e33y.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_thong_1013-001278-0002_221434.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_thong-1013-001278-0002_0558.jpg?width=640"
+        ],
+        "prijs": 5.97,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001278-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_thong_1013-001278-0002_2233y.jpg?ref=0C2ACF3249",
+                "url": "https://www.na-kd.com/nl/zoek-producten/lace-thong-black-1013-001278-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_thong_1013-001278-0002_2233y.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_thong-1013-001278-0002_0558.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/lace-thong-black-1013-001278-0002",
+        "id": "1-1013-001278-0002-004",
         "kleurHex": null
     }
 ]
