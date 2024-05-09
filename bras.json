@@ -353,6 +353,28 @@
     },
     {
         "prijs": 4.99,
+        "id": "1-1013-001032-0039",
+        "kleur": "Dark Red",
+        "naam": "Cup bh met strikdetail",
+        "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-dark-red-1013-001032-0039",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001032-0039",
+                "naam": "Dark Red",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0039_01a_r11.jpg",
+                "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-dark-red-1013-001032-0039"
+            }
+        ],
+        "imageUrls": [
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0039_01a_r11.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0039_01a_r11.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0039_01a_r11.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0039_01a_r11.jpg"
+    },
+    {
+        "prijs": 4.99,
         "id": "1-1013-001223-0002",
         "kleur": "Black",
         "naam": "Glitter-BH",
@@ -482,28 +504,6 @@
         ],
         "img_url": "https://www.na-kd.com/resize/resize/globalassets/sleeve_lace_corset-1013-001308-00042421_r.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/sleeve_lace_corset-1013-001308-00042421_r.jpg"
-    },
-    {
-        "prijs": 7.99,
-        "id": "1-1703-000000-0002",
-        "kleur": "Black",
-        "naam": "Naadloze bH",
-        "url": "https://www.na-kd.com/nl/zoek-producten/naadloos-bh-zwart",
-        "kleurFamilies": [
-            {
-                "id": "1-1703-000000-0002",
-                "naam": "Black",
-                "hex": "#000000",
-                "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_seamless_squareneck_bra_top_1703-000000-0002_01g.jpg",
-                "url": "https://www.na-kd.com/nl/zoek-producten/naadloos-bh-zwart"
-            }
-        ],
-        "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_seamless_squareneck_bra_top_1703-000000-0002_01g.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/nakd_seamless_squareneck_bra_top_1703-000000-0002_01g.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/nakd_seamless_squareneck_bra_top_1703-000000-0002_01g.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/nakd_seamless_squareneck_bra_top_1703-000000-0002_01g.jpg"
     },
     {
         "prijs": 7.99,
@@ -661,28 +661,6 @@
     },
     {
         "prijs": 19.95,
-        "id": "1-1100-007471-0004",
-        "kleur": "Red",
-        "naam": "Beugelbh van kant",
-        "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-red-1100-007471-0004",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-007471-0004",
-                "naam": "Red",
-                "hex": "#000000",
-                "img_url": "https://www.na-kd.com/resize/resize/globalassets/underwired_lace_bra-1100-007471-00042088.jpg",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-red-1100-007471-0004"
-            }
-        ],
-        "imageUrls": [
-            "https://www.na-kd.com/resize/resize/globalassets/underwired_lace_bra-1100-007471-00042088.jpg",
-            "https://www.na-kd.com/resize/resize/globalassets/underwired_lace_bra-1100-007471-00042088.jpg"
-        ],
-        "img_url": "https://www.na-kd.com/resize/resize/globalassets/underwired_lace_bra-1100-007471-00042088.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/underwired_lace_bra-1100-007471-00042088.jpg"
-    },
-    {
-        "prijs": 19.95,
         "id": "1-1013-001253-0002",
         "kleur": "Black",
         "naam": "Gedetailleerde cup-bh met cut-out",
@@ -702,6 +680,28 @@
         ],
         "img_url": "https://www.na-kd.com/resize/resize/globalassets/cut_out_detailed_cup_bra-1013-001253-0002_3231.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/cut_out_detailed_cup_bra-1013-001253-0002_3231.jpg"
+    },
+    {
+        "prijs": 19.95,
+        "id": "1-1100-007471-0004",
+        "kleur": "Red",
+        "naam": "Beugelbh van kant",
+        "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-red-1100-007471-0004",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-007471-0004",
+                "naam": "Red",
+                "hex": "#000000",
+                "img_url": "https://www.na-kd.com/resize/resize/globalassets/underwired_lace_bra-1100-007471-00042088.jpg",
+                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-red-1100-007471-0004"
+            }
+        ],
+        "imageUrls": [
+            "https://www.na-kd.com/resize/resize/globalassets/underwired_lace_bra-1100-007471-00042088.jpg",
+            "https://www.na-kd.com/resize/resize/globalassets/underwired_lace_bra-1100-007471-00042088.jpg"
+        ],
+        "img_url": "https://www.na-kd.com/resize/resize/globalassets/underwired_lace_bra-1100-007471-00042088.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/resize/globalassets/underwired_lace_bra-1100-007471-00042088.jpg"
     },
     {
         "prijs": 19.95,
