@@ -357,6 +357,45 @@
         "kleurHex": null
     },
     {
+        "naam": "Cup bh met strikdetail",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0039_01a_r11.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0039_02b_r11.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0039_03j_r11.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0039_04k_r11.jpg?width=640"
+        ],
+        "prijs": 4.99,
+        "kleur": "Dark Red",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001032-0039",
+                "naam": "Roze",
+                "hex": "#A3584F",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0039_01a_r11.jpg?ref=E02A110110",
+                "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-dark-red-1013-001032-0039"
+            },
+            {
+                "id": "1-1013-001032-0256",
+                "naam": "Roze",
+                "hex": "#ffbea0",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0256_34884.jpg?ref=11E4B65E4D",
+                "url": "https://www.na-kd.com/nl/zoek-producten/cup-bh-met-strikdetail-coral-1013-001032-0256"
+            },
+            {
+                "id": "1-1013-001032-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra_1013-001032-0002_1_flatlay.jpg?ref=B1ED5D6E83",
+                "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-black-1013-001032-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0039_01a_r11.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0039_04k_r11.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-dark-red-1013-001032-0039",
+        "id": "1-1013-001032-0039-664",
+        "kleurHex": null
+    },
+    {
         "naam": "Hoogglanzende bh",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/high_shine_bra_1013-001222-0002_01.jpg?width=640",
@@ -407,36 +446,28 @@
         "kleurHex": null
     },
     {
-        "naam": "Gedetailleerde korset met cut-out",
+        "naam": "Satijnen bh met ingerimpelde cup",
         "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/cut_out_detail_corset-1013-001255-0002_3277.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/cut_out_detailed_corset-1013-001255-0002_3420.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/cut_out_detail_corset-1013-001255-0002_3274.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/cut_out_detail_corset-1013-001255-0002_3286.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/cut_out_detailed_corset_1013-001255-0002_flatlay.jpg?width=640"
+            "https://www.na-kd.com/resize/globalassets/gathered_cup_satin_bra_1013-001091-00011594.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/gathered_cup_satin_bra_1013-001091-00011602.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/gathered_cup_satin_bra_1013-001091-00011574.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/gathered_cup_satin_bra_1013-001091-00011586.jpg?width=640"
         ],
         "prijs": 5.99,
-        "kleur": "Black",
+        "kleur": "White",
         "kleurFamilies": [
             {
-                "id": "1-1013-001255-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/cut_out_detail_corset-1013-001255-0002_3277.jpg?ref=5A89540709",
-                "url": "https://www.na-kd.com/nl/zoek-producten/cut-out-detailed-corset-black-1013-001255-0002"
-            },
-            {
-                "id": "1-1013-001255-0004",
-                "naam": "Rood",
-                "hex": "#BD162C",
-                "img_url": "https://www.na-kd.com/resize/globalassets/cut_out_detailed_corset-1013-001255-0004_3701.jpg?ref=2991787E85",
-                "url": "https://www.na-kd.com/nl/zoek-producten/cut-out-detailed-corset-red-1013-001255-0004"
+                "id": "1-1013-001091-0001",
+                "naam": "Wit",
+                "hex": "#FFFFFF",
+                "img_url": "https://www.na-kd.com/resize/globalassets/gathered_cup_satin_bra_1013-001091-00011594.jpg?ref=47B614E20F",
+                "url": "https://www.na-kd.com/nl/zoek-producten/gathered-cup-satin-bra-white-1013-001091-0001"
             }
         ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/cut_out_detail_corset-1013-001255-0002_3277.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/cut_out_detailed_corset_1013-001255-0002_flatlay.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/cut-out-detailed-corset-black-1013-001255-0002",
-        "id": "1-1013-001255-0002-664",
+        "img_url": "https://www.na-kd.com/resize/globalassets/gathered_cup_satin_bra_1013-001091-00011594.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/gathered_cup_satin_bra_1013-001091-00011586.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/gathered-cup-satin-bra-white-1013-001091-0001",
+        "id": "1-1013-001091-0001-664",
         "kleurHex": null
     },
     {
@@ -827,39 +858,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Zachte beha van wimperkant",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/eyelash_soft_bra-1100-008521-0002_18759.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/eyelash_soft_bra-1100-008521-0002_18711.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/eyelash_soft_bra-1100-008521-0002_18677.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/eyelash_soft_bra-1100-008521-0002_1834.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/eyelash_soft_bra_1100-008521-00027473_flatlayf.jpg?width=640"
-        ],
-        "prijs": 19.95,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-008521-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/eyelash_soft_bra-1100-008521-0002_18759.jpg?ref=E64E9C7FAA",
-                "url": "https://www.na-kd.com/nl/zoek-producten/eyelash-soft-bra-black-1100-008521-0002"
-            },
-            {
-                "id": "1-1100-008521-0017",
-                "naam": "Bruin",
-                "hex": "#423332",
-                "img_url": "https://www.na-kd.com/resize/globalassets/eyelash_soft_bra_1100-008521-0017_74.jpg?ref=D5F48F0416",
-                "url": "https://www.na-kd.com/nl/zoek-producten/eyelash-soft-bra-brown-1100-008521-0017"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/eyelash_soft_bra-1100-008521-0002_18759.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/eyelash_soft_bra_1100-008521-00027473_flatlayf.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/eyelash-soft-bra-black-1100-008521-0002",
-        "id": "1-1100-008521-0002-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Bandeautop van kant",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/lace_bandeau_top-1013-001307-000242301.jpg?width=640",
@@ -890,6 +888,39 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/lace_bandeau_top_1013-001307-0002_2_flatlay.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/lace-bandeau-top-black-1013-001307-0002",
         "id": "1-1013-001307-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Zachte beha van wimperkant",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/eyelash_soft_bra-1100-008521-0002_18759.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/eyelash_soft_bra-1100-008521-0002_18711.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/eyelash_soft_bra-1100-008521-0002_18677.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/eyelash_soft_bra-1100-008521-0002_1834.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/eyelash_soft_bra_1100-008521-00027473_flatlayf.jpg?width=640"
+        ],
+        "prijs": 19.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-008521-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/eyelash_soft_bra-1100-008521-0002_18759.jpg?ref=E64E9C7FAA",
+                "url": "https://www.na-kd.com/nl/zoek-producten/eyelash-soft-bra-black-1100-008521-0002"
+            },
+            {
+                "id": "1-1100-008521-0017",
+                "naam": "Bruin",
+                "hex": "#423332",
+                "img_url": "https://www.na-kd.com/resize/globalassets/eyelash_soft_bra_1100-008521-0017_74.jpg?ref=D5F48F0416",
+                "url": "https://www.na-kd.com/nl/zoek-producten/eyelash-soft-bra-brown-1100-008521-0017"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/eyelash_soft_bra-1100-008521-0002_18759.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/eyelash_soft_bra_1100-008521-00027473_flatlayf.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/eyelash-soft-bra-black-1100-008521-0002",
+        "id": "1-1100-008521-0002-004",
         "kleurHex": null
     },
     {
@@ -989,46 +1020,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/underwired_lace_bra_1100-007702-00020023_flatlayf.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-zwart-1100-007702-0002",
         "id": "1-1100-007702-0002-664",
-        "kleurHex": null
-    },
-    {
-        "naam": "Beugelbh van kant",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/underwired_lace_bra-1100-007702-0004_21268.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/underwired_lace_bra-1100-007702-0004_21233.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/underwired_lace_bra-1100-007702-0004_21204.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/underwired_lace_bra-1100-007702-0004_21184.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/underwired_lace_bra-1100-007702-0004_1256_flatlayf.jpg?width=640"
-        ],
-        "prijs": 19.95,
-        "kleur": "Red",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-007702-0004",
-                "naam": "Rood",
-                "hex": "#C21137",
-                "img_url": "https://www.na-kd.com/resize/globalassets/underwired_lace_bra-1100-007702-0004_21268.jpg?ref=B4578C6EBB",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-rood-1100-007702-0004"
-            },
-            {
-                "id": "1-1100-007702-0031",
-                "naam": "Olive Green",
-                "hex": "#714837",
-                "img_url": "https://www.na-kd.com/resize/globalassets/underwired_lace_bra-1100-007702-0031-28.jpg?ref=EE8C45901E",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-groen-1100-007702-0031"
-            },
-            {
-                "id": "1-1100-007702-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/underwired_lace_bra-1100-007702-0002_20940.jpg?ref=BB46BBF8B8",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-zwart-1100-007702-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/underwired_lace_bra-1100-007702-0004_21268.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/underwired_lace_bra-1100-007702-0004_1256_flatlayf.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-rood-1100-007702-0004",
-        "id": "1-1100-007702-0004-664",
         "kleurHex": null
     }
 ]
