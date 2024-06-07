@@ -534,31 +534,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Beha met brede bandjes en kanten cup",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/wide_strap_lace_cup_bra_1013-001180-0002_6896.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/wide_strap_lace_cup_bra_1013-001180-0002_6914.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/wide_strap_lace_cup_bra_1013-001180-0002_03.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/wide_strap_lace_cup_bra_1013-001180-0002_04.jpg?width=640"
-        ],
-        "prijs": 17.46,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001180-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/wide_strap_lace_cup_bra_1013-001180-0002_6896.jpg?ref=77858E7CB5",
-                "url": "https://www.na-kd.com/nl/zoek-producten/wide-strap-lace-cup-bra-black-1013-001180-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/wide_strap_lace_cup_bra_1013-001180-0002_6896.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/wide_strap_lace_cup_bra_1013-001180-0002_04.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/wide-strap-lace-cup-bra-black-1013-001180-0002",
-        "id": "1-1013-001180-0002-664",
-        "kleurHex": null
-    },
-    {
         "naam": "V-beugelbh van zacht kant",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/v_wire_soft_lace_bra_1013-001303-0010_32283.jpg?width=640",
@@ -746,39 +721,6 @@
     {
         "naam": "Bandeautop van kant",
         "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/lace_bandeau_top-1013-001307-000242301.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_bandeau_top-1013-001307-000242287.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_bandeau_top-1013-001307-000242285.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_bandeau_top-1013-001307-000242276.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_bandeau_top_1013-001307-0002_2_flatlay.jpg?width=640"
-        ],
-        "prijs": 19.95,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001307-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/lace_bandeau_top-1013-001307-000242301.jpg?ref=9FE710F7A7",
-                "url": "https://www.na-kd.com/nl/zoek-producten/lace-bandeau-top-black-1013-001307-0002"
-            },
-            {
-                "id": "1-1013-001307-0260",
-                "naam": "Gebroken wit",
-                "hex": "#FAF9F8",
-                "img_url": "https://www.na-kd.com/resize/globalassets/lace_bandeau_top_1013-001307-026093305.jpg?ref=F49A93997B",
-                "url": "https://www.na-kd.com/nl/zoek-producten/lace-bandeau-top-offwhite-1013-001307-0260"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/lace_bandeau_top-1013-001307-000242301.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/lace_bandeau_top_1013-001307-0002_2_flatlay.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/lace-bandeau-top-black-1013-001307-0002",
-        "id": "1-1013-001307-0002-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Bandeautop van kant",
-        "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/lace_bandeau_top_1013-001307-026093305.jpg?width=640",
             "https://www.na-kd.com/resize/globalassets/lace_bandeau_top_1013-001307-026093322.jpg?width=640",
             "https://www.na-kd.com/resize/globalassets/lace_bandeau_top_1013-001307-026093309.jpg?width=640",
@@ -807,6 +749,39 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/lace-bandeau-top_1013-001307-0260_1-copy_flatlayf.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/lace-bandeau-top-offwhite-1013-001307-0260",
         "id": "1-1013-001307-0260-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Bandeautop van kant",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/lace_bandeau_top-1013-001307-000242301.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/lace_bandeau_top-1013-001307-000242287.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/lace_bandeau_top-1013-001307-000242285.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/lace_bandeau_top-1013-001307-000242276.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/lace_bandeau_top_1013-001307-0002_2_flatlay.jpg?width=640"
+        ],
+        "prijs": 19.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001307-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/lace_bandeau_top-1013-001307-000242301.jpg?ref=9FE710F7A7",
+                "url": "https://www.na-kd.com/nl/zoek-producten/lace-bandeau-top-black-1013-001307-0002"
+            },
+            {
+                "id": "1-1013-001307-0260",
+                "naam": "Gebroken wit",
+                "hex": "#FAF9F8",
+                "img_url": "https://www.na-kd.com/resize/globalassets/lace_bandeau_top_1013-001307-026093305.jpg?ref=F49A93997B",
+                "url": "https://www.na-kd.com/nl/zoek-producten/lace-bandeau-top-offwhite-1013-001307-0260"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/lace_bandeau_top-1013-001307-000242301.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/lace_bandeau_top_1013-001307-0002_2_flatlay.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/lace-bandeau-top-black-1013-001307-0002",
+        "id": "1-1013-001307-0002-004",
         "kleurHex": null
     },
     {
@@ -840,6 +815,39 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/eyelash_soft_bra_1100-008521-00177468_flatlayf.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/eyelash-soft-bra-brown-1100-008521-0017",
         "id": "1-1100-008521-0017-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Zachte beha van wimperkant",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/eyelash_soft_bra-1100-008521-0002_18759.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/eyelash_soft_bra-1100-008521-0002_18711.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/eyelash_soft_bra-1100-008521-0002_18677.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/eyelash_soft_bra-1100-008521-0002_1834.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/eyelash_soft_bra_1100-008521-00027473_flatlayf.jpg?width=640"
+        ],
+        "prijs": 19.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-008521-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/eyelash_soft_bra-1100-008521-0002_18759.jpg?ref=E64E9C7FAA",
+                "url": "https://www.na-kd.com/nl/zoek-producten/eyelash-soft-bra-black-1100-008521-0002"
+            },
+            {
+                "id": "1-1100-008521-0017",
+                "naam": "Bruin",
+                "hex": "#423332",
+                "img_url": "https://www.na-kd.com/resize/globalassets/eyelash_soft_bra_1100-008521-0017_74.jpg?ref=D5F48F0416",
+                "url": "https://www.na-kd.com/nl/zoek-producten/eyelash-soft-bra-brown-1100-008521-0017"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/eyelash_soft_bra-1100-008521-0002_18759.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/eyelash_soft_bra_1100-008521-00027473_flatlayf.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/eyelash-soft-bra-black-1100-008521-0002",
+        "id": "1-1100-008521-0002-004",
         "kleurHex": null
     },
     {
