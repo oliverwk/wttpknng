@@ -41,6 +41,13 @@
                 "hex": "#C2ACC0",
                 "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_waist_mesh_brief_1013-000972-3186-5004.jpg?ref=04F8E3AF70",
                 "url": "https://www.na-kd.com/nl/zoek-producten/mesh-slip-veelkleurig-1013-000972-3186"
+            },
+            {
+                "id": "1-1013-000972-6401",
+                "naam": "Paars",
+                "hex": "#C6B1D1",
+                "img_url": "https://www.na-kd.com/resize/globalassets/mid_waist_mesh_brief-1013-000972-6401_1.jpg?ref=1962BE1305",
+                "url": "https://www.na-kd.com/nl/zoek-producten/mesh-slip-purple-rose-1013-000972-6401"
             }
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_waist_mesh_brief_1013-000972-3186-5004.jpg",
@@ -97,6 +104,38 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/high_rise_cotton_brief_1013-000902-0010_03.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/hoog-uitgesneden-katoenen-slip-green-1013-000902-0010",
         "id": "1-1013-000902-0010-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Mesh slip",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/mid_waist_mesh_brief-1013-000972-6401_1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/mid_waist_mesh_brief-1013-000972-6401_2.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/mid_waist_mesh_brief-1013-000972-6401_3.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/mid_waist_mesh_brief-1013-000972-6401_4.jpg?width=640"
+        ],
+        "prijs": 4.48,
+        "kleur": "Purple Rose",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000972-6401",
+                "naam": "Paars",
+                "hex": "#C6B1D1",
+                "img_url": "https://www.na-kd.com/resize/globalassets/mid_waist_mesh_brief-1013-000972-6401_1.jpg?ref=1962BE1305",
+                "url": "https://www.na-kd.com/nl/zoek-producten/mesh-slip-purple-rose-1013-000972-6401"
+            },
+            {
+                "id": "1-1013-000972-3186",
+                "naam": "Veelkleurig",
+                "hex": "#C2ACC0",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_waist_mesh_brief_1013-000972-3186-5004.jpg?ref=04F8E3AF70",
+                "url": "https://www.na-kd.com/nl/zoek-producten/mesh-slip-veelkleurig-1013-000972-3186"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/mid_waist_mesh_brief-1013-000972-6401_1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/mid_waist_mesh_brief-1013-000972-6401_4.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/mesh-slip-purple-rose-1013-000972-6401",
+        "id": "1-1013-000972-6401-004",
         "kleurHex": null
     },
     {
@@ -389,32 +428,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Hipster van kant",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/all_lace_hipster-1013-001263-0015_3540.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/all_lace_hipster-1013-001263-0015_3565.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/all_lace_hipster-1013-001263-0015_3561.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/all_lace_hipster-1013-001263-0015_3574.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_all_lace_hipster-1013-001263-0015_0273_flatlay.jpg?width=640"
-        ],
-        "prijs": 5.98,
-        "kleur": "Pink",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001263-0015",
-                "naam": "Roze",
-                "hex": "#E5619D",
-                "img_url": "https://www.na-kd.com/resize/globalassets/all_lace_hipster-1013-001263-0015_3540.jpg?ref=E5C2D196AD",
-                "url": "https://www.na-kd.com/nl/zoek-producten/all-lace-hipster-pink-1013-001263-0015"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/all_lace_hipster-1013-001263-0015_3540.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_all_lace_hipster-1013-001263-0015_0273_flatlay.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/all-lace-hipster-pink-1013-001263-0015",
-        "id": "1-1013-001263-0015-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Braziliaanse slip met kant en hoge taille",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/high_waist_lace_brazilian_1013-001282-0002_1367-copy.jpg?width=640",
@@ -543,8 +556,8 @@
         "naam": "Kanten string met halfhoge taille",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/mid_waist_lace_thong_1100-007472-4083_16183.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/mid_waist_lace_thong_1100-007472-4083_16209.jpg?width=640",
             "https://www.na-kd.com/resize/globalassets/mid_waist_lace_thong_1100-007472-4083_16220.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/mid_waist_lace_thong_1100-007472-4083_16209.jpg?width=640",
             "https://www.na-kd.com/resize/globalassets/mid_waist_lace_thong_1100-007472-4083_16234.jpg?width=640",
             "https://www.na-kd.com/resize/globalassets/mid_waist_lace_thong-1100-007472-4083_5362_flatlayf.jpg?width=640"
         ],
@@ -815,6 +828,46 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_qute_double_strap_thong-1013-001033-0256_0574_flatlay_r.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/dubbele-string-met-bandjes-coral-1013-001033-0256",
         "id": "1-1013-001033-0256-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Sugar Bow tanga met kant",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/sugar_bow_lace_thong-1100-008607-0002-55.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/sugar_bow_lace_thong-1100-008607-0002-22.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/sugar_bow_lace_thong-1100-008607-0002-876.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/sugar_bow_lace_thong-1100-008607-0002.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/sugar_bow_lace_thong_1100-008607-00027492_flatlayf.jpg?width=640"
+        ],
+        "prijs": 14.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-008607-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/sugar_bow_lace_thong-1100-008607-0002-55.jpg?ref=C954BD14FF",
+                "url": "https://www.na-kd.com/nl/zoek-producten/sugar-bow-lace-thong-black-1100-008607-0002"
+            },
+            {
+                "id": "1-1100-008607-0003",
+                "naam": "Blauw",
+                "hex": "#6683A9",
+                "img_url": "https://www.na-kd.com/resize/globalassets/sugar_bow_lace_thong_1100-008607-0003_flatlayf.jpg?ref=06E5CBD9AD",
+                "url": "https://www.na-kd.com/nl/zoek-producten/sugar-bow-lace-thong-blue-1100-008607-0003"
+            },
+            {
+                "id": "1-1100-008607-0719",
+                "naam": "Gebroken wit",
+                "hex": "#FAF9F8",
+                "img_url": "https://www.na-kd.com/resize/globalassets/sugar_bow_lace_thong-1100-008607-0719_18761.jpg?ref=70EFFAA297",
+                "url": "https://www.na-kd.com/nl/zoek-producten/sugar-bow-lace-thong-pearl-1100-008607-0719"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/sugar_bow_lace_thong-1100-008607-0002-55.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/sugar_bow_lace_thong_1100-008607-00027492_flatlayf.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/sugar-bow-lace-thong-black-1100-008607-0002",
+        "id": "1-1100-008607-0002-004",
         "kleurHex": null
     },
     {
@@ -1119,33 +1172,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/lace_hipster_1100-007703-00020025_flatlayf.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/lace-hipster-black-1100-007703-0002",
         "id": "1-1100-007703-0002-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Kanten slipje met cut-out",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/cut_out_lace_panty-1100-008451-0212-30.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/cut_out_lace_panty-1100-008451-0212-67.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/cut_out_lace_panty-1100-008451-0212-79.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/cut_out_lace_panty-1100-008451-0212-262.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/cut_out_lace_panty-1100-008451-0212-lace_suspender_belt-1100-008449-0212-cut_out_underwired_bra-1100-008450-0212_18168.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/cut_out_lace_panty_1100-008451-02127463_flatlayf.jpg?width=640"
-        ],
-        "prijs": 14.95,
-        "kleur": "Burgundy",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-008451-0212",
-                "naam": "Donkerrood",
-                "hex": "#773443",
-                "img_url": "https://www.na-kd.com/resize/globalassets/cut_out_lace_panty-1100-008451-0212-30.jpg?ref=3A45866CF8",
-                "url": "https://www.na-kd.com/nl/zoek-producten/cut-out-lace-panty-burgundy-1100-008451-0212"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/cut_out_lace_panty-1100-008451-0212-30.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/cut_out_lace_panty_1100-008451-02127463_flatlayf.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/cut-out-lace-panty-burgundy-1100-008451-0212",
-        "id": "1-1100-008451-0212-004",
         "kleurHex": null
     }
 ]
