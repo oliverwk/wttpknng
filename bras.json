@@ -150,13 +150,6 @@
                 "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-dark-red-1013-001032-0039"
             },
             {
-                "id": "1-1013-001032-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra_1013-001032-0002_1_flatlay.jpg?ref=B1ED5D6E83",
-                "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-black-1013-001032-0002"
-            },
-            {
                 "id": "1-1013-001032-0256",
                 "naam": "Roze",
                 "hex": "#ffbea0",
@@ -226,6 +219,32 @@
         "url": "https://www.na-kd.com/nl/zoek-producten/gerimpelde-mesh-triangel-top-veelkleurig-1013-001080-8814",
         "id": "1-1013-001080-8814-004",
         "kleurHex": "#E2E4E0"
+    },
+    {
+        "naam": "Glitter-BH",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_1013-001223-0002_social.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_gllitter_bra_1013-001223-0002_01.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_gllitter_bra_1013-001223-0002_02.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_gllitter_bra_1013-001223-0002_22362.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_gllitter_bra_1013-001223-0002_22386.jpg?width=640"
+        ],
+        "prijs": 5.98,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001223-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_1013-001223-0002_social.jpg?ref=DC5D8BF251",
+                "url": "https://www.na-kd.com/nl/zoek-producten/glitter-bra-black-1013-001223-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_1013-001223-0002_social.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_gllitter_bra_1013-001223-0002_22386.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/glitter-bra-black-1013-001223-0002",
+        "id": "1-1013-001223-0002-664",
+        "kleurHex": null
     },
     {
         "naam": "Beha met brede bandjes en kanten cup",
@@ -311,6 +330,32 @@
         "kleurHex": null
     },
     {
+        "naam": "Verlengde beugelbeha",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_extended_wire_bra_1737-000028-0002_4855.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_extended_wire_bra_1737-000028-0002_4890.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_extended_wire_bra_1737-000028-0002_4905.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_extended_wire_bra_1737-000028-0002_4872.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/extended_wire_bra_1737-000028-0002_flatlay.jpg?width=640"
+        ],
+        "prijs": 7.48,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1737-000028-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_extended_wire_bra_1737-000028-0002_4855.jpg?ref=63614807C4",
+                "url": "https://www.na-kd.com/nl/zoek-producten/extended-wire-bra-black-1737-000028-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_extended_wire_bra_1737-000028-0002_4855.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/extended_wire_bra_1737-000028-0002_flatlay.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/extended-wire-bra-black-1737-000028-0002",
+        "id": "1-1737-000028-0002-664",
+        "kleurHex": null
+    },
+    {
         "naam": "Cup bh met strikdetail",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0256_34884.jpg?width=640",
@@ -328,13 +373,6 @@
                 "hex": "#ffbea0",
                 "img_url": "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0256_34884.jpg?ref=11E4B65E4D",
                 "url": "https://www.na-kd.com/nl/zoek-producten/cup-bh-met-strikdetail-coral-1013-001032-0256"
-            },
-            {
-                "id": "1-1013-001032-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra_1013-001032-0002_1_flatlay.jpg?ref=B1ED5D6E83",
-                "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-black-1013-001032-0002"
             },
             {
                 "id": "1-1013-001032-0039",
@@ -479,53 +517,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/embroidery-detailed-bra_1013-001290-0003_2_flatlay.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/embroidery-detailed-bra-blue-1013-001290-0003",
         "id": "1-1013-001290-0003-664",
-        "kleurHex": null
-    },
-    {
-        "naam": "Cup bh met strikdetail",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra_1013-001032-0002_1_flatlay.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0002_01a_r11.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0002_02b_r11.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0002_03j_r11.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0002_04k_r11.jpg?width=640"
-        ],
-        "prijs": 8.98,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001032-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra_1013-001032-0002_1_flatlay.jpg?ref=B1ED5D6E83",
-                "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-black-1013-001032-0002"
-            },
-            {
-                "id": "1-1013-001032-0039",
-                "naam": "Roze",
-                "hex": "#A3584F",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0039_01a_r11.jpg?ref=E02A110110",
-                "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-dark-red-1013-001032-0039"
-            },
-            {
-                "id": "1-1013-001032-0256",
-                "naam": "Roze",
-                "hex": "#ffbea0",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0256_34884.jpg?ref=11E4B65E4D",
-                "url": "https://www.na-kd.com/nl/zoek-producten/cup-bh-met-strikdetail-coral-1013-001032-0256"
-            },
-            {
-                "id": "1-1013-001032-0001",
-                "naam": "Wit",
-                "hex": "#FFFFFF",
-                "img_url": "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra_1013-001032-0001_2_flatlay.jpg?ref=F9FFCFF6F0",
-                "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-white-1013-001032-0001"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra_1013-001032-0002_1_flatlay.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0002_04k_r11.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-black-1013-001032-0002",
-        "id": "1-1013-001032-0002-664",
         "kleurHex": null
     },
     {
@@ -1066,39 +1057,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/eyelash_lace_top_1013-000879-0002_1_flatlayf.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/gerecycleerd-eyelash-top-van-kant-zwart",
         "id": "1-1013-000879-0002-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Zachte beha van wimperkant",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/eyelash_soft_bra_1100-008521-0017_74.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/eyelash_soft_bra_1100-008521-0017_48.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/eyelash_soft_bra_1100-008521-0017_eyelash_thong_1100-008522-0017_18410.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/eyelash_soft_bra_1100-008521-0017_50.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/eyelash_soft_bra_1100-008521-00177468_flatlayf.jpg?width=640"
-        ],
-        "prijs": 19.95,
-        "kleur": "Brown",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-008521-0017",
-                "naam": "Bruin",
-                "hex": "#423332",
-                "img_url": "https://www.na-kd.com/resize/globalassets/eyelash_soft_bra_1100-008521-0017_74.jpg?ref=D5F48F0416",
-                "url": "https://www.na-kd.com/nl/zoek-producten/eyelash-soft-bra-brown-1100-008521-0017"
-            },
-            {
-                "id": "1-1100-008521-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/eyelash_soft_bra-1100-008521-0002_18759.jpg?ref=E64E9C7FAA",
-                "url": "https://www.na-kd.com/nl/zoek-producten/eyelash-soft-bra-black-1100-008521-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/eyelash_soft_bra_1100-008521-0017_74.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/eyelash_soft_bra_1100-008521-00177468_flatlayf.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/eyelash-soft-bra-brown-1100-008521-0017",
-        "id": "1-1100-008521-0017-004",
         "kleurHex": null
     }
 ]
