@@ -176,12 +176,76 @@
                 "hex": "#0C1214",
                 "img_url": "https://www.na-kd.com/resize/globalassets/strap_detailed_bra-1687-000101-00024196_.jpg?ref=5B68BF374B",
                 "url": "https://www.na-kd.com/nl/zoek-producten/strap-detailed-bra-black-1687-000101-0002"
+            },
+            {
+                "id": "1-1687-000101-0260",
+                "naam": "Wit",
+                "hex": "#FFFFFF",
+                "img_url": "https://www.na-kd.com/resize/globalassets/strap_detailed_bra-1687-000101-02604154_.jpg?ref=4BFA2B056A",
+                "url": "https://www.na-kd.com/nl/zoek-producten/strap-detailed-bra-offwhite-1687-000101-0260"
             }
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/strap_detailed_bra-1687-000101-00024196_.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/strap_detailed_bra-1687-000101-00024206_.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/strap-detailed-bra-black-1687-000101-0002",
         "id": "1-1687-000101-0002-664",
+        "kleurHex": null
+    },
+    {
+        "naam": "Beha met brede bandjes en kanten cup",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/wide_strap_lace_cup_bra_1013-001180-0719_03.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/wide_strap_lace_cup_bra_1013-001180-0719_04.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/wide_strap_lace_cup_bra_1013-001180-0719_01.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/wide_strap_lace_cup_bra_1013-001180-0719_02.jpg?width=640"
+        ],
+        "prijs": 4.48,
+        "kleur": "Pearl",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001180-0719",
+                "naam": "Beige",
+                "hex": "#CEB199",
+                "img_url": "https://www.na-kd.com/resize/globalassets/wide_strap_lace_cup_bra_1013-001180-0719_03.jpg?ref=356BEB393B",
+                "url": "https://www.na-kd.com/nl/zoek-producten/wide-strap-lace-cup-bra-pearl-1013-001180-0719"
+            },
+            {
+                "id": "1-1013-001180-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/wide_strap_lace_cup_bra_1013-001180-0002_6896.jpg?ref=77858E7CB5",
+                "url": "https://www.na-kd.com/nl/zoek-producten/wide-strap-lace-cup-bra-black-1013-001180-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/wide_strap_lace_cup_bra_1013-001180-0719_03.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/wide_strap_lace_cup_bra_1013-001180-0719_02.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/wide-strap-lace-cup-bra-pearl-1013-001180-0719",
+        "id": "1-1013-001180-0719-664",
+        "kleurHex": null
+    },
+    {
+        "naam": "Flowy balconette bh met kantdetail",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/flowy_detail_lace_balconette_bra_1013-001191-0010_22159.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/flowy_detail_lace_balconette_bra_1013-001191-0010_22197.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/flowy_detail_lace_balconette_bra_1013-001191-0010_22147.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/flowy_detail_lace_balconette_bra_1013-001191-0010_22174.jpg?width=640"
+        ],
+        "prijs": 4.48,
+        "kleur": "Green",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001191-0010",
+                "naam": "Groen",
+                "hex": "#639E64",
+                "img_url": "https://www.na-kd.com/resize/globalassets/flowy_detail_lace_balconette_bra_1013-001191-0010_22159.jpg?ref=64B734DBBE",
+                "url": "https://www.na-kd.com/nl/zoek-producten/flowy-balconette-bh-met-kantdetail-groen-1013-001191-0010"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/flowy_detail_lace_balconette_bra_1013-001191-0010_22159.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/flowy_detail_lace_balconette_bra_1013-001191-0010_22174.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/flowy-balconette-bh-met-kantdetail-groen-1013-001191-0010",
+        "id": "1-1013-001191-0010-664",
         "kleurHex": null
     },
     {
@@ -208,6 +272,38 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_soft_bra_bow_detailed_lace_top-1013-001283-0348_0009_flatlay_r.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/soft-bra-bow-detailed-lace-top-berry-1013-001283-0348",
         "id": "1-1013-001283-0348-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Satijnen wikkel top met strik",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_wrap_around_satin_tie_top_1013-001098-0002_01.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_wrap_around_satin_tie_top_1013-001098-0002_02.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_wrap_around_satin_tie_top_1013-001098-0002_03.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_wrap_around_satin_tie_top_1013-001098-0002_04.jpg?width=640"
+        ],
+        "prijs": 4.48,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001098-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_wrap_around_satin_tie_top_1013-001098-0002_01.jpg?ref=B165EDD037",
+                "url": "https://www.na-kd.com/nl/zoek-producten/wrap-around-satin-tie-top-black-1013-001098-0002"
+            },
+            {
+                "id": "1-1013-001098-8626",
+                "naam": "Beige",
+                "hex": "#E5CFA8",
+                "img_url": "https://www.na-kd.com/resize/globalassets/wrap_around_satin_tie_top_1013-001098-8626_08e.jpg?ref=E49CA944CF",
+                "url": "https://www.na-kd.com/nl/zoek-producten/wrap-around-satin-tie-top-grey-beige-1013-001098-8626"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_wrap_around_satin_tie_top_1013-001098-0002_01.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_wrap_around_satin_tie_top_1013-001098-0002_04.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/wrap-around-satin-tie-top-black-1013-001098-0002",
+        "id": "1-1013-001098-0002-004",
         "kleurHex": null
     },
     {
@@ -344,6 +440,38 @@
         "kleurHex": null
     },
     {
+        "naam": "BH met smalle bandjes",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/strap_detailed_bra-1687-000101-02604154_.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/strap_detailed_bra-1687-000101-02604171_.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/strap_detailed_bra-1687-000101-02604146_.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/strap_detailed_bra-1687-000101-02604162_.jpg?width=640"
+        ],
+        "prijs": 4.48,
+        "kleur": "Offwhite",
+        "kleurFamilies": [
+            {
+                "id": "1-1687-000101-0260",
+                "naam": "Wit",
+                "hex": "#FFFFFF",
+                "img_url": "https://www.na-kd.com/resize/globalassets/strap_detailed_bra-1687-000101-02604154_.jpg?ref=4BFA2B056A",
+                "url": "https://www.na-kd.com/nl/zoek-producten/strap-detailed-bra-offwhite-1687-000101-0260"
+            },
+            {
+                "id": "1-1687-000101-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/strap_detailed_bra-1687-000101-00024196_.jpg?ref=5B68BF374B",
+                "url": "https://www.na-kd.com/nl/zoek-producten/strap-detailed-bra-black-1687-000101-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/strap_detailed_bra-1687-000101-02604154_.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/strap_detailed_bra-1687-000101-02604162_.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/strap-detailed-bra-offwhite-1687-000101-0260",
+        "id": "1-1687-000101-0260-664",
+        "kleurHex": null
+    },
+    {
         "naam": "Satijnen bh met ingerimpelde cup",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/gathered_cup_satin_bra-1013-001091-0047_multilayer_colored_pearl_necklace-1015-004471-00611464.jpg?width=640",
@@ -376,6 +504,31 @@
         "kleurHex": null
     },
     {
+        "naam": "Triangeltop",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_triangle_top_1013-001073-0002_01a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_triangle_top_1013-001073-0002_02b.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_triangle_top_1013-001073-0002_03j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_triangle_top_1013-001073-0002_04k.jpg?width=640"
+        ],
+        "prijs": 4.48,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001073-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_triangle_top_1013-001073-0002_01a.jpg?ref=95C6047597",
+                "url": "https://www.na-kd.com/nl/zoek-producten/wide-lace-triangle-top-black-1013-001073-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_triangle_top_1013-001073-0002_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_wide_lace_triangle_top_1013-001073-0002_04k.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/wide-lace-triangle-top-black-1013-001073-0002",
+        "id": "1-1013-001073-0002-004",
+        "kleurHex": null
+    },
+    {
         "naam": "Kanten Bh",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/trendyol_milla_lace_bra_1494-003895-0002_01a.jpg?width=640",
@@ -398,6 +551,31 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/trendyol_milla_lace_bra_1494-003895-0002_04k.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/kanten-bh-zwart-10",
         "id": "1-1494-003895-0002-005",
+        "kleurHex": null
+    },
+    {
+        "naam": "Zachte Geribde Rechte Top",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_soft_ribbed_straight_top_1013-000923-0324_01a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_soft_ribbed_straight_top_1013-000923-0324_02b.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_soft_ribbed_straight_top_1013-000923-0324_03a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_soft_ribbed_straight_top_1013-000923-0324_04b.jpg?width=640"
+        ],
+        "prijs": 5.98,
+        "kleur": "Dusty Green",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000923-0324",
+                "naam": "Beige",
+                "hex": "#eaded0",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_soft_ribbed_straight_top_1013-000923-0324_01a.jpg?ref=B0C2C836B8",
+                "url": "https://www.na-kd.com/nl/zoek-producten/zachte-geribde-rechte-top-groen-1013-000923-0324"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_soft_ribbed_straight_top_1013-000923-0324_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_soft_ribbed_straight_top_1013-000923-0324_04b.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/zachte-geribde-rechte-top-groen-1013-000923-0324",
+        "id": "1-1013-000923-0324-004",
         "kleurHex": null
     },
     {
@@ -676,6 +854,39 @@
         "kleurHex": null
     },
     {
+        "naam": "Bh met bloemenkant",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/flower_lace_bra-1013-001322-0002flower_detail_lace_thong-1013-001173-00022454.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/flower_lace_bra-1013-001322-0002flower_detail_lace_thong-1013-001173-00022465.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/flower_lace_bra-1013-001322-0002flower_detail_lace_thong-1013-001173-00022452.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/flower_lace_bra-1013-001322-0002flower_detail_lace_thong-1013-001173-00022483.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/flower_lace_bra_1013-001322-00021.jpg?width=640"
+        ],
+        "prijs": 5.98,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001322-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/flower_lace_bra-1013-001322-0002flower_detail_lace_thong-1013-001173-00022454.jpg?ref=703652D198",
+                "url": "https://www.na-kd.com/nl/zoek-producten/flower-lace-bra-black-1013-001322-0002"
+            },
+            {
+                "id": "1-1013-001322-0719",
+                "naam": "Gebroken wit",
+                "hex": "#FAF9F8",
+                "img_url": "https://www.na-kd.com/resize/globalassets/flower_lace_bra-1013-001322-0719-flower_detail_lace_thong-1013-001173-0719_21587-copy.jpg?ref=228AB6016C",
+                "url": "https://www.na-kd.com/nl/zoek-producten/flower-lace-bra-pearl-1013-001322-0719"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/flower_lace_bra-1013-001322-0002flower_detail_lace_thong-1013-001173-00022454.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/flower_lace_bra_1013-001322-00021.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/flower-lace-bra-black-1013-001322-0002",
+        "id": "1-1013-001322-0002-664",
+        "kleurHex": null
+    },
+    {
         "naam": "Bandeautop van kant",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/lace_bandeau_top-1013-001307-000242301.jpg?width=640",
@@ -728,6 +939,20 @@
                 "url": "https://www.na-kd.com/nl/zoek-producten/triangel-top-van-elastisch-kant-light-yellow-1013-000821-0404"
             },
             {
+                "id": "1-1013-000821-0113",
+                "naam": "Paars",
+                "hex": "#A17F9A",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_elastic_lace_trinagle_top_1013-000821-0113_01c.jpg?ref=EAA1C65797",
+                "url": "https://www.na-kd.com/nl/zoek-producten/triangel-top-van-elastisch-kant-violet-1013-000821-0113"
+            },
+            {
+                "id": "1-1013-000821-5310",
+                "naam": "Groen",
+                "hex": "#c0eac3",
+                "img_url": "https://www.na-kd.com/resize/globalassets/elastic_lace_triangle_top_1013-000821-5310_32479.jpg?ref=D48A74B8B2",
+                "url": "https://www.na-kd.com/nl/zoek-producten/triangel-top-van-elastisch-kant-jade-1013-000821-5310"
+            },
+            {
                 "id": "1-1013-000821-0002",
                 "naam": "Zwart",
                 "hex": "#0C1214",
@@ -739,39 +964,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/elastic_lace_triangle_top_1013-000821-0404_1.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/triangel-top-van-elastisch-kant-light-yellow-1013-000821-0404",
         "id": "1-1013-000821-0404-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Bh met bloemenkant",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/flower_lace_bra-1013-001322-0002flower_detail_lace_thong-1013-001173-00022454.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/flower_lace_bra-1013-001322-0002flower_detail_lace_thong-1013-001173-00022465.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/flower_lace_bra-1013-001322-0002flower_detail_lace_thong-1013-001173-00022452.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/flower_lace_bra-1013-001322-0002flower_detail_lace_thong-1013-001173-00022483.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/flower_lace_bra_1013-001322-00021.jpg?width=640"
-        ],
-        "prijs": 5.98,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001322-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/flower_lace_bra-1013-001322-0002flower_detail_lace_thong-1013-001173-00022454.jpg?ref=703652D198",
-                "url": "https://www.na-kd.com/nl/zoek-producten/flower-lace-bra-black-1013-001322-0002"
-            },
-            {
-                "id": "1-1013-001322-0719",
-                "naam": "Gebroken wit",
-                "hex": "#FAF9F8",
-                "img_url": "https://www.na-kd.com/resize/globalassets/flower_lace_bra-1013-001322-0719-flower_detail_lace_thong-1013-001173-0719_21587-copy.jpg?ref=228AB6016C",
-                "url": "https://www.na-kd.com/nl/zoek-producten/flower-lace-bra-pearl-1013-001322-0719"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/flower_lace_bra-1013-001322-0002flower_detail_lace_thong-1013-001173-00022454.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/flower_lace_bra_1013-001322-00021.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/flower-lace-bra-black-1013-001322-0002",
-        "id": "1-1013-001322-0002-664",
         "kleurHex": null
     },
     {
@@ -856,180 +1048,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_hardware_detailed_lace_cup_bra-1013-001281-0002_0538_flatlay.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/hardware-detailed-lace-cup-bra-black-1013-001281-0002",
         "id": "1-1013-001281-0002-664",
-        "kleurHex": null
-    },
-    {
-        "naam": "Triangel-top van elastisch kant",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_elastic_lace_triangle_top-1013-000821-0002_01a.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_elastic_lace_triangle_top-1013-000821-0002_02b.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_elastic_lace_triangle_top-1013-000821-0002_03j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_elastic_lace_triangle_top-1013-000821-0002_04k.jpg?width=640"
-        ],
-        "prijs": 5.98,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-000821-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_elastic_lace_triangle_top-1013-000821-0002_01a.jpg?ref=A228869AE8",
-                "url": "https://www.na-kd.com/nl/zoek-producten/triangel-top-van-elastisch-kant-zwart"
-            },
-            {
-                "id": "1-1013-000821-0404",
-                "naam": "Geel",
-                "hex": "#f7ee8f",
-                "img_url": "https://www.na-kd.com/resize/globalassets/elastic_lace_triangle_top_1013-000821-0404_32445.jpg?ref=DF2F44A11F",
-                "url": "https://www.na-kd.com/nl/zoek-producten/triangel-top-van-elastisch-kant-light-yellow-1013-000821-0404"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_elastic_lace_triangle_top-1013-000821-0002_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_elastic_lace_triangle_top-1013-000821-0002_04k.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/triangel-top-van-elastisch-kant-zwart",
-        "id": "1-1013-000821-0002-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Katoenen triangel bralette",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/triangle_cotton_bralette_1013-000901-00246071.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/triangle_cotton_bralette_1013-000901-00245990.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/triangle_cotton_bralette_1013-000901-00245976.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/triangle_cotton_bralette_1013-000901-00246036.jpg?width=640"
-        ],
-        "prijs": 5.98,
-        "kleur": "Yellow",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-000901-0024",
-                "naam": "Geel",
-                "hex": "#EAD49F",
-                "img_url": "https://www.na-kd.com/resize/globalassets/triangle_cotton_bralette_1013-000901-00246071.jpg?ref=18030FE108",
-                "url": "https://www.na-kd.com/nl/zoek-producten/katoenen-triangel-bralette-yellow-1013-000901-0024"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/triangle_cotton_bralette_1013-000901-00246071.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/triangle_cotton_bralette_1013-000901-00246036.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/katoenen-triangel-bralette-yellow-1013-000901-0024",
-        "id": "1-1013-000901-0024-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Bh met bloemenkant",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/flower_lace_bra-1013-001322-0719-flower_detail_lace_thong-1013-001173-0719_21587-copy.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/flower_lace_bra-1013-001322-0719-21510.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/flower_lace_bra-1013-001322-0719-21535.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/flower_lace_bra-1013-001322-0719-21496.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/flower_lace_bra-1013-001322-0719-21559.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/flower_lace_bra_1013-001322-07191.jpg?width=640"
-        ],
-        "prijs": 5.98,
-        "kleur": "Pearl",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001322-0719",
-                "naam": "Gebroken wit",
-                "hex": "#FAF9F8",
-                "img_url": "https://www.na-kd.com/resize/globalassets/flower_lace_bra-1013-001322-0719-flower_detail_lace_thong-1013-001173-0719_21587-copy.jpg?ref=228AB6016C",
-                "url": "https://www.na-kd.com/nl/zoek-producten/flower-lace-bra-pearl-1013-001322-0719"
-            },
-            {
-                "id": "1-1013-001322-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/flower_lace_bra-1013-001322-0002flower_detail_lace_thong-1013-001173-00022454.jpg?ref=703652D198",
-                "url": "https://www.na-kd.com/nl/zoek-producten/flower-lace-bra-black-1013-001322-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/flower_lace_bra-1013-001322-0719-flower_detail_lace_thong-1013-001173-0719_21587-copy.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/flower_lace_bra_1013-001322-07191.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/flower-lace-bra-pearl-1013-001322-0719",
-        "id": "1-1013-001322-0719-664",
-        "kleurHex": null
-    },
-    {
-        "naam": "Gestreepte micro triangeltop",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_striped_micro_triangle_top_1013-001110-5310_01.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_striped_micro_triangle_top_1013-001110-5310_02.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_striped_micro_triangle_top_1013-001110-5310_03.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_striped_micro_triangle_top_1013-001110-5310_04r.jpg?width=640"
-        ],
-        "prijs": 5.98,
-        "kleur": "Jade",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001110-5310",
-                "naam": "Groen",
-                "hex": "#77A77D",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_striped_micro_triangle_top_1013-001110-5310_01.jpg?ref=DB59B14FAC",
-                "url": "https://www.na-kd.com/nl/zoek-producten/striped-micro-triangle-top-jade-1013-001110-5310"
-            },
-            {
-                "id": "1-1013-001110-8369",
-                "naam": "Blauw",
-                "hex": "#BAC3C8",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_striped_micro_triangle_top-1013-001110-8369_02.jpg?ref=0C92EF4C1E",
-                "url": "https://www.na-kd.com/nl/zoek-producten/striped-micro-triangle-top-high-sky-1013-001110-8369"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_striped_micro_triangle_top_1013-001110-5310_01.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_striped_micro_triangle_top_1013-001110-5310_04r.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/striped-micro-triangle-top-jade-1013-001110-5310",
-        "id": "1-1013-001110-5310-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Kanten top met banddetail",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/strap_detailed_lace_top-1013-001294-0002_3.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/strap_detailed_lace_top-1013-001294-0002_2.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/strap_detailed_lace_top-1013-001294-0002_4.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/strap_detailed_lace_top-1013-001294-0002_1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/strp_detailed_lace_top_1013-001294-0002_1_flatlay.jpg?width=640"
-        ],
-        "prijs": 5.98,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001294-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/strap_detailed_lace_top-1013-001294-0002_3.jpg?ref=F9C4FECD10",
-                "url": "https://www.na-kd.com/nl/zoek-producten/strap-detailed-lace-top-black-1013-001294-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/strap_detailed_lace_top-1013-001294-0002_3.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/strp_detailed_lace_top_1013-001294-0002_1_flatlay.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/strap-detailed-lace-top-black-1013-001294-0002",
-        "id": "1-1013-001294-0002-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Triangeltop",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_high_triangle_lace_top-1013-001106-8347_4.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_high_triangle_lace_top-1013-001106-8347_2.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_high_triangle_lace_top-1013-001106-8347_1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_high_triangle_lace_top-1013-001106-8347_3.jpg?width=640"
-        ],
-        "prijs": 5.98,
-        "kleur": "Ming Green",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001106-8347",
-                "naam": "Groen",
-                "hex": "#449358",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_high_triangle_lace_top-1013-001106-8347_4.jpg?ref=B5FC93602B",
-                "url": "https://www.na-kd.com/nl/zoek-producten/high-triangle-lace-top-ming-green-1013-001106-8347"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_high_triangle_lace_top-1013-001106-8347_4.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_recycled_high_triangle_lace_top-1013-001106-8347_3.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/high-triangle-lace-top-ming-green-1013-001106-8347",
-        "id": "1-1013-001106-8347-004",
         "kleurHex": null
     }
 ]
