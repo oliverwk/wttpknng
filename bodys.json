@@ -1,30 +1,5 @@
 [
     {
-        "naam": "Bodysuit met schouderstrik en kant",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakdshoulder_tie_lace_bodysuit_1013-001127-107347333.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakdshoulder_tie_lace_bodysuit_1013-001127-107347346.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakdshoulder_tie_lace_bodysuit_1013-001127-107347365.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakdshoulder_tie_lace_bodysuit_1013-001127-107347354.jpg?width=640"
-        ],
-        "prijs": 7.48,
-        "kleur": "Brick Red",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001127-1073",
-                "naam": "Rood",
-                "hex": "#C2785D",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakdshoulder_tie_lace_bodysuit_1013-001127-107347333.jpg?ref=75F98441E8",
-                "url": "https://www.na-kd.com/nl/zoek-producten/shoulder-tie-lace-bodysuit-brick-red-1013-001127-1073"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakdshoulder_tie_lace_bodysuit_1013-001127-107347333.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakdshoulder_tie_lace_bodysuit_1013-001127-107347354.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/shoulder-tie-lace-bodysuit-brick-red-1013-001127-1073",
-        "id": "1-1013-001127-1073-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Gerecycleerd kanten body met mesh-mouwen",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_lace_mesh_sleeve_body_1017-001265-0002_27992.jpg?width=640",
@@ -247,28 +222,36 @@
         "kleurHex": null
     },
     {
-        "naam": "Diep V-vormige body",
+        "naam": "Kanten bodysuit met beugels",
         "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_deep_v_shape_body_1013-001225-0002_22615.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_deep_v_shape_body_1013-001225-0002_22631.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_deep_v_shape_body_1013-001225-0002_22625.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_deep_v_shape_body_1013-001225-0002_22603.jpg?width=640"
+            "https://www.na-kd.com/resize/globalassets/underwired_lace_bodysuit_1100-008447-0002_5526.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/underwired_lace_bodysuit_1100-008447-0002_5541.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/underwired_lace_bodysuit_1100-008447-0002_5515.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/underwired_lace_bodysuit_1100-008447-0002_5510.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/underwired_lace_bodysuit-1100-008447-0002_1103_flatlayf.jpg?width=640"
         ],
-        "prijs": 17.97,
+        "prijs": 20.97,
         "kleur": "Black",
         "kleurFamilies": [
             {
-                "id": "1-1013-001225-0002",
+                "id": "1-1100-008447-0002",
                 "naam": "Zwart",
                 "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_deep_v_shape_body_1013-001225-0002_22615.jpg?ref=902574E85B",
-                "url": "https://www.na-kd.com/nl/zoek-producten/diep-v-vormige-body-zwart-1013-001225-0002"
+                "img_url": "https://www.na-kd.com/resize/globalassets/underwired_lace_bodysuit_1100-008447-0002_5526.jpg?ref=02A0D243D4",
+                "url": "https://www.na-kd.com/nl/zoek-producten/underwired-lace-bodysuit-black-1100-008447-0002"
+            },
+            {
+                "id": "1-1100-008447-0004",
+                "naam": "Rood",
+                "hex": "#D33B48",
+                "img_url": "https://www.na-kd.com/resize/globalassets/underwire_lace_body_1100-008447-0004_5460.jpg?ref=3B36D25FED",
+                "url": "https://www.na-kd.com/nl/zoek-producten/underwired-lace-bodysuit-red-1100-008447-0004"
             }
         ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_deep_v_shape_body_1013-001225-0002_22615.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_deep_v_shape_body_1013-001225-0002_22603.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/diep-v-vormige-body-zwart-1013-001225-0002",
-        "id": "1-1013-001225-0002-004",
+        "img_url": "https://www.na-kd.com/resize/globalassets/underwired_lace_bodysuit_1100-008447-0002_5526.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/underwired_lace_bodysuit-1100-008447-0002_1103_flatlayf.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/underwired-lace-bodysuit-black-1100-008447-0002",
+        "id": "1-1100-008447-0002-664",
         "kleurHex": null
     },
     {
@@ -331,62 +314,55 @@
         "kleurHex": null
     },
     {
-        "naam": "Kanten bodysuit met beugels",
+        "naam": "Strakke kanten body met ronde hals",
         "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/underwired_lace_bodysuit_1100-008447-0002_5526.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/underwired_lace_bodysuit_1100-008447-0002_5541.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/underwired_lace_bodysuit_1100-008447-0002_5515.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/underwired_lace_bodysuit_1100-008447-0002_5510.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/underwired_lace_bodysuit-1100-008447-0002_1103_flatlayf.jpg?width=640"
+            "https://www.na-kd.com/resize/globalassets/scoop_neck_tight_lace_body-1812-000033-0002_1_01c.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/scoop_neck_tight_lace_body-1812-000033-0002_2.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/scoop_neck_tight_lace_body-1812-000033-0002_4.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/scoop_neck_tight_lace_body-1812-000033-0002_1scoop_neck_tight_lace_body-1812-000033-0002_3.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/scoop_neck_tight_lace_body-1812-000033-0002_campaign_1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/scoop_neck_tight_lace_body-1812-000033-0002_flatlayf.jpg?width=640"
         ],
-        "prijs": 20.97,
+        "prijs": 24.97,
         "kleur": "Black",
         "kleurFamilies": [
             {
-                "id": "1-1100-008447-0002",
+                "id": "1-1812-000033-0002",
                 "naam": "Zwart",
                 "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/underwired_lace_bodysuit_1100-008447-0002_5526.jpg?ref=02A0D243D4",
-                "url": "https://www.na-kd.com/nl/zoek-producten/underwired-lace-bodysuit-black-1100-008447-0002"
-            },
-            {
-                "id": "1-1100-008447-0004",
-                "naam": "Rood",
-                "hex": "#D33B48",
-                "img_url": "https://www.na-kd.com/resize/globalassets/underwire_lace_body_1100-008447-0004_5460.jpg?ref=3B36D25FED",
-                "url": "https://www.na-kd.com/nl/zoek-producten/underwired-lace-bodysuit-red-1100-008447-0004"
+                "img_url": "https://www.na-kd.com/resize/globalassets/scoop_neck_tight_lace_body-1812-000033-0002_1_01c.jpg?ref=1EEE1A09CF",
+                "url": "https://www.na-kd.com/nl/zoek-producten/scoop-neck-tight-lace-body-black-1812-000033-0002"
             }
         ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/underwired_lace_bodysuit_1100-008447-0002_5526.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/underwired_lace_bodysuit-1100-008447-0002_1103_flatlayf.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/underwired-lace-bodysuit-black-1100-008447-0002",
-        "id": "1-1100-008447-0002-664",
+        "img_url": "https://www.na-kd.com/resize/globalassets/scoop_neck_tight_lace_body-1812-000033-0002_1_01c.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/scoop_neck_tight_lace_body-1812-000033-0002_flatlayf.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/scoop-neck-tight-lace-body-black-1812-000033-0002",
+        "id": "1-1812-000033-0002-004",
         "kleurHex": null
     },
     {
-        "naam": "Kanten body",
+        "naam": "Diep V-vormige body",
         "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/lace_body-1100-007626-0002_1524_01c.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_body-1100-007626-0002_1537.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_body-1100-007626-0002_1543.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_body-1100-007626-0002_1557.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_body_1100-007626-00023449.jpg?width=640"
+            "https://www.na-kd.com/resize/globalassets/nakd_deep_v_shape_body_1013-001225-0002_22615.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_deep_v_shape_body_1013-001225-0002_22631.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_deep_v_shape_body_1013-001225-0002_22625.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_deep_v_shape_body_1013-001225-0002_22603.jpg?width=640"
         ],
-        "prijs": 20.97,
+        "prijs": 29.95,
         "kleur": "Black",
         "kleurFamilies": [
             {
-                "id": "1-1100-007626-0002",
+                "id": "1-1013-001225-0002",
                 "naam": "Zwart",
                 "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/lace_body-1100-007626-0002_1524_01c.jpg?ref=E2595C51DA",
-                "url": "https://www.na-kd.com/nl/zoek-producten/lace-body-black-1100-007626-0002"
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_deep_v_shape_body_1013-001225-0002_22615.jpg?ref=902574E85B",
+                "url": "https://www.na-kd.com/nl/zoek-producten/diep-v-vormige-body-zwart-1013-001225-0002"
             }
         ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/lace_body-1100-007626-0002_1524_01c.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/lace_body_1100-007626-00023449.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/lace-body-black-1100-007626-0002",
-        "id": "1-1100-007626-0002-664",
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_deep_v_shape_body_1013-001225-0002_22615.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_deep_v_shape_body_1013-001225-0002_22603.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/diep-v-vormige-body-zwart-1013-001225-0002",
+        "id": "1-1013-001225-0002-004",
         "kleurHex": null
     }
 ]
