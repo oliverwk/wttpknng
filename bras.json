@@ -295,38 +295,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Gestreepte micro triangeltop",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_striped_micro_triangle_top-1013-001110-8369_02.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_striped_micro_triangle_top-1013-001110-8369_04.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_striped_micro_triangle_top-1013-001110-8369_8741.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_striped_micro_triangle_top-1013-001110-8369_03r.jpg?width=640"
-        ],
-        "prijs": 5.98,
-        "kleur": "High Sky",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001110-8369",
-                "naam": "Blauw",
-                "hex": "#BAC3C8",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_striped_micro_triangle_top-1013-001110-8369_02.jpg?ref=0C92EF4C1E",
-                "url": "https://www.na-kd.com/nl/zoek-producten/striped-micro-triangle-top-high-sky-1013-001110-8369"
-            },
-            {
-                "id": "1-1013-001110-5310",
-                "naam": "Groen",
-                "hex": "#77A77D",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_striped_micro_triangle_top_1013-001110-5310_01.jpg?ref=DB59B14FAC",
-                "url": "https://www.na-kd.com/nl/zoek-producten/striped-micro-triangle-top-jade-1013-001110-5310"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_striped_micro_triangle_top-1013-001110-8369_02.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_striped_micro_triangle_top-1013-001110-8369_03r.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/striped-micro-triangle-top-high-sky-1013-001110-8369",
-        "id": "1-1013-001110-8369-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Cup bh met strikdetail",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0039_01a_r11.jpg?width=640",
@@ -363,6 +331,38 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0039_04k_r11.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-dark-red-1013-001032-0039",
         "id": "1-1013-001032-0039-664",
+        "kleurHex": null
+    },
+    {
+        "naam": "Gestreepte micro triangeltop",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_striped_micro_triangle_top-1013-001110-8369_02.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_striped_micro_triangle_top-1013-001110-8369_04.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_striped_micro_triangle_top-1013-001110-8369_8741.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_striped_micro_triangle_top-1013-001110-8369_03r.jpg?width=640"
+        ],
+        "prijs": 5.98,
+        "kleur": "High Sky",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001110-8369",
+                "naam": "Blauw",
+                "hex": "#BAC3C8",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_striped_micro_triangle_top-1013-001110-8369_02.jpg?ref=0C92EF4C1E",
+                "url": "https://www.na-kd.com/nl/zoek-producten/striped-micro-triangle-top-high-sky-1013-001110-8369"
+            },
+            {
+                "id": "1-1013-001110-5310",
+                "naam": "Groen",
+                "hex": "#77A77D",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_striped_micro_triangle_top_1013-001110-5310_01.jpg?ref=DB59B14FAC",
+                "url": "https://www.na-kd.com/nl/zoek-producten/striped-micro-triangle-top-jade-1013-001110-5310"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_striped_micro_triangle_top-1013-001110-8369_02.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_striped_micro_triangle_top-1013-001110-8369_03r.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/striped-micro-triangle-top-high-sky-1013-001110-8369",
+        "id": "1-1013-001110-8369-004",
         "kleurHex": null
     },
     {
@@ -632,13 +632,6 @@
                 "hex": "#3D893C",
                 "img_url": "https://www.na-kd.com/resize/globalassets/classic_unlined_lace_wire_bra_1013-000861-0010_1669-copy.jpg?ref=C4C635B8D8",
                 "url": "https://www.na-kd.com/nl/zoek-producten/klassieke-ongevoerde-beugelbeha-met-kant-green-1013-000861-0010"
-            },
-            {
-                "id": "1-1013-000861-0113",
-                "naam": "Paars",
-                "hex": "#A992AA",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_nakd-classic_unlined_lace_wire_bra-1013-000861-0113_01a.jpg?ref=B364741414",
-                "url": "https://www.na-kd.com/nl/zoek-producten/klassieke-ongevoerde-beugelbeha-met-kant-violet-1013-000861-0113"
             },
             {
                 "id": "1-1013-000861-0002",
