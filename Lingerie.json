@@ -245,6 +245,46 @@
         "kleurHex": null
     },
     {
+        "naam": "Kanten hipster",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/lace_hipster-1100-007703-0031-12.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/lace_hipster-1100-007703-0031-64.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/lace_hipster-1100-007703-0031-44.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/lace_hipster-1100-007703-0031-72.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/lace_hipster-1100-007703-0031_1237_flatlayf.jpg?width=640"
+        ],
+        "prijs": 4.48,
+        "kleur": "Olive Green",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-007703-0031",
+                "naam": "Olive Green",
+                "hex": "#B59162",
+                "img_url": "https://www.na-kd.com/resize/globalassets/lace_hipster-1100-007703-0031-12.jpg?ref=2F51AFD459",
+                "url": "https://www.na-kd.com/nl/zoek-producten/lace-hipster-olive-green-1100-007703-0031"
+            },
+            {
+                "id": "1-1100-007703-0004",
+                "naam": "Rood",
+                "hex": "#BF3D47",
+                "img_url": "https://www.na-kd.com/resize/globalassets/lace_hipster-1100-007703-0004_21185.jpg?ref=CD717CCD52",
+                "url": "https://www.na-kd.com/nl/zoek-producten/lace-hipster-red-1100-007703-0004"
+            },
+            {
+                "id": "1-1100-007703-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/lace_hipster-1100-007703-0002_20929.jpg?ref=E560B7C538",
+                "url": "https://www.na-kd.com/nl/zoek-producten/lace-hipster-black-1100-007703-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/lace_hipster-1100-007703-0031-12.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/lace_hipster-1100-007703-0031_1237_flatlayf.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/lace-hipster-olive-green-1100-007703-0031",
+        "id": "1-1100-007703-0031-004",
+        "kleurHex": null
+    },
+    {
         "naam": "Flowy brazilian slip met kantdetail",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/detail_flowy_lace_brazilian_panty_1013-001193-1084_01.jpg?width=640",
@@ -299,46 +339,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_waist_mesh_brief_1013-000972-3186-5069.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/mesh-slip-veelkleurig-1013-000972-3186",
         "id": "1-1013-000972-3186-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Kanten hipster",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/lace_hipster-1100-007703-0031-12.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_hipster-1100-007703-0031-64.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_hipster-1100-007703-0031-44.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_hipster-1100-007703-0031-72.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_hipster-1100-007703-0031_1237_flatlayf.jpg?width=640"
-        ],
-        "prijs": 4.48,
-        "kleur": "Olive Green",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-007703-0031",
-                "naam": "Olive Green",
-                "hex": "#B59162",
-                "img_url": "https://www.na-kd.com/resize/globalassets/lace_hipster-1100-007703-0031-12.jpg?ref=2F51AFD459",
-                "url": "https://www.na-kd.com/nl/zoek-producten/lace-hipster-olive-green-1100-007703-0031"
-            },
-            {
-                "id": "1-1100-007703-0004",
-                "naam": "Rood",
-                "hex": "#BF3D47",
-                "img_url": "https://www.na-kd.com/resize/globalassets/lace_hipster-1100-007703-0004_21185.jpg?ref=CD717CCD52",
-                "url": "https://www.na-kd.com/nl/zoek-producten/lace-hipster-red-1100-007703-0004"
-            },
-            {
-                "id": "1-1100-007703-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/lace_hipster-1100-007703-0002_20929.jpg?ref=E560B7C538",
-                "url": "https://www.na-kd.com/nl/zoek-producten/lace-hipster-black-1100-007703-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/lace_hipster-1100-007703-0031-12.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/lace_hipster-1100-007703-0031_1237_flatlayf.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/lace-hipster-olive-green-1100-007703-0031",
-        "id": "1-1100-007703-0031-004",
         "kleurHex": null
     },
     {
