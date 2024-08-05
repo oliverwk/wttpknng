@@ -57,6 +57,32 @@
         "kleurHex": null
     },
     {
+        "naam": "Zachte bh met strik en gedetailleerd kant",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/soft_bra_bow_detailed_lace_top_1013-001283-0348_088.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/soft_bra_bow_detailed_lace_top_1013-001283-0348_0812.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/soft_bra_bow_detailed_lace_top_1013-001283-0348_0869.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/soft_bra_bow_detailed_lace_top_1013-001283-0348_079.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_soft_bra_bow_detailed_lace_top-1013-001283-0348_0009_flatlay_r.jpg?width=640"
+        ],
+        "prijs": 4.48,
+        "kleur": "Berry",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001283-0348",
+                "naam": "Roze",
+                "hex": "#f77696",
+                "img_url": "https://www.na-kd.com/resize/globalassets/soft_bra_bow_detailed_lace_top_1013-001283-0348_088.jpg?ref=2C8A5E9A22",
+                "url": "https://www.na-kd.com/nl/zoek-producten/soft-bra-bow-detailed-lace-top-berry-1013-001283-0348"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/soft_bra_bow_detailed_lace_top_1013-001283-0348_088.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_soft_bra_bow_detailed_lace_top-1013-001283-0348_0009_flatlay_r.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/soft-bra-bow-detailed-lace-top-berry-1013-001283-0348",
+        "id": "1-1013-001283-0348-004",
+        "kleurHex": null
+    },
+    {
         "naam": "Beha met brede bandjes en kanten cup",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/wide_strap_lace_cup_bra_1013-001180-0719_03.jpg?width=640",
@@ -150,32 +176,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/gathered_cup_satin_bra_1013-001091-00011586.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/gathered-cup-satin-bra-white-1013-001091-0001",
         "id": "1-1013-001091-0001-664",
-        "kleurHex": null
-    },
-    {
-        "naam": "Zachte bh met strik en gedetailleerd kant",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/soft_bra_bow_detailed_lace_top_1013-001283-0348_088.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/soft_bra_bow_detailed_lace_top_1013-001283-0348_0812.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/soft_bra_bow_detailed_lace_top_1013-001283-0348_0869.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/soft_bra_bow_detailed_lace_top_1013-001283-0348_079.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_soft_bra_bow_detailed_lace_top-1013-001283-0348_0009_flatlay_r.jpg?width=640"
-        ],
-        "prijs": 4.48,
-        "kleur": "Berry",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001283-0348",
-                "naam": "Roze",
-                "hex": "#f77696",
-                "img_url": "https://www.na-kd.com/resize/globalassets/soft_bra_bow_detailed_lace_top_1013-001283-0348_088.jpg?ref=2C8A5E9A22",
-                "url": "https://www.na-kd.com/nl/zoek-producten/soft-bra-bow-detailed-lace-top-berry-1013-001283-0348"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/soft_bra_bow_detailed_lace_top_1013-001283-0348_088.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_soft_bra_bow_detailed_lace_top-1013-001283-0348_0009_flatlay_r.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/soft-bra-bow-detailed-lace-top-berry-1013-001283-0348",
-        "id": "1-1013-001283-0348-004",
         "kleurHex": null
     },
     {
@@ -375,32 +375,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_all_lace_wire_bra-1013-001262-0002_0283_flatlay.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/all-lace-wire-bra-black-1013-001262-0002",
         "id": "1-1013-001262-0002-664",
-        "kleurHex": null
-    },
-    {
-        "naam": "Zacht kanten bh",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_soft_lace_bra-1013-000282-00023614.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_soft_lace_bra-1013-000282-00023603.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_soft_lace_bra-1013-000282-00023576.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_soft_lace_bra-1013-000282-00023591.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/soft_lace_bra_1013-000282-0002_flatlay.jpg?width=640"
-        ],
-        "prijs": 4.99,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-000282-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_soft_lace_bra-1013-000282-00023614.jpg?ref=484BD857E9",
-                "url": "https://www.na-kd.com/nl/zoek-producten/soft-lace-bra-zwart"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_soft_lace_bra-1013-000282-00023614.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/soft_lace_bra_1013-000282-0002_flatlay.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/soft-lace-bra-zwart",
-        "id": "1-1013-000282-0002-004",
         "kleurHex": null
     },
     {
@@ -848,45 +822,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Triangel-top van elastisch kant",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_elastic_lace_triangle_top-1013-000821-0002_01a.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_elastic_lace_triangle_top-1013-000821-0002_02b.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_elastic_lace_triangle_top-1013-000821-0002_03j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_elastic_lace_triangle_top-1013-000821-0002_04k.jpg?width=640"
-        ],
-        "prijs": 5.98,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-000821-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_elastic_lace_triangle_top-1013-000821-0002_01a.jpg?ref=A228869AE8",
-                "url": "https://www.na-kd.com/nl/zoek-producten/triangel-top-van-elastisch-kant-zwart"
-            },
-            {
-                "id": "1-1013-000821-0113",
-                "naam": "Paars",
-                "hex": "#A17F9A",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_elastic_lace_trinagle_top_1013-000821-0113_01c.jpg?ref=EAA1C65797",
-                "url": "https://www.na-kd.com/nl/zoek-producten/triangel-top-van-elastisch-kant-violet-1013-000821-0113"
-            },
-            {
-                "id": "1-1013-000821-0404",
-                "naam": "Geel",
-                "hex": "#f7ee8f",
-                "img_url": "https://www.na-kd.com/resize/globalassets/elastic_lace_triangle_top_1013-000821-0404_32445.jpg?ref=DF2F44A11F",
-                "url": "https://www.na-kd.com/nl/zoek-producten/triangel-top-van-elastisch-kant-light-yellow-1013-000821-0404"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_elastic_lace_triangle_top-1013-000821-0002_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_elastic_lace_triangle_top-1013-000821-0002_04k.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/triangel-top-van-elastisch-kant-zwart",
-        "id": "1-1013-000821-0002-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Kanten bralette",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_romance_lace_soft_bra_1013-000659-4376_01a.jpg?width=640",
@@ -1040,6 +975,57 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/small_heart_detailed_wire_bra_1013-001259-0002.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/small-heart-detailed-wire-bra-black-1013-001259-0002",
         "id": "1-1013-001259-0002-664",
+        "kleurHex": null
+    },
+    {
+        "naam": "Geribde Top Met Sportieve Cut-Out",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/210121-valentines-day_1013-000831-0002_01s.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_sporty_cut_out_ribbed_top-1013-000831-0002_01a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_sporty_cut_out_ribbed_top-1013-000831-0002_02b.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_sporty_cut_out_ribbed_top-1013-000831-0002_03j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_sporty_cut_out_ribbed_top-1013-000831-0002_04a.jpg?width=640"
+        ],
+        "prijs": 5.98,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000831-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/210121-valentines-day_1013-000831-0002_01s.jpg?ref=115368E3B3",
+                "url": "https://www.na-kd.com/nl/zoek-producten/geribde-top-met-sportieve-cut-out-zwart"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/210121-valentines-day_1013-000831-0002_01s.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_sporty_cut_out_ribbed_top-1013-000831-0002_04a.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/geribde-top-met-sportieve-cut-out-zwart",
+        "id": "1-1013-000831-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Hoogglanzende bh",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/high_shine_bra_1013-001222-0002_01.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/high_shine_bra_1013-001222-0002_04.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/high_shine_bra_1013-001222-0002_02.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/high_shine_bra_1013-001222-0002_03.jpg?width=640"
+        ],
+        "prijs": 7.47,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001222-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/high_shine_bra_1013-001222-0002_01.jpg?ref=8C865C8468",
+                "url": "https://www.na-kd.com/nl/zoek-producten/hoogglanzende-bh-zwart-1013-001222-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/high_shine_bra_1013-001222-0002_01.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/high_shine_bra_1013-001222-0002_03.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/hoogglanzende-bh-zwart-1013-001222-0002",
+        "id": "1-1013-001222-0002-664",
         "kleurHex": null
     }
 ]
