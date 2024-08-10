@@ -57,6 +57,31 @@
         "kleurHex": null
     },
     {
+        "naam": "Kanten Bh",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/trendyol_milla_lace_bra_1494-003895-0002_01a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/trendyol_milla_lace_bra_1494-003895-0002_02b.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/trendyol_milla_lace_bra_1494-003895-0002_03j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/trendyol_milla_lace_bra_1494-003895-0002_04k.jpg?width=640"
+        ],
+        "prijs": 2.99,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1494-003895-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/trendyol_milla_lace_bra_1494-003895-0002_01a.jpg?ref=CA404E60B8",
+                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-bh-zwart-10"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/trendyol_milla_lace_bra_1494-003895-0002_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/trendyol_milla_lace_bra_1494-003895-0002_04k.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/kanten-bh-zwart-10",
+        "id": "1-1494-003895-0002-005",
+        "kleurHex": null
+    },
+    {
         "naam": "Zachte bh met strik en gedetailleerd kant",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/soft_bra_bow_detailed_lace_top_1013-001283-0348_088.jpg?width=640",
@@ -383,6 +408,72 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/sheer_lace_wire_corset-_1013-001329-0017_1_flatlay.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/sheer-lace-wire-corset-brown-1013-001329-0017",
         "id": "1-1013-001329-0017-664",
+        "kleurHex": null
+    },
+    {
+        "naam": "Verlengde beugelbeha",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/extended_wire_bra_1737-000028-0003_flatlay.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_extended_wire_bra_1737-000028-0003_4921.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_extended_wire_bra_1737-000028-0003_4952.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_extended_wire_bra_1737-000028-0003_4935.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_extended_wire_bra_1737-000028-0003_4963.jpg?width=640"
+        ],
+        "prijs": 4.99,
+        "kleur": "Blue",
+        "kleurFamilies": [
+            {
+                "id": "1-1737-000028-0003",
+                "naam": "Blauw",
+                "hex": "#036DC6",
+                "img_url": "https://www.na-kd.com/resize/globalassets/extended_wire_bra_1737-000028-0003_flatlay.jpg?ref=D5E6F5D9A0",
+                "url": "https://www.na-kd.com/nl/zoek-producten/extended-wire-bra-blue-1737-000028-0003"
+            },
+            {
+                "id": "1-1737-000028-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_extended_wire_bra_1737-000028-0002_4855.jpg?ref=63614807C4",
+                "url": "https://www.na-kd.com/nl/zoek-producten/extended-wire-bra-black-1737-000028-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/extended_wire_bra_1737-000028-0003_flatlay.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_extended_wire_bra_1737-000028-0003_4963.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/extended-wire-bra-blue-1737-000028-0003",
+        "id": "1-1737-000028-0003-664",
+        "kleurHex": null
+    },
+    {
+        "naam": "Verlengde beugelbeha",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_extended_wire_bra_1737-000028-0002_4855.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_extended_wire_bra_1737-000028-0002_4890.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_extended_wire_bra_1737-000028-0002_4905.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_extended_wire_bra_1737-000028-0002_4872.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/extended_wire_bra_1737-000028-0002_flatlay.jpg?width=640"
+        ],
+        "prijs": 4.99,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1737-000028-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_extended_wire_bra_1737-000028-0002_4855.jpg?ref=63614807C4",
+                "url": "https://www.na-kd.com/nl/zoek-producten/extended-wire-bra-black-1737-000028-0002"
+            },
+            {
+                "id": "1-1737-000028-0003",
+                "naam": "Blauw",
+                "hex": "#036DC6",
+                "img_url": "https://www.na-kd.com/resize/globalassets/extended_wire_bra_1737-000028-0003_flatlay.jpg?ref=D5E6F5D9A0",
+                "url": "https://www.na-kd.com/nl/zoek-producten/extended-wire-bra-blue-1737-000028-0003"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_extended_wire_bra_1737-000028-0002_4855.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/extended_wire_bra_1737-000028-0002_flatlay.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/extended-wire-bra-black-1737-000028-0002",
+        "id": "1-1737-000028-0002-664",
         "kleurHex": null
     },
     {
@@ -739,31 +830,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Kanten Bh",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/trendyol_milla_lace_bra_1494-003895-0002_01a.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/trendyol_milla_lace_bra_1494-003895-0002_02b.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/trendyol_milla_lace_bra_1494-003895-0002_03j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/trendyol_milla_lace_bra_1494-003895-0002_04k.jpg?width=640"
-        ],
-        "prijs": 5.98,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1494-003895-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/trendyol_milla_lace_bra_1494-003895-0002_01a.jpg?ref=CA404E60B8",
-                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-bh-zwart-10"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/trendyol_milla_lace_bra_1494-003895-0002_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/trendyol_milla_lace_bra_1494-003895-0002_04k.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/kanten-bh-zwart-10",
-        "id": "1-1494-003895-0002-005",
-        "kleurHex": null
-    },
-    {
         "naam": "Bandeautop van kant",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/lace_bandeau_top-1013-001307-000242301.jpg?width=640",
@@ -968,57 +1034,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/small_heart_detailed_wire_bra_1013-001259-0002.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/small-heart-detailed-wire-bra-black-1013-001259-0002",
         "id": "1-1013-001259-0002-664",
-        "kleurHex": null
-    },
-    {
-        "naam": "Geribde Top Met Sportieve Cut-Out",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/210121-valentines-day_1013-000831-0002_01s.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_sporty_cut_out_ribbed_top-1013-000831-0002_01a.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_sporty_cut_out_ribbed_top-1013-000831-0002_02b.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_sporty_cut_out_ribbed_top-1013-000831-0002_03j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_sporty_cut_out_ribbed_top-1013-000831-0002_04a.jpg?width=640"
-        ],
-        "prijs": 5.98,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-000831-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/210121-valentines-day_1013-000831-0002_01s.jpg?ref=115368E3B3",
-                "url": "https://www.na-kd.com/nl/zoek-producten/geribde-top-met-sportieve-cut-out-zwart"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/210121-valentines-day_1013-000831-0002_01s.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_sporty_cut_out_ribbed_top-1013-000831-0002_04a.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/geribde-top-met-sportieve-cut-out-zwart",
-        "id": "1-1013-000831-0002-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Hoogglanzende bh",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/high_shine_bra_1013-001222-0002_01.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/high_shine_bra_1013-001222-0002_04.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/high_shine_bra_1013-001222-0002_02.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/high_shine_bra_1013-001222-0002_03.jpg?width=640"
-        ],
-        "prijs": 7.47,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001222-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/high_shine_bra_1013-001222-0002_01.jpg?ref=8C865C8468",
-                "url": "https://www.na-kd.com/nl/zoek-producten/hoogglanzende-bh-zwart-1013-001222-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/high_shine_bra_1013-001222-0002_01.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/high_shine_bra_1013-001222-0002_03.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/hoogglanzende-bh-zwart-1013-001222-0002",
-        "id": "1-1013-001222-0002-664",
         "kleurHex": null
     }
 ]
