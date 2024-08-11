@@ -57,28 +57,35 @@
         "kleurHex": null
     },
     {
-        "naam": "Kanten Bh",
+        "naam": "BH met smalle bandjes",
         "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/trendyol_milla_lace_bra_1494-003895-0002_01a.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/trendyol_milla_lace_bra_1494-003895-0002_02b.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/trendyol_milla_lace_bra_1494-003895-0002_03j.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/trendyol_milla_lace_bra_1494-003895-0002_04k.jpg?width=640"
+            "https://www.na-kd.com/resize/globalassets/strap_detailed_bra-1687-000101-00024196_.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/strap_detailed_bra-1687-000101-00024217_.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/strap_detailed_bra-1687-000101-00024178_.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/strap_detailed_bra-1687-000101-00024206_.jpg?width=640"
         ],
-        "prijs": 2.99,
+        "prijs": 4.48,
         "kleur": "Black",
         "kleurFamilies": [
             {
-                "id": "1-1494-003895-0002",
+                "id": "1-1687-000101-0002",
                 "naam": "Zwart",
                 "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/trendyol_milla_lace_bra_1494-003895-0002_01a.jpg?ref=CA404E60B8",
-                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-bh-zwart-10"
+                "img_url": "https://www.na-kd.com/resize/globalassets/strap_detailed_bra-1687-000101-00024196_.jpg?ref=5B68BF374B",
+                "url": "https://www.na-kd.com/nl/zoek-producten/strap-detailed-bra-black-1687-000101-0002"
+            },
+            {
+                "id": "1-1687-000101-0260",
+                "naam": "Wit",
+                "hex": "#FFFFFF",
+                "img_url": "https://www.na-kd.com/resize/globalassets/strap_detailed_bra-1687-000101-02604154_.jpg?ref=4BFA2B056A",
+                "url": "https://www.na-kd.com/nl/zoek-producten/strap-detailed-bra-offwhite-1687-000101-0260"
             }
         ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/trendyol_milla_lace_bra_1494-003895-0002_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/trendyol_milla_lace_bra_1494-003895-0002_04k.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/kanten-bh-zwart-10",
-        "id": "1-1494-003895-0002-005",
+        "img_url": "https://www.na-kd.com/resize/globalassets/strap_detailed_bra-1687-000101-00024196_.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/strap_detailed_bra-1687-000101-00024206_.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/strap-detailed-bra-black-1687-000101-0002",
+        "id": "1-1687-000101-0002-664",
         "kleurHex": null
     },
     {
@@ -137,38 +144,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/gathered_cup_satin_bra_1013-001091-00011586.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/gathered-cup-satin-bra-white-1013-001091-0001",
         "id": "1-1013-001091-0001-664",
-        "kleurHex": null
-    },
-    {
-        "naam": "BH met smalle bandjes",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/strap_detailed_bra-1687-000101-00024196_.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/strap_detailed_bra-1687-000101-00024217_.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/strap_detailed_bra-1687-000101-00024178_.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/strap_detailed_bra-1687-000101-00024206_.jpg?width=640"
-        ],
-        "prijs": 4.48,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1687-000101-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/strap_detailed_bra-1687-000101-00024196_.jpg?ref=5B68BF374B",
-                "url": "https://www.na-kd.com/nl/zoek-producten/strap-detailed-bra-black-1687-000101-0002"
-            },
-            {
-                "id": "1-1687-000101-0260",
-                "naam": "Wit",
-                "hex": "#FFFFFF",
-                "img_url": "https://www.na-kd.com/resize/globalassets/strap_detailed_bra-1687-000101-02604154_.jpg?ref=4BFA2B056A",
-                "url": "https://www.na-kd.com/nl/zoek-producten/strap-detailed-bra-offwhite-1687-000101-0260"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/strap_detailed_bra-1687-000101-00024196_.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/strap_detailed_bra-1687-000101-00024206_.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/strap-detailed-bra-black-1687-000101-0002",
-        "id": "1-1687-000101-0002-664",
         "kleurHex": null
     },
     {
@@ -1034,6 +1009,32 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/small_heart_detailed_wire_bra_1013-001259-0002.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/small-heart-detailed-wire-bra-black-1013-001259-0002",
         "id": "1-1013-001259-0002-664",
+        "kleurHex": null
+    },
+    {
+        "naam": "Geribde Top Met Sportieve Cut-Out",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/210121-valentines-day_1013-000831-0002_01s.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_sporty_cut_out_ribbed_top-1013-000831-0002_01a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_sporty_cut_out_ribbed_top-1013-000831-0002_02b.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_sporty_cut_out_ribbed_top-1013-000831-0002_03j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_sporty_cut_out_ribbed_top-1013-000831-0002_04a.jpg?width=640"
+        ],
+        "prijs": 5.98,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000831-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/210121-valentines-day_1013-000831-0002_01s.jpg?ref=115368E3B3",
+                "url": "https://www.na-kd.com/nl/zoek-producten/geribde-top-met-sportieve-cut-out-zwart"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/210121-valentines-day_1013-000831-0002_01s.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_sporty_cut_out_ribbed_top-1013-000831-0002_04a.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/geribde-top-met-sportieve-cut-out-zwart",
+        "id": "1-1013-000831-0002-004",
         "kleurHex": null
     }
 ]
