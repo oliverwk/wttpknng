@@ -141,32 +141,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Bodysuit met korset en kant",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/corset_lace_bodysuit_1013-001327-02122630_01c.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/corset_lace_bodysuit_1013-001327-02122643.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/corset_lace_bodysuit_1013-001327-02122667.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/corset_lace_bodysuit_1013-001327-02122657.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/corset_lace_bodysuit_1013-001327-0212_1_flatlay.jpg?width=640"
-        ],
-        "prijs": 29.95,
-        "kleur": "Burgundy",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001327-0212",
-                "naam": "Donkerrood",
-                "hex": "#723E4A",
-                "img_url": "https://www.na-kd.com/resize/globalassets/corset_lace_bodysuit_1013-001327-02122630_01c.jpg?ref=688D89361B",
-                "url": "https://www.na-kd.com/nl/zoek-producten/corset-lace-bodysuit-burgundy-1013-001327-0212"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/corset_lace_bodysuit_1013-001327-02122630_01c.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/corset_lace_bodysuit_1013-001327-0212_1_flatlay.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/corset-lace-bodysuit-burgundy-1013-001327-0212",
-        "id": "1-1013-001327-0212-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Kanten body",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/lace_body-1100-007630-0002_1787_01c.jpg?width=640",
@@ -349,6 +323,32 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/strap_detail_lace_body_1100-008118-00017484_flatlayf.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/strap-detail-lace-body-white-1100-008118-0001",
         "id": "1-1100-008118-0001-664",
+        "kleurHex": null
+    },
+    {
+        "naam": "Bodysuit met korset en kant",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/corset_lace_bodysuit_1013-001327-02122630_01c.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/corset_lace_bodysuit_1013-001327-02122643.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/corset_lace_bodysuit_1013-001327-02122667.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/corset_lace_bodysuit_1013-001327-02122657.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/corset_lace_bodysuit_1013-001327-0212_1_flatlay.jpg?width=640"
+        ],
+        "prijs": 34.95,
+        "kleur": "Burgundy",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001327-0212",
+                "naam": "Donkerrood",
+                "hex": "#723E4A",
+                "img_url": "https://www.na-kd.com/resize/globalassets/corset_lace_bodysuit_1013-001327-02122630_01c.jpg?ref=688D89361B",
+                "url": "https://www.na-kd.com/nl/zoek-producten/corset-lace-bodysuit-burgundy-1013-001327-0212"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/corset_lace_bodysuit_1013-001327-02122630_01c.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/corset_lace_bodysuit_1013-001327-0212_1_flatlay.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/corset-lace-bodysuit-burgundy-1013-001327-0212",
+        "id": "1-1013-001327-0212-004",
         "kleurHex": null
     },
     {
