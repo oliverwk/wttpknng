@@ -853,6 +853,53 @@
         "kleurHex": null
     },
     {
+        "naam": "Cup bh met strikdetail",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra_1013-001032-0001_2_flatlay.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0001_01a_r11.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0001_02b_r11.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0001_03j_r11.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0001_04k_r11.jpg?width=640"
+        ],
+        "prijs": 4.48,
+        "kleur": "White",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001032-0001",
+                "naam": "Wit",
+                "hex": "#FFFFFF",
+                "img_url": "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra_1013-001032-0001_2_flatlay.jpg?ref=F9FFCFF6F0",
+                "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-white-1013-001032-0001"
+            },
+            {
+                "id": "1-1013-001032-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra_1013-001032-0002_1_flatlay.jpg?ref=B1ED5D6E83",
+                "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-black-1013-001032-0002"
+            },
+            {
+                "id": "1-1013-001032-0039",
+                "naam": "Roze",
+                "hex": "#A3584F",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0039_01a_r11.jpg?ref=E02A110110",
+                "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-dark-red-1013-001032-0039"
+            },
+            {
+                "id": "1-1013-001032-0256",
+                "naam": "Roze",
+                "hex": "#ffbea0",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0256_34884.jpg?ref=11E4B65E4D",
+                "url": "https://www.na-kd.com/nl/zoek-producten/cup-bh-met-strikdetail-coral-1013-001032-0256"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra_1013-001032-0001_2_flatlay.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0001_04k_r11.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-white-1013-001032-0001",
+        "id": "1-1013-001032-0001-664",
+        "kleurHex": null
+    },
+    {
         "naam": "Satijnen wikkel top met strik",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_wrap_around_satin_tie_top_1013-001098-0002_01.jpg?width=640",
@@ -933,31 +980,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_all_lace_wire_bra-1013-001262-0002_0283_flatlay.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/all-lace-wire-bra-black-1013-001262-0002",
         "id": "1-1013-001262-0002-664",
-        "kleurHex": null
-    },
-    {
-        "naam": "Kanten bh met ringdetail",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/ring_detail_lace_bra_1013-001226-8531_02.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/ring_detail_lace_bra_1013-001226-8531_04.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/ring_detail_lace_bra_1013-001226-8531_03.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/ring_detail_lace_bra_1013-001226-8531_01.jpg?width=640"
-        ],
-        "prijs": 4.99,
-        "kleur": "Strong Green",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001226-8531",
-                "naam": "Groen",
-                "hex": "#04A342",
-                "img_url": "https://www.na-kd.com/resize/globalassets/ring_detail_lace_bra_1013-001226-8531_02.jpg?ref=7B574A9300",
-                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-bh-met-ringdetail-groen-1013-001226-8531"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/ring_detail_lace_bra_1013-001226-8531_02.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/ring_detail_lace_bra_1013-001226-8531_01.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/kanten-bh-met-ringdetail-groen-1013-001226-8531",
-        "id": "1-1013-001226-8531-664",
         "kleurHex": null
     }
 ]
