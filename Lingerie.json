@@ -139,32 +139,6 @@
         "kleurHex": null
     },
     {
-        "naam": "String met kleine hartdetail",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/small_heart_detailed_thong_1013-001261-0002.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/small_heart_detailed_thong-1013-001261-0002_3424.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/small_heart_detailed_thong-1013-001261-0002_3450.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/small_heart_detailed_thong-1013-001261-0002_3443.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/small_heart_detailed_thong-1013-001261-0002_3459.jpg?width=640"
-        ],
-        "prijs": 2.99,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001261-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/small_heart_detailed_thong_1013-001261-0002.jpg?ref=1BAC404C6A",
-                "url": "https://www.na-kd.com/nl/zoek-producten/small-heart-detailed-thong-black-1013-001261-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/small_heart_detailed_thong_1013-001261-0002.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/small_heart_detailed_thong-1013-001261-0002_3459.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/small-heart-detailed-thong-black-1013-001261-0002",
-        "id": "1-1013-001261-0002-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Ingerimpeld satijnen braziliaans broekje met hoge uitsnijding",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_high_cut_gathered_satin_brazilian-1013-001092-0047_0763.jpg?width=640",
@@ -1099,6 +1073,38 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/wide_lace_edge_thong-_1013-001326-0002_1_flatlay.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/wide-lace-edge-thong-black-1013-001326-0002",
         "id": "1-1013-001326-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Micro string met kanten zijkant",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_side_micro_thong_1013-001250-0368_2.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_side_micro_thong_1013-001250-0368_27373.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_side_micro_thong_1013-001250-0368_1106.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_lace_side_micro_thong-1013-001250-0368_0042.jpg?width=640"
+        ],
+        "prijs": 8.97,
+        "kleur": "Lilac",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001250-0368",
+                "naam": "Paars",
+                "hex": "#f1bef7",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_side_micro_thong_1013-001250-0368_2.jpg?ref=F4837883CB",
+                "url": "https://www.na-kd.com/nl/zoek-producten/lace-side-micro-thong-lilac-1013-001250-0368"
+            },
+            {
+                "id": "1-1013-001250-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_side_micro_thong_1013-001250-0002_0922-copy.jpg?ref=9C4EE7CA87",
+                "url": "https://www.na-kd.com/nl/zoek-producten/lace-side-micro-thong-black-1013-001250-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_side_micro_thong_1013-001250-0368_2.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_side_micro_thong-1013-001250-0368_0042.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/lace-side-micro-thong-lilac-1013-001250-0368",
+        "id": "1-1013-001250-0368-004",
         "kleurHex": null
     }
 ]
