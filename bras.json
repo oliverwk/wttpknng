@@ -1,31 +1,5 @@
 [
     {
-        "naam": "Glitter-BH",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_1013-001223-0002_social.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_gllitter_bra_1013-001223-0002_01.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_gllitter_bra_1013-001223-0002_02.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_gllitter_bra_1013-001223-0002_22362.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_gllitter_bra_1013-001223-0002_22386.jpg?width=640"
-        ],
-        "prijs": 1.99,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001223-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_1013-001223-0002_social.jpg?ref=DC5D8BF251",
-                "url": "https://www.na-kd.com/nl/zoek-producten/glitter-bra-black-1013-001223-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_1013-001223-0002_social.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_gllitter_bra_1013-001223-0002_22386.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/glitter-bra-black-1013-001223-0002",
-        "id": "1-1013-001223-0002-664",
-        "kleurHex": null
-    },
-    {
         "naam": "Katoenen triangel bralette",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/triangle_cotton_bralette_1013-000901-00246071.jpg?width=640",
@@ -234,31 +208,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Triangel Bh",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_01a-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_02b-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_03j-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_04k-1.jpg?width=640"
-        ],
-        "prijs": 2.99,
-        "kleur": "Light Grey",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-000772-0068",
-                "naam": "Lichtgroen",
-                "hex": "#DFDFDD",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_01a-1.jpg?ref=F993C9AAAE",
-                "url": "https://www.na-kd.com/nl/zoek-producten/triangel-bh-groen-2"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_01a-1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_04k-1.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/triangel-bh-groen-2",
-        "id": "1-1013-000772-0068-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Satijnen wikkel top met strik",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/wrap_around_satin_tie_top_1013-001098-8626_08e.jpg?width=640",
@@ -290,6 +239,31 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/wrap_around_satin_tie_top_1013-001098-8626_07e.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/wrap-around-satin-tie-top-grey-beige-1013-001098-8626",
         "id": "1-1013-001098-8626-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Triangel Bh",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_01a-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_02b-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_03j-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_04k-1.jpg?width=640"
+        ],
+        "prijs": 2.99,
+        "kleur": "Light Grey",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000772-0068",
+                "naam": "Lichtgroen",
+                "hex": "#DFDFDD",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_01a-1.jpg?ref=F993C9AAAE",
+                "url": "https://www.na-kd.com/nl/zoek-producten/triangel-bh-groen-2"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_01a-1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_04k-1.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/triangel-bh-groen-2",
+        "id": "1-1013-000772-0068-004",
         "kleurHex": null
     },
     {
@@ -424,13 +398,6 @@
                 "hex": "#FFFFFF",
                 "img_url": "https://www.na-kd.com/resize/globalassets/gathered_cup_satin_bra_1013-001091-00011594.jpg?ref=47B614E20F",
                 "url": "https://www.na-kd.com/nl/zoek-producten/gathered-cup-satin-bra-white-1013-001091-0001"
-            },
-            {
-                "id": "1-1013-001091-0047",
-                "naam": "Blauw",
-                "hex": "#BEC8BF",
-                "img_url": "https://www.na-kd.com/resize/globalassets/gathered_cup_satin_bra-1013-001091-0047_multilayer_colored_pearl_necklace-1015-004471-00611464.jpg?ref=9B708BC3AD",
-                "url": "https://www.na-kd.com/nl/zoek-producten/gathered-cup-satin-bra-light-blue-1013-001091-0047"
             }
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/gathered_cup_satin_bra_1013-001091-00011594.jpg",
@@ -487,38 +454,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_ruffle_strap_pleated_bra-1013-000916-0324_3.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/geplooide-bh-met-ruchebandjes-groen-1013-000916-0324",
         "id": "1-1013-000916-0324-664",
-        "kleurHex": null
-    },
-    {
-        "naam": "Satijnen bh met ingerimpelde cup",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/gathered_cup_satin_bra-1013-001091-0047_multilayer_colored_pearl_necklace-1015-004471-00611464.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/gathered_cup_satin_bra-1013-001091-0047_multilayer_colored_pearl_necklace-1015-004471-00611489.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/gathered_cup_satin_bra-1013-001091-0047_multilayer_colored_pearl_necklace-1015-004471-00611450.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/gathered_cup_satin_bra-1013-001091-0047_multilayer_colored_pearl_necklace-1015-004471-00611477.jpg?width=640"
-        ],
-        "prijs": 3.99,
-        "kleur": "Light Blue",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001091-0047",
-                "naam": "Blauw",
-                "hex": "#BEC8BF",
-                "img_url": "https://www.na-kd.com/resize/globalassets/gathered_cup_satin_bra-1013-001091-0047_multilayer_colored_pearl_necklace-1015-004471-00611464.jpg?ref=9B708BC3AD",
-                "url": "https://www.na-kd.com/nl/zoek-producten/gathered-cup-satin-bra-light-blue-1013-001091-0047"
-            },
-            {
-                "id": "1-1013-001091-0001",
-                "naam": "Wit",
-                "hex": "#FFFFFF",
-                "img_url": "https://www.na-kd.com/resize/globalassets/gathered_cup_satin_bra_1013-001091-00011594.jpg?ref=47B614E20F",
-                "url": "https://www.na-kd.com/nl/zoek-producten/gathered-cup-satin-bra-white-1013-001091-0001"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/gathered_cup_satin_bra-1013-001091-0047_multilayer_colored_pearl_necklace-1015-004471-00611464.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/gathered_cup_satin_bra-1013-001091-0047_multilayer_colored_pearl_necklace-1015-004471-00611477.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/gathered-cup-satin-bra-light-blue-1013-001091-0047",
-        "id": "1-1013-001091-0047-664",
         "kleurHex": null
     },
     {
@@ -777,53 +712,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Cup bh met strikdetail",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra_1013-001032-0001_2_flatlay.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0001_01a_r11.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0001_02b_r11.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0001_03j_r11.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0001_04k_r11.jpg?width=640"
-        ],
-        "prijs": 4.48,
-        "kleur": "White",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001032-0001",
-                "naam": "Wit",
-                "hex": "#FFFFFF",
-                "img_url": "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra_1013-001032-0001_2_flatlay.jpg?ref=F9FFCFF6F0",
-                "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-white-1013-001032-0001"
-            },
-            {
-                "id": "1-1013-001032-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra_1013-001032-0002_1_flatlay.jpg?ref=B1ED5D6E83",
-                "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-black-1013-001032-0002"
-            },
-            {
-                "id": "1-1013-001032-0039",
-                "naam": "Roze",
-                "hex": "#A3584F",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0039_01a_r11.jpg?ref=E02A110110",
-                "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-dark-red-1013-001032-0039"
-            },
-            {
-                "id": "1-1013-001032-0256",
-                "naam": "Roze",
-                "hex": "#ffbea0",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0256_34884.jpg?ref=11E4B65E4D",
-                "url": "https://www.na-kd.com/nl/zoek-producten/cup-bh-met-strikdetail-coral-1013-001032-0256"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra_1013-001032-0001_2_flatlay.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0001_04k_r11.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-white-1013-001032-0001",
-        "id": "1-1013-001032-0001-664",
-        "kleurHex": null
-    },
-    {
         "naam": "Satijnen wikkel top met strik",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_wrap_around_satin_tie_top_1013-001098-0002_01.jpg?width=640",
@@ -879,32 +767,6 @@
         "url": "https://www.na-kd.com/nl/zoek-producten/gerimpelde-mesh-triangel-top-veelkleurig-1013-001080-8814",
         "id": "1-1013-001080-8814-004",
         "kleurHex": "#E2E4E0"
-    },
-    {
-        "naam": "Beugelbh van kant",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/all_lace_wire_bra-1013-001262-0002_3082.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/all_lace_wire_bra-1013-001262-0002_3093.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/all_lace_wire_bra-1013-001262-0002_3060.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/all_lace_wire_bra-1013-001262-0002_3115.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_all_lace_wire_bra-1013-001262-0002_0283_flatlay.jpg?width=640"
-        ],
-        "prijs": 4.99,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001262-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/all_lace_wire_bra-1013-001262-0002_3082.jpg?ref=528D3D0426",
-                "url": "https://www.na-kd.com/nl/zoek-producten/all-lace-wire-bra-black-1013-001262-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/all_lace_wire_bra-1013-001262-0002_3082.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_all_lace_wire_bra-1013-001262-0002_0283_flatlay.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/all-lace-wire-bra-black-1013-001262-0002",
-        "id": "1-1013-001262-0002-664",
-        "kleurHex": null
     },
     {
         "naam": "Kanten bh met ringdetail",
@@ -980,6 +842,123 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_twisted_thin_strap_satin_bra_1013-001093-651_02_r.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/gedraaide-satijnen-bh-met-dunne-bandjes-oxford-tan-1013-001093-651",
         "id": "1-1013-001093-651-664",
+        "kleurHex": null
+    },
+    {
+        "naam": "Leopard Balconette Bra",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_leopard_balconette_bra_1013-000425-1045_01a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_leopard_balconette_bra_1013-000425-1045_02b.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_leopard_balconette_bra_1013-000425-1045_03a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_leopard_balconette_bra_1013-000425-1045_04b.jpg?width=640"
+        ],
+        "prijs": 5.98,
+        "kleur": "Leo",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000425-1045",
+                "naam": "Veelkleurig",
+                "hex": "#E2E4E0",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_leopard_balconette_bra_1013-000425-1045_01a.jpg?ref=2E772F32D0",
+                "url": "https://www.na-kd.com/nl/zoek-producten/leopard-balconette-bra-veelkleurig"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_leopard_balconette_bra_1013-000425-1045_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_leopard_balconette_bra_1013-000425-1045_04b.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/leopard-balconette-bra-veelkleurig",
+        "id": "1-1013-000425-1045-664",
+        "kleurHex": "#E2E4E0"
+    },
+    {
+        "naam": "Triangel-top van elastisch kant",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/elastic_lace_triangle_top_1013-000821-0404_32445.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/elastic_lace_triangle_top_1013-000821-0404_32390.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/elastic_lace_triangle_top_1013-000821-0404_32432.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/elastic_lace_triangle_top_1013-000821-0404_32411.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/elastic_lace_triangle_top_1013-000821-0404_1.jpg?width=640"
+        ],
+        "prijs": 8.97,
+        "kleur": "Light Yellow",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000821-0404",
+                "naam": "Geel",
+                "hex": "#f7ee8f",
+                "img_url": "https://www.na-kd.com/resize/globalassets/elastic_lace_triangle_top_1013-000821-0404_32445.jpg?ref=DF2F44A11F",
+                "url": "https://www.na-kd.com/nl/zoek-producten/triangel-top-van-elastisch-kant-light-yellow-1013-000821-0404"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/elastic_lace_triangle_top_1013-000821-0404_32445.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/elastic_lace_triangle_top_1013-000821-0404_1.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/triangel-top-van-elastisch-kant-light-yellow-1013-000821-0404",
+        "id": "1-1013-000821-0404-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Beugelbh met kleine hartdetail",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/small_heart_detailed_wire_bra_1013-001259-0015.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/small_heart_detailed_wire_bra-1013-001259-0015_2969.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/small_heart_detailed_wire_bra-1013-001259-0015_2987.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/small_heart_detailed_wire_bra-1013-001259-0015_2956.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/small_heart_detailed_wire_bra-1013-001259-0015_2983.jpg?width=640"
+        ],
+        "prijs": 7.48,
+        "kleur": "Pink",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001259-0015",
+                "naam": "Lichtroze",
+                "hex": "#f7d2e4",
+                "img_url": "https://www.na-kd.com/resize/globalassets/small_heart_detailed_wire_bra_1013-001259-0015.jpg?ref=A222FDF41E",
+                "url": "https://www.na-kd.com/nl/zoek-producten/small-heart-detailed-wire-bra-pink-1013-001259-0015"
+            },
+            {
+                "id": "1-1013-001259-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/small_heart_detailed_wire_bra-1013-001259-0002_234.jpg?ref=DF6EDF1D24",
+                "url": "https://www.na-kd.com/nl/zoek-producten/small-heart-detailed-wire-bra-black-1013-001259-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/small_heart_detailed_wire_bra_1013-001259-0015.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/small_heart_detailed_wire_bra-1013-001259-0015_2983.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/small-heart-detailed-wire-bra-pink-1013-001259-0015",
+        "id": "1-1013-001259-0015-664",
+        "kleurHex": null
+    },
+    {
+        "naam": "Beugelbh met kleine hartdetail",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/small_heart_detailed_wire_bra-1013-001259-0002_234.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/small_heart_detailed_wire_bra-1013-001259-0002_41.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/small_heart_detailed_wire_bra-1013-001259-0002_3604.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/small_heart_detailed_wire_bra-1013-001259-0002_638.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/small_heart_detailed_wire_bra_1013-001259-0002.jpg?width=640"
+        ],
+        "prijs": 7.48,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001259-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/small_heart_detailed_wire_bra-1013-001259-0002_234.jpg?ref=DF6EDF1D24",
+                "url": "https://www.na-kd.com/nl/zoek-producten/small-heart-detailed-wire-bra-black-1013-001259-0002"
+            },
+            {
+                "id": "1-1013-001259-0015",
+                "naam": "Lichtroze",
+                "hex": "#f7d2e4",
+                "img_url": "https://www.na-kd.com/resize/globalassets/small_heart_detailed_wire_bra_1013-001259-0015.jpg?ref=A222FDF41E",
+                "url": "https://www.na-kd.com/nl/zoek-producten/small-heart-detailed-wire-bra-pink-1013-001259-0015"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/small_heart_detailed_wire_bra-1013-001259-0002_234.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/small_heart_detailed_wire_bra_1013-001259-0002.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/small-heart-detailed-wire-bra-black-1013-001259-0002",
+        "id": "1-1013-001259-0002-664",
         "kleurHex": null
     }
 ]
