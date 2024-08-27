@@ -51,31 +51,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Bh met kleine stipjes",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102885.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102904.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102899.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102907.jpg?width=640"
-        ],
-        "prijs": 2.99,
-        "kleur": "Green",
-        "kleurFamilies": [
-            {
-                "id": "1-1730-000053-0010",
-                "naam": "Groen",
-                "hex": "#86AD3E",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102885.jpg?ref=468309507C",
-                "url": "https://www.na-kd.com/nl/zoek-producten/swiss-dot-bra-green-1730-000053-0010"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102885.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102907.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/swiss-dot-bra-green-1730-000053-0010",
-        "id": "1-1730-000053-0010-664",
-        "kleurHex": null
-    },
-    {
         "naam": "Gestreepte micro triangeltop",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_striped_micro_triangle_top_1013-001110-5310_01.jpg?width=640",
@@ -794,32 +769,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Geborduurde V-beugelbh",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/embroidery_v-wire_bra_1013-001288-0004.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/embroidery_v-wire_bra-1013-001288-000442192.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/embroidery_v-wire_bra-1013-001288-000442208.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/embroidery_v-wire_bra-1013-001288-000442227.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/embroidery_v-wire_bra-1013-001288-000442189.jpg?width=640"
-        ],
-        "prijs": 5.98,
-        "kleur": "Red",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001288-0004",
-                "naam": "Rood",
-                "hex": "#E24532",
-                "img_url": "https://www.na-kd.com/resize/globalassets/embroidery_v-wire_bra_1013-001288-0004.jpg?ref=9EE2CBF508",
-                "url": "https://www.na-kd.com/nl/zoek-producten/geborduurde-v-beugelbh-rood-1013-001288-0004"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/embroidery_v-wire_bra_1013-001288-0004.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/embroidery_v-wire_bra-1013-001288-000442189.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/geborduurde-v-beugelbh-rood-1013-001288-0004",
-        "id": "1-1013-001288-0004-664",
-        "kleurHex": null
-    },
-    {
         "naam": "Gedraaide satijnen bh met dunne bandjes",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_twisted_thin_strap_satin_bra_1013-001093-65146898_r.jpg?width=640",
@@ -959,6 +908,58 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/small_heart_detailed_wire_bra_1013-001259-0002.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/small-heart-detailed-wire-bra-black-1013-001259-0002",
         "id": "1-1013-001259-0002-664",
+        "kleurHex": null
+    },
+    {
+        "naam": "Zachte Geribde Triangeltop Met Kantdetail",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_soft_ribbed_lace_detail_traingle_top_1013-000925-0404_01a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_soft_ribbed_lace_detail_traingle_top_1013-000925-0404_02b.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_soft_ribbed_lace_detail_traingle_top_1013-000925-0404_03j.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_soft_ribbed_lace_detail_traingle_top_1013-000925-0404_04k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_soft_ribbed_lace_detail_traingle_top_1013-000925-0404_05g.jpg?width=640"
+        ],
+        "prijs": 8.97,
+        "kleur": "Light Yellow",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000925-0404",
+                "naam": "Geel",
+                "hex": "#DCB57B",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_soft_ribbed_lace_detail_traingle_top_1013-000925-0404_01a.jpg?ref=EDDC032692",
+                "url": "https://www.na-kd.com/nl/zoek-producten/soft-ribbed-lace-detail-triangle-top-light-yellow-1013-000925-0404"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_soft_ribbed_lace_detail_traingle_top_1013-000925-0404_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_soft_ribbed_lace_detail_traingle_top_1013-000925-0404_05g.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/soft-ribbed-lace-detail-triangle-top-light-yellow-1013-000925-0404",
+        "id": "1-1013-000925-0404-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Naadloze bH",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_seamless_square_bra_top_1703-000000-0348_01a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_seamless_square_bra_top_1703-000000-0348_02d.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_seamless_square_bra_top_1703-000000-0348_03c.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_seamless_square_bra_top_1703-000000-0348_04g.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_seamless_square_bra_top_1703-000000-0348_05g.jpg?width=640"
+        ],
+        "prijs": 7.99,
+        "kleur": "Berry",
+        "kleurFamilies": [
+            {
+                "id": "1-1703-000000-0348",
+                "naam": "Rood",
+                "hex": "#661C35",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_seamless_square_bra_top_1703-000000-0348_01a.jpg?ref=A74E6D4454",
+                "url": "https://www.na-kd.com/nl/zoek-producten/naadloos-bh-rood"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_seamless_square_bra_top_1703-000000-0348_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_seamless_square_bra_top_1703-000000-0348_05g.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/naadloos-bh-rood",
+        "id": "1-1703-000000-0348-005",
         "kleurHex": null
     }
 ]
