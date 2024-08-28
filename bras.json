@@ -83,31 +83,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Triangeltop",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_high_triangle_lace_top-1013-001106-8347_4.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_high_triangle_lace_top-1013-001106-8347_2.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_high_triangle_lace_top-1013-001106-8347_1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_high_triangle_lace_top-1013-001106-8347_3.jpg?width=640"
-        ],
-        "prijs": 2.99,
-        "kleur": "Ming Green",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001106-8347",
-                "naam": "Groen",
-                "hex": "#449358",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_high_triangle_lace_top-1013-001106-8347_4.jpg?ref=B5FC93602B",
-                "url": "https://www.na-kd.com/nl/zoek-producten/high-triangle-lace-top-ming-green-1013-001106-8347"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_high_triangle_lace_top-1013-001106-8347_4.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_recycled_high_triangle_lace_top-1013-001106-8347_3.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/high-triangle-lace-top-ming-green-1013-001106-8347",
-        "id": "1-1013-001106-8347-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Katoenen top met naaddetail en patch",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_seam_detail_patched_cotton_top_1013-000948-0138_01g.jpg?width=640",
@@ -183,6 +158,31 @@
         "kleurHex": null
     },
     {
+        "naam": "Triangel Bh",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_01a-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_02b-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_03j-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_04k-1.jpg?width=640"
+        ],
+        "prijs": 2.99,
+        "kleur": "Light Grey",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000772-0068",
+                "naam": "Lichtgroen",
+                "hex": "#DFDFDD",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_01a-1.jpg?ref=F993C9AAAE",
+                "url": "https://www.na-kd.com/nl/zoek-producten/triangel-bh-groen-2"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_01a-1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_04k-1.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/triangel-bh-groen-2",
+        "id": "1-1013-000772-0068-004",
+        "kleurHex": null
+    },
+    {
         "naam": "Satijnen wikkel top met strik",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/wrap_around_satin_tie_top_1013-001098-8626_08e.jpg?width=640",
@@ -214,31 +214,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/wrap_around_satin_tie_top_1013-001098-8626_07e.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/wrap-around-satin-tie-top-grey-beige-1013-001098-8626",
         "id": "1-1013-001098-8626-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Triangel Bh",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_01a-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_02b-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_03j-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_04k-1.jpg?width=640"
-        ],
-        "prijs": 2.99,
-        "kleur": "Light Grey",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-000772-0068",
-                "naam": "Lichtgroen",
-                "hex": "#DFDFDD",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_01a-1.jpg?ref=F993C9AAAE",
-                "url": "https://www.na-kd.com/nl/zoek-producten/triangel-bh-groen-2"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_01a-1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_04k-1.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/triangel-bh-groen-2",
-        "id": "1-1013-000772-0068-004",
         "kleurHex": null
     },
     {
@@ -960,6 +935,32 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_seamless_square_bra_top_1703-000000-0348_05g.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/naadloos-bh-rood",
         "id": "1-1703-000000-0348-005",
+        "kleurHex": null
+    },
+    {
+        "naam": "Gerecycleerde eyelash top van kant",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/eyelash_lace_top_1013-000879-0002_16541.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/eyelash_lace_top_1013-000879-0002_16554.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/eyelash_lace_top_1013-000879-0002_16550.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/eyelash_lace_top_1013-000879-0002_16577.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/eyelash_lace_top_1013-000879-0002_1_flatlayf.jpg?width=640"
+        ],
+        "prijs": 8.97,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000879-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/eyelash_lace_top_1013-000879-0002_16541.jpg?ref=850F79C2FC",
+                "url": "https://www.na-kd.com/nl/zoek-producten/gerecycleerd-eyelash-top-van-kant-zwart"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/eyelash_lace_top_1013-000879-0002_16541.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/eyelash_lace_top_1013-000879-0002_1_flatlayf.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/gerecycleerd-eyelash-top-van-kant-zwart",
+        "id": "1-1013-000879-0002-004",
         "kleurHex": null
     }
 ]
