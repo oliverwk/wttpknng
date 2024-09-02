@@ -207,32 +207,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Hoog uitgesneden kanten slipje",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties-1013-001304-0010_6281.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties-1013-001304-0010_6299.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties-1013-001304-0010_6305.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties-1013-001304-0010_6291.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties_1013-001304-00107444_flatlayf.jpg?width=640"
-        ],
-        "prijs": 7.47,
-        "kleur": "Green",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001304-0010",
-                "naam": "Groen",
-                "hex": "#90B86F",
-                "img_url": "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties-1013-001304-0010_6281.jpg?ref=E56093B42D",
-                "url": "https://www.na-kd.com/nl/zoek-producten/high-cut-lace-panties-green-1013-001304-0010"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties-1013-001304-0010_6281.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties_1013-001304-00107444_flatlayf.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/high-cut-lace-panties-green-1013-001304-0010",
-        "id": "1-1013-001304-0010-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Hipster van kant",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/all_lace_hipster-1013-001263-0002_3060.jpg?width=640",
@@ -1148,6 +1122,32 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/v-shape_lace_panty_1013-001306-0010_3_flatlay.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/v-shape-lace-panty-green-1013-001306-0010",
         "id": "1-1013-001306-0010-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Panty met hoge taille en borduursel",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/embroidery_high_waist_panty_1013-001289-0004_1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/embroidery_high_waist_panty-1013-001289-000442184.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/embroidery_high_waist_panty-1013-001289-000442217-copy.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/embroidery_high_waist_panty-1013-001289-000442196.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/embroidery_high_waist_panty-1013-001289-000442189-copy.jpg?width=640"
+        ],
+        "prijs": 7.47,
+        "kleur": "Red",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001289-0004",
+                "naam": "Rood",
+                "hex": "#DF372C",
+                "img_url": "https://www.na-kd.com/resize/globalassets/embroidery_high_waist_panty_1013-001289-0004_1.jpg?ref=01878C5855",
+                "url": "https://www.na-kd.com/nl/zoek-producten/embroidery-high-waist-panty-red-1013-001289-0004"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/embroidery_high_waist_panty_1013-001289-0004_1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/embroidery_high_waist_panty-1013-001289-000442189-copy.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/embroidery-high-waist-panty-red-1013-001289-0004",
+        "id": "1-1013-001289-0004-004",
         "kleurHex": null
     }
 ]
