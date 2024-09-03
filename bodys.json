@@ -210,28 +210,29 @@
         "kleurHex": null
     },
     {
-        "naam": "Micro body",
+        "naam": "Fijne kanten bodysuit",
         "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/micro_body-1100-010234-000216686.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/micro_body-1100-010234-000216688.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/micro_body-1100-010234-000216674.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/micro_body-1100-010234-000216712.jpg?width=640"
+            "https://www.na-kd.com/resize/globalassets/eyelash_lace_bodysuit_1100-008744-0001_22078.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/eyelash_lace_bodysuit_1100-008744-0001_22099.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/eyelash_lace_bodysuit_1100-008744-0001_22093.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/eyelash_lace_bodysuit_1100-008744-0001_22104.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/eyelash_lace_bodysuit-1100-008744-0001_0136_flatlayf.jpg?width=640"
         ],
         "prijs": 34.95,
-        "kleur": "Black",
+        "kleur": "White",
         "kleurFamilies": [
             {
-                "id": "1-1100-010234-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/micro_body-1100-010234-000216686.jpg?ref=D570CC4E4A",
-                "url": "https://www.na-kd.com/nl/zoek-producten/micro-body-black-1100-010234-0002"
+                "id": "1-1100-008744-0001",
+                "naam": "Wit",
+                "hex": "#FFFFFF",
+                "img_url": "https://www.na-kd.com/resize/globalassets/eyelash_lace_bodysuit_1100-008744-0001_22078.jpg?ref=C2234B5B22",
+                "url": "https://www.na-kd.com/nl/zoek-producten/eyelash-lace-bodysuit-white-1100-008744-0001"
             }
         ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/micro_body-1100-010234-000216686.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/micro_body-1100-010234-000216712.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/micro-body-black-1100-010234-0002",
-        "id": "1-1100-010234-0002-004",
+        "img_url": "https://www.na-kd.com/resize/globalassets/eyelash_lace_bodysuit_1100-008744-0001_22078.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/eyelash_lace_bodysuit-1100-008744-0001_0136_flatlayf.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/eyelash-lace-bodysuit-white-1100-008744-0001",
+        "id": "1-1100-008744-0001-664",
         "kleurHex": null
     }
 ]
