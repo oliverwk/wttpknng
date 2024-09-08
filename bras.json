@@ -180,32 +180,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Triangeltopje met bloemenkant en bandjes",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/flower_lace_strappy_detail_trianlge_top-1013-001315-000241971.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/flower_lace_strappy_detail_trianlge_top-1013-001315-000241985.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/flower_lace_strappy_detail_trianlge_top-1013-001315-000241998-copy.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/flower_lace_strappy_detail_trianlge_top-1013-001315-000241963-copy.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/flower_lace_strappy_detail_triangle_top_1013-001315-0002_1.jpg?width=640"
-        ],
-        "prijs": 7.47,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001315-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/flower_lace_strappy_detail_trianlge_top-1013-001315-000241971.jpg?ref=4777B19CC8",
-                "url": "https://www.na-kd.com/nl/zoek-producten/flower-lace-strappy-detail-triangle-top-black-1013-001315-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/flower_lace_strappy_detail_trianlge_top-1013-001315-000241971.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/flower_lace_strappy_detail_triangle_top_1013-001315-0002_1.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/flower-lace-strappy-detail-triangle-top-black-1013-001315-0002",
-        "id": "1-1013-001315-0002-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Binding Detail Mesh Bra",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_binding_detail_mesh_bra_1013-001139-1130_0302.jpg?width=640",
@@ -1147,6 +1121,39 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/flower_detai_lace_bra_1100-008873-0002_6664.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/flower-detail-lace-bra-black-1100-008873-0002",
         "id": "1-1100-008873-0002-664",
+        "kleurHex": null
+    },
+    {
+        "naam": "Kanten bh met bloemdetail",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/flower_detai_lace_bra_1100-008873-3014_6678.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/flower_detai_lace_bra_1100-008873-3014_6710.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/flower_detai_lace_bra_1100-008873-3014_6671.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/flower_detai_lace_bra_1100-008873-3014_6718.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/flower_detail_lace_bra-1100-008873-3014_0083_flatlayf.jpg?width=640"
+        ],
+        "prijs": 10.46,
+        "kleur": "Light Green",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-008873-3014",
+                "naam": "Groen",
+                "hex": "#E5DFCB",
+                "img_url": "https://www.na-kd.com/resize/globalassets/flower_detai_lace_bra_1100-008873-3014_6678.jpg?ref=5703AC0132",
+                "url": "https://www.na-kd.com/nl/zoek-producten/flower-detail-lace-bra-light-green-1100-008873-3014"
+            },
+            {
+                "id": "1-1100-008873-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/flower_detail_lace_bra-1100-008873-0002_0083_flatlayf.jpg?ref=0281DDEE2C",
+                "url": "https://www.na-kd.com/nl/zoek-producten/flower-detail-lace-bra-black-1100-008873-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/flower_detai_lace_bra_1100-008873-3014_6678.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/flower_detail_lace_bra-1100-008873-3014_0083_flatlayf.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/flower-detail-lace-bra-light-green-1100-008873-3014",
+        "id": "1-1100-008873-3014-664",
         "kleurHex": null
     }
 ]
