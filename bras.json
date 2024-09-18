@@ -534,13 +534,6 @@
                 "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-black-1013-001032-0002"
             },
             {
-                "id": "1-1013-001032-0039",
-                "naam": "Roze",
-                "hex": "#A3584F",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0039_01a_r11.jpg?ref=E02A110110",
-                "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-dark-red-1013-001032-0039"
-            },
-            {
                 "id": "1-1013-001032-0256",
                 "naam": "Roze",
                 "hex": "#ffbea0",
@@ -588,45 +581,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Cup bh met strikdetail",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0039_01a_r11.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0039_02b_r11.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0039_03j_r11.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0039_04k_r11.jpg?width=640"
-        ],
-        "prijs": 7.47,
-        "kleur": "Dark Red",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001032-0039",
-                "naam": "Roze",
-                "hex": "#A3584F",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0039_01a_r11.jpg?ref=E02A110110",
-                "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-dark-red-1013-001032-0039"
-            },
-            {
-                "id": "1-1013-001032-0256",
-                "naam": "Roze",
-                "hex": "#ffbea0",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0256_34884.jpg?ref=11E4B65E4D",
-                "url": "https://www.na-kd.com/nl/zoek-producten/cup-bh-met-strikdetail-coral-1013-001032-0256"
-            },
-            {
-                "id": "1-1013-001032-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra_1013-001032-0002_1_flatlay.jpg?ref=B1ED5D6E83",
-                "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-black-1013-001032-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0039_01a_r11.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0039_04k_r11.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-dark-red-1013-001032-0039",
-        "id": "1-1013-001032-0039-664",
-        "kleurHex": null
-    },
-    {
         "naam": "Triangeltopje met bloemenkant en bandjes",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/flower_lace_strappy_detail_triangle_top-1013-001315-025641888.jpg?width=640",
@@ -670,13 +624,6 @@
                 "hex": "#ffbea0",
                 "img_url": "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0256_34884.jpg?ref=11E4B65E4D",
                 "url": "https://www.na-kd.com/nl/zoek-producten/cup-bh-met-strikdetail-coral-1013-001032-0256"
-            },
-            {
-                "id": "1-1013-001032-0039",
-                "naam": "Roze",
-                "hex": "#A3584F",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0039_01a_r11.jpg?ref=E02A110110",
-                "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-dark-red-1013-001032-0039"
             },
             {
                 "id": "1-1013-001032-0002",
@@ -1049,6 +996,39 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/wide_strap_lace_cup_bra_1013-001180-0002_04.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/wide-strap-lace-cup-bra-black-1013-001180-0002",
         "id": "1-1013-001180-0002-664",
+        "kleurHex": null
+    },
+    {
+        "naam": "Ongevoerde beugelbh met kant",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/unlined_wire_lace_bra-1013-001305-0002_high_cut_lace_panties-1013-001304-0002_v-shape_lace_panty-1013-001306-000223353.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/unlined_wire_lace_bra-1013-001305-0002_high_cut_lace_panties-1013-001304-0002_v-shape_lace_panty-1013-001306-000223372.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/unlined_wire_lace_bra-1013-001305-0002_high_cut_lace_panties-1013-001304-0002_v-shape_lace_panty-1013-001306-000223348.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/unlined_wire_lace_bra-1013-001305-0002_high_cut_lace_panties-1013-001304-0002_v-shape_lace_panty-1013-001306-000223381.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/unlined_wire_lace_bra_1013-001305-0002_1_flatlay.jpg?width=640"
+        ],
+        "prijs": 9.97,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001305-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/unlined_wire_lace_bra-1013-001305-0002_high_cut_lace_panties-1013-001304-0002_v-shape_lace_panty-1013-001306-000223353.jpg?ref=13C02A6FC7",
+                "url": "https://www.na-kd.com/nl/zoek-producten/unlined-wire-lace-bra-black-1013-001305-0002"
+            },
+            {
+                "id": "1-1013-001305-0010",
+                "naam": "Groen",
+                "hex": "#9FCA7C",
+                "img_url": "https://www.na-kd.com/resize/globalassets/unlined_wired_lace_bra-1013-001305-0010_3.jpg?ref=191791E185",
+                "url": "https://www.na-kd.com/nl/zoek-producten/unlined-wire-lace-bra-green-1013-001305-0010"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/unlined_wire_lace_bra-1013-001305-0002_high_cut_lace_panties-1013-001304-0002_v-shape_lace_panty-1013-001306-000223353.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/unlined_wire_lace_bra_1013-001305-0002_1_flatlay.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/unlined-wire-lace-bra-black-1013-001305-0002",
+        "id": "1-1013-001305-0002-664",
         "kleurHex": null
     }
 ]
