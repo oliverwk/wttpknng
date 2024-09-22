@@ -165,31 +165,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Lace Padded Cup Bra",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_padded_cup_bra_black_1013-000350-0002_01a_r.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_padded_cup_bra_black_1013-000350-0002_02b_r.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_padded_cup_bra_black_1013-000350-0002_03a_r.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_padded_cup_bra_black_1013-000350-0002_04b_r.jpg?width=640"
-        ],
-        "prijs": 5.98,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-000350-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_padded_cup_bra_black_1013-000350-0002_01a_r.jpg?ref=89BFE59F99",
-                "url": "https://www.na-kd.com/nl/zoek-producten/lace-padded-cup-bra-zwart"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_padded_cup_bra_black_1013-000350-0002_01a_r.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_padded_cup_bra_black_1013-000350-0002_04b_r.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/lace-padded-cup-bra-zwart",
-        "id": "1-1013-000350-0002-098",
-        "kleurHex": null
-    },
-    {
         "naam": "Beha met brede bandjes en kanten cup",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/wide_strap_lace_cup_bra_1013-001180-0719_03.jpg?width=640",
@@ -1024,6 +999,31 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/calvin_lift_bralette_1278-000765-0008_04k.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/katoenen-bralette-grijs-3",
         "id": "1-1278-000765-0008-005",
+        "kleurHex": null
+    },
+    {
+        "naam": "Beha met brede bandjes en kanten cup",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_wide_strap_lace_balconette_bra_1013-001179-0719_0165.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_wide_strap_lace_balconette_bra_1013-001179-0719_0178.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_wide_strap_lace_balconette_bra_1013-001179-0719_0157.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_wide_strap_lace_balconette_bra_1013-001179-0719_0172.jpg?width=640"
+        ],
+        "prijs": 8.98,
+        "kleur": "Pearl",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001179-0719",
+                "naam": "Beige",
+                "hex": "#C8B09A",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_wide_strap_lace_balconette_bra_1013-001179-0719_0165.jpg?ref=6DCD600006",
+                "url": "https://www.na-kd.com/nl/zoek-producten/wide-strap-lace-balconette-bra-pearl-1013-001179-0719"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_wide_strap_lace_balconette_bra_1013-001179-0719_0165.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_wide_strap_lace_balconette_bra_1013-001179-0719_0172.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/wide-strap-lace-balconette-bra-pearl-1013-001179-0719",
+        "id": "1-1013-001179-0719-664",
         "kleurHex": null
     }
 ]
