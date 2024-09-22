@@ -16,13 +16,6 @@
                 "hex": "#C6B1D1",
                 "img_url": "https://www.na-kd.com/resize/globalassets/mid_waist_mesh_brief-1013-000972-6401_1.jpg?ref=1962BE1305",
                 "url": "https://www.na-kd.com/nl/zoek-producten/mesh-slip-purple-rose-1013-000972-6401"
-            },
-            {
-                "id": "1-1013-000972-3186",
-                "naam": "Veelkleurig",
-                "hex": "#C2ACC0",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_waist_mesh_brief_1013-000972-3186-5004.jpg?ref=04F8E3AF70",
-                "url": "https://www.na-kd.com/nl/zoek-producten/mesh-slip-veelkleurig-1013-000972-3186"
             }
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/mid_waist_mesh_brief-1013-000972-6401_1.jpg",
@@ -253,38 +246,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/flower_detail_lace_thong_1013-001173-0719_12.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/kanten-string-met-bloemenborduursel-pearl-1013-001173-0719",
         "id": "1-1013-001173-0719-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Mesh slip",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_waist_mesh_brief_1013-000972-3186-5004.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_waist_mesh_brief_1013-000972-3186-5053.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_waist_mesh_brief_1013-000972-3186-5035.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_waist_mesh_brief_1013-000972-3186-5069.jpg?width=640"
-        ],
-        "prijs": 4.97,
-        "kleur": "Lilac Print",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-000972-3186",
-                "naam": "Veelkleurig",
-                "hex": "#C2ACC0",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_waist_mesh_brief_1013-000972-3186-5004.jpg?ref=04F8E3AF70",
-                "url": "https://www.na-kd.com/nl/zoek-producten/mesh-slip-veelkleurig-1013-000972-3186"
-            },
-            {
-                "id": "1-1013-000972-6401",
-                "naam": "Paars",
-                "hex": "#C6B1D1",
-                "img_url": "https://www.na-kd.com/resize/globalassets/mid_waist_mesh_brief-1013-000972-6401_1.jpg?ref=1962BE1305",
-                "url": "https://www.na-kd.com/nl/zoek-producten/mesh-slip-purple-rose-1013-000972-6401"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_waist_mesh_brief_1013-000972-3186-5004.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_recycled_mid_waist_mesh_brief_1013-000972-3186-5069.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/mesh-slip-veelkleurig-1013-000972-3186",
-        "id": "1-1013-000972-3186-004",
         "kleurHex": null
     },
     {
@@ -1106,6 +1067,41 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_basic_thong_3-pack_1013-000686-0001_03m-1.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/basic-kanten-string---3-pak-wit",
         "id": "1-1013-000686-0001-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "3-pack kanten strings",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_micro_lace_edge_string_3_pack_1013-000761-0001_01m-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_micro_lace_edge_string_3_pack_1013-000761-0001_01a-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_micro_lace_edge_string_3_pack_1013-000761-0001_04b-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_micro_lace_edge_string_3_pack_1013-000761-0001_03j-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_micro_lace_edge_string_3_pack_1013-000761-0001_02k-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_micro_lace_edge_string_3_pack_1013-000761-0001_03m-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_micro_lace_edge_string_3_pack_1013-000761-0001_02m-1.jpg?width=640"
+        ],
+        "prijs": 9.97,
+        "kleur": "White",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000761-0001",
+                "naam": "Wit",
+                "hex": "#FFFFFF",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_micro_lace_edge_string_3_pack_1013-000761-0001_01m-1.jpg?ref=947683B874",
+                "url": "https://www.na-kd.com/nl/zoek-producten/string-met-micro-kant-rand---3-pak-wit"
+            },
+            {
+                "id": "1-1013-000761-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/micro_lace_edge_string_3-pack-1013-000761-0002_1119_flatlayf.jpg?ref=CB6FDDFD63",
+                "url": "https://www.na-kd.com/nl/zoek-producten/string-met-micro-kant-rand---3-pak-zwart"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_micro_lace_edge_string_3_pack_1013-000761-0001_01m-1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_micro_lace_edge_string_3_pack_1013-000761-0001_02m-1.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/string-met-micro-kant-rand---3-pak-wit",
+        "id": "1-1013-000761-0001-004",
         "kleurHex": null
     }
 ]
