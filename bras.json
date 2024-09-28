@@ -1009,32 +1009,6 @@
         "kleurHex": null
     },
     {
-        "naam": "BH",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_seamless_square_bra_top_1703-000000-0348_01a.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_seamless_square_bra_top_1703-000000-0348_02d.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_seamless_square_bra_top_1703-000000-0348_03c.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_seamless_square_bra_top_1703-000000-0348_04g.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_seamless_square_bra_top_1703-000000-0348_05g.jpg?width=640"
-        ],
-        "prijs": 7.99,
-        "kleur": "Berry",
-        "kleurFamilies": [
-            {
-                "id": "1-1703-000000-0348",
-                "naam": "Bordeauxrood",
-                "hex": "#661C35",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_seamless_square_bra_top_1703-000000-0348_01a.jpg?ref=A74E6D4454",
-                "url": "https://www.na-kd.com/nl/zoek-producten/naadloos-bh-rood"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_seamless_square_bra_top_1703-000000-0348_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_seamless_square_bra_top_1703-000000-0348_05g.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/naadloos-bh-rood",
-        "id": "1-1703-000000-0348-005",
-        "kleurHex": null
-    },
-    {
         "naam": "Cup bh met strikdetail",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra_1013-001032-0002_1_flatlay.jpg?width=640",
@@ -1072,6 +1046,46 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0002_04k_r11.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-black-1013-001032-0002",
         "id": "1-1013-001032-0002-664",
+        "kleurHex": null
+    },
+    {
+        "naam": "Klassieke ongevoerde beugelbeha met kant",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/classic_unlined_lace_wire_bra_1013-000861-0002_2.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_classic_unlined_lace_wire_bra_1013-000861-0002_01a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_classic_unlined_lace_wire_bra_1013-000861-0002_02b.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_classic_unlined_lace_wire_bra_1013-000861-0002_03k.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_classic_unlined_lace_wire_bra_1013-000861-0002_04j.jpg?width=640"
+        ],
+        "prijs": 7.47,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000861-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/classic_unlined_lace_wire_bra_1013-000861-0002_2.jpg?ref=8DFB372C36",
+                "url": "https://www.na-kd.com/nl/zoek-producten/klassieke-ongevoerde-beugelbeha-met-kant-zwart"
+            },
+            {
+                "id": "1-1013-000861-0010",
+                "naam": "Groen",
+                "hex": "#3D893C",
+                "img_url": "https://www.na-kd.com/resize/globalassets/classic_unlined_lace_wire_bra_1013-000861-0010_1669-copy.jpg?ref=C4C635B8D8",
+                "url": "https://www.na-kd.com/nl/zoek-producten/klassieke-ongevoerde-beugelbeha-met-kant-green-1013-000861-0010"
+            },
+            {
+                "id": "1-1013-000861-0001",
+                "naam": "Wit",
+                "hex": "#FFFFFF",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_classic_unlined_lace_bra_1013-000861-0001_01e.jpg?ref=F1AF1334B4",
+                "url": "https://www.na-kd.com/nl/zoek-producten/klassieke-ongevoerde-beugelbeha-met-kant-white"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/classic_unlined_lace_wire_bra_1013-000861-0002_2.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_classic_unlined_lace_wire_bra_1013-000861-0002_04j.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/klassieke-ongevoerde-beugelbeha-met-kant-zwart",
+        "id": "1-1013-000861-0002-664",
         "kleurHex": null
     }
 ]
