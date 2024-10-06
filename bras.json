@@ -227,31 +227,6 @@
         "kleurHex": null
     },
     {
-        "naam": "BH",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_seamless_squareneck_bra_top_1703-000000-0002_01g.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_seamless_squareneck_bra_top_1703-000000-0002_02b.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_seamless_squareneck_bra_top_1703-000000-0002_03c.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_seamless_squareneck_bra_top_1703-000000-0002_04g.jpg?width=640"
-        ],
-        "prijs": 6.99,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1703-000000-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_seamless_squareneck_bra_top_1703-000000-0002_01g.jpg?ref=9CCE3FFE31",
-                "url": "https://www.na-kd.com/nl/zoek-producten/naadloos-bh-zwart"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_seamless_squareneck_bra_top_1703-000000-0002_01g.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_seamless_squareneck_bra_top_1703-000000-0002_04g.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/naadloos-bh-zwart",
-        "id": "1-1703-000000-0002-005",
-        "kleurHex": null
-    },
-    {
         "naam": "Zachte Geribde Triangeltop Met Kantdetail",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_soft_ribbed_lace_detail_traingle_top_1013-000925-0404_01a.jpg?width=640",
@@ -1155,5 +1130,30 @@
         "url": "https://www.na-kd.com/nl/zoek-producten/wrap-around-satin-tie-top-grey-beige-1013-001098-8626",
         "id": "1-1013-001098-8626-004",
         "kleurHex": null
+    },
+    {
+        "naam": "Gerimpelde mesh triangel top",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_gathered_circle_detail_mesh_triangle_top_1013-001080-8814-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_gathered_circle_detail_mesh_triangle_top_1013-001080-8814_02.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_gathered_circle_detail_mesh_triangle_top_1013-001080-8814_03.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_gathered_circle_detail_mesh_triangle_top_1013-001080-8814_04.jpg?width=640"
+        ],
+        "prijs": 9.97,
+        "kleur": "Watercolor Print",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001080-8814",
+                "naam": "Veelkleurig",
+                "hex": "#E2E4E0",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_gathered_circle_detail_mesh_triangle_top_1013-001080-8814-1.jpg?ref=ACC8046013",
+                "url": "https://www.na-kd.com/nl/zoek-producten/gerimpelde-mesh-triangel-top-veelkleurig-1013-001080-8814"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_gathered_circle_detail_mesh_triangle_top_1013-001080-8814-1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_gathered_circle_detail_mesh_triangle_top_1013-001080-8814_04.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/gerimpelde-mesh-triangel-top-veelkleurig-1013-001080-8814",
+        "id": "1-1013-001080-8814-004",
+        "kleurHex": "#E2E4E0"
     }
 ]
