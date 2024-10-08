@@ -632,32 +632,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Tanga kanten panty",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/tanga_lace_panty_1100-008409-071961.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/tanga_lace_panty_1100-008409-0719_54.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/tanga_lace_panty_1100-008409-0719_165.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/tanga_lace_panty_1100-008409-071936.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/tanga_lace_panty__1100-008409-0719_2_flatlayf.jpg?width=640"
-        ],
-        "prijs": 6.47,
-        "kleur": "Pearl",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-008409-0719",
-                "naam": "Lichtbeige",
-                "hex": "#C69A87",
-                "img_url": "https://www.na-kd.com/resize/globalassets/tanga_lace_panty_1100-008409-071961.jpg?ref=41DF046E98",
-                "url": "https://www.na-kd.com/nl/zoek-producten/tanga-lace-panty-pearl-1100-008409-0719"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/tanga_lace_panty_1100-008409-071961.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/tanga_lace_panty__1100-008409-0719_2_flatlayf.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/tanga-lace-panty-pearl-1100-008409-0719",
-        "id": "1-1100-008409-0719-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Kanten string met halfhoge taille",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/mid_waist_lace_thong_1100-007472-0010_9355.jpg?width=640",
@@ -993,7 +967,7 @@
             },
             {
                 "id": "1-1013-001326-0256",
-                "naam": "Oranje",
+                "naam": "Roze",
                 "hex": "#D77B70",
                 "img_url": "https://www.na-kd.com/resize/globalassets/wide_lace_edge_thong-1013-001326-0256_1_flatlay.jpg?ref=DC35D56FF0",
                 "url": "https://www.na-kd.com/nl/zoek-producten/wide-lace-edge-thong-coral-1013-001326-0256"
@@ -1094,6 +1068,31 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/all_lace_hipster_1013-001328-0256_1-copy.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/all-lace-hipster-coral-1013-001328-0256",
         "id": "1-1013-001328-0256-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Monogram string",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/monogram_thong_1013-001231-0002_01.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/monogram_thong_1013-001231-0002_03.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/monogram_thong_1013-001231-0002_04.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/monogram_thong_1013-001231-0002_02.jpg?width=640"
+        ],
+        "prijs": 7.18,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001231-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/monogram_thong_1013-001231-0002_01.jpg?ref=5B95EBC36A",
+                "url": "https://www.na-kd.com/nl/zoek-producten/monogram-string-zwart-1013-001231-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/monogram_thong_1013-001231-0002_01.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/monogram_thong_1013-001231-0002_02.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/monogram-string-zwart-1013-001231-0002",
+        "id": "1-1013-001231-0002-004",
         "kleurHex": null
     }
 ]
