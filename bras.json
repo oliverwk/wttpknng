@@ -64,46 +64,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Kanten BH",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_romantic_lace_top_1013-001285-0047_4254.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_romantic_lace_top_1013-001285-0047_4303.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_romantic_lace_top_1013-001285-0047_4238.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_romantic_lace_top_1013-001285-0047_4186.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_romantic_lace_top-1013-001285-0047_0026.jpg?width=640"
-        ],
-        "prijs": 4.59,
-        "kleur": "Light Blue",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001285-0047",
-                "naam": "Lichtblauw",
-                "hex": "#C2D8ED",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_romantic_lace_top_1013-001285-0047_4254.jpg?ref=F54862C6AA",
-                "url": "https://www.na-kd.com/nl/zoek-producten/romantic-lace-top-light-blue-1013-001285-0047"
-            },
-            {
-                "id": "1-1013-001285-0260",
-                "naam": "Wit",
-                "hex": "#FFFFFF",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_romantic_lace_top_1013-001285-0260_4334.jpg?ref=F239015318",
-                "url": "https://www.na-kd.com/nl/zoek-producten/romantic-lace-top-offwhite-1013-001285-0260"
-            },
-            {
-                "id": "1-1013-001285-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/romantic_lace_top-1013-001285-0002_18600.jpg?ref=1A855C4BCC",
-                "url": "https://www.na-kd.com/nl/zoek-producten/romantische-kanten-top-black-1013-001285-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_romantic_lace_top_1013-001285-0047_4254.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_romantic_lace_top-1013-001285-0047_0026.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/romantic-lace-top-light-blue-1013-001285-0047",
-        "id": "1-1013-001285-0047-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Onderlijnde bh met bloemenkant",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/flower_detail_lace_bra-1013-001172-0719_2067.jpg?width=640",
@@ -662,13 +622,6 @@
                 "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-black-1013-001032-0002"
             },
             {
-                "id": "1-1013-001032-0039",
-                "naam": "Roze",
-                "hex": "#A3584F",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0039_01a_r11.jpg?ref=E02A110110",
-                "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-dark-red-1013-001032-0039"
-            },
-            {
                 "id": "1-1013-001032-0003",
                 "naam": "Turquoise",
                 "hex": "#3ddeff",
@@ -805,52 +758,6 @@
     {
         "naam": "Cup bh met strikdetail",
         "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0039_01a_r11.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0039_02b_r11.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0039_03j_r11.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0039_04k_r11.jpg?width=640"
-        ],
-        "prijs": 9.97,
-        "kleur": "Dark Red",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001032-0039",
-                "naam": "Roze",
-                "hex": "#A3584F",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0039_01a_r11.jpg?ref=E02A110110",
-                "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-dark-red-1013-001032-0039"
-            },
-            {
-                "id": "1-1013-001032-0003",
-                "naam": "Turquoise",
-                "hex": "#3ddeff",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0003_37232.jpg?ref=F2F59AA7F9",
-                "url": "https://www.na-kd.com/nl/zoek-producten/cup-bh-met-strikdetail-blue-1013-001032-0003"
-            },
-            {
-                "id": "1-1013-001032-0256",
-                "naam": "Roze",
-                "hex": "#ffbea0",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0256_34884.jpg?ref=11E4B65E4D",
-                "url": "https://www.na-kd.com/nl/zoek-producten/cup-bh-met-strikdetail-coral-1013-001032-0256"
-            },
-            {
-                "id": "1-1013-001032-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra_1013-001032-0002_1_flatlay.jpg?ref=B1ED5D6E83",
-                "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-black-1013-001032-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0039_01a_r11.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0039_04k_r11.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-dark-red-1013-001032-0039",
-        "id": "1-1013-001032-0039-664",
-        "kleurHex": null
-    },
-    {
-        "naam": "Cup bh met strikdetail",
-        "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0256_34884.jpg?width=640",
             "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0256_29282.jpg?width=640",
             "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0256_383492.jpg?width=640",
@@ -866,13 +773,6 @@
                 "hex": "#ffbea0",
                 "img_url": "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0256_34884.jpg?ref=11E4B65E4D",
                 "url": "https://www.na-kd.com/nl/zoek-producten/cup-bh-met-strikdetail-coral-1013-001032-0256"
-            },
-            {
-                "id": "1-1013-001032-0039",
-                "naam": "Roze",
-                "hex": "#A3584F",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0039_01a_r11.jpg?ref=E02A110110",
-                "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-dark-red-1013-001032-0039"
             },
             {
                 "id": "1-1013-001032-0003",
@@ -1126,13 +1026,6 @@
                 "url": "https://www.na-kd.com/nl/zoek-producten/cup-bh-met-strikdetail-blue-1013-001032-0003"
             },
             {
-                "id": "1-1013-001032-0039",
-                "naam": "Roze",
-                "hex": "#A3584F",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0039_01a_r11.jpg?ref=E02A110110",
-                "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-dark-red-1013-001032-0039"
-            },
-            {
                 "id": "1-1013-001032-0256",
                 "naam": "Roze",
                 "hex": "#ffbea0",
@@ -1184,6 +1077,65 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/cut_out_detailed_lace_bra_1013-001266-0002_1462.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/cut-out-detailed-lace-bra-black-1013-001266-0002",
         "id": "1-1013-001266-0002-664",
+        "kleurHex": null
+    },
+    {
+        "naam": "Gedetailleerde cup-bh met cut-out",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/cut_out_detailed_cup_bra-1013-001253-0002_3231.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/cut_out_detailed_cup_bra-1013-001253-0002_3673.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/cut_out_detailed_cup_bra-1013-001253-0002_3179-copy.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/cut_out_detailed_cup_bra-1013-001253-0002_3662.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_cut_out_detailed_cup_bra-1013-001253-0002_0272_flatlay.jpg?width=640"
+        ],
+        "prijs": 9.18,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001253-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/cut_out_detailed_cup_bra-1013-001253-0002_3231.jpg?ref=FC0BA1E88C",
+                "url": "https://www.na-kd.com/nl/zoek-producten/cut-out-detailed-cup-bra-black-1013-001253-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/cut_out_detailed_cup_bra-1013-001253-0002_3231.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_cut_out_detailed_cup_bra-1013-001253-0002_0272_flatlay.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/cut-out-detailed-cup-bra-black-1013-001253-0002",
+        "id": "1-1013-001253-0002-664",
+        "kleurHex": null
+    },
+    {
+        "naam": "Gedetailleerde bh met borduursel",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/embroidery_detailed_bra-1013-001290-0002_4.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/embroidery_detailed_bra-1013-001290-0002_2.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/embroidery_detailed_bra-1013-001290-0002_1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/embroidery_detailed_bra-1013-001290-0002_3.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/embroidery_detailed_bra_1013-001290-0002_1_flatlay.jpg?width=640"
+        ],
+        "prijs": 10.38,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001290-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/embroidery_detailed_bra-1013-001290-0002_4.jpg?ref=591F93A033",
+                "url": "https://www.na-kd.com/nl/zoek-producten/embroidery-detailed-bra-black-1013-001290-0002"
+            },
+            {
+                "id": "1-1013-001290-0003",
+                "naam": "Lichtblauw",
+                "hex": "#78ABC5",
+                "img_url": "https://www.na-kd.com/resize/globalassets/embroidery_detailed_bra-1013-001290-0003_2.jpg?ref=D54CC51792",
+                "url": "https://www.na-kd.com/nl/zoek-producten/embroidery-detailed-bra-blue-1013-001290-0003"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/embroidery_detailed_bra-1013-001290-0002_4.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/embroidery_detailed_bra_1013-001290-0002_1_flatlay.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/embroidery-detailed-bra-black-1013-001290-0002",
+        "id": "1-1013-001290-0002-664",
         "kleurHex": null
     }
 ]
