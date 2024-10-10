@@ -533,39 +533,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Hoog uitgesneden kanten slipje",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties_1013-001304-0002_5.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties_1013-001304-0002_4.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties_1013-001304-0002_2.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties_1013-001304-0002_3.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties_1013-001304-0002_2_flatlay-1.jpg?width=640"
-        ],
-        "prijs": 5.18,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001304-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties_1013-001304-0002_5.jpg?ref=A424178776",
-                "url": "https://www.na-kd.com/nl/zoek-producten/high-cut-lace-panties-black-1013-001304-0002"
-            },
-            {
-                "id": "1-1013-001304-0010",
-                "naam": "Groen",
-                "hex": "#90B86F",
-                "img_url": "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties-1013-001304-0010_6281.jpg?ref=E56093B42D",
-                "url": "https://www.na-kd.com/nl/zoek-producten/high-cut-lace-panties-green-1013-001304-0010"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties_1013-001304-0002_5.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties_1013-001304-0002_2_flatlay-1.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/high-cut-lace-panties-black-1013-001304-0002",
-        "id": "1-1013-001304-0002-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Kanten string",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/lace_thong_1100-008577-3014_0643.jpg?width=640",
@@ -1093,6 +1060,32 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/monogram_thong_1013-001231-0002_02.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/monogram-string-zwart-1013-001231-0002",
         "id": "1-1013-001231-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Hoog uitgesneden kanten slipje",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties-1013-001304-0010_6281.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties-1013-001304-0010_6299.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties-1013-001304-0010_6305.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties-1013-001304-0010_6291.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties_1013-001304-00107444_flatlayf.jpg?width=640"
+        ],
+        "prijs": 6.47,
+        "kleur": "Green",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001304-0010",
+                "naam": "Groen",
+                "hex": "#90B86F",
+                "img_url": "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties-1013-001304-0010_6281.jpg?ref=E56093B42D",
+                "url": "https://www.na-kd.com/nl/zoek-producten/high-cut-lace-panties-green-1013-001304-0010"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties-1013-001304-0010_6281.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/high_cut_lace_panties_1013-001304-00107444_flatlayf.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/high-cut-lace-panties-green-1013-001304-0010",
+        "id": "1-1013-001304-0010-004",
         "kleurHex": null
     }
 ]
