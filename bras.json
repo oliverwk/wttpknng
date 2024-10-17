@@ -57,6 +57,31 @@
         "kleurHex": null
     },
     {
+        "naam": "Triangel Bh",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_01a-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_02b-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_03j-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_04k-1.jpg?width=640"
+        ],
+        "prijs": 3.99,
+        "kleur": "Light Grey",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000772-0068",
+                "naam": "Lichtgroen",
+                "hex": "#DFDFDD",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_01a-1.jpg?ref=F993C9AAAE",
+                "url": "https://www.na-kd.com/nl/zoek-producten/triangel-bh-groen-2"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_01a-1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_04k-1.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/triangel-bh-groen-2",
+        "id": "1-1013-000772-0068-004",
+        "kleurHex": null
+    },
+    {
         "naam": "Zachte Geribde Triangeltop Met Kantdetail",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_soft_ribbed_lace_detail_traingle_top_1013-000925-0404_01a.jpg?width=640",
@@ -1060,55 +1085,28 @@
         "kleurHex": null
     },
     {
-        "naam": "Balconette kanten bh",
+        "naam": "Chiffon Triangel Top Met Rafels",
         "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/balconette_lace_bra-1100-007985-000221665.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/balconette_lace_bra-1100-007985-000221643.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/balconette_lace_bra-1100-007985-000221619.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/balconette_lace_bra-1100-007985-000221606.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/balconette_lace_bra_1100-007985-00020037_flatlayf.jpg?width=640"
+            "https://www.na-kd.com/resize/globalassets/nakd_chiffon_ruffle_triangle_top_1013-000957-1494_01a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_chiffon_ruffle_triangle_top_1013-000957-1494_02b.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_chiffon_ruffle_triangle_top_1013-000957-1494_04d.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_chiffon_ruffle_triangle_top_1013-000957-1494_03c.jpg?width=640"
         ],
-        "prijs": 9.18,
-        "kleur": "Black",
+        "prijs": 9.97,
+        "kleur": "Vintage Rose",
         "kleurFamilies": [
             {
-                "id": "1-1100-007985-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/balconette_lace_bra-1100-007985-000221665.jpg?ref=8025885B61",
-                "url": "https://www.na-kd.com/nl/zoek-producten/balconette-lace-bra-black-1100-007985-0002"
+                "id": "1-1013-000957-1494",
+                "naam": "Bloem",
+                "hex": "#E7E7E0",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_chiffon_ruffle_triangle_top_1013-000957-1494_01a.jpg?ref=3795536D44",
+                "url": "https://www.na-kd.com/nl/zoek-producten/chiffon-triangel-top-met-rafels-veelkleurig-1013-000957-1494"
             }
         ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/balconette_lace_bra-1100-007985-000221665.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/balconette_lace_bra_1100-007985-00020037_flatlayf.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/balconette-lace-bra-black-1100-007985-0002",
-        "id": "1-1100-007985-0002-664",
-        "kleurHex": null
-    },
-    {
-        "naam": "Satin Lace Edge Bra",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/satin_lace_edge_bra_1013-001323-00020060-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/satin_lace_edge_bra_1013-001323-00020080.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/satin_lace_edge_bra_1013-001323-00020087-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/satin_lace_edge_bra_1013-001323-00020063-1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/satin_lace_edge_bra-1013-001323-0002_8875-copy_flatlayf.jpg?width=640"
-        ],
-        "prijs": 9.18,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001323-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/satin_lace_edge_bra_1013-001323-00020060-1.jpg?ref=6BF8E1DC86",
-                "url": "https://www.na-kd.com/nl/zoek-producten/satin-lace-edge-bra-black-1013-001323-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/satin_lace_edge_bra_1013-001323-00020060-1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/satin_lace_edge_bra-1013-001323-0002_8875-copy_flatlayf.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/satin-lace-edge-bra-black-1013-001323-0002",
-        "id": "1-1013-001323-0002-664",
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_chiffon_ruffle_triangle_top_1013-000957-1494_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_chiffon_ruffle_triangle_top_1013-000957-1494_03c.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/chiffon-triangel-top-met-rafels-veelkleurig-1013-000957-1494",
+        "id": "1-1013-000957-1494-004",
         "kleurHex": null
     }
 ]
