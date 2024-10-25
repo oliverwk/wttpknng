@@ -472,32 +472,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Triangel-top van elastisch kant",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/elastic_lace_triangle_top_1013-000821-5310_32479.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/elastic_lace_triangle_top_1013-000821-5310_32496.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/elastic_lace_triangle_top_1013-000821-5310_32456.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/elastic_lace_triangle_top_1013-000821-5310_32514.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/elastic_lace_triangle_top_1013-000821-5310_3.jpg?width=640"
-        ],
-        "prijs": 7.77,
-        "kleur": "Jade",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-000821-5310",
-                "naam": "Groen",
-                "hex": "#c0eac3",
-                "img_url": "https://www.na-kd.com/resize/globalassets/elastic_lace_triangle_top_1013-000821-5310_32479.jpg?ref=D48A74B8B2",
-                "url": "https://www.na-kd.com/nl/zoek-producten/triangel-top-van-elastisch-kant-jade-1013-000821-5310"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/elastic_lace_triangle_top_1013-000821-5310_32479.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/elastic_lace_triangle_top_1013-000821-5310_3.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/triangel-top-van-elastisch-kant-jade-1013-000821-5310",
-        "id": "1-1013-000821-5310-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Gerecycleerde eyelash top van kant",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/eyelash_lace_top_1013-000879-0002_16541.jpg?width=640",
@@ -1066,6 +1040,31 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0003_0373.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/cup-bh-met-strikdetail-blue-1013-001032-0003",
         "id": "1-1013-001032-0003-664",
+        "kleurHex": null
+    },
+    {
+        "naam": "Chiffon Triangel Top Met Rafels",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_chiffon_ruffle_triangle_top_1013-000957-1494_01a.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_chiffon_ruffle_triangle_top_1013-000957-1494_02b.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_chiffon_ruffle_triangle_top_1013-000957-1494_04d.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_chiffon_ruffle_triangle_top_1013-000957-1494_03c.jpg?width=640"
+        ],
+        "prijs": 9.97,
+        "kleur": "Vintage Rose",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000957-1494",
+                "naam": "Bloem",
+                "hex": "#E7E7E0",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_chiffon_ruffle_triangle_top_1013-000957-1494_01a.jpg?ref=3795536D44",
+                "url": "https://www.na-kd.com/nl/zoek-producten/chiffon-triangel-top-met-rafels-veelkleurig-1013-000957-1494"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_chiffon_ruffle_triangle_top_1013-000957-1494_01a.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_chiffon_ruffle_triangle_top_1013-000957-1494_03c.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/chiffon-triangel-top-met-rafels-veelkleurig-1013-000957-1494",
+        "id": "1-1013-000957-1494-004",
         "kleurHex": null
     }
 ]
