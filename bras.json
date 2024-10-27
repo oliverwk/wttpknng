@@ -25,31 +25,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Bh met kleine stipjes",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102885.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102904.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102899.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102907.jpg?width=640"
-        ],
-        "prijs": 3.59,
-        "kleur": "Green",
-        "kleurFamilies": [
-            {
-                "id": "1-1730-000053-0010",
-                "naam": "Groen",
-                "hex": "#86AD3E",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102885.jpg?ref=468309507C",
-                "url": "https://www.na-kd.com/nl/zoek-producten/swiss-dot-bra-green-1730-000053-0010"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102885.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_swiss_dot_bra-1730-000053-00102907.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/swiss-dot-bra-green-1730-000053-0010",
-        "id": "1-1730-000053-0010-664",
-        "kleurHex": null
-    },
-    {
         "naam": "Balconnette Bh",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/amalia_ub_caviar_1724-000061-0565_01a.jpg?width=640",
@@ -211,13 +186,6 @@
                 "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-black-1013-001032-0002"
             },
             {
-                "id": "1-1013-001032-0003",
-                "naam": "Turquoise",
-                "hex": "#3ddeff",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0003_37232.jpg?ref=F2F59AA7F9",
-                "url": "https://www.na-kd.com/nl/zoek-producten/cup-bh-met-strikdetail-blue-1013-001032-0003"
-            },
-            {
                 "id": "1-1013-001032-0256",
                 "naam": "Roze",
                 "hex": "#ffbea0",
@@ -249,13 +217,6 @@
                 "hex": "#ffbea0",
                 "img_url": "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0256_34884.jpg?ref=11E4B65E4D",
                 "url": "https://www.na-kd.com/nl/zoek-producten/cup-bh-met-strikdetail-coral-1013-001032-0256"
-            },
-            {
-                "id": "1-1013-001032-0003",
-                "naam": "Turquoise",
-                "hex": "#3ddeff",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0003_37232.jpg?ref=F2F59AA7F9",
-                "url": "https://www.na-kd.com/nl/zoek-producten/cup-bh-met-strikdetail-blue-1013-001032-0003"
             },
             {
                 "id": "1-1013-001032-0002",
@@ -911,46 +872,6 @@
         "kleurHex": "#E2E4E0"
     },
     {
-        "naam": "Cup bh met strikdetail",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0003_37232.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0003_3213.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0003_24314.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0003_1231232.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0003_0373.jpg?width=640"
-        ],
-        "prijs": 9.97,
-        "kleur": "Blue",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001032-0003",
-                "naam": "Turquoise",
-                "hex": "#3ddeff",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0003_37232.jpg?ref=F2F59AA7F9",
-                "url": "https://www.na-kd.com/nl/zoek-producten/cup-bh-met-strikdetail-blue-1013-001032-0003"
-            },
-            {
-                "id": "1-1013-001032-0256",
-                "naam": "Roze",
-                "hex": "#ffbea0",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0256_34884.jpg?ref=11E4B65E4D",
-                "url": "https://www.na-kd.com/nl/zoek-producten/cup-bh-met-strikdetail-coral-1013-001032-0256"
-            },
-            {
-                "id": "1-1013-001032-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra_1013-001032-0002_1_flatlay.jpg?ref=B1ED5D6E83",
-                "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-black-1013-001032-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0003_37232.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_qute_bow_detail_bra_1013-001032-0003_0373.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/cup-bh-met-strikdetail-blue-1013-001032-0003",
-        "id": "1-1013-001032-0003-664",
-        "kleurHex": null
-    },
-    {
         "naam": "Chiffon Triangel Top Met Rafels",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_chiffon_ruffle_triangle_top_1013-000957-1494_01a.jpg?width=640",
@@ -1065,6 +986,57 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/cut_out_detailed_lace_bra_1013-001266-0002_1462.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/cut-out-detailed-lace-bra-black-1013-001266-0002",
         "id": "1-1013-001266-0002-664",
+        "kleurHex": null
+    },
+    {
+        "naam": "Gedetailleerde cup-bh met cut-out",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/cut_out_detailed_cup_bra-1013-001253-0002_3231.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/cut_out_detailed_cup_bra-1013-001253-0002_3673.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/cut_out_detailed_cup_bra-1013-001253-0002_3179-copy.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/cut_out_detailed_cup_bra-1013-001253-0002_3662.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_cut_out_detailed_cup_bra-1013-001253-0002_0272_flatlay.jpg?width=640"
+        ],
+        "prijs": 10.38,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001253-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/cut_out_detailed_cup_bra-1013-001253-0002_3231.jpg?ref=FC0BA1E88C",
+                "url": "https://www.na-kd.com/nl/zoek-producten/cut-out-detailed-cup-bra-black-1013-001253-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/cut_out_detailed_cup_bra-1013-001253-0002_3231.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_cut_out_detailed_cup_bra-1013-001253-0002_0272_flatlay.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/cut-out-detailed-cup-bra-black-1013-001253-0002",
+        "id": "1-1013-001253-0002-664",
+        "kleurHex": null
+    },
+    {
+        "naam": "Gedraaide satijnen bh met dunne bandjes",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_twisted_thin_strap_satin_bra_1013-001093-65146898_r.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_twisted_thin_strap_satin_bra_1013-001093-651_03_r.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_twisted_thin_strap_satin_bra_1013-001093-651_04_r.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_twisted_thin_strap_satin_bra_1013-001093-651_02_r.jpg?width=640"
+        ],
+        "prijs": 10.38,
+        "kleur": "Oxford Tan",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001093-651",
+                "naam": "Beige",
+                "hex": "#DAC4AD",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_twisted_thin_strap_satin_bra_1013-001093-65146898_r.jpg?ref=084C148120",
+                "url": "https://www.na-kd.com/nl/zoek-producten/gedraaide-satijnen-bh-met-dunne-bandjes-oxford-tan-1013-001093-651"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_twisted_thin_strap_satin_bra_1013-001093-65146898_r.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_twisted_thin_strap_satin_bra_1013-001093-651_02_r.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/gedraaide-satijnen-bh-met-dunne-bandjes-oxford-tan-1013-001093-651",
+        "id": "1-1013-001093-651-664",
         "kleurHex": null
     }
 ]
