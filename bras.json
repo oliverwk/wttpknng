@@ -25,6 +25,31 @@
         "kleurHex": null
     },
     {
+        "naam": "Triangel Bh",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_01a-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_02b-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_03j-1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_04k-1.jpg?width=640"
+        ],
+        "prijs": 3.99,
+        "kleur": "Light Grey",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-000772-0068",
+                "naam": "Lichtgroen",
+                "hex": "#DFDFDD",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_01a-1.jpg?ref=F993C9AAAE",
+                "url": "https://www.na-kd.com/nl/zoek-producten/triangel-bh-groen-2"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_01a-1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_satin_flower_triangle_bra_1013-000772-0068_04k-1.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/triangel-bh-groen-2",
+        "id": "1-1013-000772-0068-004",
+        "kleurHex": null
+    },
+    {
         "naam": "Zachte Geribde Triangeltop Met Kantdetail",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_soft_ribbed_lace_detail_traingle_top_1013-000925-0404_01a.jpg?width=640",
@@ -241,31 +266,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Binding Detail Mesh Bra",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_binding_detail_mesh_bra_1013-001139-1130_0302.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_binding_detail_mesh_bra_1013-001139-1130_0319.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_binding_detail_mesh_bra_1013-001139-1130_0297.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_binding_detail_mesh_bra_1013-001139-1130_0313.jpg?width=640"
-        ],
-        "prijs": 7.98,
-        "kleur": "Light Green",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001139-1130",
-                "naam": "Groen",
-                "hex": "#9AA249",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_binding_detail_mesh_bra_1013-001139-1130_0302.jpg?ref=0CCC6F5438",
-                "url": "https://www.na-kd.com/nl/zoek-producten/binding-detail-mesh-bra-light-green-1013-001139-1130"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_binding_detail_mesh_bra_1013-001139-1130_0302.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_binding_detail_mesh_bra_1013-001139-1130_0313.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/binding-detail-mesh-bra-light-green-1013-001139-1130",
-        "id": "1-1013-001139-1130-664",
-        "kleurHex": null
-    },
-    {
         "naam": "Hardware gedetailleerde kanten cupbh",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_hardware_detailed_lace_cup_bra_1013-001281-0002_444.jpg?width=640",
@@ -289,6 +289,31 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_hardware_detailed_lace_cup_bra-1013-001281-0002_0538_flatlay.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/hardware-detailed-lace-cup-bra-black-1013-001281-0002",
         "id": "1-1013-001281-0002-664",
+        "kleurHex": null
+    },
+    {
+        "naam": "Binding Detail Mesh Bra",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/nakd_binding_detail_mesh_bra_1013-001139-1130_0302.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_binding_detail_mesh_bra_1013-001139-1130_0319.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_binding_detail_mesh_bra_1013-001139-1130_0297.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_binding_detail_mesh_bra_1013-001139-1130_0313.jpg?width=640"
+        ],
+        "prijs": 7.98,
+        "kleur": "Light Green",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001139-1130",
+                "naam": "Groen",
+                "hex": "#9AA249",
+                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_binding_detail_mesh_bra_1013-001139-1130_0302.jpg?ref=0CCC6F5438",
+                "url": "https://www.na-kd.com/nl/zoek-producten/binding-detail-mesh-bra-light-green-1013-001139-1130"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_binding_detail_mesh_bra_1013-001139-1130_0302.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_binding_detail_mesh_bra_1013-001139-1130_0313.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/binding-detail-mesh-bra-light-green-1013-001139-1130",
+        "id": "1-1013-001139-1130-664",
         "kleurHex": null
     },
     {
@@ -957,6 +982,39 @@
         "kleurHex": null
     },
     {
+        "naam": "Cup-bh met brede kanten randen",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/wide_lace_edge_cup_bra_1013-001325-0002_4.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/wide_lace_edge_cup_bra_1013-001325-0002_3.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/wide_lace_edge_cup_bra_1013-001325-0002_2.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/wide_lace_edge_cup_bra_1013-001325-0002_1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/wide_lace_edge_cup_bra_1013-001325-0002_1_flatlay.jpg?width=640"
+        ],
+        "prijs": 10.38,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001325-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/wide_lace_edge_cup_bra_1013-001325-0002_4.jpg?ref=F4FB84A51E",
+                "url": "https://www.na-kd.com/nl/zoek-producten/wide-lace-edge-cup-bra-black-1013-001325-0002"
+            },
+            {
+                "id": "1-1013-001325-0256",
+                "naam": "Roze",
+                "hex": "#D2796A",
+                "img_url": "https://www.na-kd.com/resize/globalassets/wide_lace_edge_cup_bra_1013-001325-0256_1.jpg?ref=B54EC582B5",
+                "url": "https://www.na-kd.com/nl/zoek-producten/wide-lace-edge-cup-bra-coral-1013-001325-0256"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/wide_lace_edge_cup_bra_1013-001325-0002_4.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/wide_lace_edge_cup_bra_1013-001325-0002_1_flatlay.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/wide-lace-edge-cup-bra-black-1013-001325-0002",
+        "id": "1-1013-001325-0002-664",
+        "kleurHex": null
+    },
+    {
         "naam": "Gedraaide satijnen bh met dunne bandjes",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/nakd_twisted_thin_strap_satin_bra_1013-001093-65146898_r.jpg?width=640",
@@ -979,86 +1037,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_twisted_thin_strap_satin_bra_1013-001093-651_02_r.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/gedraaide-satijnen-bh-met-dunne-bandjes-oxford-tan-1013-001093-651",
         "id": "1-1013-001093-651-664",
-        "kleurHex": null
-    },
-    {
-        "naam": "Micro-bh met kanten cup",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_cup_micro_bra_1013-001249-0002_0972-copy.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_cup_micro_bra_1013-001249-0002_0936-copy.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_cup_micro_bra_1013-001249-0002_0904-copy-2.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_cup_micro_bra_1013-001249-0002_0908-copy.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_cup_micro_bra-1013-001249-0002_0593-recovered_flatlay.jpg?width=640"
-        ],
-        "prijs": 11.18,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001249-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_cup_micro_bra_1013-001249-0002_0972-copy.jpg?ref=944E9C57C2",
-                "url": "https://www.na-kd.com/nl/zoek-producten/lace-cup-micro-bra-black-1013-001249-0002"
-            },
-            {
-                "id": "1-1013-001249-0368",
-                "naam": "Lichtpaars",
-                "hex": "#dac4ff",
-                "img_url": "https://www.na-kd.com/resize/globalassets/lace_cup_micro_bra_1013-001249-0368_1088-copy.jpg?ref=BE0CDC74B7",
-                "url": "https://www.na-kd.com/nl/zoek-producten/lace-cup-micro-bra-lilac-1013-001249-0368"
-            },
-            {
-                "id": "1-1013-001249-0405",
-                "naam": "Roze",
-                "hex": "#f2bcca",
-                "img_url": "https://www.na-kd.com/resize/globalassets/lace_cup_micro_bra_1013-001249-0405_1011.jpg?ref=C6EAFC0CE7",
-                "url": "https://www.na-kd.com/nl/zoek-producten/lace-cup-micro-bra-bubblegum-1013-001249-0405"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_cup_micro_bra_1013-001249-0002_0972-copy.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_cup_micro_bra-1013-001249-0002_0593-recovered_flatlay.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/lace-cup-micro-bra-black-1013-001249-0002",
-        "id": "1-1013-001249-0002-664",
-        "kleurHex": null
-    },
-    {
-        "naam": "Micro-bh met kanten cup",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/lace_cup_micro_bra_1013-001249-0405_1011.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_cup_micro_bra_1013-001249-0405_1038.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_cup_micro_bra_1013-001249-0405_10242.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_cup_micro_bra_1013-001249-0405_10612.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_lace_cup_micro_bra-1013-001249-0405_0004_flatlay_r.jpg?width=640"
-        ],
-        "prijs": 11.18,
-        "kleur": "Bubblegum",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001249-0405",
-                "naam": "Roze",
-                "hex": "#f2bcca",
-                "img_url": "https://www.na-kd.com/resize/globalassets/lace_cup_micro_bra_1013-001249-0405_1011.jpg?ref=C6EAFC0CE7",
-                "url": "https://www.na-kd.com/nl/zoek-producten/lace-cup-micro-bra-bubblegum-1013-001249-0405"
-            },
-            {
-                "id": "1-1013-001249-0368",
-                "naam": "Lichtpaars",
-                "hex": "#dac4ff",
-                "img_url": "https://www.na-kd.com/resize/globalassets/lace_cup_micro_bra_1013-001249-0368_1088-copy.jpg?ref=BE0CDC74B7",
-                "url": "https://www.na-kd.com/nl/zoek-producten/lace-cup-micro-bra-lilac-1013-001249-0368"
-            },
-            {
-                "id": "1-1013-001249-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_lace_cup_micro_bra_1013-001249-0002_0972-copy.jpg?ref=944E9C57C2",
-                "url": "https://www.na-kd.com/nl/zoek-producten/lace-cup-micro-bra-black-1013-001249-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/lace_cup_micro_bra_1013-001249-0405_1011.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_lace_cup_micro_bra-1013-001249-0405_0004_flatlay_r.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/lace-cup-micro-bra-bubblegum-1013-001249-0405",
-        "id": "1-1013-001249-0405-664",
         "kleurHex": null
     }
 ]
