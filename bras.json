@@ -366,6 +366,31 @@
         "kleurHex": null
     },
     {
+        "naam": "Flowy balconette bh met kantdetail",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/flowy_detail_lace_balconette_bra_1013-001191-0010_22159.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/flowy_detail_lace_balconette_bra_1013-001191-0010_22197.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/flowy_detail_lace_balconette_bra_1013-001191-0010_22147.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/flowy_detail_lace_balconette_bra_1013-001191-0010_22174.jpg?width=640"
+        ],
+        "prijs": 4.59,
+        "kleur": "Green",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001191-0010",
+                "naam": "Groen",
+                "hex": "#639E64",
+                "img_url": "https://www.na-kd.com/resize/globalassets/flowy_detail_lace_balconette_bra_1013-001191-0010_22159.jpg?ref=64B734DBBE",
+                "url": "https://www.na-kd.com/nl/zoek-producten/flowy-balconette-bh-met-kantdetail-groen-1013-001191-0010"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/flowy_detail_lace_balconette_bra_1013-001191-0010_22159.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/flowy_detail_lace_balconette_bra_1013-001191-0010_22174.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/flowy-balconette-bh-met-kantdetail-groen-1013-001191-0010",
+        "id": "1-1013-001191-0010-664",
+        "kleurHex": null
+    },
+    {
         "naam": "Satin Lace Edge Bra",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/satin_lace_edge_bra_1013-001323-00020060-1.jpg?width=640",
@@ -1020,39 +1045,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/curved_seam_detail_soft_bra_1013-001301-0004_.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/curved-seam-detail-soft-bra-red-1013-001301-0004",
         "id": "1-1013-001301-0004-664",
-        "kleurHex": null
-    },
-    {
-        "naam": "Zachte bh met gebogen naden",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_curved_seam_detail_soft_bra_1013-001301-0002_32682.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_curved_seam_detail_soft_bra_1013-001301-0002_32638.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_curved_seam_detail_soft_bra_1013-001301-0002_32669.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_curved_seam_detail_soft_bra_1013-001301-0002_32625.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/curved_seam_detail_soft_bra_1013-001301-0002_1.jpg?width=640"
-        ],
-        "prijs": 9.18,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001301-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_curved_seam_detail_soft_bra_1013-001301-0002_32682.jpg?ref=D3377DB414",
-                "url": "https://www.na-kd.com/nl/zoek-producten/curved-seam-detail-soft-bra-black-1013-001301-0002"
-            },
-            {
-                "id": "1-1013-001301-0004",
-                "naam": "Oranje",
-                "hex": "#e84a4a",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_curved_seam_detail_soft_bra_1013-001301-0004_32559.jpg?ref=50DF2F3567",
-                "url": "https://www.na-kd.com/nl/zoek-producten/curved-seam-detail-soft-bra-red-1013-001301-0004"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_curved_seam_detail_soft_bra_1013-001301-0002_32682.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/curved_seam_detail_soft_bra_1013-001301-0002_1.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/curved-seam-detail-soft-bra-black-1013-001301-0002",
-        "id": "1-1013-001301-0002-664",
         "kleurHex": null
     }
 ]
