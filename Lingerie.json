@@ -26,29 +26,36 @@
         "kleurHex": null
     },
     {
-        "naam": "Kanten string met bloemenborduursel",
+        "naam": "Dubbele string met bandjes",
         "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/flower_detail_lace_thong-1013-001173-00022450.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/flower_detail_lace_thong-1013-001173-00022470.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/flower_detail_lace_thong-1013-001173-00022463.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/flower_detail_lace_thong-1013-001173-00022476-copy.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/flower_detail_lace_thong_1013-001173-0002_1.jpg?width=640"
+            "https://www.na-kd.com/resize/globalassets/qute_double_strap_thong_1013-001033-0001_1_flatlay.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_qute_dobule_strap_thong_1013-001033-0001_02i_r13.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_qute_dobule_strap_thong_1013-001033-0001_02i_r14.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_qute_dobule_strap_thong_1013-001033-0001_03h_r11.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/nakd_qute_dobule_strap_thong_1013-001033-0001_02i_r11.jpg?width=640"
         ],
         "prijs": 2.59,
-        "kleur": "Black",
+        "kleur": "White",
         "kleurFamilies": [
             {
-                "id": "1-1013-001173-0002",
+                "id": "1-1013-001033-0001",
+                "naam": "Wit",
+                "hex": "#FFFFFF",
+                "img_url": "https://www.na-kd.com/resize/globalassets/qute_double_strap_thong_1013-001033-0001_1_flatlay.jpg?ref=ED58295366",
+                "url": "https://www.na-kd.com/nl/zoek-producten/qute-double-strap-thong-white-1013-001033-0001"
+            },
+            {
+                "id": "1-1013-001033-0002",
                 "naam": "Zwart",
                 "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/flower_detail_lace_thong-1013-001173-00022450.jpg?ref=0C871A1DA2",
-                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-string-met-bloemenborduursel-black-1013-001173-0002"
+                "img_url": "https://www.na-kd.com/resize/globalassets/qute_double_strap_thong_1013-001033-0002_3.jpg?ref=D5257819C4",
+                "url": "https://www.na-kd.com/nl/zoek-producten/qute-double-strap-thong-black-1013-001033-0002"
             }
         ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/flower_detail_lace_thong-1013-001173-00022450.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/flower_detail_lace_thong_1013-001173-0002_1.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/kanten-string-met-bloemenborduursel-black-1013-001173-0002",
-        "id": "1-1013-001173-0002-004",
+        "img_url": "https://www.na-kd.com/resize/globalassets/qute_double_strap_thong_1013-001033-0001_1_flatlay.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_qute_dobule_strap_thong_1013-001033-0001_02i_r11.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/qute-double-strap-thong-white-1013-001033-0001",
+        "id": "1-1013-001033-0001-004",
         "kleurHex": null
     },
     {
@@ -81,39 +88,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_nakd_mid_rise_classic_lace_thong-1013-000862-0113_02b.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/klassieke-string-met-halfhoge-taille-en-kant-violet-1013-000862-0113",
         "id": "1-1013-000862-0113-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Dubbele string met bandjes",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/qute_double_strap_thong_1013-001033-0001_1_flatlay.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_qute_dobule_strap_thong_1013-001033-0001_02i_r13.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_qute_dobule_strap_thong_1013-001033-0001_02i_r14.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_qute_dobule_strap_thong_1013-001033-0001_03h_r11.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_qute_dobule_strap_thong_1013-001033-0001_02i_r11.jpg?width=640"
-        ],
-        "prijs": 2.59,
-        "kleur": "White",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001033-0001",
-                "naam": "Wit",
-                "hex": "#FFFFFF",
-                "img_url": "https://www.na-kd.com/resize/globalassets/qute_double_strap_thong_1013-001033-0001_1_flatlay.jpg?ref=ED58295366",
-                "url": "https://www.na-kd.com/nl/zoek-producten/qute-double-strap-thong-white-1013-001033-0001"
-            },
-            {
-                "id": "1-1013-001033-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/qute_double_strap_thong_1013-001033-0002_3.jpg?ref=D5257819C4",
-                "url": "https://www.na-kd.com/nl/zoek-producten/qute-double-strap-thong-black-1013-001033-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/qute_double_strap_thong_1013-001033-0001_1_flatlay.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_qute_dobule_strap_thong_1013-001033-0001_02i_r11.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/qute-double-strap-thong-white-1013-001033-0001",
-        "id": "1-1013-001033-0001-004",
         "kleurHex": null
     },
     {
@@ -1192,6 +1166,32 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/all_lace_hipster_1013-001328-0256_1-copy.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/all-lace-hipster-coral-1013-001328-0256",
         "id": "1-1013-001328-0256-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Cheeky kanten panty met hoge taille",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/high_waist_cheeky_lace_panty_1809-000007-0002_101010.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/high_waist_cheeky_lace_panty-1809-000007-00025573.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/high_waist_cheeky_lace_panty-1809-000007-00025593.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/high_waist_cheeky_lace_panty-1809-000007-00025546.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/high_waist_cheeky_lace_panty-1809-000007-0002_flatlayf.jpg?width=640"
+        ],
+        "prijs": 7.18,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1809-000007-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/high_waist_cheeky_lace_panty_1809-000007-0002_101010.jpg?ref=C76016E690",
+                "url": "https://www.na-kd.com/nl/zoek-producten/high-waist-cheeky-lace-panty-black-1809-000007-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/high_waist_cheeky_lace_panty_1809-000007-0002_101010.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/high_waist_cheeky_lace_panty-1809-000007-0002_flatlayf.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/high-waist-cheeky-lace-panty-black-1809-000007-0002",
+        "id": "1-1809-000007-0002-004",
         "kleurHex": null
     }
 ]
