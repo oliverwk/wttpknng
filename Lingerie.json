@@ -515,6 +515,39 @@
     {
         "naam": "Kanten string",
         "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/lace_thong_1100-008577-0002_0687.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/lace_thong_1100-008577-0002_0709.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/lace_thong_1100-008577-0002_0702.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/lace_thong_1100-008577-0002_0692.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/lace_thong-1100-008577-0002_9185_flatlayf.jpg?width=640"
+        ],
+        "prijs": 6.47,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-008577-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/lace_thong_1100-008577-0002_0687.jpg?ref=49E89F4640",
+                "url": "https://www.na-kd.com/nl/zoek-producten/lace-thong-black-1100-008577-0002"
+            },
+            {
+                "id": "1-1100-008577-3014",
+                "naam": "Lichtgroen",
+                "hex": "#C0B190",
+                "img_url": "https://www.na-kd.com/resize/globalassets/lace_thong_1100-008577-3014_0643.jpg?ref=4DF30E4E8C",
+                "url": "https://www.na-kd.com/nl/zoek-producten/lace-thong-light-green-1100-008577-3014"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/lace_thong_1100-008577-0002_0687.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/lace_thong-1100-008577-0002_9185_flatlayf.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/lace-thong-black-1100-008577-0002",
+        "id": "1-1100-008577-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Kanten string",
+        "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/lace_thong_1100-008466-0003_0595.jpg?width=640",
             "https://www.na-kd.com/resize/globalassets/lace_thong_1100-008466-0003_0617.jpg?width=640",
             "https://www.na-kd.com/resize/globalassets/lace_thong_1100-008466-0003_0608.jpg?width=640",
@@ -624,39 +657,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/lace_thong_1100-008526-0003_21445.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/lace-thong-blue-1100-008526-0003",
         "id": "1-1100-008526-0003-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Kanten string",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/lace_thong_1100-008577-0002_0687.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_thong_1100-008577-0002_0709.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_thong_1100-008577-0002_0702.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_thong_1100-008577-0002_0692.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_thong-1100-008577-0002_9185_flatlayf.jpg?width=640"
-        ],
-        "prijs": 6.47,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-008577-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/lace_thong_1100-008577-0002_0687.jpg?ref=49E89F4640",
-                "url": "https://www.na-kd.com/nl/zoek-producten/lace-thong-black-1100-008577-0002"
-            },
-            {
-                "id": "1-1100-008577-3014",
-                "naam": "Lichtgroen",
-                "hex": "#C0B190",
-                "img_url": "https://www.na-kd.com/resize/globalassets/lace_thong_1100-008577-3014_0643.jpg?ref=4DF30E4E8C",
-                "url": "https://www.na-kd.com/nl/zoek-producten/lace-thong-light-green-1100-008577-3014"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/lace_thong_1100-008577-0002_0687.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/lace_thong-1100-008577-0002_9185_flatlayf.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/lace-thong-black-1100-008577-0002",
-        "id": "1-1100-008577-0002-004",
         "kleurHex": null
     },
     {
