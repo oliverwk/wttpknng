@@ -207,58 +207,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Gedetailleerde bh met borduursel",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/embroidery_detailed_bra-1013-001290-0003_2.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/embroidery_detailed_bra-1013-001290-0003_3.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/embroidery_detailed_bra-1013-001290-0003_1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/embroidery_detailed_bra-1013-001290-0003_4.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/embroidery-detailed-bra_1013-001290-0003_2_flatlay.jpg?width=640"
-        ],
-        "prijs": 2.59,
-        "kleur": "Blue",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001290-0003",
-                "naam": "Lichtblauw",
-                "hex": "#78ABC5",
-                "img_url": "https://www.na-kd.com/resize/globalassets/embroidery_detailed_bra-1013-001290-0003_2.jpg?ref=D54CC51792",
-                "url": "https://www.na-kd.com/nl/zoek-producten/embroidery-detailed-bra-blue-1013-001290-0003"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/embroidery_detailed_bra-1013-001290-0003_2.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/embroidery-detailed-bra_1013-001290-0003_2_flatlay.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/embroidery-detailed-bra-blue-1013-001290-0003",
-        "id": "1-1013-001290-0003-664",
-        "kleurHex": null
-    },
-    {
-        "naam": "BH",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/nakd_seamless_square_bra_top_1703-000000-0348_01a.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_seamless_square_bra_top_1703-000000-0348_02d.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_seamless_square_bra_top_1703-000000-0348_03c.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_seamless_square_bra_top_1703-000000-0348_04g.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/nakd_seamless_square_bra_top_1703-000000-0348_05g.jpg?width=640"
-        ],
-        "prijs": 3.99,
-        "kleur": "Berry",
-        "kleurFamilies": [
-            {
-                "id": "1-1703-000000-0348",
-                "naam": "Bordeauxrood",
-                "hex": "#661C35",
-                "img_url": "https://www.na-kd.com/resize/globalassets/nakd_seamless_square_bra_top_1703-000000-0348_01a.jpg?ref=A74E6D4454",
-                "url": "https://www.na-kd.com/nl/zoek-producten/naadloos-bh-rood"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/nakd_seamless_square_bra_top_1703-000000-0348_01a.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/nakd_seamless_square_bra_top_1703-000000-0348_05g.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/naadloos-bh-rood",
-        "id": "1-1703-000000-0348-005",
-        "kleurHex": null
-    },
-    {
         "naam": "Ongevoerde beugelbh met kant",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/unlined_wire_lace_bra-1013-001305-0002_high_cut_lace_panties-1013-001304-0002_v-shape_lace_panty-1013-001306-000223353.jpg?width=640",
@@ -1165,6 +1113,86 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/lace_soft_bra-1100-008736-4083_9187.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/lace-soft-bra-sage-1100-008736-4083",
         "id": "1-1100-008736-4083-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Zachte beha van kant",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/lace_soft_bra_1100-008736-0002_0698.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/lace_soft_bra_1100-008736-0002_0704.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/lace_soft_bra_1100-008736-00020688.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/lace_soft_bra_1100-008736-0002_0719.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/lace_soft_bra-1100-008736-0002_9184-copy_flatlayf.jpg?width=640"
+        ],
+        "prijs": 11.47,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-008736-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/lace_soft_bra_1100-008736-0002_0698.jpg?ref=3A721EDB8D",
+                "url": "https://www.na-kd.com/nl/zoek-producten/lace-soft-bra-black-1100-008736-0002"
+            },
+            {
+                "id": "1-1100-008736-4083",
+                "naam": "Lichtgroen",
+                "hex": "#B39B79",
+                "img_url": "https://www.na-kd.com/resize/globalassets/lace_soft_bra_1100-008736-4083__0646.jpg?ref=A95C008578",
+                "url": "https://www.na-kd.com/nl/zoek-producten/lace-soft-bra-sage-1100-008736-4083"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/lace_soft_bra_1100-008736-0002_0698.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/lace_soft_bra-1100-008736-0002_9184-copy_flatlayf.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/lace-soft-bra-black-1100-008736-0002",
+        "id": "1-1100-008736-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Sugar Bow kant bh",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/sugar_bow_lace_bra-1100-008606-0003_18013.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/sugar_bow_lace_bra-1100-008606-0003_18037.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/sugar_bow_lace_bra-1100-008606-0003_18040.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/sugar_bow_lace_bra-1100-008606-0003_18047.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/sugar_bow_lace_bra_1100-008606-00037496_flatlayf.jpg?width=640"
+        ],
+        "prijs": 11.47,
+        "kleur": "Blue",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-008606-0003",
+                "naam": "Blauw",
+                "hex": "#697894",
+                "img_url": "https://www.na-kd.com/resize/globalassets/sugar_bow_lace_bra-1100-008606-0003_18013.jpg?ref=248AC3A19D",
+                "url": "https://www.na-kd.com/nl/zoek-producten/sugar-bow-kant-bh-blauw-1100-008606-0003"
+            },
+            {
+                "id": "1-1100-008606-0015",
+                "naam": "Roze",
+                "hex": "#FACBDD",
+                "img_url": "https://www.na-kd.com/resize/globalassets/sugar_bow_lace_bra-1100-008606-0015_6784.jpg?ref=7F18C48C0C",
+                "url": "https://www.na-kd.com/nl/zoek-producten/sugar-bow-kant-bh-pink-1100-008606-0015"
+            },
+            {
+                "id": "1-1100-008606-0719",
+                "naam": "Gebroken wit",
+                "hex": "#FAF9F8",
+                "img_url": "https://www.na-kd.com/resize/globalassets/sugar_bow_lace_bra-1100-008606-0719-75.jpg?ref=2F00D348C4",
+                "url": "https://www.na-kd.com/nl/zoek-producten/sugar-bow-kant-bh-pearl-1100-008606-0719"
+            },
+            {
+                "id": "1-1100-008606-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/sugar_bow_lace_bra-1100-008606-0002_18876-copy.jpg?ref=9DC3B70FBF",
+                "url": "https://www.na-kd.com/nl/zoek-producten/sugar-bow-kant-bh-zwart-1100-008606-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/sugar_bow_lace_bra-1100-008606-0003_18013.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/sugar_bow_lace_bra_1100-008606-00037496_flatlayf.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/sugar-bow-kant-bh-blauw-1100-008606-0003",
+        "id": "1-1100-008606-0003-664",
         "kleurHex": null
     }
 ]
