@@ -762,39 +762,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Kanten string met strikdetail",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/bow_detail_lace_thongs_1100-008743-0024_21703.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/bow_detail_lace_thongs_1100-008743-0024_21728.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/bow_detail_lace_thongs_1100-008743-0024_21739.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/bow_detail_lace_thongs_1100-008743-0024_21723.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/bow_detail_lace_thong-1100-008743-0024_2786_flatlayf.jpg?width=640"
-        ],
-        "prijs": 6.47,
-        "kleur": "Yellow",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-008743-0024",
-                "naam": "Geel",
-                "hex": "#F4E3C1",
-                "img_url": "https://www.na-kd.com/resize/globalassets/bow_detail_lace_thongs_1100-008743-0024_21703.jpg?ref=E3CE5ABBF7",
-                "url": "https://www.na-kd.com/nl/zoek-producten/bow-detail-lace-thong-yellow-1100-008743-0024"
-            },
-            {
-                "id": "1-1100-008743-0001",
-                "naam": "Wit",
-                "hex": "#FFFFFF",
-                "img_url": "https://www.na-kd.com/resize/globalassets/bow_detail_lace_thong_1100-008743-0001_bow_detail_underwired_bra_1100-008742-0001_21638_1.jpg?ref=C4AC01B42C",
-                "url": "https://www.na-kd.com/nl/zoek-producten/bow-detail-lace-thong-white-1100-008743-0001"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/bow_detail_lace_thongs_1100-008743-0024_21703.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/bow_detail_lace_thong-1100-008743-0024_2786_flatlayf.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/bow-detail-lace-thong-yellow-1100-008743-0024",
-        "id": "1-1100-008743-0024-004",
-        "kleurHex": null
-    },
-    {
         "naam": "String van wimperkant",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/eyelash_thong-1100-008522-00023.jpg?width=640",
@@ -893,6 +860,39 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/mid_waist_lace_thong_1100-007472-00150040_flatlay.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/kanten-string-met-halfhoge-taille-pink-1100-007472-0015",
         "id": "1-1100-007472-0015-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Kanten string met strikdetail",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/bow_detail_lace_thongs_1100-008743-0024_21703.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/bow_detail_lace_thongs_1100-008743-0024_21728.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/bow_detail_lace_thongs_1100-008743-0024_21739.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/bow_detail_lace_thongs_1100-008743-0024_21723.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/bow_detail_lace_thong-1100-008743-0024_2786_flatlayf.jpg?width=640"
+        ],
+        "prijs": 6.47,
+        "kleur": "Yellow",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-008743-0024",
+                "naam": "Geel",
+                "hex": "#F4E3C1",
+                "img_url": "https://www.na-kd.com/resize/globalassets/bow_detail_lace_thongs_1100-008743-0024_21703.jpg?ref=E3CE5ABBF7",
+                "url": "https://www.na-kd.com/nl/zoek-producten/bow-detail-lace-thong-yellow-1100-008743-0024"
+            },
+            {
+                "id": "1-1100-008743-0001",
+                "naam": "Wit",
+                "hex": "#FFFFFF",
+                "img_url": "https://www.na-kd.com/resize/globalassets/bow_detail_lace_thong_1100-008743-0001_bow_detail_underwired_bra_1100-008742-0001_21638_1.jpg?ref=C4AC01B42C",
+                "url": "https://www.na-kd.com/nl/zoek-producten/bow-detail-lace-thong-white-1100-008743-0001"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/bow_detail_lace_thongs_1100-008743-0024_21703.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/bow_detail_lace_thong-1100-008743-0024_2786_flatlayf.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/bow-detail-lace-thong-yellow-1100-008743-0024",
+        "id": "1-1100-008743-0024-004",
         "kleurHex": null
     },
     {
