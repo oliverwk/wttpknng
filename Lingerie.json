@@ -291,6 +291,39 @@
         "kleurHex": null
     },
     {
+        "naam": "Kanten string met bloemdetail",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/flower_detail_lace_thong_1100-008874-3014_6677.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/flower_detail_lace_thong_1100-008874-3014_6701.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/flower_detail_lace_thong_1100-008874-3014_6715.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/flower_detail_lace_thong_1100-008874-3014_6693.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/flower_detail_lace_thong-1100-008874-3014_0081_flatlayf.jpg?width=640"
+        ],
+        "prijs": 6.47,
+        "kleur": "Light Green",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-008874-3014",
+                "naam": "Lichtgroen",
+                "hex": "#E0D1B6",
+                "img_url": "https://www.na-kd.com/resize/globalassets/flower_detail_lace_thong_1100-008874-3014_6677.jpg?ref=934060DF1C",
+                "url": "https://www.na-kd.com/nl/zoek-producten/flower-detail-lace-thong-light-green-1100-008874-3014"
+            },
+            {
+                "id": "1-1100-008874-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/flower_detail_lace_thong-1100-008874-0002_12123_flatlay.jpg?ref=6646169049",
+                "url": "https://www.na-kd.com/nl/zoek-producten/flower-detail-lace-thong-black-1100-008874-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/flower_detail_lace_thong_1100-008874-3014_6677.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/flower_detail_lace_thong-1100-008874-3014_0081_flatlayf.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/flower-detail-lace-thong-light-green-1100-008874-3014",
+        "id": "1-1100-008874-3014-004",
+        "kleurHex": null
+    },
+    {
         "naam": "Kanten string",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/lace_thong_1100-008466-0003_0595.jpg?width=640",
@@ -380,39 +413,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/bow_detail_underwired_bra-1100-008743-0001_2789_flatlayf.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/bow-detail-lace-thong-white-1100-008743-0001",
         "id": "1-1100-008743-0001-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Kanten string met bloemdetail",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/flower_detail_lace_thong_1100-008874-3014_6677.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/flower_detail_lace_thong_1100-008874-3014_6701.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/flower_detail_lace_thong_1100-008874-3014_6715.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/flower_detail_lace_thong_1100-008874-3014_6693.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/flower_detail_lace_thong-1100-008874-3014_0081_flatlayf.jpg?width=640"
-        ],
-        "prijs": 6.47,
-        "kleur": "Light Green",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-008874-3014",
-                "naam": "Lichtgroen",
-                "hex": "#E0D1B6",
-                "img_url": "https://www.na-kd.com/resize/globalassets/flower_detail_lace_thong_1100-008874-3014_6677.jpg?ref=934060DF1C",
-                "url": "https://www.na-kd.com/nl/zoek-producten/flower-detail-lace-thong-light-green-1100-008874-3014"
-            },
-            {
-                "id": "1-1100-008874-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/flower_detail_lace_thong-1100-008874-0002_12123_flatlay.jpg?ref=6646169049",
-                "url": "https://www.na-kd.com/nl/zoek-producten/flower-detail-lace-thong-black-1100-008874-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/flower_detail_lace_thong_1100-008874-3014_6677.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/flower_detail_lace_thong-1100-008874-3014_0081_flatlayf.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/flower-detail-lace-thong-light-green-1100-008874-3014",
-        "id": "1-1100-008874-3014-004",
         "kleurHex": null
     },
     {
