@@ -105,32 +105,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Panty met hoge taille en borduursel",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/embroidery_high_waist_panty_1013-001289-0004_1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/embroidery_high_waist_panty-1013-001289-000442184.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/embroidery_high_waist_panty-1013-001289-000442217-copy.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/embroidery_high_waist_panty-1013-001289-000442196.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/embroidery_high_waist_panty-1013-001289-000442189-copy.jpg?width=640"
-        ],
-        "prijs": 2.59,
-        "kleur": "Red",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001289-0004",
-                "naam": "Rood",
-                "hex": "#DF372C",
-                "img_url": "https://www.na-kd.com/resize/globalassets/embroidery_high_waist_panty_1013-001289-0004_1.jpg?ref=01878C5855",
-                "url": "https://www.na-kd.com/nl/zoek-producten/embroidery-high-waist-panty-red-1013-001289-0004"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/embroidery_high_waist_panty_1013-001289-0004_1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/embroidery_high_waist_panty-1013-001289-000442189-copy.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/embroidery-high-waist-panty-red-1013-001289-0004",
-        "id": "1-1013-001289-0004-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Qute tanga met dubbele bandjes",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/qute_double_strap_thong_1100-008605-0002_5907.jpg?width=640",
@@ -666,13 +640,6 @@
                 "url": "https://www.na-kd.com/nl/zoek-producten/mid-waist-lace-thong-black-1100-007472-0002"
             },
             {
-                "id": "1-1100-007472-0004",
-                "naam": "Rood",
-                "hex": "#AB3945",
-                "img_url": "https://www.na-kd.com/resize/globalassets/mid_waist_lace_thong-1100-007472-0004underwired_lace_bra-1100-007471-00042065.jpg?ref=B60DF6F012",
-                "url": "https://www.na-kd.com/nl/zoek-producten/mid-waist-lace-thong-red-1100-007472-0004"
-            },
-            {
                 "id": "1-1100-007472-0287",
                 "naam": "Bordeauxrood",
                 "hex": "#511924",
@@ -1191,6 +1158,52 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/v-shape-lace-brazallian_1013-001229-0245_1-copy-2_flatlayf.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/braziliaanse-slip-van-kant-in-v-vorm-bluegrey-1013-001229-0245",
         "id": "1-1013-001229-0245-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Braziliaanse slip van kant in V-vorm",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/v-shape_lace_brazilian-1013-001229-0017_1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/v-shape_lace_brazilian-1013-001229-0017_2.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/v-shape_lace_brazilian-1013-001229-0017_3.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/v-shape_lace_brazilian-1013-001229-0017_4.jpg?width=640"
+        ],
+        "prijs": 8.97,
+        "kleur": "Brown",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001229-0017",
+                "naam": "Bruin",
+                "hex": "#755545",
+                "img_url": "https://www.na-kd.com/resize/globalassets/v-shape_lace_brazilian-1013-001229-0017_1.jpg?ref=159238DBCD",
+                "url": "https://www.na-kd.com/nl/zoek-producten/braziliaanse-slip-van-kant-in-v-vorm-bruin-1013-001229-0017"
+            },
+            {
+                "id": "1-1013-001229-0245",
+                "naam": "Blauw",
+                "hex": "#566C72",
+                "img_url": "https://www.na-kd.com/resize/globalassets/v-shape_lace_brazilian-1013-001229-0245-satin_detail_wire_bra-1013-001228-0245_1113.jpg?ref=DC0FDD970F",
+                "url": "https://www.na-kd.com/nl/zoek-producten/braziliaanse-slip-van-kant-in-v-vorm-bluegrey-1013-001229-0245"
+            },
+            {
+                "id": "1-1013-001229-0366",
+                "naam": "Donkergrijs",
+                "hex": "#5F5E5E",
+                "img_url": "https://www.na-kd.com/resize/globalassets/v-shape_lace_brazilian_1013-001229-036623153.jpg?ref=EBEB36EB28",
+                "url": "https://www.na-kd.com/nl/zoek-producten/braziliaanse-slip-van-kant-in-v-vorm-dark-grey-1013-001229-0366"
+            },
+            {
+                "id": "1-1013-001229-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/v-shape_lace_brazilian-1013-001229-0002_0766.jpg?ref=572298BC1D",
+                "url": "https://www.na-kd.com/nl/zoek-producten/braziliaanse-slip-van-kant-in-v-vorm-zwart-1013-001229-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/v-shape_lace_brazilian-1013-001229-0017_1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/v-shape_lace_brazilian-1013-001229-0017_4.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/braziliaanse-slip-van-kant-in-v-vorm-bruin-1013-001229-0017",
+        "id": "1-1013-001229-0017-004",
         "kleurHex": null
     }
 ]
