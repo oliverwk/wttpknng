@@ -113,6 +113,39 @@
         "kleurHex": null
     },
     {
+        "naam": "Zacht kanten bh",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/soft_lace_bra-1100-008524-0024-lace_thong-1100-008526-0024_21540_1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/soft_lace_bra-1100-008524-0024-lace_thong-1100-008526-0024_21564.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/soft_lace_bra-1100-008524-0024-lace_thong-1100-008526-0024_21528_1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/soft_lace_bra-1100-008524-0024-lace_thong-1100-008526-0024_21578.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/soft_lace_bra-1100-008524-0024_2783_flatlayf.jpg?width=640"
+        ],
+        "prijs": 9.97,
+        "kleur": "Yellow",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-008524-0024",
+                "naam": "Geel",
+                "hex": "#EBD6BA",
+                "img_url": "https://www.na-kd.com/resize/globalassets/soft_lace_bra-1100-008524-0024-lace_thong-1100-008526-0024_21540_1.jpg?ref=5E17617C41",
+                "url": "https://www.na-kd.com/nl/zoek-producten/soft-lace-bra-yellow-1100-008524-0024"
+            },
+            {
+                "id": "1-1100-008524-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/soft_lace_bra_1100-008524-0002_21391.jpg?ref=2F6AE79579",
+                "url": "https://www.na-kd.com/nl/zoek-producten/soft-lace-bra-black-1100-008524-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/soft_lace_bra-1100-008524-0024-lace_thong-1100-008526-0024_21540_1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/soft_lace_bra-1100-008524-0024_2783_flatlayf.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/soft-lace-bra-yellow-1100-008524-0024",
+        "id": "1-1100-008524-0024-004",
+        "kleurHex": null
+    },
+    {
         "naam": "Kanten triangeltopje",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/triangle_lace_top_1100-008460-0002_0393.jpg?width=640",
@@ -181,41 +214,34 @@
     {
         "naam": "Zacht kanten bh",
         "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/soft_lace_bra-1100-008524-0024-lace_thong-1100-008526-0024_21540_1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/soft_lace_bra-1100-008524-0024-lace_thong-1100-008526-0024_21564.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/soft_lace_bra-1100-008524-0024-lace_thong-1100-008526-0024_21528_1.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/soft_lace_bra-1100-008524-0024-lace_thong-1100-008526-0024_21578.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/soft_lace_bra-1100-008524-0024_2783_flatlayf.jpg?width=640"
+            "https://www.na-kd.com/resize/globalassets/soft_lace_bra_1100-008524-0002_21391.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/soft_lace_bra_1100-008524-0002_21369.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/soft_lace_bra_1100-008524-0002_21321.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/soft_lace_bra_1100-008524-0002_21330.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/soft_lace_bra-1100-008524-0002_2783_flatlayf.jpg?width=640"
         ],
         "prijs": 9.97,
-        "kleur": "Yellow",
+        "kleur": "Black",
         "kleurFamilies": [
-            {
-                "id": "1-1100-008524-0024",
-                "naam": "Geel",
-                "hex": "#EBD6BA",
-                "img_url": "https://www.na-kd.com/resize/globalassets/soft_lace_bra-1100-008524-0024-lace_thong-1100-008526-0024_21540_1.jpg?ref=5E17617C41",
-                "url": "https://www.na-kd.com/nl/zoek-producten/soft-lace-bra-yellow-1100-008524-0024"
-            },
-            {
-                "id": "1-1100-008524-0003",
-                "naam": "Blauw",
-                "hex": "#B5B9C5",
-                "img_url": "https://www.na-kd.com/resize/globalassets/soft_lace_bra_1100-008524-0003_lace_thong_1100-008526-0003_21460.jpg?ref=3B4F15BE7C",
-                "url": "https://www.na-kd.com/nl/zoek-producten/soft-lace-bra-blue-1100-008524-0003"
-            },
             {
                 "id": "1-1100-008524-0002",
                 "naam": "Zwart",
                 "hex": "#0C1214",
                 "img_url": "https://www.na-kd.com/resize/globalassets/soft_lace_bra_1100-008524-0002_21391.jpg?ref=2F6AE79579",
                 "url": "https://www.na-kd.com/nl/zoek-producten/soft-lace-bra-black-1100-008524-0002"
+            },
+            {
+                "id": "1-1100-008524-0024",
+                "naam": "Geel",
+                "hex": "#EBD6BA",
+                "img_url": "https://www.na-kd.com/resize/globalassets/soft_lace_bra-1100-008524-0024-lace_thong-1100-008526-0024_21540_1.jpg?ref=5E17617C41",
+                "url": "https://www.na-kd.com/nl/zoek-producten/soft-lace-bra-yellow-1100-008524-0024"
             }
         ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/soft_lace_bra-1100-008524-0024-lace_thong-1100-008526-0024_21540_1.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/soft_lace_bra-1100-008524-0024_2783_flatlayf.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/soft-lace-bra-yellow-1100-008524-0024",
-        "id": "1-1100-008524-0024-004",
+        "img_url": "https://www.na-kd.com/resize/globalassets/soft_lace_bra_1100-008524-0002_21391.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/soft_lace_bra-1100-008524-0002_2783_flatlayf.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/soft-lace-bra-black-1100-008524-0002",
+        "id": "1-1100-008524-0002-004",
         "kleurHex": null
     },
     {
@@ -249,114 +275,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/flower_detail_lace_bra-1100-008873-0002_12124_flatlay.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/flower-detail-lace-bra-black-1100-008873-0002",
         "id": "1-1100-008873-0002-664",
-        "kleurHex": null
-    },
-    {
-        "naam": "Zacht kanten bh",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/soft_lace_bra_1100-008524-0002_21391.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/soft_lace_bra_1100-008524-0002_21369.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/soft_lace_bra_1100-008524-0002_21321.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/soft_lace_bra_1100-008524-0002_21330.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/soft_lace_bra-1100-008524-0002_2783_flatlayf.jpg?width=640"
-        ],
-        "prijs": 9.97,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-008524-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/soft_lace_bra_1100-008524-0002_21391.jpg?ref=2F6AE79579",
-                "url": "https://www.na-kd.com/nl/zoek-producten/soft-lace-bra-black-1100-008524-0002"
-            },
-            {
-                "id": "1-1100-008524-0003",
-                "naam": "Blauw",
-                "hex": "#B5B9C5",
-                "img_url": "https://www.na-kd.com/resize/globalassets/soft_lace_bra_1100-008524-0003_lace_thong_1100-008526-0003_21460.jpg?ref=3B4F15BE7C",
-                "url": "https://www.na-kd.com/nl/zoek-producten/soft-lace-bra-blue-1100-008524-0003"
-            },
-            {
-                "id": "1-1100-008524-0024",
-                "naam": "Geel",
-                "hex": "#EBD6BA",
-                "img_url": "https://www.na-kd.com/resize/globalassets/soft_lace_bra-1100-008524-0024-lace_thong-1100-008526-0024_21540_1.jpg?ref=5E17617C41",
-                "url": "https://www.na-kd.com/nl/zoek-producten/soft-lace-bra-yellow-1100-008524-0024"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/soft_lace_bra_1100-008524-0002_21391.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/soft_lace_bra-1100-008524-0002_2783_flatlayf.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/soft-lace-bra-black-1100-008524-0002",
-        "id": "1-1100-008524-0002-004",
-        "kleurHex": null
-    },
-    {
-        "naam": "Beugelbh van kant",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/underwired_lace_bra-1100-007471-00042088.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/underwired_lace_bra-1100-007471-00042137.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/underwired_lace_bra-1100-007471-00042042.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/underwired_lace_bra-1100-007471-00042193.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/underwired_lace_bra-1100-007471-0004_1_flatlayf.jpg?width=640"
-        ],
-        "prijs": 9.97,
-        "kleur": "Red",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-007471-0004",
-                "naam": "Rood",
-                "hex": "#C70A36",
-                "img_url": "https://www.na-kd.com/resize/globalassets/underwired_lace_bra-1100-007471-00042088.jpg?ref=D6DB6CAAD6",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-red-1100-007471-0004"
-            },
-            {
-                "id": "1-1100-007471-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/underwired_lace_bra_1100-007471-0002__17037.jpg?ref=5B26542F88",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-zwart-1100-007471-0002"
-            },
-            {
-                "id": "1-1100-007471-0010",
-                "naam": "Groen",
-                "hex": "#A48A38",
-                "img_url": "https://www.na-kd.com/resize/globalassets/underwired_lace_bra_1100-007471-0010_9363.jpg?ref=DC5F1C3214",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-green-1100-007471-0010"
-            },
-            {
-                "id": "1-1100-007471-0287",
-                "naam": "Bordeauxrood",
-                "hex": "#561C28",
-                "img_url": "https://www.na-kd.com/resize/globalassets/underwired_lace_bra-1100-007471-0287_5539769.jpg?ref=8FDE4AFE84",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-bordeaux-1100-007471-0287"
-            },
-            {
-                "id": "1-1100-007471-0086",
-                "naam": "Donkergroen",
-                "hex": "#182323",
-                "img_url": "https://www.na-kd.com/resize/globalassets/underwire_lace_bras-1100-007471-0086-5539763.jpg?ref=8F82A66AC1",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-dark-green-1100-007471-0086"
-            },
-            {
-                "id": "1-1100-007471-0366",
-                "naam": "Donkergrijs",
-                "hex": "#595A62",
-                "img_url": "https://www.na-kd.com/resize/globalassets/underwired_lace_bra-1100-007471-0366-39672_1.jpg?ref=3D8BFA4DE3",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-dark-grey-1100-007471-0366"
-            },
-            {
-                "id": "1-1100-007471-0001",
-                "naam": "Wit",
-                "hex": "#FFFFFF",
-                "img_url": "https://www.na-kd.com/resize/globalassets/underwired_lace_bra_1100-007471-0001_4.jpg?ref=483384FD21",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-wit-1100-007471-0001"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/underwired_lace_bra-1100-007471-00042088.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/underwired_lace_bra-1100-007471-0004_1_flatlayf.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-red-1100-007471-0004",
-        "id": "1-1100-007471-0004-664",
         "kleurHex": null
     },
     {
@@ -412,13 +330,6 @@
                 "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-zwart-1100-007471-0002"
             },
             {
-                "id": "1-1100-007471-0004",
-                "naam": "Rood",
-                "hex": "#C70A36",
-                "img_url": "https://www.na-kd.com/resize/globalassets/underwired_lace_bra-1100-007471-00042088.jpg?ref=D6DB6CAAD6",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-red-1100-007471-0004"
-            },
-            {
                 "id": "1-1100-007471-0287",
                 "naam": "Bordeauxrood",
                 "hex": "#561C28",
@@ -451,46 +362,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/underwired_lace_bra_1100-007471-00100044_flatlay.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-green-1100-007471-0010",
         "id": "1-1100-007471-0010-664",
-        "kleurHex": null
-    },
-    {
-        "naam": "Zacht kanten bh",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/soft_lace_bra_1100-008524-0003_lace_thong_1100-008526-0003_21460.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/soft_lace_bra_1100-008524-0003_lace_thong_1100-008526-0003_21454.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/soft_lace_bra_1100-008524-0003_lace_thong_1100-008526-0003_21425.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/soft_lace_bra_1100-008524-0003_lace_thong_1100-008526-0003_21468.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/soft_lace_bra-1100-008524-0003_2782_flatlayf.jpg?width=640"
-        ],
-        "prijs": 9.97,
-        "kleur": "Blue",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-008524-0003",
-                "naam": "Blauw",
-                "hex": "#B5B9C5",
-                "img_url": "https://www.na-kd.com/resize/globalassets/soft_lace_bra_1100-008524-0003_lace_thong_1100-008526-0003_21460.jpg?ref=3B4F15BE7C",
-                "url": "https://www.na-kd.com/nl/zoek-producten/soft-lace-bra-blue-1100-008524-0003"
-            },
-            {
-                "id": "1-1100-008524-0024",
-                "naam": "Geel",
-                "hex": "#EBD6BA",
-                "img_url": "https://www.na-kd.com/resize/globalassets/soft_lace_bra-1100-008524-0024-lace_thong-1100-008526-0024_21540_1.jpg?ref=5E17617C41",
-                "url": "https://www.na-kd.com/nl/zoek-producten/soft-lace-bra-yellow-1100-008524-0024"
-            },
-            {
-                "id": "1-1100-008524-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/soft_lace_bra_1100-008524-0002_21391.jpg?ref=2F6AE79579",
-                "url": "https://www.na-kd.com/nl/zoek-producten/soft-lace-bra-black-1100-008524-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/soft_lace_bra_1100-008524-0003_lace_thong_1100-008526-0003_21460.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/soft_lace_bra-1100-008524-0003_2782_flatlayf.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/soft-lace-bra-blue-1100-008524-0003",
-        "id": "1-1100-008524-0003-004",
         "kleurHex": null
     },
     {
@@ -698,39 +569,6 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/bow_detail_underwired_bra-1100-008742-0024_2788_flatlayf.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/bow-detail-underwired-bra-yellow-1100-008742-0024",
         "id": "1-1100-008742-0024-664",
-        "kleurHex": null
-    },
-    {
-        "naam": "Gewatteerde kanten bralette",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/padded_lace_bralette_1100-008455-0015_v-shaped_lace_hipster_1100-008456-0015_5352.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/padded_lace_bralette_1100-008455-0015_72.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/padded_lace_bralette_1100-008455-0015_44.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/padded_lace_bralette_1100-008455-0015_3.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/padded_lace_bralette-1100-008455-0015_1114_flatlayf.jpg?width=640"
-        ],
-        "prijs": 11.47,
-        "kleur": "Pink",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-008455-0015",
-                "naam": "Roze",
-                "hex": "#D398A9",
-                "img_url": "https://www.na-kd.com/resize/globalassets/padded_lace_bralette_1100-008455-0015_v-shaped_lace_hipster_1100-008456-0015_5352.jpg?ref=53E221FFB6",
-                "url": "https://www.na-kd.com/nl/zoek-producten/padded-lace-bralette-pink-1100-008455-0015"
-            },
-            {
-                "id": "1-1100-008455-0001",
-                "naam": "Wit",
-                "hex": "#FFFFFF",
-                "img_url": "https://www.na-kd.com/resize/globalassets/padded_lace_bralette_1100-008455-0001_5436.jpg?ref=595144AE7A",
-                "url": "https://www.na-kd.com/nl/zoek-producten/padded-lace-bralette-white-1100-008455-0001"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/padded_lace_bralette_1100-008455-0015_v-shaped_lace_hipster_1100-008456-0015_5352.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/padded_lace_bralette-1100-008455-0015_1114_flatlayf.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/padded-lace-bralette-pink-1100-008455-0015",
-        "id": "1-1100-008455-0015-004",
         "kleurHex": null
     },
     {
@@ -954,32 +792,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Kanten balconette-bh",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/lace_balconette_bra-1812-000039-00025260.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_balconette_bra-1812-000039-00025273.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_balconette_bra-1812-000039-00025240.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_balconette_bra-1812-000039-00025335.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/lace_balconette_bra-1812-000039-0002_flatlayf.jpg?width=640"
-        ],
-        "prijs": 11.47,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1812-000039-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/lace_balconette_bra-1812-000039-00025260.jpg?ref=6562EAB03C",
-                "url": "https://www.na-kd.com/nl/zoek-producten/lace-balconette-bra-black-1812-000039-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/lace_balconette_bra-1812-000039-00025260.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/lace_balconette_bra-1812-000039-0002_flatlayf.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/lace-balconette-bra-black-1812-000039-0002",
-        "id": "1-1812-000039-0002-664",
-        "kleurHex": null
-    },
-    {
         "naam": "Beugelbh van kant",
         "imageUrls": [
             "https://www.na-kd.com/resize/globalassets/underwired_lace_bra-1100-008481-0002_18620.jpg?width=640",
@@ -1023,106 +835,12 @@
                 "hex": "#0C1214",
                 "img_url": "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra_1100-008604-0002_911.jpg?ref=382B80DFD3",
                 "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-black-1100-008604-0002"
-            },
-            {
-                "id": "1-1100-008604-0008",
-                "naam": "Grijs",
-                "hex": "#433A39",
-                "img_url": "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra-1100-008604-0008-qute_double_strap_thong-1100-008605-0008_17371.jpg?ref=A127326D69",
-                "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-grey-1100-008604-0008"
-            },
-            {
-                "id": "1-1100-008604-0287",
-                "naam": "Burgundy",
-                "hex": "#5E2A2E",
-                "img_url": "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra_1100-008604-0287_qute_double_strap_thong_1100-008605-0212_0797.jpg?ref=1A9610B9B0",
-                "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-bordeaux-1100-008604-0287"
             }
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra_1100-008604-0002_911.jpg",
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra-1100-008604-0002_9181_flatlayf.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-black-1100-008604-0002",
         "id": "1-1100-008604-0002-664",
-        "kleurHex": null
-    },
-    {
-        "naam": "Qute bh met strikdetail",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra-1100-008604-0008-qute_double_strap_thong-1100-008605-0008_17371.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra-1100-008604-0008-qute_double_strap_thong-1100-008605-0008_17391.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra-1100-008604-0008-qute_double_strap_thong-1100-008605-0008_17358.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra-1100-008604-0008-qute_double_strap_thong-1100-008605-0008_17413.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra_1100-008604-00080004_flatlay.jpg?width=640"
-        ],
-        "prijs": 12.97,
-        "kleur": "Grey",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-008604-0008",
-                "naam": "Grijs",
-                "hex": "#433A39",
-                "img_url": "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra-1100-008604-0008-qute_double_strap_thong-1100-008605-0008_17371.jpg?ref=A127326D69",
-                "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-grey-1100-008604-0008"
-            },
-            {
-                "id": "1-1100-008604-0287",
-                "naam": "Burgundy",
-                "hex": "#5E2A2E",
-                "img_url": "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra_1100-008604-0287_qute_double_strap_thong_1100-008605-0212_0797.jpg?ref=1A9610B9B0",
-                "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-bordeaux-1100-008604-0287"
-            },
-            {
-                "id": "1-1100-008604-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra_1100-008604-0002_911.jpg?ref=382B80DFD3",
-                "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-black-1100-008604-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra-1100-008604-0008-qute_double_strap_thong-1100-008605-0008_17371.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra_1100-008604-00080004_flatlay.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-grey-1100-008604-0008",
-        "id": "1-1100-008604-0008-664",
-        "kleurHex": null
-    },
-    {
-        "naam": "Qute bh met strikdetail",
-        "imageUrls": [
-            "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra_1100-008604-0287_qute_double_strap_thong_1100-008605-0212_0797.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra_1100-008604-0287_qute_double_strap_thong_1100-008605-0212_0805.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra_1100-008604-0287_qute_double_strap_thong_1100-008605-0212_0793.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra_1100-008604-0287_qute_double_strap_thong_1100-008605-0212_07979.jpg?width=640",
-            "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra-1100-008604-0287_9178_flatlayf.jpg?width=640"
-        ],
-        "prijs": 12.97,
-        "kleur": "Bordeaux",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-008604-0287",
-                "naam": "Burgundy",
-                "hex": "#5E2A2E",
-                "img_url": "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra_1100-008604-0287_qute_double_strap_thong_1100-008605-0212_0797.jpg?ref=1A9610B9B0",
-                "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-bordeaux-1100-008604-0287"
-            },
-            {
-                "id": "1-1100-008604-0008",
-                "naam": "Grijs",
-                "hex": "#433A39",
-                "img_url": "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra-1100-008604-0008-qute_double_strap_thong-1100-008605-0008_17371.jpg?ref=A127326D69",
-                "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-grey-1100-008604-0008"
-            },
-            {
-                "id": "1-1100-008604-0002",
-                "naam": "Zwart",
-                "hex": "#0C1214",
-                "img_url": "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra_1100-008604-0002_911.jpg?ref=382B80DFD3",
-                "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-black-1100-008604-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra_1100-008604-0287_qute_double_strap_thong_1100-008605-0212_0797.jpg",
-        "img_url_sec": "https://www.na-kd.com/resize/globalassets/qute_bow_detail_bra-1100-008604-0287_9178_flatlayf.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/qute-bow-detail-bra-bordeaux-1100-008604-0287",
-        "id": "1-1100-008604-0287-664",
         "kleurHex": null
     },
     {
@@ -1150,13 +868,6 @@
                 "hex": "#0C1214",
                 "img_url": "https://www.na-kd.com/resize/globalassets/underwired_lace_bra_1100-007471-0002__17037.jpg?ref=5B26542F88",
                 "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-zwart-1100-007471-0002"
-            },
-            {
-                "id": "1-1100-007471-0004",
-                "naam": "Rood",
-                "hex": "#C70A36",
-                "img_url": "https://www.na-kd.com/resize/globalassets/underwired_lace_bra-1100-007471-00042088.jpg?ref=D6DB6CAAD6",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-red-1100-007471-0004"
             },
             {
                 "id": "1-1100-007471-0010",
@@ -1220,13 +931,6 @@
                 "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-zwart-1100-007471-0002"
             },
             {
-                "id": "1-1100-007471-0004",
-                "naam": "Rood",
-                "hex": "#C70A36",
-                "img_url": "https://www.na-kd.com/resize/globalassets/underwired_lace_bra-1100-007471-00042088.jpg?ref=D6DB6CAAD6",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-red-1100-007471-0004"
-            },
-            {
                 "id": "1-1100-007471-0010",
                 "naam": "Groen",
                 "hex": "#A48A38",
@@ -1288,13 +992,6 @@
                 "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-zwart-1100-007471-0002"
             },
             {
-                "id": "1-1100-007471-0004",
-                "naam": "Rood",
-                "hex": "#C70A36",
-                "img_url": "https://www.na-kd.com/resize/globalassets/underwired_lace_bra-1100-007471-00042088.jpg?ref=D6DB6CAAD6",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-red-1100-007471-0004"
-            },
-            {
                 "id": "1-1100-007471-0010",
                 "naam": "Groen",
                 "hex": "#A48A38",
@@ -1347,13 +1044,6 @@
                 "hex": "#FFFFFF",
                 "img_url": "https://www.na-kd.com/resize/globalassets/padded_lace_bralette_1100-008455-0001_5436.jpg?ref=595144AE7A",
                 "url": "https://www.na-kd.com/nl/zoek-producten/padded-lace-bralette-white-1100-008455-0001"
-            },
-            {
-                "id": "1-1100-008455-0015",
-                "naam": "Roze",
-                "hex": "#D398A9",
-                "img_url": "https://www.na-kd.com/resize/globalassets/padded_lace_bralette_1100-008455-0015_v-shaped_lace_hipster_1100-008456-0015_5352.jpg?ref=53E221FFB6",
-                "url": "https://www.na-kd.com/nl/zoek-producten/padded-lace-bralette-pink-1100-008455-0015"
             }
         ],
         "img_url": "https://www.na-kd.com/resize/globalassets/padded_lace_bralette_1100-008455-0001_5436.jpg",
@@ -1407,6 +1097,302 @@
         "img_url_sec": "https://www.na-kd.com/resize/globalassets/padded_lace_bralette__1100-007634-0002_fltlayf_flatlayf_flatlayf.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/gewatteerde-kanten-bralette-zwart-1100-007634-0002",
         "id": "1-1100-007634-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Gewatteerde kanten bralette",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/padded_lace_bralette_1100-007634-00177249.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/padded_lace_bralette_1100-007634-00177226.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/padded_lace_bralette_1100-007634-00177221.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/padded_lace_bralette_1100-007634-00177181.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/padded_lace_bralette_1100-007634-00177221_flatlay.jpg?width=640"
+        ],
+        "prijs": 17.21,
+        "kleur": "Brown",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-007634-0017",
+                "naam": "Bruin",
+                "hex": "#4F3130",
+                "img_url": "https://www.na-kd.com/resize/globalassets/padded_lace_bralette_1100-007634-00177249.jpg?ref=80F4D18BF5",
+                "url": "https://www.na-kd.com/nl/zoek-producten/gewatteerde-kanten-bralette-brown-1100-007634-0017"
+            },
+            {
+                "id": "1-1100-007634-0270",
+                "naam": "Paars",
+                "hex": "#5B2B43",
+                "img_url": "https://www.na-kd.com/resize/globalassets/padded_lace_bralette-1100-007634-02701602.jpg?ref=09E72B53D6",
+                "url": "https://www.na-kd.com/nl/zoek-producten/gewatteerde-kanten-bralette-paars-1100-007634-0270"
+            },
+            {
+                "id": "1-1100-007634-0004",
+                "naam": "Rood",
+                "hex": "#F20742",
+                "img_url": "https://www.na-kd.com/resize/globalassets/padded_lace_bralette_1100-007634-000423692.jpg?ref=6F324BD82B",
+                "url": "https://www.na-kd.com/nl/zoek-producten/gewatteerde-kanten-bralette-red-1100-007634-0004"
+            },
+            {
+                "id": "1-1100-007634-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/padded_lace_bralette-1100-007634-0002_0400.jpg?ref=03A6D88D08",
+                "url": "https://www.na-kd.com/nl/zoek-producten/gewatteerde-kanten-bralette-zwart-1100-007634-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/padded_lace_bralette_1100-007634-00177249.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/padded_lace_bralette_1100-007634-00177221_flatlay.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/gewatteerde-kanten-bralette-brown-1100-007634-0017",
+        "id": "1-1100-007634-0017-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Beugelbh van kant",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/underwired_lace_bra-1100-008042-0039-lace_thong-1100-008043-0039_2055.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/underwired_lace_bra-1100-008042-0039-lace_thong-1100-008043-0039_2095.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/underwired_lace_bra-1100-008042-0039-lace_thong-1100-008043-0039_2113.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/underwired_lace_bra-1100-008042-0039-lace_thong-1100-008043-0039_2127.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/underwired_lace_bra_1100-008042-00390046_flatlayf.jpg?width=640"
+        ],
+        "prijs": 17.21,
+        "kleur": "Dark Red",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-008042-0039",
+                "naam": "Rood",
+                "hex": "#B02A2A",
+                "img_url": "https://www.na-kd.com/resize/globalassets/underwired_lace_bra-1100-008042-0039-lace_thong-1100-008043-0039_2055.jpg?ref=3EF465B661",
+                "url": "https://www.na-kd.com/nl/zoek-producten/underwired-lace-bra-dark-red-1100-008042-0039"
+            },
+            {
+                "id": "1-1100-008042-0719",
+                "naam": "Lichtbeige",
+                "hex": "#E3C8B6",
+                "img_url": "https://www.na-kd.com/resize/globalassets/underwired_lace_bra-1100-008042-0719_10663.jpg?ref=5CA7C1516F",
+                "url": "https://www.na-kd.com/nl/zoek-producten/underwired-lace-bra-pearl-1100-008042-0719"
+            },
+            {
+                "id": "1-1100-008042-0017",
+                "naam": "Bruin",
+                "hex": "#2D1616",
+                "img_url": "https://www.na-kd.com/resize/globalassets/underwirted_lace_bra_1100-008042-00171080.jpg?ref=9395694FAE",
+                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-brown-1100-008042-0017"
+            },
+            {
+                "id": "1-1100-008042-0115",
+                "naam": "Roze",
+                "hex": "#994752",
+                "img_url": "https://www.na-kd.com/resize/globalassets/underwired_lace_bra_1100-008042-0115lace_thing_1100-008043-01156756.jpg?ref=94522BDB54",
+                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-dusty-pink-1100-008042-0115"
+            },
+            {
+                "id": "1-1100-008042-0038",
+                "naam": "Donkerblauwe",
+                "hex": "#262637",
+                "img_url": "https://www.na-kd.com/resize/globalassets/underwired_lace_bra-1100-008042-0038_17.jpg?ref=737F08A27A",
+                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-dark-blue-1100-008042-0038"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/underwired_lace_bra-1100-008042-0039-lace_thong-1100-008043-0039_2055.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/underwired_lace_bra_1100-008042-00390046_flatlayf.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/underwired-lace-bra-dark-red-1100-008042-0039",
+        "id": "1-1100-008042-0039-664",
+        "kleurHex": null
+    },
+    {
+        "naam": "Gewatteerde kanten bralette",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/padded_lace_bralette_1100-007634-000423692.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/padded_lace_bralette_1100-007634-000423707.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/padded_lace_bralette_1100-007634-000423688.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/padded_lace_bralette_1100-007634-000423697.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/padded_lace_bralette-1100-007634-0004_12103_flatlay.jpg?width=640"
+        ],
+        "prijs": 17.21,
+        "kleur": "Red",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-007634-0004",
+                "naam": "Rood",
+                "hex": "#F20742",
+                "img_url": "https://www.na-kd.com/resize/globalassets/padded_lace_bralette_1100-007634-000423692.jpg?ref=6F324BD82B",
+                "url": "https://www.na-kd.com/nl/zoek-producten/gewatteerde-kanten-bralette-red-1100-007634-0004"
+            },
+            {
+                "id": "1-1100-007634-0270",
+                "naam": "Paars",
+                "hex": "#5B2B43",
+                "img_url": "https://www.na-kd.com/resize/globalassets/padded_lace_bralette-1100-007634-02701602.jpg?ref=09E72B53D6",
+                "url": "https://www.na-kd.com/nl/zoek-producten/gewatteerde-kanten-bralette-paars-1100-007634-0270"
+            },
+            {
+                "id": "1-1100-007634-0017",
+                "naam": "Bruin",
+                "hex": "#4F3130",
+                "img_url": "https://www.na-kd.com/resize/globalassets/padded_lace_bralette_1100-007634-00177249.jpg?ref=80F4D18BF5",
+                "url": "https://www.na-kd.com/nl/zoek-producten/gewatteerde-kanten-bralette-brown-1100-007634-0017"
+            },
+            {
+                "id": "1-1100-007634-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/padded_lace_bralette-1100-007634-0002_0400.jpg?ref=03A6D88D08",
+                "url": "https://www.na-kd.com/nl/zoek-producten/gewatteerde-kanten-bralette-zwart-1100-007634-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/padded_lace_bralette_1100-007634-000423692.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/padded_lace_bralette-1100-007634-0004_12103_flatlay.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/gewatteerde-kanten-bralette-red-1100-007634-0004",
+        "id": "1-1100-007634-0004-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Kanten balconette-bh met brede bandjes",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/wide_strap_lace_balconette_bra-1100-008608-0086high_cut_lace_tong-1100-008609-0086-39589_1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/wide_strap_lace_balconette_bra-1100-008608-0086-39595_1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/wide_strap_lace_balconette_bra-1100-008608-0086high_cut_lace_tong-1100-008609-0086-39575_1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/wide_strap_lace_balconette_bra-1100-008608-0086-39611_1.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/wide_strap_lace_balconette_bra_1100-008608-0086612143_flatlay.jpg?width=640"
+        ],
+        "prijs": 17.21,
+        "kleur": "Dark Green",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-008608-0086",
+                "naam": "Donkergroen",
+                "hex": "#162522",
+                "img_url": "https://www.na-kd.com/resize/globalassets/wide_strap_lace_balconette_bra-1100-008608-0086high_cut_lace_tong-1100-008609-0086-39589_1.jpg?ref=30CA0918FF",
+                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-balconette-bh-met-brede-bandjes-dark-green-1100-008608-0086"
+            },
+            {
+                "id": "1-1100-008608-0008",
+                "naam": "Grijs",
+                "hex": "#AB937B",
+                "img_url": "https://www.na-kd.com/resize/globalassets/wide_strap_lace_balconette_bra_1100-008608-0008_6799.jpg?ref=5ABC432CC6",
+                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-balconette-bh-met-brede-bandjes-grey-1100-008608-0008"
+            },
+            {
+                "id": "1-1100-008608-0018",
+                "naam": "Marineblauw",
+                "hex": "#41486C",
+                "img_url": "https://www.na-kd.com/resize/globalassets/wide_strap_lace_balconette_bra_1100-008608-0018_0225.jpg?ref=F3A9E1AAAD",
+                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-balconette-bh-met-brede-bandjes-blauw-1100-008608-0018"
+            },
+            {
+                "id": "1-1100-008608-0324",
+                "naam": "Petrol",
+                "hex": "#86ACB2",
+                "img_url": "https://www.na-kd.com/resize/globalassets/wide_strap_lace_balconette-bra_1100-008608-03244high_cut_lace_thong_1100-008609-03246674.jpg?ref=5153ED509C",
+                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-balconette-bh-met-brede-bandjes-dusty-green-1100-008608-0324"
+            },
+            {
+                "id": "1-1100-008608-0719",
+                "naam": "Lichtroze",
+                "hex": "#DFD0C4",
+                "img_url": "https://www.na-kd.com/resize/globalassets/eide_strap_lace_balcomette_bra_1100-008608-0719_creative.jpg?ref=69190A2764",
+                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-balconette-bh-met-brede-bandjes-pearl-1100-008608-0719"
+            },
+            {
+                "id": "1-1100-008608-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/wide_strap_lace_balconette_bra_1100-008608-0002168.jpg?ref=CEC18AB7C0",
+                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-balconette-bh-met-brede-bandjes-zwart-1100-008608-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/wide_strap_lace_balconette_bra-1100-008608-0086high_cut_lace_tong-1100-008609-0086-39589_1.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/wide_strap_lace_balconette_bra_1100-008608-0086612143_flatlay.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/kanten-balconette-bh-met-brede-bandjes-dark-green-1100-008608-0086",
+        "id": "1-1100-008608-0086-664",
+        "kleurHex": null
+    },
+    {
+        "naam": "Beugelbh van kant",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/underwirted_lace_bra_1100-008042-00171080.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/underwirted_lace_bra_1100-008042-00170993.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/underwirted_lace_bra_1100-008042-00170958.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/underwirted_lace_bra_1100-008042-00170953.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/underwired-lace_bra_1100-008042-00170274_flatlay.jpg?width=640"
+        ],
+        "prijs": 17.21,
+        "kleur": "Brown",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-008042-0017",
+                "naam": "Bruin",
+                "hex": "#2D1616",
+                "img_url": "https://www.na-kd.com/resize/globalassets/underwirted_lace_bra_1100-008042-00171080.jpg?ref=9395694FAE",
+                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-brown-1100-008042-0017"
+            },
+            {
+                "id": "1-1100-008042-0719",
+                "naam": "Lichtbeige",
+                "hex": "#E3C8B6",
+                "img_url": "https://www.na-kd.com/resize/globalassets/underwired_lace_bra-1100-008042-0719_10663.jpg?ref=5CA7C1516F",
+                "url": "https://www.na-kd.com/nl/zoek-producten/underwired-lace-bra-pearl-1100-008042-0719"
+            },
+            {
+                "id": "1-1100-008042-0115",
+                "naam": "Roze",
+                "hex": "#994752",
+                "img_url": "https://www.na-kd.com/resize/globalassets/underwired_lace_bra_1100-008042-0115lace_thing_1100-008043-01156756.jpg?ref=94522BDB54",
+                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-dusty-pink-1100-008042-0115"
+            },
+            {
+                "id": "1-1100-008042-0038",
+                "naam": "Donkerblauwe",
+                "hex": "#262637",
+                "img_url": "https://www.na-kd.com/resize/globalassets/underwired_lace_bra-1100-008042-0038_17.jpg?ref=737F08A27A",
+                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-dark-blue-1100-008042-0038"
+            },
+            {
+                "id": "1-1100-008042-0039",
+                "naam": "Rood",
+                "hex": "#B02A2A",
+                "img_url": "https://www.na-kd.com/resize/globalassets/underwired_lace_bra-1100-008042-0039-lace_thong-1100-008043-0039_2055.jpg?ref=3EF465B661",
+                "url": "https://www.na-kd.com/nl/zoek-producten/underwired-lace-bra-dark-red-1100-008042-0039"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/underwirted_lace_bra_1100-008042-00171080.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/underwired-lace_bra_1100-008042-00170274_flatlay.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-brown-1100-008042-0017",
+        "id": "1-1100-008042-0017-664",
+        "kleurHex": null
+    },
+    {
+        "naam": "Doorschijnende kanten beugelbh",
+        "imageUrls": [
+            "https://www.na-kd.com/resize/globalassets/sheer_underwired_lace_bra-1100-010089-0086-5539910.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/sheer_underwired_lace_bra-1100-010089-0086-5539924.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/sheer_underwired_lace_bra-1100-010089-0086-5539903.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/sheer_underwired_lace_bra-1100-010089-0086-5539935.jpg?width=640",
+            "https://www.na-kd.com/resize/globalassets/sheer_underwired_lace_bra_1100-010089-008612193_flatlay.jpg?width=640"
+        ],
+        "prijs": 17.21,
+        "kleur": "Dark Green",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-010089-0086",
+                "naam": "Donkergroen",
+                "hex": "#1D3427",
+                "img_url": "https://www.na-kd.com/resize/globalassets/sheer_underwired_lace_bra-1100-010089-0086-5539910.jpg?ref=1801399612",
+                "url": "https://www.na-kd.com/nl/zoek-producten/sheer-underwired-lace-bra-dark-green-1100-010089-0086"
+            },
+            {
+                "id": "1-1100-010089-0002",
+                "naam": "Zwart",
+                "hex": "#0C1214",
+                "img_url": "https://www.na-kd.com/resize/globalassets/sheer_underwired_lace_bra-1100-010089-0002-5539892_creative.jpg?ref=2CC2B7F091",
+                "url": "https://www.na-kd.com/nl/zoek-producten/sheer-underwired-lace-bra-black-1100-010089-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/resize/globalassets/sheer_underwired_lace_bra-1100-010089-0086-5539910.jpg",
+        "img_url_sec": "https://www.na-kd.com/resize/globalassets/sheer_underwired_lace_bra_1100-010089-008612193_flatlay.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/sheer-underwired-lace-bra-dark-green-1100-010089-0086",
+        "id": "1-1100-010089-0086-664",
         "kleurHex": null
     }
 ]
