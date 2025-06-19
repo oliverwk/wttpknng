@@ -8,7 +8,7 @@
             "https://www.na-kd.com/globalassets/strap_detail_lace_body_1100-008118-0001_17986.jpg?width=640",
             "https://www.na-kd.com/globalassets/strap_detail_lace_body_1100-008118-00017484_flatlayf.jpg?width=640"
         ],
-        "prijs": 7.19,
+        "prijs": 5.75,
         "kleur": "White",
         "kleurFamilies": [
             {
@@ -17,6 +17,13 @@
                 "hex": "#ffffff",
                 "img_url": "https://www.na-kd.com/globalassets/strap_detail_lace_body_1100-008118-0001_17981_01c.jpg?ref=0C8CDC059A",
                 "url": "https://www.na-kd.com/nl/zoek-producten/strap-detail-lace-body-white-1100-008118-0001"
+            },
+            {
+                "id": "1-1100-008118-0002",
+                "naam": "Zwart",
+                "hex": "#1d1c1c",
+                "img_url": "https://www.na-kd.com/globalassets/strap_detail_lace_body_1100-008118-0002_17732.jpg?ref=71BC746682",
+                "url": "https://www.na-kd.com/nl/zoek-producten/strap-detail-lace-body-black-1100-008118-0002"
             }
         ],
         "img_url": "https://www.na-kd.com/globalassets/strap_detail_lace_body_1100-008118-0001_17981_01c.jpg",
@@ -26,69 +33,62 @@
         "kleurHex": null
     },
     {
-        "naam": "Kanten bodysuit met beugels",
+        "naam": "Bodysuit met schouderstrik en kant",
         "imageUrls": [
-            "https://www.na-kd.com/globalassets/underwire_lace_body_1100-008447-0004_5460.jpg?width=640",
-            "https://www.na-kd.com/globalassets/underwire_lace_body_1100-008447-0004_5489.jpg?width=640",
-            "https://www.na-kd.com/globalassets/underwire_lace_body_1100-008447-0004_5479.jpg?width=640",
-            "https://www.na-kd.com/globalassets/underwire_lace_body_1100-008447-0004_5456.jpg?width=640",
-            "https://www.na-kd.com/globalassets/underwired_lace_bodysuit-1100-008447-0004_1106_flatlayf.jpg?width=640"
+            "https://www.na-kd.com/globalassets/nakd_shoulder_tie_lace_bodysuit-1013-001127-000230699.jpg?width=640",
+            "https://www.na-kd.com/globalassets/nakd_shoulder_tie_lace_bodysuit-1013-001127-000230716.jpg?width=640",
+            "https://www.na-kd.com/globalassets/nakd_shoulder_tie_lace_bodysuit-1013-001127-000230725.jpg?width=640",
+            "https://www.na-kd.com/globalassets/nakd_shoulder_tie_lace_bodysuit-1013-001127-000230704.jpg?width=640"
         ],
-        "prijs": 14.38,
-        "kleur": "Red",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-008447-0004",
-                "naam": "Rood",
-                "hex": "#930319",
-                "img_url": "https://www.na-kd.com/globalassets/underwire_lace_body_1100-008447-0004_5460.jpg?ref=3B36D25FED",
-                "url": "https://www.na-kd.com/nl/zoek-producten/underwired-lace-bodysuit-red-1100-008447-0004"
-            },
-            {
-                "id": "1-1100-008447-0002",
-                "naam": "Zwart",
-                "hex": "#1c1a18",
-                "img_url": "https://www.na-kd.com/globalassets/underwired_lace_bodysuit_1100-008447-0002_5526.jpg?ref=02A0D243D4",
-                "url": "https://www.na-kd.com/nl/zoek-producten/underwired-lace-bodysuit-black-1100-008447-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/globalassets/underwire_lace_body_1100-008447-0004_5460.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/underwired_lace_bodysuit-1100-008447-0004_1106_flatlayf.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/underwired-lace-bodysuit-red-1100-008447-0004",
-        "id": "1-1100-008447-0004-664",
-        "kleurHex": null
-    },
-    {
-        "naam": "Kanten bodysuit met beugels",
-        "imageUrls": [
-            "https://www.na-kd.com/globalassets/underwired_lace_bodysuit_1100-008447-0002_5526.jpg?width=640",
-            "https://www.na-kd.com/globalassets/underwired_lace_bodysuit_1100-008447-0002_5541.jpg?width=640",
-            "https://www.na-kd.com/globalassets/underwired_lace_bodysuit_1100-008447-0002_5515.jpg?width=640",
-            "https://www.na-kd.com/globalassets/underwired_lace_bodysuit_1100-008447-0002_5510.jpg?width=640",
-            "https://www.na-kd.com/globalassets/underwired_lace_bodysuit-1100-008447-0002_1103_flatlayf.jpg?width=640"
-        ],
-        "prijs": 14.38,
+        "prijs": 6.88,
         "kleur": "Black",
         "kleurFamilies": [
             {
-                "id": "1-1100-008447-0002",
+                "id": "1-1013-001127-0002",
                 "naam": "Zwart",
-                "hex": "#1c1a18",
-                "img_url": "https://www.na-kd.com/globalassets/underwired_lace_bodysuit_1100-008447-0002_5526.jpg?ref=02A0D243D4",
-                "url": "https://www.na-kd.com/nl/zoek-producten/underwired-lace-bodysuit-black-1100-008447-0002"
-            },
-            {
-                "id": "1-1100-008447-0004",
-                "naam": "Rood",
-                "hex": "#930319",
-                "img_url": "https://www.na-kd.com/globalassets/underwire_lace_body_1100-008447-0004_5460.jpg?ref=3B36D25FED",
-                "url": "https://www.na-kd.com/nl/zoek-producten/underwired-lace-bodysuit-red-1100-008447-0004"
+                "hex": "#080504",
+                "img_url": "https://www.na-kd.com/globalassets/nakd_shoulder_tie_lace_bodysuit-1013-001127-000230699.jpg?ref=C589B0582D",
+                "url": "https://www.na-kd.com/nl/zoek-producten/shoulder-tie-lace-bodysuit-black-1013-001127-0002"
             }
         ],
-        "img_url": "https://www.na-kd.com/globalassets/underwired_lace_bodysuit_1100-008447-0002_5526.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/underwired_lace_bodysuit-1100-008447-0002_1103_flatlayf.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/underwired-lace-bodysuit-black-1100-008447-0002",
-        "id": "1-1100-008447-0002-664",
+        "img_url": "https://www.na-kd.com/globalassets/nakd_shoulder_tie_lace_bodysuit-1013-001127-000230699.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/nakd_shoulder_tie_lace_bodysuit-1013-001127-000230704.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/shoulder-tie-lace-bodysuit-black-1013-001127-0002",
+        "id": "1-1013-001127-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Kanten body met riemdetail",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/strap_detail_lace_body_1100-008118-0002_17732.jpg?width=640",
+            "https://www.na-kd.com/globalassets/strap_detail_lace_body_1100-008118-0002_17787.jpg?width=640",
+            "https://www.na-kd.com/globalassets/strap_detail_lace_body_1100-008118-0002_17723_01c.jpg?width=640",
+            "https://www.na-kd.com/globalassets/strap_detail_lace_body_1100-008118-0002_17774.jpg?width=640",
+            "https://www.na-kd.com/globalassets/strap_detail_lace_body_1100-008118-0002_17753.jpg?width=640",
+            "https://www.na-kd.com/globalassets/strap_detail_lace_body_1100-008118-00027486_flatlayf.jpg?width=640"
+        ],
+        "prijs": 7.19,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-008118-0002",
+                "naam": "Zwart",
+                "hex": "#1d1c1c",
+                "img_url": "https://www.na-kd.com/globalassets/strap_detail_lace_body_1100-008118-0002_17732.jpg?ref=71BC746682",
+                "url": "https://www.na-kd.com/nl/zoek-producten/strap-detail-lace-body-black-1100-008118-0002"
+            },
+            {
+                "id": "1-1100-008118-0001",
+                "naam": "Wit",
+                "hex": "#ffffff",
+                "img_url": "https://www.na-kd.com/globalassets/strap_detail_lace_body_1100-008118-0001_17981_01c.jpg?ref=0C8CDC059A",
+                "url": "https://www.na-kd.com/nl/zoek-producten/strap-detail-lace-body-white-1100-008118-0001"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/strap_detail_lace_body_1100-008118-0002_17732.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/strap_detail_lace_body_1100-008118-00027486_flatlayf.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/strap-detail-lace-body-black-1100-008118-0002",
+        "id": "1-1100-008118-0002-664",
         "kleurHex": null
     },
     {
@@ -100,7 +100,7 @@
             "https://www.na-kd.com/globalassets/eyelash_lace_bodysuit_1100-008744-0001_22078.jpg?width=640",
             "https://www.na-kd.com/globalassets/eyelash_lace_bodysuit-1100-008744-0001_0136_flatlayf.jpg?width=640"
         ],
-        "prijs": 15.98,
+        "prijs": 12.78,
         "kleur": "White",
         "kleurFamilies": [
             {
@@ -126,7 +126,7 @@
             "https://www.na-kd.com/globalassets/lace_body_1100-007626-008617002.jpg?width=640",
             "https://www.na-kd.com/globalassets/lace_body_1100-007626-00861435_flatlay.jpg?width=640"
         ],
-        "prijs": 15.98,
+        "prijs": 12.78,
         "kleur": "Dark Green",
         "kleurFamilies": [
             {
@@ -135,6 +135,13 @@
                 "hex": "#243e35",
                 "img_url": "https://www.na-kd.com/globalassets/lace_body_1100-007626-008616999.jpg?ref=9B4AB70EB3",
                 "url": "https://www.na-kd.com/nl/zoek-producten/kanten-body-dark-green-1100-007626-0086"
+            },
+            {
+                "id": "1-1100-007626-0002",
+                "naam": "Zwart",
+                "hex": "#1c1e23",
+                "img_url": "https://www.na-kd.com/globalassets/lace_body-1100-007626-0002_1537.jpg?ref=BC791F6B8E",
+                "url": "https://www.na-kd.com/nl/zoek-producten/lace-body-black-1100-007626-0002"
             }
         ],
         "img_url": "https://www.na-kd.com/globalassets/lace_body_1100-007626-008616999.jpg",
@@ -144,29 +151,29 @@
         "kleurHex": null
     },
     {
-        "naam": "Bodysuit met kant",
+        "naam": "Kanten bodysuit met beugels",
         "imageUrls": [
-            "https://www.na-kd.com/globalassets/underwired_lace_corset_1100-009686-00860375.jpg?width=640",
-            "https://www.na-kd.com/globalassets/underwired_lace_corset_1100-009686-00860349.jpg?width=640",
-            "https://www.na-kd.com/globalassets/underwired_lace_corset_1100-009686-00860354.jpg?width=640",
-            "https://www.na-kd.com/globalassets/underwired_lace_corset_1100-009686-00860308.jpg?width=640",
-            "https://www.na-kd.com/globalassets/all_lace_bodysuit_1100-009686-00861437_flatlay.jpg?width=640"
+            "https://www.na-kd.com/globalassets/underwired_lace_bodysuit_1100-008447-0002_5526.jpg?width=640",
+            "https://www.na-kd.com/globalassets/underwired_lace_bodysuit_1100-008447-0002_5541.jpg?width=640",
+            "https://www.na-kd.com/globalassets/underwired_lace_bodysuit_1100-008447-0002_5515.jpg?width=640",
+            "https://www.na-kd.com/globalassets/underwired_lace_bodysuit_1100-008447-0002_5510.jpg?width=640",
+            "https://www.na-kd.com/globalassets/underwired_lace_bodysuit-1100-008447-0002_1103_flatlayf.jpg?width=640"
         ],
-        "prijs": 19.97,
-        "kleur": "Dark Green",
+        "prijs": 14.38,
+        "kleur": "Black",
         "kleurFamilies": [
             {
-                "id": "1-1100-009686-0086",
-                "naam": "Donkergroen",
-                "hex": "#173229",
-                "img_url": "https://www.na-kd.com/globalassets/underwired_lace_corset_1100-009686-00860375.jpg?ref=9E1A1F260D",
-                "url": "https://www.na-kd.com/nl/zoek-producten/all-lace-bodysuit-dark-green-1100-009686-0086"
+                "id": "1-1100-008447-0002",
+                "naam": "Zwart",
+                "hex": "#1c1a18",
+                "img_url": "https://www.na-kd.com/globalassets/underwired_lace_bodysuit_1100-008447-0002_5526.jpg?ref=02A0D243D4",
+                "url": "https://www.na-kd.com/nl/zoek-producten/underwired-lace-bodysuit-black-1100-008447-0002"
             }
         ],
-        "img_url": "https://www.na-kd.com/globalassets/underwired_lace_corset_1100-009686-00860375.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/all_lace_bodysuit_1100-009686-00861437_flatlay.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/all-lace-bodysuit-dark-green-1100-009686-0086",
-        "id": "1-1100-009686-0086-004",
+        "img_url": "https://www.na-kd.com/globalassets/underwired_lace_bodysuit_1100-008447-0002_5526.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/underwired_lace_bodysuit-1100-008447-0002_1103_flatlayf.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/underwired-lace-bodysuit-black-1100-008447-0002",
+        "id": "1-1100-008447-0002-664",
         "kleurHex": null
     },
     {
@@ -178,7 +185,7 @@
             "https://www.na-kd.com/globalassets/all_over_lace_plunge_body-1100-010617-0002_25861.jpg?width=640",
             "https://www.na-kd.com/globalassets/all_over_lace_plunge_body_1100-010617-000219900_flatlay.jpg?width=640"
         ],
-        "prijs": 25.16,
+        "prijs": 17.97,
         "kleur": "Black",
         "kleurFamilies": [
             {
@@ -196,67 +203,28 @@
         "kleurHex": null
     },
     {
-        "naam": "Bodysuit met strikdetail",
+        "naam": "Mesh Body",
         "imageUrls": [
-            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0066.jpg?width=640",
-            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0069.jpg?width=640",
-            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0067.jpg?width=640",
-            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0068.jpg?width=640"
+            "https://www.na-kd.com/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_03j.jpg?width=640",
+            "https://www.na-kd.com/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_02k.jpg?width=640",
+            "https://www.na-kd.com/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_01j.jpg?width=640",
+            "https://www.na-kd.com/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_04a.jpg?width=640"
         ],
-        "prijs": 27.96,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-010684-0002",
-                "naam": "Zwart",
-                "hex": "#211f23",
-                "img_url": "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0066.jpg?ref=D309C87429",
-                "url": "https://www.na-kd.com/nl/zoek-producten/bow-detail-bodysuit-black-1100-010684-0002"
-            },
-            {
-                "id": "1-1100-010684-0001",
-                "naam": "Wit",
-                "hex": "#f5f1ee",
-                "img_url": "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0001_0072.jpg?ref=60B2966080",
-                "url": "https://www.na-kd.com/nl/zoek-producten/bow-detail-bodysuit-white-1100-010684-0001"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0066.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0068.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/bow-detail-bodysuit-black-1100-010684-0002",
-        "id": "1-1100-010684-0002-931",
-        "kleurHex": null
-    },
-    {
-        "naam": "Bodysuit met strikdetail",
-        "imageUrls": [
-            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0001_0072.jpg?width=640",
-            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0001_0070.jpg?width=640",
-            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0001_2427.jpg?width=640",
-            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0001_0073.jpg?width=640"
-        ],
-        "prijs": 27.96,
+        "prijs": 27.95,
         "kleur": "White",
         "kleurFamilies": [
             {
-                "id": "1-1100-010684-0001",
+                "id": "1-1013-000762-0001",
                 "naam": "Wit",
-                "hex": "#f5f1ee",
-                "img_url": "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0001_0072.jpg?ref=60B2966080",
-                "url": "https://www.na-kd.com/nl/zoek-producten/bow-detail-bodysuit-white-1100-010684-0001"
-            },
-            {
-                "id": "1-1100-010684-0002",
-                "naam": "Zwart",
-                "hex": "#211f23",
-                "img_url": "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0066.jpg?ref=D309C87429",
-                "url": "https://www.na-kd.com/nl/zoek-producten/bow-detail-bodysuit-black-1100-010684-0002"
+                "hex": "#6f6051",
+                "img_url": "https://www.na-kd.com/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_03j.jpg?ref=3557B61213",
+                "url": "https://www.na-kd.com/nl/zoek-producten/mesh-body-wit"
             }
         ],
-        "img_url": "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0001_0072.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0001_0073.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/bow-detail-bodysuit-white-1100-010684-0001",
-        "id": "1-1100-010684-0001-931",
+        "img_url": "https://www.na-kd.com/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_03j.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/nakd_all_mesh_v_string_bodysuit_1013-000762-0001_04a.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/mesh-body-wit",
+        "id": "1-1013-000762-0001-004",
         "kleurHex": null
     },
     {
@@ -269,7 +237,7 @@
             "https://www.na-kd.com/globalassets/micro_body_1100-010234-00020835_creative.jpg?width=640",
             "https://www.na-kd.com/globalassets/micro_body_1100-010234-00021424_flatlay.jpg?width=640"
         ],
-        "prijs": 27.96,
+        "prijs": 39.95,
         "kleur": "Black",
         "kleurFamilies": [
             {
@@ -287,6 +255,98 @@
         "kleurHex": null
     },
     {
+        "naam": "Bodysuit met strikdetail",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0001_0072.jpg?width=640",
+            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0001_0070.jpg?width=640",
+            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0001_2427.jpg?width=640",
+            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0001_0073.jpg?width=640",
+            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0001_0089_flatlay.jpg?width=640"
+        ],
+        "prijs": 39.95,
+        "kleur": "White",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-010684-0001",
+                "naam": "Wit",
+                "hex": "#ffffff",
+                "img_url": "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0001_0072.jpg?ref=60B2966080",
+                "url": "https://www.na-kd.com/nl/zoek-producten/bow-detail-bodysuit-white-1100-010684-0001"
+            },
+            {
+                "id": "1-1100-010684-0002",
+                "naam": "Zwart",
+                "hex": "#1a1a1a",
+                "img_url": "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0066.jpg?ref=D309C87429",
+                "url": "https://www.na-kd.com/nl/zoek-producten/bow-detail-bodysuit-black-1100-010684-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0001_0072.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0001_0089_flatlay.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/bow-detail-bodysuit-white-1100-010684-0001",
+        "id": "1-1100-010684-0001-931",
+        "kleurHex": null
+    },
+    {
+        "naam": "Bodysuit met strikdetail",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0066.jpg?width=640",
+            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0069.jpg?width=640",
+            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0067.jpg?width=640",
+            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0068.jpg?width=640",
+            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0088_flatlay.jpg?width=640"
+        ],
+        "prijs": 39.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-010684-0002",
+                "naam": "Zwart",
+                "hex": "#1a1a1a",
+                "img_url": "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0066.jpg?ref=D309C87429",
+                "url": "https://www.na-kd.com/nl/zoek-producten/bow-detail-bodysuit-black-1100-010684-0002"
+            },
+            {
+                "id": "1-1100-010684-0001",
+                "naam": "Wit",
+                "hex": "#ffffff",
+                "img_url": "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0001_0072.jpg?ref=60B2966080",
+                "url": "https://www.na-kd.com/nl/zoek-producten/bow-detail-bodysuit-white-1100-010684-0001"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0066.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0088_flatlay.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/bow-detail-bodysuit-black-1100-010684-0002",
+        "id": "1-1100-010684-0002-931",
+        "kleurHex": null
+    },
+    {
+        "naam": "Bodysuit met kant",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/all_lace_bodysuit-1100-010080-0002-39958.jpg?width=640",
+            "https://www.na-kd.com/globalassets/all_lace_bodysuit-1100-010080-0002-39965.jpg?width=640",
+            "https://www.na-kd.com/globalassets/all_lace_bodysuit-1100-010080-0002-39946.jpg?width=640",
+            "https://www.na-kd.com/globalassets/all_lace_bodysuit-1100-010080-0002-39963.jpg?width=640",
+            "https://www.na-kd.com/globalassets/all_lace_bodysuit_1100-010080-00021457_flatlay.jpg?width=640"
+        ],
+        "prijs": 39.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-010080-0002",
+                "naam": "Zwart",
+                "hex": "#151514",
+                "img_url": "https://www.na-kd.com/globalassets/all_lace_bodysuit-1100-010080-0002-39958.jpg?ref=B5117320AE",
+                "url": "https://www.na-kd.com/nl/zoek-producten/all-lace-bodysuit-black-1100-010080-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/all_lace_bodysuit-1100-010080-0002-39958.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/all_lace_bodysuit_1100-010080-00021457_flatlay.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/all-lace-bodysuit-black-1100-010080-0002",
+        "id": "1-1100-010080-0002-004",
+        "kleurHex": null
+    },
+    {
         "naam": "Bodysuit met korset en kant",
         "imageUrls": [
             "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-010078-00020612.jpg?width=640",
@@ -295,7 +355,7 @@
             "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-010078-00020619.jpg?width=640",
             "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-010078-00021416_flatlay.jpg?width=640"
         ],
-        "prijs": 27.96,
+        "prijs": 39.95,
         "kleur": "Black",
         "kleurFamilies": [
             {
@@ -320,29 +380,69 @@
         "kleurHex": null
     },
     {
-        "naam": "Bodysuit met kant",
+        "naam": "Bodysuit met korset en kant",
         "imageUrls": [
-            "https://www.na-kd.com/globalassets/all_lace_bodysuit-1100-010080-0002-39958.jpg?width=640",
-            "https://www.na-kd.com/globalassets/all_lace_bodysuit-1100-010080-0002-39965.jpg?width=640",
-            "https://www.na-kd.com/globalassets/all_lace_bodysuit-1100-010080-0002-39946.jpg?width=640",
-            "https://www.na-kd.com/globalassets/all_lace_bodysuit-1100-010080-0002-39963.jpg?width=640",
-            "https://www.na-kd.com/globalassets/all_lace_bodysuit_1100-010080-00021457_flatlay.jpg?width=640"
+            "https://www.na-kd.com/globalassets/corset_lace_bodysuit-1100-010078-0287-40110.jpg?width=640",
+            "https://www.na-kd.com/globalassets/corset_lace_bodysuit-1100-010078-0287-40123.jpg?width=640",
+            "https://www.na-kd.com/globalassets/corset_lace_bodysuit-1100-010078-0287-40090.jpg?width=640",
+            "https://www.na-kd.com/globalassets/corset_lace_bodysuit-1100-010078-0287-40129_creative.jpg?width=640",
+            "https://www.na-kd.com/globalassets/corcet_lace_bodysuit_1100-010078-02871446_flatlay.jpg?width=640"
         ],
-        "prijs": 27.96,
+        "prijs": 39.95,
+        "kleur": "Bordeaux",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-010078-0287",
+                "naam": "Bordeauxrood",
+                "hex": "#561221",
+                "img_url": "https://www.na-kd.com/globalassets/corset_lace_bodysuit-1100-010078-0287-40110.jpg?ref=2A44BAF0A4",
+                "url": "https://www.na-kd.com/nl/zoek-producten/bodysuit-met-korset-en-kant-bordeaux-1100-010078-0287"
+            },
+            {
+                "id": "1-1100-010078-0002",
+                "naam": "Zwart",
+                "hex": "#121110",
+                "img_url": "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-010078-00020612.jpg?ref=56DE410359",
+                "url": "https://www.na-kd.com/nl/zoek-producten/corset-lace-bodysuit-black-1100-010078-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/corset_lace_bodysuit-1100-010078-0287-40110.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/corcet_lace_bodysuit_1100-010078-02871446_flatlay.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/bodysuit-met-korset-en-kant-bordeaux-1100-010078-0287",
+        "id": "1-1100-010078-0287-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Kanten body",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/lace_body-1100-007626-0002_1537.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_body-1100-007626-0002_1557.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_body-1100-007626-0002_1524_01c.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_body-1100-007626-0002_1543.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_body_1100-007626-00023449.jpg?width=640"
+        ],
+        "prijs": 39.95,
         "kleur": "Black",
         "kleurFamilies": [
             {
-                "id": "1-1100-010080-0002",
+                "id": "1-1100-007626-0002",
                 "naam": "Zwart",
-                "hex": "#151514",
-                "img_url": "https://www.na-kd.com/globalassets/all_lace_bodysuit-1100-010080-0002-39958.jpg?ref=B5117320AE",
-                "url": "https://www.na-kd.com/nl/zoek-producten/all-lace-bodysuit-black-1100-010080-0002"
+                "hex": "#1c1e23",
+                "img_url": "https://www.na-kd.com/globalassets/lace_body-1100-007626-0002_1537.jpg?ref=BC791F6B8E",
+                "url": "https://www.na-kd.com/nl/zoek-producten/lace-body-black-1100-007626-0002"
+            },
+            {
+                "id": "1-1100-007626-0086",
+                "naam": "Donkergroen",
+                "hex": "#243e35",
+                "img_url": "https://www.na-kd.com/globalassets/lace_body_1100-007626-008616999.jpg?ref=9B4AB70EB3",
+                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-body-dark-green-1100-007626-0086"
             }
         ],
-        "img_url": "https://www.na-kd.com/globalassets/all_lace_bodysuit-1100-010080-0002-39958.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/all_lace_bodysuit_1100-010080-00021457_flatlay.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/all-lace-bodysuit-black-1100-010080-0002",
-        "id": "1-1100-010080-0002-004",
+        "img_url": "https://www.na-kd.com/globalassets/lace_body-1100-007626-0002_1537.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/lace_body_1100-007626-00023449.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/lace-body-black-1100-007626-0002",
+        "id": "1-1100-007626-0002-664",
         "kleurHex": null
     }
 ]
