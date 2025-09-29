@@ -52,6 +52,34 @@
         "kleurHex": null
     },
     {
+        "naam": "Body met diepe V-vorm",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/deep_v-shape_body_1100-012045-0002_0046.jpg?width=640",
+            "https://www.na-kd.com/globalassets/deep_v-shape_body_1100-012045-0002_0043.jpg?width=640",
+            "https://www.na-kd.com/globalassets/deep_v-shape_body_1100-012045-0002_0042.jpg?width=640",
+            "https://www.na-kd.com/globalassets/deep_v-shape_body_1100-012045-0002_0044.jpg?width=640",
+            "https://www.na-kd.com/globalassets/deep_v-shape_body_1100-012045-0002_0078_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/deep_v-shape_body_1100-012045-0002_0079_flatlayb.jpg?width=640",
+            "https://www.na-kd.com/globalassets/deep_v-shape_body_1100-012045-0002_00758_flatlayd.jpg?width=640"
+        ],
+        "prijs": 39.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-012045-0002",
+                "naam": "Zwart",
+                "hex": "#121216",
+                "img_url": "https://www.na-kd.com/globalassets/deep_v-shape_body_1100-012045-0002_0046.jpg?ref=E0EAC66FAF",
+                "url": "https://www.na-kd.com/nl/zoek-producten/deep-v-shape-body-black-1100-012045-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/deep_v-shape_body_1100-012045-0002_0046.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/deep_v-shape_body_1100-012045-0002_00758_flatlayd.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/deep-v-shape-body-black-1100-012045-0002",
+        "id": "1-1100-012045-0002-931",
+        "kleurHex": null
+    },
+    {
         "naam": "Kanten body",
         "imageUrls": [
             "https://www.na-kd.com/globalassets/lace_body-1100-007626-0002_1537.jpg?width=640",
@@ -119,34 +147,6 @@
         "img_url_sec": "https://www.na-kd.com/globalassets/lace_body_1100-007626-0230_00880_flatlayd.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/kanten-body-wine-red-1100-007626-0230",
         "id": "1-1100-007626-0230-664",
-        "kleurHex": null
-    },
-    {
-        "naam": "Body met diepe V-vorm",
-        "imageUrls": [
-            "https://www.na-kd.com/globalassets/deep_v-shape_body_1100-012045-0002_0046.jpg?width=640",
-            "https://www.na-kd.com/globalassets/deep_v-shape_body_1100-012045-0002_0043.jpg?width=640",
-            "https://www.na-kd.com/globalassets/deep_v-shape_body_1100-012045-0002_0042.jpg?width=640",
-            "https://www.na-kd.com/globalassets/deep_v-shape_body_1100-012045-0002_0044.jpg?width=640",
-            "https://www.na-kd.com/globalassets/deep_v-shape_body_1100-012045-0002_0078_flatlayf.jpg?width=640",
-            "https://www.na-kd.com/globalassets/deep_v-shape_body_1100-012045-0002_0079_flatlayb.jpg?width=640",
-            "https://www.na-kd.com/globalassets/deep_v-shape_body_1100-012045-0002_00758_flatlayd.jpg?width=640"
-        ],
-        "prijs": 39.95,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-012045-0002",
-                "naam": "Zwart",
-                "hex": "#121216",
-                "img_url": "https://www.na-kd.com/globalassets/deep_v-shape_body_1100-012045-0002_0046.jpg?ref=E0EAC66FAF",
-                "url": "https://www.na-kd.com/nl/zoek-producten/deep-v-shape-body-black-1100-012045-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/globalassets/deep_v-shape_body_1100-012045-0002_0046.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/deep_v-shape_body_1100-012045-0002_00758_flatlayd.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/deep-v-shape-body-black-1100-012045-0002",
-        "id": "1-1100-012045-0002-931",
         "kleurHex": null
     },
     {
@@ -283,33 +283,6 @@
         "img_url_sec": "https://www.na-kd.com/globalassets/eyelashlacebody-1100-010649-00020001-copy_flatlayd2.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/eyelash-lace-body-black-1100-010649-0002",
         "id": "1-1100-010649-0002-931",
-        "kleurHex": null
-    },
-    {
-        "naam": "Micro body",
-        "imageUrls": [
-            "https://www.na-kd.com/globalassets/micro_body_1100-010234-00020817.jpg?width=640",
-            "https://www.na-kd.com/globalassets/micro_body_1100-010234-00020832.jpg?width=640",
-            "https://www.na-kd.com/globalassets/micro_body_1100-010234-00020812.jpg?width=640",
-            "https://www.na-kd.com/globalassets/micro_body_1100-010234-00020829.jpg?width=640",
-            "https://www.na-kd.com/globalassets/micro_body_1100-010234-00020835_creative.jpg?width=640",
-            "https://www.na-kd.com/globalassets/micro_body_1100-010234-00021424_flatlay.jpg?width=640"
-        ],
-        "prijs": 39.95,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-010234-0002",
-                "naam": "Zwart",
-                "hex": "#121119",
-                "img_url": "https://www.na-kd.com/globalassets/micro_body_1100-010234-00020817.jpg?ref=37C736B6E0",
-                "url": "https://www.na-kd.com/nl/zoek-producten/micro-body-black-1100-010234-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/globalassets/micro_body_1100-010234-00020817.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/micro_body_1100-010234-00021424_flatlay.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/micro-body-black-1100-010234-0002",
-        "id": "1-1100-010234-0002-004",
         "kleurHex": null
     }
 ]
