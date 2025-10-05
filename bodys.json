@@ -115,6 +115,41 @@
         "kleurHex": null
     },
     {
+        "naam": "Kanten body",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/lace_body_1100-007626-0230_0049.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_body_1100-007626-0230_0048.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_body_1100-007626-0230_0046.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_body_1100-007626-0230_0047.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_body_1100-007626-0230_0080_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_body_1100-007626-0230_0081_flatlayb.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_body_1100-007626-0230_00880_flatlayd.jpg?width=640"
+        ],
+        "prijs": 39.95,
+        "kleur": "Wine Red",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-007626-0230",
+                "naam": "Bordeauxrood",
+                "hex": "#4a1323",
+                "img_url": "https://www.na-kd.com/globalassets/lace_body_1100-007626-0230_0049.jpg?ref=8D74EDFFE1",
+                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-body-wine-red-1100-007626-0230"
+            },
+            {
+                "id": "1-1100-007626-0002",
+                "naam": "Zwart",
+                "hex": "#101017",
+                "img_url": "https://www.na-kd.com/globalassets/lace_body-1100-007626-0002_1537.jpg?ref=BC791F6B8E",
+                "url": "https://www.na-kd.com/nl/zoek-producten/lace-body-black-1100-007626-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/lace_body_1100-007626-0230_0049.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/lace_body_1100-007626-0230_00880_flatlayd.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/kanten-body-wine-red-1100-007626-0230",
+        "id": "1-1100-007626-0230-664",
+        "kleurHex": null
+    },
+    {
         "naam": "Gladde micro body",
         "imageUrls": [
             "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0002_0081_studio.jpg?width=640",
@@ -175,41 +210,6 @@
         "img_url_sec": "https://www.na-kd.com/globalassets/eyelashlacebody-1100-010649-00020001-copy_flatlayd2.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/eyelash-lace-body-black-1100-010649-0002",
         "id": "1-1100-010649-0002-931",
-        "kleurHex": null
-    },
-    {
-        "naam": "Kanten body",
-        "imageUrls": [
-            "https://www.na-kd.com/globalassets/lace_body_1100-007626-0230_0049.jpg?width=640",
-            "https://www.na-kd.com/globalassets/lace_body_1100-007626-0230_0048.jpg?width=640",
-            "https://www.na-kd.com/globalassets/lace_body_1100-007626-0230_0046.jpg?width=640",
-            "https://www.na-kd.com/globalassets/lace_body_1100-007626-0230_0047.jpg?width=640",
-            "https://www.na-kd.com/globalassets/lace_body_1100-007626-0230_0080_flatlayf.jpg?width=640",
-            "https://www.na-kd.com/globalassets/lace_body_1100-007626-0230_0081_flatlayb.jpg?width=640",
-            "https://www.na-kd.com/globalassets/lace_body_1100-007626-0230_00880_flatlayd.jpg?width=640"
-        ],
-        "prijs": 39.95,
-        "kleur": "Wine Red",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-007626-0230",
-                "naam": "Bordeauxrood",
-                "hex": "#4a1323",
-                "img_url": "https://www.na-kd.com/globalassets/lace_body_1100-007626-0230_0049.jpg?ref=8D74EDFFE1",
-                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-body-wine-red-1100-007626-0230"
-            },
-            {
-                "id": "1-1100-007626-0002",
-                "naam": "Zwart",
-                "hex": "#101017",
-                "img_url": "https://www.na-kd.com/globalassets/lace_body-1100-007626-0002_1537.jpg?ref=BC791F6B8E",
-                "url": "https://www.na-kd.com/nl/zoek-producten/lace-body-black-1100-007626-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/globalassets/lace_body_1100-007626-0230_0049.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/lace_body_1100-007626-0230_00880_flatlayd.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/kanten-body-wine-red-1100-007626-0230",
-        "id": "1-1100-007626-0230-664",
         "kleurHex": null
     },
     {
