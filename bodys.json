@@ -150,40 +150,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Gladde micro body",
-        "imageUrls": [
-            "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0765_0073.jpg?width=640",
-            "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0765_0075.jpg?width=640",
-            "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0765_0074.jpg?width=640",
-            "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0765_0060_flatlayf.jpg?width=640",
-            "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0765_0061_flatlayb.jpg?width=640",
-            "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0765_0069_flatlayd.jpg?width=640"
-        ],
-        "prijs": 39.95,
-        "kleur": "Dark Brown",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-012107-0765",
-                "naam": "Bruin",
-                "hex": "#392727",
-                "img_url": "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0765_0073.jpg?ref=BABA2E68FD",
-                "url": "https://www.na-kd.com/nl/zoek-producten/plain-micro-body-dark-brown-1100-012107-0765"
-            },
-            {
-                "id": "1-1100-012107-0002",
-                "naam": "Zwart",
-                "hex": "#201e21",
-                "img_url": "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0002_0081_studio.jpg?ref=554ECD7BB2",
-                "url": "https://www.na-kd.com/nl/zoek-producten/plain-micro-body-black-1100-012107-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0765_0073.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0765_0069_flatlayd.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/plain-micro-body-dark-brown-1100-012107-0765",
-        "id": "1-1100-012107-0765-664",
-        "kleurHex": null
-    },
-    {
         "naam": "Kanten body",
         "imageUrls": [
             "https://www.na-kd.com/globalassets/lace_body_1100-007626-0230_0046.jpg?width=640",
@@ -219,38 +185,37 @@
         "kleurHex": null
     },
     {
-        "naam": "Body met open kant",
+        "naam": "Gladde micro body",
         "imageUrls": [
-            "https://www.na-kd.com/globalassets/eyelash_lace_body-1100-010649-0002_0034.jpg?width=640",
-            "https://www.na-kd.com/globalassets/eyelash_lace_body-1100-010649-0002_0035.jpg?width=640",
-            "https://www.na-kd.com/globalassets/eyelash_lace_body-1100-010649-0002_0033.jpg?width=640",
-            "https://www.na-kd.com/globalassets/eyelash_lace_body-1100-010649-0002_0036.jpg?width=640",
-            "https://www.na-kd.com/globalassets/eyelash_lace_body-1100-010649-0002_0001_flatlayf.jpg?width=640",
-            "https://www.na-kd.com/globalassets/eyelashlacebody-1100-010649-00020001-copy-2_flatlayd.jpg?width=640",
-            "https://www.na-kd.com/globalassets/eyelashlacebody-1100-010649-00020001-copy_flatlayd2.jpg?width=640"
+            "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0765_0073.jpg?width=640",
+            "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0765_0075.jpg?width=640",
+            "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0765_0074.jpg?width=640",
+            "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0765_0060_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0765_0061_flatlayb.jpg?width=640",
+            "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0765_0069_flatlayd.jpg?width=640"
         ],
         "prijs": 39.95,
-        "kleur": "Black",
+        "kleur": "Dark Brown",
         "kleurFamilies": [
             {
-                "id": "1-1100-010649-0002",
-                "naam": "Zwart",
-                "hex": "#111117",
-                "img_url": "https://www.na-kd.com/globalassets/eyelash_lace_body-1100-010649-0002_0034.jpg?ref=1B8F917592",
-                "url": "https://www.na-kd.com/nl/zoek-producten/eyelash-lace-body-black-1100-010649-0002"
+                "id": "1-1100-012107-0765",
+                "naam": "Bruin",
+                "hex": "#392727",
+                "img_url": "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0765_0073.jpg?ref=BABA2E68FD",
+                "url": "https://www.na-kd.com/nl/zoek-producten/plain-micro-body-dark-brown-1100-012107-0765"
             },
             {
-                "id": "1-1100-010649-0260",
-                "naam": "Gebroken wit",
-                "hex": "#f4ebdc",
-                "img_url": "https://www.na-kd.com/globalassets/eyelash_lace_body-1100-010649-0260_0030.jpg?ref=E315BB99ED",
-                "url": "https://www.na-kd.com/nl/zoek-producten/eyelash-lace-body-offwhite-1100-010649-0260"
+                "id": "1-1100-012107-0002",
+                "naam": "Zwart",
+                "hex": "#201e21",
+                "img_url": "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0002_0081_studio.jpg?ref=554ECD7BB2",
+                "url": "https://www.na-kd.com/nl/zoek-producten/plain-micro-body-black-1100-012107-0002"
             }
         ],
-        "img_url": "https://www.na-kd.com/globalassets/eyelash_lace_body-1100-010649-0002_0034.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/eyelashlacebody-1100-010649-00020001-copy_flatlayd2.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/eyelash-lace-body-black-1100-010649-0002",
-        "id": "1-1100-010649-0002-931",
+        "img_url": "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0765_0073.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0765_0069_flatlayd.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/plain-micro-body-dark-brown-1100-012107-0765",
+        "id": "1-1100-012107-0765-664",
         "kleurHex": null
     },
     {
@@ -284,6 +249,41 @@
         "img_url_sec": "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0001_0089_flatlay.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/bow-detail-bodysuit-white-1100-010684-0001",
         "id": "1-1100-010684-0001-931",
+        "kleurHex": null
+    },
+    {
+        "naam": "Body met open kant",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/eyelash_lace_body-1100-010649-0002_0034.jpg?width=640",
+            "https://www.na-kd.com/globalassets/eyelash_lace_body-1100-010649-0002_0035.jpg?width=640",
+            "https://www.na-kd.com/globalassets/eyelash_lace_body-1100-010649-0002_0033.jpg?width=640",
+            "https://www.na-kd.com/globalassets/eyelash_lace_body-1100-010649-0002_0036.jpg?width=640",
+            "https://www.na-kd.com/globalassets/eyelash_lace_body-1100-010649-0002_0001_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/eyelashlacebody-1100-010649-00020001-copy-2_flatlayd.jpg?width=640",
+            "https://www.na-kd.com/globalassets/eyelashlacebody-1100-010649-00020001-copy_flatlayd2.jpg?width=640"
+        ],
+        "prijs": 39.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-010649-0002",
+                "naam": "Zwart",
+                "hex": "#111117",
+                "img_url": "https://www.na-kd.com/globalassets/eyelash_lace_body-1100-010649-0002_0034.jpg?ref=1B8F917592",
+                "url": "https://www.na-kd.com/nl/zoek-producten/eyelash-lace-body-black-1100-010649-0002"
+            },
+            {
+                "id": "1-1100-010649-0260",
+                "naam": "Gebroken wit",
+                "hex": "#f4ebdc",
+                "img_url": "https://www.na-kd.com/globalassets/eyelash_lace_body-1100-010649-0260_0030.jpg?ref=E315BB99ED",
+                "url": "https://www.na-kd.com/nl/zoek-producten/eyelash-lace-body-offwhite-1100-010649-0260"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/eyelash_lace_body-1100-010649-0002_0034.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/eyelashlacebody-1100-010649-00020001-copy_flatlayd2.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/eyelash-lace-body-black-1100-010649-0002",
+        "id": "1-1100-010649-0002-931",
         "kleurHex": null
     },
     {
@@ -406,6 +406,32 @@
         "img_url_sec": "https://www.na-kd.com/globalassets/micro_body_1100-010234-00021424_flatlay.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/micro-body-black-1100-010234-0002",
         "id": "1-1100-010234-0002-004",
+        "kleurHex": null
+    },
+    {
+        "naam": "Bodysuit met kant",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/all_lace_bodysuit-1100-010080-0002-39958.jpg?width=640",
+            "https://www.na-kd.com/globalassets/all_lace_bodysuit-1100-010080-0002-39965.jpg?width=640",
+            "https://www.na-kd.com/globalassets/all_lace_bodysuit-1100-010080-0002-39946.jpg?width=640",
+            "https://www.na-kd.com/globalassets/all_lace_bodysuit-1100-010080-0002-39963.jpg?width=640",
+            "https://www.na-kd.com/globalassets/all_lace_bodysuit_1100-010080-00021457_flatlay.jpg?width=640"
+        ],
+        "prijs": 39.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-010080-0002",
+                "naam": "Zwart",
+                "hex": "#151514",
+                "img_url": "https://www.na-kd.com/globalassets/all_lace_bodysuit-1100-010080-0002-39958.jpg?ref=B5117320AE",
+                "url": "https://www.na-kd.com/nl/zoek-producten/all-lace-bodysuit-black-1100-010080-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/all_lace_bodysuit-1100-010080-0002-39958.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/all_lace_bodysuit_1100-010080-00021457_flatlay.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/all-lace-bodysuit-black-1100-010080-0002",
+        "id": "1-1100-010080-0002-004",
         "kleurHex": null
     },
     {
