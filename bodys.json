@@ -8,7 +8,7 @@
             "https://www.na-kd.com/globalassets/eyelash_detail_body-1100-010646-0004_10421.jpg?width=640",
             "https://www.na-kd.com/globalassets/eyelash_detail_body-1100-010646-0004_1808qwe1_flatlay.jpg?width=640"
         ],
-        "prijs": 14.38,
+        "prijs": 21.57,
         "kleur": "Red",
         "kleurFamilies": [
             {
@@ -34,7 +34,7 @@
             "https://www.na-kd.com/globalassets/all_over_lace_plunge_body-1100-010617-0002_25861.jpg?width=640",
             "https://www.na-kd.com/globalassets/all_over_lace_plunge_body_1100-010617-000219900_flatlay.jpg?width=640"
         ],
-        "prijs": 17.97,
+        "prijs": 35.95,
         "kleur": "Black",
         "kleurFamilies": [
             {
@@ -87,34 +87,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Body met diepe V-vorm",
-        "imageUrls": [
-            "https://www.na-kd.com/globalassets/deep_v-shape_body_1100-012045-0002_0046.jpg?width=640",
-            "https://www.na-kd.com/globalassets/deep_v-shape_body_1100-012045-0002_0043.jpg?width=640",
-            "https://www.na-kd.com/globalassets/deep_v-shape_body_1100-012045-0002_0042.jpg?width=640",
-            "https://www.na-kd.com/globalassets/deep_v-shape_body_1100-012045-0002_0044.jpg?width=640",
-            "https://www.na-kd.com/globalassets/deep_v-shape_body_1100-012045-0002_0078_flatlayf.jpg?width=640",
-            "https://www.na-kd.com/globalassets/deep_v-shape_body_1100-012045-0002_0079_flatlayb.jpg?width=640",
-            "https://www.na-kd.com/globalassets/deep_v-shape_body_1100-012045-0002_00758_flatlayd.jpg?width=640"
-        ],
-        "prijs": 39.95,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-012045-0002",
-                "naam": "Zwart",
-                "hex": "#121216",
-                "img_url": "https://www.na-kd.com/globalassets/deep_v-shape_body_1100-012045-0002_0046.jpg?ref=E0EAC66FAF",
-                "url": "https://www.na-kd.com/nl/zoek-producten/deep-v-shape-body-black-1100-012045-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/globalassets/deep_v-shape_body_1100-012045-0002_0046.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/deep_v-shape_body_1100-012045-0002_00758_flatlayd.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/deep-v-shape-body-black-1100-012045-0002",
-        "id": "1-1100-012045-0002-931",
-        "kleurHex": null
-    },
-    {
         "naam": "Gladde micro body",
         "imageUrls": [
             "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0765_0073.jpg?width=640",
@@ -146,6 +118,61 @@
         "img_url_sec": "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0765_0069_flatlayd.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/plain-micro-body-dark-brown-1100-012107-0765",
         "id": "1-1100-012107-0765-664",
+        "kleurHex": null
+    },
+    {
+        "naam": "Body met kanten inzet",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0036.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0039.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0037.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0038.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0086_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0087_flatlayb.jpg?width=640"
+        ],
+        "prijs": 39.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-011813-0002",
+                "naam": "Zwart",
+                "hex": "#18191f",
+                "img_url": "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0036.jpg?ref=A3B76E6B2B",
+                "url": "https://www.na-kd.com/nl/zoek-producten/lace-panel-body-black-1100-011813-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0036.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0087_flatlayb.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/lace-panel-body-black-1100-011813-0002",
+        "id": "1-1100-011813-0002-664",
+        "kleurHex": null
+    },
+    {
+        "naam": "Body met diepe V-vorm",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/deep_v-shape_body_1100-012045-0002_0046.jpg?width=640",
+            "https://www.na-kd.com/globalassets/deep_v-shape_body_1100-012045-0002_0043.jpg?width=640",
+            "https://www.na-kd.com/globalassets/deep_v-shape_body_1100-012045-0002_0042.jpg?width=640",
+            "https://www.na-kd.com/globalassets/deep_v-shape_body_1100-012045-0002_0044.jpg?width=640",
+            "https://www.na-kd.com/globalassets/deep_v-shape_body_1100-012045-0002_0078_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/deep_v-shape_body_1100-012045-0002_0079_flatlayb.jpg?width=640",
+            "https://www.na-kd.com/globalassets/deep_v-shape_body_1100-012045-0002_00758_flatlayd.jpg?width=640"
+        ],
+        "prijs": 39.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-012045-0002",
+                "naam": "Zwart",
+                "hex": "#121216",
+                "img_url": "https://www.na-kd.com/globalassets/deep_v-shape_body_1100-012045-0002_0046.jpg?ref=E0EAC66FAF",
+                "url": "https://www.na-kd.com/nl/zoek-producten/deep-v-shape-body-black-1100-012045-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/deep_v-shape_body_1100-012045-0002_0046.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/deep_v-shape_body_1100-012045-0002_00758_flatlayd.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/deep-v-shape-body-black-1100-012045-0002",
+        "id": "1-1100-012045-0002-931",
         "kleurHex": null
     },
     {
@@ -216,66 +243,6 @@
         "img_url_sec": "https://www.na-kd.com/globalassets/lace_body_1100-007626-0230_00880_flatlayd.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/kanten-body-wine-red-1100-007626-0230",
         "id": "1-1100-007626-0230-664",
-        "kleurHex": null
-    },
-    {
-        "naam": "Bodysuit met strikdetail",
-        "imageUrls": [
-            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0066.jpg?width=640",
-            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0069.jpg?width=640",
-            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0067.jpg?width=640",
-            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0068.jpg?width=640",
-            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0088_flatlay.jpg?width=640"
-        ],
-        "prijs": 39.95,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-010684-0002",
-                "naam": "Zwart",
-                "hex": "#1a1a1a",
-                "img_url": "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0066.jpg?ref=D309C87429",
-                "url": "https://www.na-kd.com/nl/zoek-producten/bow-detail-bodysuit-black-1100-010684-0002"
-            },
-            {
-                "id": "1-1100-010684-0001",
-                "naam": "Wit",
-                "hex": "#ffffff",
-                "img_url": "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0001_0072.jpg?ref=60B2966080",
-                "url": "https://www.na-kd.com/nl/zoek-producten/bow-detail-bodysuit-white-1100-010684-0001"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0066.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0088_flatlay.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/bow-detail-bodysuit-black-1100-010684-0002",
-        "id": "1-1100-010684-0002-931",
-        "kleurHex": null
-    },
-    {
-        "naam": "Body met kanten inzet",
-        "imageUrls": [
-            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0036.jpg?width=640",
-            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0039.jpg?width=640",
-            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0037.jpg?width=640",
-            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0038.jpg?width=640",
-            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0086_flatlayf.jpg?width=640",
-            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0087_flatlayb.jpg?width=640"
-        ],
-        "prijs": 39.95,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-011813-0002",
-                "naam": "Zwart",
-                "hex": "#18191f",
-                "img_url": "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0036.jpg?ref=A3B76E6B2B",
-                "url": "https://www.na-kd.com/nl/zoek-producten/lace-panel-body-black-1100-011813-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0036.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0087_flatlayb.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/lace-panel-body-black-1100-011813-0002",
-        "id": "1-1100-011813-0002-664",
         "kleurHex": null
     },
     {
@@ -382,6 +349,39 @@
         "kleurHex": null
     },
     {
+        "naam": "Bodysuit met strikdetail",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0066.jpg?width=640",
+            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0069.jpg?width=640",
+            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0067.jpg?width=640",
+            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0068.jpg?width=640",
+            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0088_flatlay.jpg?width=640"
+        ],
+        "prijs": 39.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-010684-0002",
+                "naam": "Zwart",
+                "hex": "#1a1a1a",
+                "img_url": "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0066.jpg?ref=D309C87429",
+                "url": "https://www.na-kd.com/nl/zoek-producten/bow-detail-bodysuit-black-1100-010684-0002"
+            },
+            {
+                "id": "1-1100-010684-0001",
+                "naam": "Wit",
+                "hex": "#ffffff",
+                "img_url": "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0001_0072.jpg?ref=60B2966080",
+                "url": "https://www.na-kd.com/nl/zoek-producten/bow-detail-bodysuit-white-1100-010684-0001"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0066.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0088_flatlay.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/bow-detail-bodysuit-black-1100-010684-0002",
+        "id": "1-1100-010684-0002-931",
+        "kleurHex": null
+    },
+    {
         "naam": "Micro body",
         "imageUrls": [
             "https://www.na-kd.com/globalassets/micro_body_1100-010234-00020817.jpg?width=640",
@@ -411,32 +411,32 @@
     {
         "naam": "Bodysuit met lange mouwen",
         "imageUrls": [
-            "https://www.na-kd.com/globalassets/long_sleeve_bodysuit_1100-012233-00020015.jpg?width=640",
-            "https://www.na-kd.com/globalassets/long_sleeve_bodysuit_1100-012233-00020017.jpg?width=640",
-            "https://www.na-kd.com/globalassets/long_sleeve_bodysuit_1100-012233-00020016.jpg?width=640"
+            "https://www.na-kd.com/globalassets/long_sleeve_bodysuit_1100-012233-0212_0031.jpg?width=640",
+            "https://www.na-kd.com/globalassets/long_sleeve_bodysuit_1100-012233-0212_0030.jpg?width=640",
+            "https://www.na-kd.com/globalassets/long_sleeve_bodysuit_1100-012233-0212_0029.jpg?width=640"
         ],
         "prijs": 45.95,
-        "kleur": "Black",
+        "kleur": "Burgundy",
         "kleurFamilies": [
-            {
-                "id": "1-1100-012233-0002",
-                "naam": "Zwart",
-                "hex": "#533e39",
-                "img_url": "https://www.na-kd.com/globalassets/long_sleeve_bodysuit_1100-012233-00020015.jpg?ref=4CFFBA4947",
-                "url": "https://www.na-kd.com/nl/zoek-producten/long-sleeve-bodysuit-black-1100-012233-0002"
-            },
             {
                 "id": "1-1100-012233-0212",
                 "naam": "Bordeauxrood",
                 "hex": "#5a2c2d",
                 "img_url": "https://www.na-kd.com/globalassets/long_sleeve_bodysuit_1100-012233-0212_0031.jpg?ref=111E59503B",
                 "url": "https://www.na-kd.com/nl/zoek-producten/long-sleeve-bodysuit-burgundy-1100-012233-0212"
+            },
+            {
+                "id": "1-1100-012233-0002",
+                "naam": "Zwart",
+                "hex": "#242326",
+                "img_url": "https://www.na-kd.com/globalassets/long_sleeve_bodysuit_1100-012233-00020015.jpg?ref=4CFFBA4947",
+                "url": "https://www.na-kd.com/nl/zoek-producten/long-sleeve-bodysuit-black-1100-012233-0002"
             }
         ],
-        "img_url": "https://www.na-kd.com/globalassets/long_sleeve_bodysuit_1100-012233-00020015.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/long_sleeve_bodysuit_1100-012233-00020016.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/long-sleeve-bodysuit-black-1100-012233-0002",
-        "id": "1-1100-012233-0002-931",
+        "img_url": "https://www.na-kd.com/globalassets/long_sleeve_bodysuit_1100-012233-0212_0031.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/long_sleeve_bodysuit_1100-012233-0212_0029.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/long-sleeve-bodysuit-burgundy-1100-012233-0212",
+        "id": "1-1100-012233-0212-931",
         "kleurHex": null
     }
 ]
