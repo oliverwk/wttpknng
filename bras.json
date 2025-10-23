@@ -1,30 +1,5 @@
 [
     {
-        "naam": "Katoenen top met naaddetail en patch",
-        "imageUrls": [
-            "https://www.na-kd.com/globalassets/nakd_seam_detail_patched_cotton_top_1013-000948-0138_01g.jpg?width=640",
-            "https://www.na-kd.com/globalassets/nakd_seam_detail_patched_cotton_top_1013-000948-0138_02b.jpg?width=640",
-            "https://www.na-kd.com/globalassets/nakd_seam_detail_patched_cotton_top_1013-000948-0138_03a.jpg?width=640",
-            "https://www.na-kd.com/globalassets/nakd_seam_detail_patched_cotton_top_1013-000948-0138_04g.jpg?width=640"
-        ],
-        "prijs": 1.99,
-        "kleur": "Grey Melange",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-000948-0138",
-                "naam": "Grijs",
-                "hex": "#adaeaf",
-                "img_url": "https://www.na-kd.com/globalassets/nakd_seam_detail_patched_cotton_top_1013-000948-0138_01g.jpg?ref=D145A489D1",
-                "url": "https://www.na-kd.com/nl/zoek-producten/katoenen-top-met-naaddetail-en-patch-grijs-1013-000948-0138"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/globalassets/nakd_seam_detail_patched_cotton_top_1013-000948-0138_01g.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/nakd_seam_detail_patched_cotton_top_1013-000948-0138_04g.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/katoenen-top-met-naaddetail-en-patch-grijs-1013-000948-0138",
-        "id": "1-1013-000948-0138-004",
-        "kleurHex": null
-    },
-    {
         "naam": "Gewatteerde kanten bralette",
         "imageUrls": [
             "https://www.na-kd.com/globalassets/padded_lace_bralette_1100-007634-000423692.jpg?width=640",
@@ -95,18 +70,18 @@
                 "url": "https://www.na-kd.com/nl/zoek-producten/beugelbeha-met-satijndetail-dark-grey-1013-001228-0366"
             },
             {
-                "id": "1-1013-001228-1334",
-                "naam": "Bruin",
-                "hex": "#372a2c",
-                "img_url": "https://www.na-kd.com/globalassets/satin_detail_wire_bra_1013-001228-1334_0046.jpg?ref=9E16269D2E",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugel-bh-met-satijnen-detail-chocolate-brown-1013-001228-1334"
-            },
-            {
                 "id": "1-1013-001228-0002",
                 "naam": "Zwart",
                 "hex": "#1f1f1f",
                 "img_url": "https://www.na-kd.com/globalassets/satin_detail_wire_bra-1013-001228-0002_0778.jpg?ref=3894173C76",
                 "url": "https://www.na-kd.com/nl/zoek-producten/beugelbeha-met-satijndetail-zwart-1013-001228-0002"
+            },
+            {
+                "id": "1-1013-001228-1334",
+                "naam": "Bruin",
+                "hex": "#372a2c",
+                "img_url": "https://www.na-kd.com/globalassets/satin_detail_wire_bra_1013-001228-1334_0046.jpg?ref=9E16269D2E",
+                "url": "https://www.na-kd.com/nl/zoek-producten/beugel-bh-met-satijnen-detail-chocolate-brown-1013-001228-1334"
             },
             {
                 "id": "1-1013-001228-0212",
@@ -262,18 +237,18 @@
                 "url": "https://www.na-kd.com/nl/zoek-producten/beugelbeha-met-satijndetail-dark-brown-1013-001228-0765"
             },
             {
-                "id": "1-1013-001228-1334",
-                "naam": "Bruin",
-                "hex": "#372a2c",
-                "img_url": "https://www.na-kd.com/globalassets/satin_detail_wire_bra_1013-001228-1334_0046.jpg?ref=9E16269D2E",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugel-bh-met-satijnen-detail-chocolate-brown-1013-001228-1334"
-            },
-            {
                 "id": "1-1013-001228-0002",
                 "naam": "Zwart",
                 "hex": "#1f1f1f",
                 "img_url": "https://www.na-kd.com/globalassets/satin_detail_wire_bra-1013-001228-0002_0778.jpg?ref=3894173C76",
                 "url": "https://www.na-kd.com/nl/zoek-producten/beugelbeha-met-satijndetail-zwart-1013-001228-0002"
+            },
+            {
+                "id": "1-1013-001228-1334",
+                "naam": "Bruin",
+                "hex": "#372a2c",
+                "img_url": "https://www.na-kd.com/globalassets/satin_detail_wire_bra_1013-001228-1334_0046.jpg?ref=9E16269D2E",
+                "url": "https://www.na-kd.com/nl/zoek-producten/beugel-bh-met-satijnen-detail-chocolate-brown-1013-001228-1334"
             },
             {
                 "id": "1-1013-001228-0212",
@@ -480,22 +455,23 @@
     {
         "naam": "Beugelbh van kant",
         "imageUrls": [
-            "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0001_0052.jpg?width=640",
-            "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0001_0053.jpg?width=640",
-            "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0001_0051.jpg?width=640",
-            "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0001_0118_flatlayf.jpg?width=640",
-            "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0001_0119_flatlayb.jpg?width=640",
-            "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0001_01819_flatlayd.jpg?width=640"
+            "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0002_0070.jpg?width=640",
+            "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0002_0074.jpg?width=640",
+            "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0002_0075.jpg?width=640",
+            "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0002_0068.jpg?width=640",
+            "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0002_0114_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0002_0115_flatlayb.jpg?width=640",
+            "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0002_01184_flatlayd.jpg?width=640"
         ],
         "prijs": 19.95,
-        "kleur": "White",
+        "kleur": "Black",
         "kleurFamilies": [
             {
-                "id": "1-1100-007471-0001",
-                "naam": "Wit",
-                "hex": "#ffffff",
-                "img_url": "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0001_0052.jpg?ref=1D2145C118",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-wit-1100-007471-0001"
+                "id": "1-1100-007471-0002",
+                "naam": "Zwart",
+                "hex": "#121116",
+                "img_url": "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0002_0070.jpg?ref=786E1614F4",
+                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-zwart-1100-007471-0002"
             },
             {
                 "id": "1-1100-007471-0004",
@@ -505,13 +481,6 @@
                 "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-red-1100-007471-0004"
             },
             {
-                "id": "1-1100-007471-0002",
-                "naam": "Zwart",
-                "hex": "#121116",
-                "img_url": "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0002_0070.jpg?ref=786E1614F4",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-zwart-1100-007471-0002"
-            },
-            {
                 "id": "1-1100-007471-0212",
                 "naam": "Donkerrood",
                 "hex": "#64121f",
@@ -519,11 +488,11 @@
                 "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-burgundy-1100-007471-0212"
             },
             {
-                "id": "1-1100-007471-0083",
-                "naam": "Marineblauw",
-                "hex": "#22263e",
-                "img_url": "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0083_0019.jpg?ref=FD5557EF0B",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-dark-navy-1100-007471-0083"
+                "id": "1-1100-007471-0001",
+                "naam": "Wit",
+                "hex": "#ffffff",
+                "img_url": "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0001_0052.jpg?ref=1D2145C118",
+                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-wit-1100-007471-0001"
             },
             {
                 "id": "1-1100-007471-0502",
@@ -531,12 +500,19 @@
                 "hex": "#163332",
                 "img_url": "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0502_0058.jpg?ref=0FE48AB06D",
                 "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-deep-green-1100-007471-0502"
+            },
+            {
+                "id": "1-1100-007471-0083",
+                "naam": "Marineblauw",
+                "hex": "#22263e",
+                "img_url": "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0083_0019.jpg?ref=FD5557EF0B",
+                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-dark-navy-1100-007471-0083"
             }
         ],
-        "img_url": "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0001_0052.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0001_01819_flatlayd.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-wit-1100-007471-0001",
-        "id": "1-1100-007471-0001-664",
+        "img_url": "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0002_0070.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0002_01184_flatlayd.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-zwart-1100-007471-0002",
+        "id": "1-1100-007471-0002-664",
         "kleurHex": null
     },
     {
@@ -560,13 +536,6 @@
                 "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-red-1100-007471-0004"
             },
             {
-                "id": "1-1100-007471-0001",
-                "naam": "Wit",
-                "hex": "#ffffff",
-                "img_url": "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0001_0052.jpg?ref=1D2145C118",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-wit-1100-007471-0001"
-            },
-            {
                 "id": "1-1100-007471-0002",
                 "naam": "Zwart",
                 "hex": "#121116",
@@ -581,11 +550,11 @@
                 "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-burgundy-1100-007471-0212"
             },
             {
-                "id": "1-1100-007471-0083",
-                "naam": "Marineblauw",
-                "hex": "#22263e",
-                "img_url": "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0083_0019.jpg?ref=FD5557EF0B",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-dark-navy-1100-007471-0083"
+                "id": "1-1100-007471-0001",
+                "naam": "Wit",
+                "hex": "#ffffff",
+                "img_url": "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0001_0052.jpg?ref=1D2145C118",
+                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-wit-1100-007471-0001"
             },
             {
                 "id": "1-1100-007471-0502",
@@ -593,6 +562,13 @@
                 "hex": "#163332",
                 "img_url": "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0502_0058.jpg?ref=0FE48AB06D",
                 "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-deep-green-1100-007471-0502"
+            },
+            {
+                "id": "1-1100-007471-0083",
+                "naam": "Marineblauw",
+                "hex": "#22263e",
+                "img_url": "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0083_0019.jpg?ref=FD5557EF0B",
+                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-dark-navy-1100-007471-0083"
             }
         ],
         "img_url": "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0004_0010.jpg",
@@ -659,69 +635,6 @@
     {
         "naam": "Beugelbh van kant",
         "imageUrls": [
-            "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0002_0070.jpg?width=640",
-            "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0002_0074.jpg?width=640",
-            "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0002_0075.jpg?width=640",
-            "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0002_0068.jpg?width=640",
-            "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0002_0114_flatlayf.jpg?width=640",
-            "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0002_0115_flatlayb.jpg?width=640",
-            "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0002_01184_flatlayd.jpg?width=640"
-        ],
-        "prijs": 19.95,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-007471-0002",
-                "naam": "Zwart",
-                "hex": "#121116",
-                "img_url": "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0002_0070.jpg?ref=786E1614F4",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-zwart-1100-007471-0002"
-            },
-            {
-                "id": "1-1100-007471-0001",
-                "naam": "Wit",
-                "hex": "#ffffff",
-                "img_url": "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0001_0052.jpg?ref=1D2145C118",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-wit-1100-007471-0001"
-            },
-            {
-                "id": "1-1100-007471-0004",
-                "naam": "Rood",
-                "hex": "#bc1926",
-                "img_url": "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0004_0010.jpg?ref=5876838067",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-red-1100-007471-0004"
-            },
-            {
-                "id": "1-1100-007471-0212",
-                "naam": "Donkerrood",
-                "hex": "#64121f",
-                "img_url": "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0212_0069.jpg?ref=4802A50EE9",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-burgundy-1100-007471-0212"
-            },
-            {
-                "id": "1-1100-007471-0083",
-                "naam": "Marineblauw",
-                "hex": "#22263e",
-                "img_url": "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0083_0019.jpg?ref=FD5557EF0B",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-dark-navy-1100-007471-0083"
-            },
-            {
-                "id": "1-1100-007471-0502",
-                "naam": "Donkergroen",
-                "hex": "#163332",
-                "img_url": "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0502_0058.jpg?ref=0FE48AB06D",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-deep-green-1100-007471-0502"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0002_0070.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0002_01184_flatlayd.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-zwart-1100-007471-0002",
-        "id": "1-1100-007471-0002-664",
-        "kleurHex": null
-    },
-    {
-        "naam": "Beugelbh van kant",
-        "imageUrls": [
             "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0212_0069.jpg?width=640",
             "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0212_0072.jpg?width=640",
             "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0212_0068.jpg?width=640",
@@ -740,11 +653,11 @@
                 "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-burgundy-1100-007471-0212"
             },
             {
-                "id": "1-1100-007471-0001",
-                "naam": "Wit",
-                "hex": "#ffffff",
-                "img_url": "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0001_0052.jpg?ref=1D2145C118",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-wit-1100-007471-0001"
+                "id": "1-1100-007471-0002",
+                "naam": "Zwart",
+                "hex": "#121116",
+                "img_url": "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0002_0070.jpg?ref=786E1614F4",
+                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-zwart-1100-007471-0002"
             },
             {
                 "id": "1-1100-007471-0004",
@@ -754,18 +667,11 @@
                 "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-red-1100-007471-0004"
             },
             {
-                "id": "1-1100-007471-0002",
-                "naam": "Zwart",
-                "hex": "#121116",
-                "img_url": "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0002_0070.jpg?ref=786E1614F4",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-zwart-1100-007471-0002"
-            },
-            {
-                "id": "1-1100-007471-0083",
-                "naam": "Marineblauw",
-                "hex": "#22263e",
-                "img_url": "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0083_0019.jpg?ref=FD5557EF0B",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-dark-navy-1100-007471-0083"
+                "id": "1-1100-007471-0001",
+                "naam": "Wit",
+                "hex": "#ffffff",
+                "img_url": "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0001_0052.jpg?ref=1D2145C118",
+                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-wit-1100-007471-0001"
             },
             {
                 "id": "1-1100-007471-0502",
@@ -773,12 +679,81 @@
                 "hex": "#163332",
                 "img_url": "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0502_0058.jpg?ref=0FE48AB06D",
                 "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-deep-green-1100-007471-0502"
+            },
+            {
+                "id": "1-1100-007471-0083",
+                "naam": "Marineblauw",
+                "hex": "#22263e",
+                "img_url": "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0083_0019.jpg?ref=FD5557EF0B",
+                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-dark-navy-1100-007471-0083"
             }
         ],
         "img_url": "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0212_0069.jpg",
         "img_url_sec": "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0212_0118_flatlayd.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-burgundy-1100-007471-0212",
         "id": "1-1100-007471-0212-664",
+        "kleurHex": null
+    },
+    {
+        "naam": "Beugelbh van kant",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0001_0052.jpg?width=640",
+            "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0001_0053.jpg?width=640",
+            "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0001_0051.jpg?width=640",
+            "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0001_0118_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0001_0119_flatlayb.jpg?width=640",
+            "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0001_01819_flatlayd.jpg?width=640"
+        ],
+        "prijs": 19.95,
+        "kleur": "White",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-007471-0001",
+                "naam": "Wit",
+                "hex": "#ffffff",
+                "img_url": "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0001_0052.jpg?ref=1D2145C118",
+                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-wit-1100-007471-0001"
+            },
+            {
+                "id": "1-1100-007471-0002",
+                "naam": "Zwart",
+                "hex": "#121116",
+                "img_url": "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0002_0070.jpg?ref=786E1614F4",
+                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-zwart-1100-007471-0002"
+            },
+            {
+                "id": "1-1100-007471-0004",
+                "naam": "Rood",
+                "hex": "#bc1926",
+                "img_url": "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0004_0010.jpg?ref=5876838067",
+                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-red-1100-007471-0004"
+            },
+            {
+                "id": "1-1100-007471-0212",
+                "naam": "Donkerrood",
+                "hex": "#64121f",
+                "img_url": "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0212_0069.jpg?ref=4802A50EE9",
+                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-burgundy-1100-007471-0212"
+            },
+            {
+                "id": "1-1100-007471-0502",
+                "naam": "Donkergroen",
+                "hex": "#163332",
+                "img_url": "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0502_0058.jpg?ref=0FE48AB06D",
+                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-deep-green-1100-007471-0502"
+            },
+            {
+                "id": "1-1100-007471-0083",
+                "naam": "Marineblauw",
+                "hex": "#22263e",
+                "img_url": "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0083_0019.jpg?ref=FD5557EF0B",
+                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-dark-navy-1100-007471-0083"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0001_0052.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0001_01819_flatlayd.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-wit-1100-007471-0001",
+        "id": "1-1100-007471-0001-664",
         "kleurHex": null
     },
     {
@@ -839,68 +814,6 @@
     {
         "naam": "Beugelbh van kant",
         "imageUrls": [
-            "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0083_0019.jpg?width=640",
-            "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0083_0021.jpg?width=640",
-            "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0083_0020.jpg?width=640",
-            "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0083_0022.jpg?width=640",
-            "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0083_0098_flatlayf.jpg?width=640",
-            "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0083_0099_flatlayb.jpg?width=640"
-        ],
-        "prijs": 19.95,
-        "kleur": "Dark Navy",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-007471-0083",
-                "naam": "Marineblauw",
-                "hex": "#22263e",
-                "img_url": "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0083_0019.jpg?ref=FD5557EF0B",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-dark-navy-1100-007471-0083"
-            },
-            {
-                "id": "1-1100-007471-0001",
-                "naam": "Wit",
-                "hex": "#ffffff",
-                "img_url": "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0001_0052.jpg?ref=1D2145C118",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-wit-1100-007471-0001"
-            },
-            {
-                "id": "1-1100-007471-0004",
-                "naam": "Rood",
-                "hex": "#bc1926",
-                "img_url": "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0004_0010.jpg?ref=5876838067",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-red-1100-007471-0004"
-            },
-            {
-                "id": "1-1100-007471-0002",
-                "naam": "Zwart",
-                "hex": "#121116",
-                "img_url": "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0002_0070.jpg?ref=786E1614F4",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-zwart-1100-007471-0002"
-            },
-            {
-                "id": "1-1100-007471-0212",
-                "naam": "Donkerrood",
-                "hex": "#64121f",
-                "img_url": "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0212_0069.jpg?ref=4802A50EE9",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-burgundy-1100-007471-0212"
-            },
-            {
-                "id": "1-1100-007471-0502",
-                "naam": "Donkergroen",
-                "hex": "#163332",
-                "img_url": "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0502_0058.jpg?ref=0FE48AB06D",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-deep-green-1100-007471-0502"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0083_0019.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0083_0099_flatlayb.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-dark-navy-1100-007471-0083",
-        "id": "1-1100-007471-0083-664",
-        "kleurHex": null
-    },
-    {
-        "naam": "Beugelbh van kant",
-        "imageUrls": [
             "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0502_0058.jpg?width=640",
             "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0502_0063.jpg?width=640",
             "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0502_0060.jpg?width=640",
@@ -919,11 +832,11 @@
                 "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-deep-green-1100-007471-0502"
             },
             {
-                "id": "1-1100-007471-0001",
-                "naam": "Wit",
-                "hex": "#ffffff",
-                "img_url": "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0001_0052.jpg?ref=1D2145C118",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-wit-1100-007471-0001"
+                "id": "1-1100-007471-0002",
+                "naam": "Zwart",
+                "hex": "#121116",
+                "img_url": "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0002_0070.jpg?ref=786E1614F4",
+                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-zwart-1100-007471-0002"
             },
             {
                 "id": "1-1100-007471-0004",
@@ -933,18 +846,18 @@
                 "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-red-1100-007471-0004"
             },
             {
-                "id": "1-1100-007471-0002",
-                "naam": "Zwart",
-                "hex": "#121116",
-                "img_url": "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0002_0070.jpg?ref=786E1614F4",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-zwart-1100-007471-0002"
-            },
-            {
                 "id": "1-1100-007471-0212",
                 "naam": "Donkerrood",
                 "hex": "#64121f",
                 "img_url": "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0212_0069.jpg?ref=4802A50EE9",
                 "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-burgundy-1100-007471-0212"
+            },
+            {
+                "id": "1-1100-007471-0001",
+                "naam": "Wit",
+                "hex": "#ffffff",
+                "img_url": "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0001_0052.jpg?ref=1D2145C118",
+                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-wit-1100-007471-0001"
             },
             {
                 "id": "1-1100-007471-0083",
@@ -958,6 +871,69 @@
         "img_url_sec": "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0502_01280_flatlayd.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-deep-green-1100-007471-0502",
         "id": "1-1100-007471-0502-664",
+        "kleurHex": null
+    },
+    {
+        "naam": "Beugelbh van kant",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0083_0019.jpg?width=640",
+            "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0083_0021.jpg?width=640",
+            "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0083_0020.jpg?width=640",
+            "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0083_0022.jpg?width=640",
+            "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0083_0098_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0083_0099_flatlayb.jpg?width=640",
+            "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0083_0098_flatlayd.jpg?width=640"
+        ],
+        "prijs": 19.95,
+        "kleur": "Dark Navy",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-007471-0083",
+                "naam": "Marineblauw",
+                "hex": "#22263e",
+                "img_url": "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0083_0019.jpg?ref=FD5557EF0B",
+                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-dark-navy-1100-007471-0083"
+            },
+            {
+                "id": "1-1100-007471-0002",
+                "naam": "Zwart",
+                "hex": "#121116",
+                "img_url": "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0002_0070.jpg?ref=786E1614F4",
+                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-zwart-1100-007471-0002"
+            },
+            {
+                "id": "1-1100-007471-0004",
+                "naam": "Rood",
+                "hex": "#bc1926",
+                "img_url": "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0004_0010.jpg?ref=5876838067",
+                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-red-1100-007471-0004"
+            },
+            {
+                "id": "1-1100-007471-0212",
+                "naam": "Donkerrood",
+                "hex": "#64121f",
+                "img_url": "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-007471-0212_0069.jpg?ref=4802A50EE9",
+                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-burgundy-1100-007471-0212"
+            },
+            {
+                "id": "1-1100-007471-0001",
+                "naam": "Wit",
+                "hex": "#ffffff",
+                "img_url": "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0001_0052.jpg?ref=1D2145C118",
+                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-wit-1100-007471-0001"
+            },
+            {
+                "id": "1-1100-007471-0502",
+                "naam": "Donkergroen",
+                "hex": "#163332",
+                "img_url": "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0502_0058.jpg?ref=0FE48AB06D",
+                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-deep-green-1100-007471-0502"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0083_0019.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-007471-0083_0098_flatlayd.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-dark-navy-1100-007471-0083",
+        "id": "1-1100-007471-0083-664",
         "kleurHex": null
     },
     {
@@ -1261,6 +1237,61 @@
     {
         "naam": "Beugel BH met satijnen detail",
         "imageUrls": [
+            "https://www.na-kd.com/globalassets/satin_detail_wire_bra-1013-001228-0002_0778.jpg?width=640",
+            "https://www.na-kd.com/globalassets/satin_detail_wire_bra-1013-001228-0002_0813.jpg?width=640",
+            "https://www.na-kd.com/globalassets/satin_detail_wire_bra-1013-001228-0002_0829.jpg?width=640",
+            "https://www.na-kd.com/globalassets/satin_detail_wire_bra-1013-001228-0002_0772.jpg?width=640",
+            "https://www.na-kd.com/globalassets/satin_detail_wire_bra-1013-001228-0002_0835.jpg?width=640",
+            "https://www.na-kd.com/globalassets/satin_detail_wire_bra_1013-001228-0002_1_mirror-left-side-copy-3.jpg?width=640"
+        ],
+        "prijs": 22.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1013-001228-0002",
+                "naam": "Zwart",
+                "hex": "#1f1f1f",
+                "img_url": "https://www.na-kd.com/globalassets/satin_detail_wire_bra-1013-001228-0002_0778.jpg?ref=3894173C76",
+                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbeha-met-satijndetail-zwart-1013-001228-0002"
+            },
+            {
+                "id": "1-1013-001228-1334",
+                "naam": "Bruin",
+                "hex": "#372a2c",
+                "img_url": "https://www.na-kd.com/globalassets/satin_detail_wire_bra_1013-001228-1334_0046.jpg?ref=9E16269D2E",
+                "url": "https://www.na-kd.com/nl/zoek-producten/beugel-bh-met-satijnen-detail-chocolate-brown-1013-001228-1334"
+            },
+            {
+                "id": "1-1013-001228-0212",
+                "naam": "Bordeauxrood",
+                "hex": "#790c2a",
+                "img_url": "https://www.na-kd.com/globalassets/satin_detail_wire_bra_1013-001228-02121122.jpg?ref=826864D169",
+                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbeha-met-satijndetail-burgundy-1013-001228-0212"
+            },
+            {
+                "id": "1-1013-001228-0765",
+                "naam": "Bruin",
+                "hex": "#694e37",
+                "img_url": "https://www.na-kd.com/globalassets/satin_detail_wire_bra_1013-001228-07651738.jpg?ref=00D76A5B05",
+                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbeha-met-satijndetail-dark-brown-1013-001228-0765"
+            },
+            {
+                "id": "1-1013-001228-0366",
+                "naam": "Donkergrijs",
+                "hex": "#777677",
+                "img_url": "https://www.na-kd.com/globalassets/satin_detail_wire_bra_1013-001228-036623162.jpg?ref=0008654ACE",
+                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbeha-met-satijndetail-dark-grey-1013-001228-0366"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/satin_detail_wire_bra-1013-001228-0002_0778.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/satin_detail_wire_bra_1013-001228-0002_1_mirror-left-side-copy-3.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/beugelbeha-met-satijndetail-zwart-1013-001228-0002",
+        "id": "1-1013-001228-0002-664",
+        "kleurHex": null
+    },
+    {
+        "naam": "Beugel BH met satijnen detail",
+        "imageUrls": [
             "https://www.na-kd.com/globalassets/satin_detail_wire_bra_1013-001228-1334_0046.jpg?width=640",
             "https://www.na-kd.com/globalassets/satin_detail_wire_bra_1013-001228-1334_0052.jpg?width=640",
             "https://www.na-kd.com/globalassets/satin_detail_wire_bra_1013-001228-1334_0049.jpg?width=640",
@@ -1403,101 +1434,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Beugelbh van kant",
-        "imageUrls": [
-            "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-008400-00021973.jpg?width=640",
-            "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-008400-00021917.jpg?width=640",
-            "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-008400-00021903.jpg?width=640",
-            "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-008400-00021886.jpg?width=640",
-            "https://www.na-kd.com/globalassets/underwired_lace_bra-1100-008400-0002_0373_flatlay.jpg?width=640"
-        ],
-        "prijs": 22.95,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-008400-0002",
-                "naam": "Zwart",
-                "hex": "#151514",
-                "img_url": "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-008400-00021973.jpg?ref=65D40A94F9",
-                "url": "https://www.na-kd.com/nl/zoek-producten/underwired-lace-bra-black-1100-008400-0002"
-            },
-            {
-                "id": "1-1100-008400-0004",
-                "naam": "Rood",
-                "hex": "#af1e36",
-                "img_url": "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-008400-0004_16932-copy.jpg?ref=FC09BEC8DE",
-                "url": "https://www.na-kd.com/nl/zoek-producten/underwired-lace-bra-red-1100-008400-0004"
-            },
-            {
-                "id": "1-1100-008400-1084",
-                "naam": "Rood",
-                "hex": "#c9293b",
-                "img_url": "https://www.na-kd.com/globalassets/underwire_lace_bra_1100-008400-1084_0001.jpg?ref=E5AFFF571C",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbh-van-kant-soft-red-1100-008400-1084"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/globalassets/underwired_lace_bra_1100-008400-00021973.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/underwired_lace_bra-1100-008400-0002_0373_flatlay.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/underwired-lace-bra-black-1100-008400-0002",
-        "id": "1-1100-008400-0002-664",
-        "kleurHex": null
-    },
-    {
-        "naam": "Beugel BH met satijnen detail",
-        "imageUrls": [
-            "https://www.na-kd.com/globalassets/satin_detail_wire_bra-1013-001228-0002_0778.jpg?width=640",
-            "https://www.na-kd.com/globalassets/satin_detail_wire_bra-1013-001228-0002_0813.jpg?width=640",
-            "https://www.na-kd.com/globalassets/satin_detail_wire_bra-1013-001228-0002_0829.jpg?width=640",
-            "https://www.na-kd.com/globalassets/satin_detail_wire_bra-1013-001228-0002_0772.jpg?width=640",
-            "https://www.na-kd.com/globalassets/satin_detail_wire_bra-1013-001228-0002_0835.jpg?width=640",
-            "https://www.na-kd.com/globalassets/satin_detail_wire_bra_1013-001228-0002_1_mirror-left-side-copy-3.jpg?width=640"
-        ],
-        "prijs": 22.95,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1013-001228-0002",
-                "naam": "Zwart",
-                "hex": "#1f1f1f",
-                "img_url": "https://www.na-kd.com/globalassets/satin_detail_wire_bra-1013-001228-0002_0778.jpg?ref=3894173C76",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbeha-met-satijndetail-zwart-1013-001228-0002"
-            },
-            {
-                "id": "1-1013-001228-1334",
-                "naam": "Bruin",
-                "hex": "#372a2c",
-                "img_url": "https://www.na-kd.com/globalassets/satin_detail_wire_bra_1013-001228-1334_0046.jpg?ref=9E16269D2E",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugel-bh-met-satijnen-detail-chocolate-brown-1013-001228-1334"
-            },
-            {
-                "id": "1-1013-001228-0212",
-                "naam": "Bordeauxrood",
-                "hex": "#790c2a",
-                "img_url": "https://www.na-kd.com/globalassets/satin_detail_wire_bra_1013-001228-02121122.jpg?ref=826864D169",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbeha-met-satijndetail-burgundy-1013-001228-0212"
-            },
-            {
-                "id": "1-1013-001228-0765",
-                "naam": "Bruin",
-                "hex": "#694e37",
-                "img_url": "https://www.na-kd.com/globalassets/satin_detail_wire_bra_1013-001228-07651738.jpg?ref=00D76A5B05",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbeha-met-satijndetail-dark-brown-1013-001228-0765"
-            },
-            {
-                "id": "1-1013-001228-0366",
-                "naam": "Donkergrijs",
-                "hex": "#777677",
-                "img_url": "https://www.na-kd.com/globalassets/satin_detail_wire_bra_1013-001228-036623162.jpg?ref=0008654ACE",
-                "url": "https://www.na-kd.com/nl/zoek-producten/beugelbeha-met-satijndetail-dark-grey-1013-001228-0366"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/globalassets/satin_detail_wire_bra-1013-001228-0002_0778.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/satin_detail_wire_bra_1013-001228-0002_1_mirror-left-side-copy-3.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/beugelbeha-met-satijndetail-zwart-1013-001228-0002",
-        "id": "1-1013-001228-0002-664",
-        "kleurHex": null
-    },
-    {
         "naam": "Bh met beugel en cut-outdetail",
         "imageUrls": [
             "https://www.na-kd.com/globalassets/underwired_cut_out_detail_bra-1100-010679-7800_0038.jpg?width=640",
@@ -1522,6 +1458,101 @@
         "img_url_sec": "https://www.na-kd.com/globalassets/underwired_cut_out_detail_bra-1100-010679-7800_0048_flatlayd2.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/underwired-cut-out-detail-bra-dusty-yellow-1100-010679-7800",
         "id": "1-1100-010679-7800-664",
+        "kleurHex": null
+    },
+    {
+        "naam": "Suikerzoete balconette bh met strik",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/sugar_bow_balconette_bra-1100-011761-0719_0015.jpg?width=640",
+            "https://www.na-kd.com/globalassets/sugar_bow_balconette_bra-1100-011761-0719_0016.jpg?width=640",
+            "https://www.na-kd.com/globalassets/sugar_bow_balconette_bra-1100-011761-0719_0014_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/sugarbowbalconettebra-1100-011761-07190014-copy-2_flatlayd.jpg?width=640",
+            "https://www.na-kd.com/globalassets/sugarbowbalconettebra-1100-011761-07190014-copy_flatlayd2.jpg?width=640"
+        ],
+        "prijs": 22.95,
+        "kleur": "Pearl",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-011761-0719",
+                "naam": "Lichtbeige",
+                "hex": "#efddc8",
+                "img_url": "https://www.na-kd.com/globalassets/sugar_bow_balconette_bra-1100-011761-0719_0015.jpg?ref=7BD3E76FAA",
+                "url": "https://www.na-kd.com/nl/zoek-producten/sugar-bow-balconette-bra-pearl-1100-011761-0719"
+            },
+            {
+                "id": "1-1100-011761-0004",
+                "naam": "Rood",
+                "hex": "#bd2031",
+                "img_url": "https://www.na-kd.com/globalassets/sugar_bow_balconette_bra-1100-011761-0004_0052.jpg?ref=F0B92165B6",
+                "url": "https://www.na-kd.com/nl/zoek-producten/sugar-bow-balconette-bra-red-1100-011761-0004"
+            },
+            {
+                "id": "1-1100-011761-0018",
+                "naam": "Marineblauw",
+                "hex": "#1d203e",
+                "img_url": "https://www.na-kd.com/globalassets/sugar_bow_balconette_bra_1100-011761-0018_0047.jpg?ref=72DC38EB87",
+                "url": "https://www.na-kd.com/nl/zoek-producten/sugar-bow-balconette-bra-navy-1100-011761-0018"
+            },
+            {
+                "id": "1-1100-011761-0002",
+                "naam": "Zwart",
+                "hex": "#121112",
+                "img_url": "https://www.na-kd.com/globalassets/sugar_bow_balconette_bra-1100-011761-0002_0012.jpg?ref=F3BE892DFB",
+                "url": "https://www.na-kd.com/nl/zoek-producten/sugar-bow-balconette-bra-black-1100-011761-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/sugar_bow_balconette_bra-1100-011761-0719_0015.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/sugarbowbalconettebra-1100-011761-07190014-copy_flatlayd2.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/sugar-bow-balconette-bra-pearl-1100-011761-0719",
+        "id": "1-1100-011761-0719-664",
+        "kleurHex": null
+    },
+    {
+        "naam": "Suikerzoete balconette bh met strik",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/sugar_bow_balconette_bra_1100-011761-0018_0047.jpg?width=640",
+            "https://www.na-kd.com/globalassets/sugar_bow_balconette_bra_1100-011761-0018_0052.jpg?width=640",
+            "https://www.na-kd.com/globalassets/sugar_bow_balconette_bra_1100-011761-0018_0050.jpg?width=640",
+            "https://www.na-kd.com/globalassets/sugar_bow_balconette_bra_1100-011761-0018_0108_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/sugar_bow_balconette_bra_1100-011761-0018_0109_flatlayb.jpg?width=640",
+            "https://www.na-kd.com/globalassets/sugar_bow_balconette_bra_1100-011761-0018_01808_flatlayd.jpg?width=640"
+        ],
+        "prijs": 22.95,
+        "kleur": "Navy",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-011761-0018",
+                "naam": "Marineblauw",
+                "hex": "#1d203e",
+                "img_url": "https://www.na-kd.com/globalassets/sugar_bow_balconette_bra_1100-011761-0018_0047.jpg?ref=72DC38EB87",
+                "url": "https://www.na-kd.com/nl/zoek-producten/sugar-bow-balconette-bra-navy-1100-011761-0018"
+            },
+            {
+                "id": "1-1100-011761-0004",
+                "naam": "Rood",
+                "hex": "#bd2031",
+                "img_url": "https://www.na-kd.com/globalassets/sugar_bow_balconette_bra-1100-011761-0004_0052.jpg?ref=F0B92165B6",
+                "url": "https://www.na-kd.com/nl/zoek-producten/sugar-bow-balconette-bra-red-1100-011761-0004"
+            },
+            {
+                "id": "1-1100-011761-0719",
+                "naam": "Lichtbeige",
+                "hex": "#efddc8",
+                "img_url": "https://www.na-kd.com/globalassets/sugar_bow_balconette_bra-1100-011761-0719_0015.jpg?ref=7BD3E76FAA",
+                "url": "https://www.na-kd.com/nl/zoek-producten/sugar-bow-balconette-bra-pearl-1100-011761-0719"
+            },
+            {
+                "id": "1-1100-011761-0002",
+                "naam": "Zwart",
+                "hex": "#121112",
+                "img_url": "https://www.na-kd.com/globalassets/sugar_bow_balconette_bra-1100-011761-0002_0012.jpg?ref=F3BE892DFB",
+                "url": "https://www.na-kd.com/nl/zoek-producten/sugar-bow-balconette-bra-black-1100-011761-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/sugar_bow_balconette_bra_1100-011761-0018_0047.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/sugar_bow_balconette_bra_1100-011761-0018_01808_flatlayd.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/sugar-bow-balconette-bra-navy-1100-011761-0018",
+        "id": "1-1100-011761-0018-664",
         "kleurHex": null
     }
 ]
