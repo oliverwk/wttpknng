@@ -52,6 +52,13 @@
                 "hex": "#4a1323",
                 "img_url": "https://www.na-kd.com/globalassets/lace_body_1100-007626-0230_0039.jpg?ref=2CB53A74E8",
                 "url": "https://www.na-kd.com/nl/zoek-producten/kanten-body-wine-red-1100-007626-0230"
+            },
+            {
+                "id": "1-1100-007626-0002",
+                "naam": "Zwart",
+                "hex": "#101017",
+                "img_url": "https://www.na-kd.com/globalassets/lace_body-1100-007626-0002_1537.jpg?ref=BC791F6B8E",
+                "url": "https://www.na-kd.com/nl/zoek-producten/lace-body-black-1100-007626-0002"
             }
         ],
         "img_url": "https://www.na-kd.com/globalassets/lace_body_1100-007626-0230_0039.jpg",
@@ -228,6 +235,13 @@
                 "hex": "#ffffff",
                 "img_url": "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0001_0072.jpg?ref=60B2966080",
                 "url": "https://www.na-kd.com/nl/zoek-producten/bow-detail-bodysuit-white-1100-010684-0001"
+            },
+            {
+                "id": "1-1100-010684-0002",
+                "naam": "Zwart",
+                "hex": "#1a1a1a",
+                "img_url": "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0066.jpg?ref=D309C87429",
+                "url": "https://www.na-kd.com/nl/zoek-producten/bow-detail-bodysuit-black-1100-010684-0002"
             }
         ],
         "img_url": "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0001_0072.jpg",
@@ -261,6 +275,74 @@
         "img_url_sec": "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0087_flatlayb.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/lace-panel-body-black-1100-011813-0002",
         "id": "1-1100-011813-0002-664",
+        "kleurHex": null
+    },
+    {
+        "naam": "Kanten body",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/lace_body-1100-007626-0002_1537.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_body-1100-007626-0002_1557.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_body-1100-007626-0002_1524_01c.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_body-1100-007626-0002_1543.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_body_1100-007626-0002_0070_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_body_1100-007626-0002_0071_flatlayb.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_body_1100-007626-0002_0079_flatlayd.jpg?width=640"
+        ],
+        "prijs": 39.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-007626-0002",
+                "naam": "Zwart",
+                "hex": "#101017",
+                "img_url": "https://www.na-kd.com/globalassets/lace_body-1100-007626-0002_1537.jpg?ref=BC791F6B8E",
+                "url": "https://www.na-kd.com/nl/zoek-producten/lace-body-black-1100-007626-0002"
+            },
+            {
+                "id": "1-1100-007626-0230",
+                "naam": "Bordeauxrood",
+                "hex": "#4a1323",
+                "img_url": "https://www.na-kd.com/globalassets/lace_body_1100-007626-0230_0039.jpg?ref=2CB53A74E8",
+                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-body-wine-red-1100-007626-0230"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/lace_body-1100-007626-0002_1537.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/lace_body_1100-007626-0002_0079_flatlayd.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/lace-body-black-1100-007626-0002",
+        "id": "1-1100-007626-0002-664",
+        "kleurHex": null
+    },
+    {
+        "naam": "Bodysuit met strikdetail",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0066.jpg?width=640",
+            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0069.jpg?width=640",
+            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0067.jpg?width=640",
+            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0068.jpg?width=640",
+            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0088_flatlay.jpg?width=640"
+        ],
+        "prijs": 39.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-010684-0002",
+                "naam": "Zwart",
+                "hex": "#1a1a1a",
+                "img_url": "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0066.jpg?ref=D309C87429",
+                "url": "https://www.na-kd.com/nl/zoek-producten/bow-detail-bodysuit-black-1100-010684-0002"
+            },
+            {
+                "id": "1-1100-010684-0001",
+                "naam": "Wit",
+                "hex": "#ffffff",
+                "img_url": "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0001_0072.jpg?ref=60B2966080",
+                "url": "https://www.na-kd.com/nl/zoek-producten/bow-detail-bodysuit-white-1100-010684-0001"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0066.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0002_0088_flatlay.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/bow-detail-bodysuit-black-1100-010684-0002",
+        "id": "1-1100-010684-0002-931",
         "kleurHex": null
     },
     {
