@@ -260,61 +260,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Body met kanten inzet",
-        "imageUrls": [
-            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0036.jpg?width=640",
-            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0039.jpg?width=640",
-            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0037.jpg?width=640",
-            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0038.jpg?width=640",
-            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0086_flatlayf.jpg?width=640",
-            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0087_flatlayb.jpg?width=640"
-        ],
-        "prijs": 39.95,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-011813-0002",
-                "naam": "Zwart",
-                "hex": "#18191f",
-                "img_url": "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0036.jpg?ref=A3B76E6B2B",
-                "url": "https://www.na-kd.com/nl/zoek-producten/lace-panel-body-black-1100-011813-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0036.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0087_flatlayb.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/lace-panel-body-black-1100-011813-0002",
-        "id": "1-1100-011813-0002-664",
-        "kleurHex": null
-    },
-    {
-        "naam": "Kanten Bodysuit met brede band",
-        "imageUrls": [
-            "https://www.na-kd.com/globalassets/wide_strap_lace_cup_bodysuit_1100-012503-0002_0042.jpg?width=640",
-            "https://www.na-kd.com/globalassets/wide_strap_lace_cup_bodysuit_1100-012503-0002_0044.jpg?width=640",
-            "https://www.na-kd.com/globalassets/wide_strap_lace_cup_bodysuit_1100-012503-0002_0043.jpg?width=640",
-            "https://www.na-kd.com/globalassets/wide_strap_lace_cup_bodysuit_1100-012503-0002_0046_studio.jpg?width=640",
-            "https://www.na-kd.com/globalassets/wide_strap_lace_cup_bodysuit_1100-012503-0002_0001_flatlayf.jpg?width=640",
-            "https://www.na-kd.com/globalassets/wide_strap_lace_cup_bodysuit_1100-012503-0002_0002_flatlayb.jpg?width=640",
-            "https://www.na-kd.com/globalassets/wide_strap_lace_cup_bodysuit_detail_1100-012503-0002_0001_flatlayd.jpg?width=640"
-        ],
-        "prijs": 39.95,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-012503-0002",
-                "naam": "Zwart",
-                "hex": "#1e1e21",
-                "img_url": "https://www.na-kd.com/globalassets/wide_strap_lace_cup_bodysuit_1100-012503-0002_0042.jpg?ref=26B78B8AA7",
-                "url": "https://www.na-kd.com/nl/zoek-producten/wide-strap-lace-cup-bodysuit-black-1100-012503-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/globalassets/wide_strap_lace_cup_bodysuit_1100-012503-0002_0042.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/wide_strap_lace_cup_bodysuit_detail_1100-012503-0002_0001_flatlayd.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/wide-strap-lace-cup-bodysuit-black-1100-012503-0002",
-        "id": "1-1100-012503-0002-664",
-        "kleurHex": null
-    },
-    {
         "naam": "Gladde micro body",
         "imageUrls": [
             "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0765_0073.jpg?width=640",
@@ -349,6 +294,34 @@
         "kleurHex": null
     },
     {
+        "naam": "Kanten Bodysuit met brede band",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/wide_strap_lace_cup_bodysuit_1100-012503-0002_0042.jpg?width=640",
+            "https://www.na-kd.com/globalassets/wide_strap_lace_cup_bodysuit_1100-012503-0002_0044.jpg?width=640",
+            "https://www.na-kd.com/globalassets/wide_strap_lace_cup_bodysuit_1100-012503-0002_0043.jpg?width=640",
+            "https://www.na-kd.com/globalassets/wide_strap_lace_cup_bodysuit_1100-012503-0002_0046_studio.jpg?width=640",
+            "https://www.na-kd.com/globalassets/wide_strap_lace_cup_bodysuit_1100-012503-0002_0001_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/wide_strap_lace_cup_bodysuit_1100-012503-0002_0002_flatlayb.jpg?width=640",
+            "https://www.na-kd.com/globalassets/wide_strap_lace_cup_bodysuit_detail_1100-012503-0002_0001_flatlayd.jpg?width=640"
+        ],
+        "prijs": 39.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-012503-0002",
+                "naam": "Zwart",
+                "hex": "#1e1e21",
+                "img_url": "https://www.na-kd.com/globalassets/wide_strap_lace_cup_bodysuit_1100-012503-0002_0042.jpg?ref=26B78B8AA7",
+                "url": "https://www.na-kd.com/nl/zoek-producten/wide-strap-lace-cup-bodysuit-black-1100-012503-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/wide_strap_lace_cup_bodysuit_1100-012503-0002_0042.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/wide_strap_lace_cup_bodysuit_detail_1100-012503-0002_0001_flatlayd.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/wide-strap-lace-cup-bodysuit-black-1100-012503-0002",
+        "id": "1-1100-012503-0002-664",
+        "kleurHex": null
+    },
+    {
         "naam": "Bodysuit met strook van kant",
         "imageUrls": [
             "https://www.na-kd.com/globalassets/eyelash_lace_panel_bodysuit_1100-012555-0230_0020.jpg?width=640",
@@ -373,6 +346,33 @@
         "img_url_sec": "https://www.na-kd.com/globalassets/eylesh_lace_panel_bodysuit_detail_1100-012555-0230_0003_flatlayd.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/bodysuit-met-strook-van-kant-wine-red-1100-012555-0230",
         "id": "1-1100-012555-0230-664",
+        "kleurHex": null
+    },
+    {
+        "naam": "Body met kanten inzet",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0036.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0039.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0037.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0038.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0086_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0087_flatlayb.jpg?width=640"
+        ],
+        "prijs": 39.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-011813-0002",
+                "naam": "Zwart",
+                "hex": "#18191f",
+                "img_url": "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0036.jpg?ref=A3B76E6B2B",
+                "url": "https://www.na-kd.com/nl/zoek-producten/lace-panel-body-black-1100-011813-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0036.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0087_flatlayb.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/lace-panel-body-black-1100-011813-0002",
+        "id": "1-1100-011813-0002-664",
         "kleurHex": null
     },
     {
