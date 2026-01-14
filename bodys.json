@@ -1,39 +1,5 @@
 [
     {
-        "naam": "Kanten bodysuit met korset",
-        "imageUrls": [
-            "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-012398-0002_0090.jpg?width=640",
-            "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-012398-0002_0089.jpg?width=640",
-            "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-012398-0002_0088.jpg?width=640",
-            "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-012398-0002_0073_flatlayb.jpg?width=640",
-            "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-012398-0002_0072_flatlayf.jpg?width=640",
-            "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-012398-0002_0072_flatlayd.jpg?width=640"
-        ],
-        "prijs": 15.98,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-012398-0002",
-                "naam": "Zwart",
-                "hex": "#16151c",
-                "img_url": "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-012398-0002_0090.jpg?ref=4C7303AE99",
-                "url": "https://www.na-kd.com/nl/zoek-producten/corset-lace-bodysuit-black-1100-012398-0002"
-            },
-            {
-                "id": "1-1100-012398-0287",
-                "naam": "Bordeauxrood",
-                "hex": "#5f2428",
-                "img_url": "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-012398-0287_0083.jpg?ref=935E19270C",
-                "url": "https://www.na-kd.com/nl/zoek-producten/corset-lace-bodysuit-bordeaux-1100-012398-0287"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-012398-0002_0090.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-012398-0002_0072_flatlayd.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/corset-lace-bodysuit-black-1100-012398-0002",
-        "id": "1-1100-012398-0002-931",
-        "kleurHex": null
-    },
-    {
         "naam": "Kanten body",
         "imageUrls": [
             "https://www.na-kd.com/globalassets/lace_body_1100-007626-0230_0039.jpg?width=640",
@@ -65,6 +31,40 @@
         "img_url_sec": "https://www.na-kd.com/globalassets/lace_body_1100-007626-0230_00880_flatlayd.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/kanten-body-wine-red-1100-007626-0230",
         "id": "1-1100-007626-0230-664",
+        "kleurHex": null
+    },
+    {
+        "naam": "Kanten bodysuit met korset",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-012398-0002_0090.jpg?width=640",
+            "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-012398-0002_0089.jpg?width=640",
+            "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-012398-0002_0088.jpg?width=640",
+            "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-012398-0002_0073_flatlayb.jpg?width=640",
+            "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-012398-0002_0072_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-012398-0002_0072_flatlayd.jpg?width=640"
+        ],
+        "prijs": 15.98,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-012398-0002",
+                "naam": "Zwart",
+                "hex": "#16151c",
+                "img_url": "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-012398-0002_0090.jpg?ref=4C7303AE99",
+                "url": "https://www.na-kd.com/nl/zoek-producten/corset-lace-bodysuit-black-1100-012398-0002"
+            },
+            {
+                "id": "1-1100-012398-0287",
+                "naam": "Bordeauxrood",
+                "hex": "#5f2428",
+                "img_url": "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-012398-0287_0083.jpg?ref=935E19270C",
+                "url": "https://www.na-kd.com/nl/zoek-producten/corset-lace-bodysuit-bordeaux-1100-012398-0287"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-012398-0002_0090.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-012398-0002_0072_flatlayd.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/corset-lace-bodysuit-black-1100-012398-0002",
+        "id": "1-1100-012398-0002-931",
         "kleurHex": null
     },
     {
@@ -100,32 +100,6 @@
         "img_url_sec": "https://www.na-kd.com/globalassets/eyelashlacebody-1100-010649-02600002-copy_flatlayd.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/eyelash-lace-body-offwhite-1100-010649-0260",
         "id": "1-1100-010649-0260-931",
-        "kleurHex": null
-    },
-    {
-        "naam": "Body met open kant",
-        "imageUrls": [
-            "https://www.na-kd.com/globalassets/eyelash_detail_body-1100-010646-0004_10322.jpg?width=640",
-            "https://www.na-kd.com/globalassets/eyelash_detail_body-1100-010646-0004_10396.jpg?width=640",
-            "https://www.na-kd.com/globalassets/eyelash_detail_body-1100-010646-0004_10361.jpg?width=640",
-            "https://www.na-kd.com/globalassets/eyelash_detail_body-1100-010646-0004_10421.jpg?width=640",
-            "https://www.na-kd.com/globalassets/eyelash_detail_body-1100-010646-0004_1808qwe1_flatlay.jpg?width=640"
-        ],
-        "prijs": 21.57,
-        "kleur": "Red",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-010646-0004",
-                "naam": "Roze",
-                "hex": "#911b41",
-                "img_url": "https://www.na-kd.com/globalassets/eyelash_detail_body-1100-010646-0004_10322.jpg?ref=5639C5E9C5",
-                "url": "https://www.na-kd.com/nl/zoek-producten/eyelash-detail-body-red-1100-010646-0004"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/globalassets/eyelash_detail_body-1100-010646-0004_10322.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/eyelash_detail_body-1100-010646-0004_1808qwe1_flatlay.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/eyelash-detail-body-red-1100-010646-0004",
-        "id": "1-1100-010646-0004-931",
         "kleurHex": null
     },
     {
@@ -189,38 +163,30 @@
         "kleurHex": null
     },
     {
-        "naam": "Kanten body",
+        "naam": "Body met kanten inzet",
         "imageUrls": [
-            "https://www.na-kd.com/globalassets/lace_body-1100-007626-0002_1537.jpg?width=640",
-            "https://www.na-kd.com/globalassets/lace_body-1100-007626-0002_1557.jpg?width=640",
-            "https://www.na-kd.com/globalassets/lace_body-1100-007626-0002_1524_01c.jpg?width=640",
-            "https://www.na-kd.com/globalassets/lace_body-1100-007626-0002_1543.jpg?width=640",
-            "https://www.na-kd.com/globalassets/lace_body_1100-007626-0002_0070_flatlayf.jpg?width=640",
-            "https://www.na-kd.com/globalassets/lace_body_1100-007626-0002_0071_flatlayb.jpg?width=640",
-            "https://www.na-kd.com/globalassets/lace_body_1100-007626-0002_0079_flatlayd.jpg?width=640"
+            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0036.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0039.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0037.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0038.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0086_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0087_flatlayb.jpg?width=640"
         ],
         "prijs": 39.95,
         "kleur": "Black",
         "kleurFamilies": [
             {
-                "id": "1-1100-007626-0002",
+                "id": "1-1100-011813-0002",
                 "naam": "Zwart",
-                "hex": "#101017",
-                "img_url": "https://www.na-kd.com/globalassets/lace_body-1100-007626-0002_1537.jpg?ref=BC791F6B8E",
-                "url": "https://www.na-kd.com/nl/zoek-producten/lace-body-black-1100-007626-0002"
-            },
-            {
-                "id": "1-1100-007626-0230",
-                "naam": "Bordeauxrood",
-                "hex": "#4a1323",
-                "img_url": "https://www.na-kd.com/globalassets/lace_body_1100-007626-0230_0039.jpg?ref=2CB53A74E8",
-                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-body-wine-red-1100-007626-0230"
+                "hex": "#18191f",
+                "img_url": "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0036.jpg?ref=A3B76E6B2B",
+                "url": "https://www.na-kd.com/nl/zoek-producten/lace-panel-body-black-1100-011813-0002"
             }
         ],
-        "img_url": "https://www.na-kd.com/globalassets/lace_body-1100-007626-0002_1537.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/lace_body_1100-007626-0002_0079_flatlayd.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/lace-body-black-1100-007626-0002",
-        "id": "1-1100-007626-0002-664",
+        "img_url": "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0036.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0087_flatlayb.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/lace-panel-body-black-1100-011813-0002",
+        "id": "1-1100-011813-0002-664",
         "kleurHex": null
     },
     {
@@ -260,64 +226,38 @@
         "kleurHex": null
     },
     {
-        "naam": "Body met kanten inzet",
+        "naam": "Kanten body",
         "imageUrls": [
-            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0036.jpg?width=640",
-            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0039.jpg?width=640",
-            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0037.jpg?width=640",
-            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0038.jpg?width=640",
-            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0086_flatlayf.jpg?width=640",
-            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0087_flatlayb.jpg?width=640"
+            "https://www.na-kd.com/globalassets/lace_body-1100-007626-0002_1537.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_body-1100-007626-0002_1557.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_body-1100-007626-0002_1524_01c.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_body-1100-007626-0002_1543.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_body_1100-007626-0002_0070_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_body_1100-007626-0002_0071_flatlayb.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_body_1100-007626-0002_0079_flatlayd.jpg?width=640"
         ],
         "prijs": 39.95,
         "kleur": "Black",
         "kleurFamilies": [
             {
-                "id": "1-1100-011813-0002",
+                "id": "1-1100-007626-0002",
                 "naam": "Zwart",
-                "hex": "#18191f",
-                "img_url": "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0036.jpg?ref=A3B76E6B2B",
-                "url": "https://www.na-kd.com/nl/zoek-producten/lace-panel-body-black-1100-011813-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0036.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0087_flatlayb.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/lace-panel-body-black-1100-011813-0002",
-        "id": "1-1100-011813-0002-664",
-        "kleurHex": null
-    },
-    {
-        "naam": "Gladde micro body",
-        "imageUrls": [
-            "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0765_0073.jpg?width=640",
-            "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0765_0075.jpg?width=640",
-            "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0765_0074.jpg?width=640",
-            "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0765_0060_flatlayf.jpg?width=640",
-            "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0765_0061_flatlayb.jpg?width=640",
-            "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0765_0069_flatlayd.jpg?width=640"
-        ],
-        "prijs": 39.95,
-        "kleur": "Dark Brown",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-012107-0765",
-                "naam": "Bruin",
-                "hex": "#392727",
-                "img_url": "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0765_0073.jpg?ref=BABA2E68FD",
-                "url": "https://www.na-kd.com/nl/zoek-producten/plain-micro-body-dark-brown-1100-012107-0765"
+                "hex": "#101017",
+                "img_url": "https://www.na-kd.com/globalassets/lace_body-1100-007626-0002_1537.jpg?ref=BC791F6B8E",
+                "url": "https://www.na-kd.com/nl/zoek-producten/lace-body-black-1100-007626-0002"
             },
             {
-                "id": "1-1100-012107-0002",
-                "naam": "Zwart",
-                "hex": "#201e21",
-                "img_url": "https://www.na-kd.com/globalassets/plain_micro_body-1100-012107-0002_0018.jpg?ref=E00EA9DA2E",
-                "url": "https://www.na-kd.com/nl/zoek-producten/plain-micro-body-black-1100-012107-0002"
+                "id": "1-1100-007626-0230",
+                "naam": "Bordeauxrood",
+                "hex": "#4a1323",
+                "img_url": "https://www.na-kd.com/globalassets/lace_body_1100-007626-0230_0039.jpg?ref=2CB53A74E8",
+                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-body-wine-red-1100-007626-0230"
             }
         ],
-        "img_url": "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0765_0073.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0765_0069_flatlayd.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/plain-micro-body-dark-brown-1100-012107-0765",
-        "id": "1-1100-012107-0765-664",
+        "img_url": "https://www.na-kd.com/globalassets/lace_body-1100-007626-0002_1537.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/lace_body_1100-007626-0002_0079_flatlayd.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/lace-body-black-1100-007626-0002",
+        "id": "1-1100-007626-0002-664",
         "kleurHex": null
     },
     {
@@ -406,6 +346,40 @@
         "img_url_sec": "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0001_0089_flatlay.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/bow-detail-bodysuit-white-1100-010684-0001",
         "id": "1-1100-010684-0001-931",
+        "kleurHex": null
+    },
+    {
+        "naam": "Gladde micro body",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0765_0073.jpg?width=640",
+            "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0765_0075.jpg?width=640",
+            "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0765_0074.jpg?width=640",
+            "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0765_0060_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0765_0061_flatlayb.jpg?width=640",
+            "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0765_0069_flatlayd.jpg?width=640"
+        ],
+        "prijs": 39.95,
+        "kleur": "Dark Brown",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-012107-0765",
+                "naam": "Bruin",
+                "hex": "#392727",
+                "img_url": "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0765_0073.jpg?ref=BABA2E68FD",
+                "url": "https://www.na-kd.com/nl/zoek-producten/plain-micro-body-dark-brown-1100-012107-0765"
+            },
+            {
+                "id": "1-1100-012107-0002",
+                "naam": "Zwart",
+                "hex": "#201e21",
+                "img_url": "https://www.na-kd.com/globalassets/plain_micro_body-1100-012107-0002_0018.jpg?ref=E00EA9DA2E",
+                "url": "https://www.na-kd.com/nl/zoek-producten/plain-micro-body-black-1100-012107-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0765_0073.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0765_0069_flatlayd.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/plain-micro-body-dark-brown-1100-012107-0765",
+        "id": "1-1100-012107-0765-664",
         "kleurHex": null
     },
     {
