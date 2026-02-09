@@ -220,6 +220,32 @@
         "kleurHex": null
     },
     {
+        "naam": "Bodysuit met strikdetail",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0001_0072.jpg?width=640",
+            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0001_0070.jpg?width=640",
+            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0001_2427.jpg?width=640",
+            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0001_0073.jpg?width=640",
+            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0001_0089_flatlay.jpg?width=640"
+        ],
+        "prijs": 39.95,
+        "kleur": "White",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-010684-0001",
+                "naam": "Wit",
+                "hex": "#ffffff",
+                "img_url": "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0001_0072.jpg?ref=60B2966080",
+                "url": "https://www.na-kd.com/nl/zoek-producten/bow-detail-bodysuit-white-1100-010684-0001"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0001_0072.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0001_0089_flatlay.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/bow-detail-bodysuit-white-1100-010684-0001",
+        "id": "1-1100-010684-0001-931",
+        "kleurHex": null
+    },
+    {
         "naam": "Kanten bodysuit met korset",
         "imageUrls": [
             "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-012398-0287_0083.jpg?width=640",
@@ -322,33 +348,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Bodysuit met strook van kant",
-        "imageUrls": [
-            "https://www.na-kd.com/globalassets/eyelash_lace_panel_bodysuit_1100-012555-0230_campaign_2.jpg?width=640",
-            "https://www.na-kd.com/globalassets/eyelash_lace_panel_bodysuit_1100-012555-0230_campaign_1.jpg?width=640",
-            "https://www.na-kd.com/globalassets/eyelash_lace_panel_bodysuit_1100-012555-0230_campaign_3.jpg?width=640",
-            "https://www.na-kd.com/globalassets/eylesh_lace_panel_bodysuit_1100-012555-0230_0003_flatlayf.jpg?width=640",
-            "https://www.na-kd.com/globalassets/eylesh_lace_panel_bodysuit_1100-012555-0230_0004_flatlayb.jpg?width=640",
-            "https://www.na-kd.com/globalassets/eylesh_lace_panel_bodysuit_detail_1100-012555-0230_0003_flatlayd.jpg?width=640"
-        ],
-        "prijs": 39.95,
-        "kleur": "Wine Red",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-012555-0230",
-                "naam": "Bordeauxrood",
-                "hex": "#6c213f",
-                "img_url": "https://www.na-kd.com/globalassets/eyelash_lace_panel_bodysuit_1100-012555-0230_campaign_2.jpg?ref=1AD8932889",
-                "url": "https://www.na-kd.com/nl/zoek-producten/bodysuit-met-strook-van-kant-wine-red-1100-012555-0230"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/globalassets/eyelash_lace_panel_bodysuit_1100-012555-0230_campaign_2.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/eylesh_lace_panel_bodysuit_detail_1100-012555-0230_0003_flatlayd.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/bodysuit-met-strook-van-kant-wine-red-1100-012555-0230",
-        "id": "1-1100-012555-0230-664",
-        "kleurHex": null
-    },
-    {
         "naam": "Body met open kant",
         "imageUrls": [
             "https://www.na-kd.com/globalassets/eyelash_lace_body-1100-010649-0260_0031.jpg?width=640",
@@ -384,29 +383,30 @@
         "kleurHex": null
     },
     {
-        "naam": "Bodysuit met strikdetail",
+        "naam": "Bodysuit met strook van kant",
         "imageUrls": [
-            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0001_0072.jpg?width=640",
-            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0001_0070.jpg?width=640",
-            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0001_2427.jpg?width=640",
-            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0001_0073.jpg?width=640",
-            "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0001_0089_flatlay.jpg?width=640"
+            "https://www.na-kd.com/globalassets/eyelash_lace_panel_bodysuit_1100-012555-0230_campaign_2.jpg?width=640",
+            "https://www.na-kd.com/globalassets/eyelash_lace_panel_bodysuit_1100-012555-0230_campaign_1.jpg?width=640",
+            "https://www.na-kd.com/globalassets/eyelash_lace_panel_bodysuit_1100-012555-0230_campaign_3.jpg?width=640",
+            "https://www.na-kd.com/globalassets/eylesh_lace_panel_bodysuit_1100-012555-0230_0003_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/eylesh_lace_panel_bodysuit_1100-012555-0230_0004_flatlayb.jpg?width=640",
+            "https://www.na-kd.com/globalassets/eylesh_lace_panel_bodysuit_detail_1100-012555-0230_0003_flatlayd.jpg?width=640"
         ],
         "prijs": 39.95,
-        "kleur": "White",
+        "kleur": "Wine Red",
         "kleurFamilies": [
             {
-                "id": "1-1100-010684-0001",
-                "naam": "Wit",
-                "hex": "#ffffff",
-                "img_url": "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0001_0072.jpg?ref=60B2966080",
-                "url": "https://www.na-kd.com/nl/zoek-producten/bow-detail-bodysuit-white-1100-010684-0001"
+                "id": "1-1100-012555-0230",
+                "naam": "Bordeauxrood",
+                "hex": "#6c213f",
+                "img_url": "https://www.na-kd.com/globalassets/eyelash_lace_panel_bodysuit_1100-012555-0230_campaign_2.jpg?ref=1AD8932889",
+                "url": "https://www.na-kd.com/nl/zoek-producten/bodysuit-met-strook-van-kant-wine-red-1100-012555-0230"
             }
         ],
-        "img_url": "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0001_0072.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/bow_detail_bodysuit-1100-010684-0001_0089_flatlay.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/bow-detail-bodysuit-white-1100-010684-0001",
-        "id": "1-1100-010684-0001-931",
+        "img_url": "https://www.na-kd.com/globalassets/eyelash_lace_panel_bodysuit_1100-012555-0230_campaign_2.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/eylesh_lace_panel_bodysuit_detail_1100-012555-0230_0003_flatlayd.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/bodysuit-met-strook-van-kant-wine-red-1100-012555-0230",
+        "id": "1-1100-012555-0230-664",
         "kleurHex": null
     },
     {
