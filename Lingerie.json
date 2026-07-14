@@ -144,18 +144,18 @@
                 "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tanga-string-dark-brown-1100-010622-0765"
             },
             {
-                "id": "1-1100-010622-0483",
-                "naam": "Veelkleurig",
-                "hex": "#bd172b",
-                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-010622-0483_0042_flatlayf.jpg?ref=79DF60513F",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tanga-thong-blackred-1100-010622-0483"
-            },
-            {
                 "id": "1-1100-010622-6388",
                 "naam": "Veelkleurig",
                 "hex": "#f1e7dc",
                 "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-010622-6388_0014.jpg?ref=F4D0E6309F",
                 "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tanga-string-black-pearl-1100-010622-6388"
+            },
+            {
+                "id": "1-1100-010622-0483",
+                "naam": "Veelkleurig",
+                "hex": "#bd172b",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-010622-0483_0042_flatlayf.jpg?ref=79DF60513F",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tanga-thong-blackred-1100-010622-0483"
             },
             {
                 "id": "1-1100-010622-0273",
@@ -169,6 +169,68 @@
         "img_url_sec": "https://www.na-kd.com/globalassets/2-pack_tanga_thong_1100-010622-0061_0072_flatlayb.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tanga-string-multicolor-1100-010622-0061",
         "id": "1-1100-010622-0061-931",
+        "kleurHex": null
+    },
+    {
+        "naam": "2-pack V-vormige string",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/2-pack-v-shaped_1100-011804-0004_0007.jpg?width=640",
+            "https://www.na-kd.com/globalassets/2-pack-v-shaped_1100-011804-0004_0009.jpg?width=640",
+            "https://www.na-kd.com/globalassets/2-pack-v-shaped_1100-011804-0004_0008.jpg?width=640",
+            "https://www.na-kd.com/globalassets/2-pack_v-shape_thong_1100-011804-0004_0068_flatlayd.jpg?width=640",
+            "https://www.na-kd.com/globalassets/2-pack_v-shape_thong_1100-011804-0004_0067_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/2-pack_v-shape_thong_1100-011804-0004_0069_flatlayb.jpg?width=640"
+        ],
+        "prijs": 6.47,
+        "kleur": "Red",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-011804-0004",
+                "naam": "Rood",
+                "hex": "#c51d2b",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack-v-shaped_1100-011804-0004_0007.jpg?ref=E4CA2F8371",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-vormige-string-red-1100-011804-0004"
+            },
+            {
+                "id": "1-1100-011804-0765",
+                "naam": "Bruin",
+                "hex": "#2f2528",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_v-shaped_thong_1100-011804-0765_0076.jpg?ref=7566815A86",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shape-thong-dark-brown-1100-011804-0765"
+            },
+            {
+                "id": "1-1100-011804-0502",
+                "naam": "Donkergroen",
+                "hex": "#17302f",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_v-shape_thong_1100-011804-0502_0061.jpg?ref=1AC7249E39",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shape-thong-deep-green-1100-011804-0502"
+            },
+            {
+                "id": "1-1100-011804-0483",
+                "naam": "Veelkleurig",
+                "hex": "#9b102b",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_v_shape-thong_1100-011804-0483_0089_flatlayd-1.jpg?ref=ED29F0C5FA",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shape-thong-blackred-1100-011804-0483"
+            },
+            {
+                "id": "1-1100-011804-0273",
+                "naam": "Veelkleurig",
+                "hex": "#23253e",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_v-shape_thong-1100-011804-0273_0103_flatlayd.jpg?ref=FAEEF0C67A",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shape-thong-navyblack-1100-011804-0273"
+            },
+            {
+                "id": "1-1100-011804-9526",
+                "naam": "Veelkleurig",
+                "hex": "#9cb3ca",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_v-shape_thong-1100-011804-9526_0022_flatlayf_flatlayd.jpg?ref=D0C15B69F7",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shape-thong-light-bluewhite-1100-011804-9526"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/2-pack-v-shaped_1100-011804-0004_0007.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/2-pack_v-shape_thong_1100-011804-0004_0069_flatlayb.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-vormige-string-red-1100-011804-0004",
+        "id": "1-1100-011804-0004-931",
         "kleurHex": null
     },
     {
@@ -200,18 +262,18 @@
                 "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tanga-string-dark-brown-1100-010622-0765"
             },
             {
-                "id": "1-1100-010622-0483",
-                "naam": "Veelkleurig",
-                "hex": "#bd172b",
-                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-010622-0483_0042_flatlayf.jpg?ref=79DF60513F",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tanga-thong-blackred-1100-010622-0483"
-            },
-            {
                 "id": "1-1100-010622-6388",
                 "naam": "Veelkleurig",
                 "hex": "#f1e7dc",
                 "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-010622-6388_0014.jpg?ref=F4D0E6309F",
                 "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tanga-string-black-pearl-1100-010622-6388"
+            },
+            {
+                "id": "1-1100-010622-0483",
+                "naam": "Veelkleurig",
+                "hex": "#bd172b",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-010622-0483_0042_flatlayf.jpg?ref=79DF60513F",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tanga-thong-blackred-1100-010622-0483"
             },
             {
                 "id": "1-1100-010622-0061",
@@ -312,68 +374,6 @@
         "kleurHex": null
     },
     {
-        "naam": "2-pack V-vormige string",
-        "imageUrls": [
-            "https://www.na-kd.com/globalassets/2-pack-v-shaped_1100-011804-0004_0007.jpg?width=640",
-            "https://www.na-kd.com/globalassets/2-pack-v-shaped_1100-011804-0004_0009.jpg?width=640",
-            "https://www.na-kd.com/globalassets/2-pack-v-shaped_1100-011804-0004_0008.jpg?width=640",
-            "https://www.na-kd.com/globalassets/2-pack_v-shape_thong_1100-011804-0004_0068_flatlayd.jpg?width=640",
-            "https://www.na-kd.com/globalassets/2-pack_v-shape_thong_1100-011804-0004_0067_flatlayf.jpg?width=640",
-            "https://www.na-kd.com/globalassets/2-pack_v-shape_thong_1100-011804-0004_0069_flatlayb.jpg?width=640"
-        ],
-        "prijs": 6.47,
-        "kleur": "Red",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-011804-0004",
-                "naam": "Rood",
-                "hex": "#c51d2b",
-                "img_url": "https://www.na-kd.com/globalassets/2-pack-v-shaped_1100-011804-0004_0007.jpg?ref=E4CA2F8371",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-vormige-string-red-1100-011804-0004"
-            },
-            {
-                "id": "1-1100-011804-0765",
-                "naam": "Bruin",
-                "hex": "#2f2528",
-                "img_url": "https://www.na-kd.com/globalassets/2-pack_v-shaped_thong_1100-011804-0765_0076.jpg?ref=7566815A86",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shape-thong-dark-brown-1100-011804-0765"
-            },
-            {
-                "id": "1-1100-011804-0502",
-                "naam": "Donkergroen",
-                "hex": "#17302f",
-                "img_url": "https://www.na-kd.com/globalassets/2-pack_v-shape_thong_1100-011804-0502_0061.jpg?ref=1AC7249E39",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shape-thong-deep-green-1100-011804-0502"
-            },
-            {
-                "id": "1-1100-011804-0483",
-                "naam": "Veelkleurig",
-                "hex": "#9b102b",
-                "img_url": "https://www.na-kd.com/globalassets/2-pack_v_shape-thong_1100-011804-0483_0089_flatlayd-1.jpg?ref=ED29F0C5FA",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shape-thong-blackred-1100-011804-0483"
-            },
-            {
-                "id": "1-1100-011804-0273",
-                "naam": "Veelkleurig",
-                "hex": "#23253e",
-                "img_url": "https://www.na-kd.com/globalassets/2-pack_v-shape_thong-1100-011804-0273_0103_flatlayd.jpg?ref=FAEEF0C67A",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shape-thong-navyblack-1100-011804-0273"
-            },
-            {
-                "id": "1-1100-011804-9526",
-                "naam": "Veelkleurig",
-                "hex": "#9cb3ca",
-                "img_url": "https://www.na-kd.com/globalassets/2-pack_v-shape_thong-1100-011804-9526_0022_flatlayf_flatlayd.jpg?ref=D0C15B69F7",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shape-thong-light-bluewhite-1100-011804-9526"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/globalassets/2-pack-v-shaped_1100-011804-0004_0007.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/2-pack_v-shape_thong_1100-011804-0004_0069_flatlayb.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-vormige-string-red-1100-011804-0004",
-        "id": "1-1100-011804-0004-931",
-        "kleurHex": null
-    },
-    {
         "naam": "Glanzende Braziliaanse slip",
         "imageUrls": [
             "https://www.na-kd.com/globalassets/shiny-brazilian-panty-1100-013073-0614_0064.jpg?width=640",
@@ -419,6 +419,13 @@
                 "hex": "#2a292d",
                 "img_url": "https://www.na-kd.com/globalassets/lace_thong_1100-012649-0002_0012.jpg?ref=899E12799C",
                 "url": "https://www.na-kd.com/nl/zoek-producten/lace-thong-black-1100-012649-0002"
+            },
+            {
+                "id": "1-1100-012649-4411",
+                "naam": "Paars",
+                "hex": "#d4bed4",
+                "img_url": "https://www.na-kd.com/globalassets/lace_thong_1100-012649-4411_0090_1_1.jpg?ref=B576B69AC0",
+                "url": "https://www.na-kd.com/nl/zoek-producten/lace-thong-dusty-lilac-1100-012649-4411"
             }
         ],
         "img_url": "https://www.na-kd.com/globalassets/lace_thong_1100-012649-0002_0012.jpg",
@@ -469,72 +476,24 @@
                 "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shape-thong-navyblack-1100-011804-0273"
             },
             {
-                "id": "1-1100-011804-9526",
-                "naam": "Veelkleurig",
-                "hex": "#9cb3ca",
-                "img_url": "https://www.na-kd.com/globalassets/2-pack_v-shape_thong-1100-011804-9526_0022_flatlayf_flatlayd.jpg?ref=D0C15B69F7",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shape-thong-light-bluewhite-1100-011804-9526"
-            },
-            {
                 "id": "1-1100-011804-0004",
                 "naam": "Rood",
                 "hex": "#c51d2b",
                 "img_url": "https://www.na-kd.com/globalassets/2-pack-v-shaped_1100-011804-0004_0007.jpg?ref=E4CA2F8371",
                 "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-vormige-string-red-1100-011804-0004"
+            },
+            {
+                "id": "1-1100-011804-9526",
+                "naam": "Veelkleurig",
+                "hex": "#9cb3ca",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_v-shape_thong-1100-011804-9526_0022_flatlayf_flatlayd.jpg?ref=D0C15B69F7",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shape-thong-light-bluewhite-1100-011804-9526"
             }
         ],
         "img_url": "https://www.na-kd.com/globalassets/2-pack_v-shaped_thong_1100-011804-0765_0076.jpg",
         "img_url_sec": "https://www.na-kd.com/globalassets/2-pack_v-shape_thong_1100-011804-0765_0022_flatlayb.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shape-thong-dark-brown-1100-011804-0765",
         "id": "1-1100-011804-0765-931",
-        "kleurHex": null
-    },
-    {
-        "naam": "Tanga met strikdetail",
-        "imageUrls": [
-            "https://www.na-kd.com/globalassets/bow_detailed_tanga-1100-010625-0976_0073_1.jpg?width=640",
-            "https://www.na-kd.com/globalassets/bow_detailed_tanga-1100-010625-0976_0078_1.jpg?width=640",
-            "https://www.na-kd.com/globalassets/bow_detailed_tanga-1100-010625-0976_0076_1.jpg?width=640",
-            "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0976_0047_flatlayf.jpg?width=640",
-            "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0976_0048_flatlayb.jpg?width=640",
-            "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0976_0047-kopia_flatlayd.jpg?width=640"
-        ],
-        "prijs": 9.06,
-        "kleur": "Vanilla",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-010625-0976",
-                "naam": "Lichtgeel",
-                "hex": "#f1dba0",
-                "img_url": "https://www.na-kd.com/globalassets/bow_detailed_tanga-1100-010625-0976_0073_1.jpg?ref=8F44A80FC1",
-                "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-vanilla-1100-010625-0976"
-            },
-            {
-                "id": "1-1100-010625-0047",
-                "naam": "Lichtblauw",
-                "hex": "#c9cdde",
-                "img_url": "https://www.na-kd.com/globalassets/bow_detailed_tanga-1100-010625-0047_0002.jpg?ref=18C948A3FA",
-                "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-light-blue-1100-010625-0047"
-            },
-            {
-                "id": "1-1100-010625-0002",
-                "naam": "Zwart",
-                "hex": "#272729",
-                "img_url": "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0002_0022.jpg?ref=E241AA6A1C",
-                "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-black-1100-010625-0002"
-            },
-            {
-                "id": "1-1100-010625-0017",
-                "naam": "Bruin",
-                "hex": "#42302b",
-                "img_url": "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0017_0028.jpg?ref=2A93ADB02C",
-                "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-brown-1100-010625-0017"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/globalassets/bow_detailed_tanga-1100-010625-0976_0073_1.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0976_0047-kopia_flatlayd.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-vanilla-1100-010625-0976",
-        "id": "1-1100-010625-0976-931",
         "kleurHex": null
     },
     {
@@ -619,311 +578,6 @@
         "img_url_sec": "https://www.na-kd.com/globalassets/2-pack-v-shape-thong-1100-012507-0041_0023_flatlayf2.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shape-thong-blackwhite-1100-012507-0041",
         "id": "1-1100-012507-0041-931",
-        "kleurHex": null
-    },
-    {
-        "naam": "2-pack tanga's",
-        "imageUrls": [
-            "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-012499-0531-929_0023.jpg?width=640",
-            "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-012499-0531-929_0025.jpg?width=640",
-            "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-012499-0531-929_0024.jpg?width=640",
-            "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-012499-0531-929_0026-1.jpg?width=640",
-            "https://www.na-kd.com/globalassets/2-pack-tanga-thong-1100-012499-0531_0028_flatlayf.jpg?width=640",
-            "https://www.na-kd.com/globalassets/2-pack-tanga-thong-1100-012499-0531_0028-2_flatlayd.jpg?width=640",
-            "https://www.na-kd.com/globalassets/2-pack-tanga-thong-1100-012499-0531_0027_flatlayf2.jpg?width=640"
-        ],
-        "prijs": 9.06,
-        "kleur": "Red/White",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-012499-0531",
-                "naam": "Veelkleurig",
-                "hex": "#fbf8f6",
-                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-012499-0531-929_0023.jpg?ref=9F06D034AF",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tanga-thong-redwhite-1100-012499-0531"
-            },
-            {
-                "id": "1-1100-012499-0002",
-                "naam": "Zwart",
-                "hex": "#110c09",
-                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong_1100-012499-0002_0015.jpg?ref=1352D11684",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-black-1100-012499-0002"
-            },
-            {
-                "id": "1-1100-012499-0004",
-                "naam": "Veelkleurig",
-                "hex": "#232225",
-                "img_url": "https://www.na-kd.com/globalassets/2pack_tanga_thong_1100-012499-0004_0004-2_flatlayf.jpg?ref=F210A50D4E",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-veelkleurig-1100-012499-0004"
-            },
-            {
-                "id": "1-1100-012499-0048",
-                "naam": "Veelkleurig",
-                "hex": "#ffffff",
-                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong__1100-012499-0048_1.jpg?ref=495D6FAA30",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-light-pink-1100-012499-0048"
-            },
-            {
-                "id": "1-1100-012499-0041",
-                "naam": "Veelkleurig",
-                "hex": "#ffffff",
-                "img_url": "https://www.na-kd.com/globalassets/2_pack_tanga_thong_1100-012499-0041_0010_flatlayf.jpg?ref=D1246BFD5E",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-blackwhite-1100-012499-0041"
-            },
-            {
-                "id": "1-1100-012499-0047",
-                "naam": "Veelkleurig",
-                "hex": "#9cb2cd",
-                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong_1100-012499-0047_0079.jpg?ref=44781DA7FC",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-light-blue-1100-012499-0047"
-            },
-            {
-                "id": "1-1100-012499-0404",
-                "naam": "Veelkleurig",
-                "hex": "#ffffff",
-                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-012499-0404_0016.jpg?ref=F442A0CD28",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-light-yellow-1100-012499-0404"
-            },
-            {
-                "id": "1-1100-012499-0230",
-                "naam": "Veelkleurig",
-                "hex": "#733146",
-                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-012499-0230_0015_flatlayf.jpg?ref=8050167D0C",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-wine-red-1100-012499-0230"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-012499-0531-929_0023.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/2-pack-tanga-thong-1100-012499-0531_0027_flatlayf2.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tanga-thong-redwhite-1100-012499-0531",
-        "id": "1-1100-012499-0531-931",
-        "kleurHex": null
-    },
-    {
-        "naam": "Tanga met strikdetail",
-        "imageUrls": [
-            "https://www.na-kd.com/globalassets/bow_detailed_tanga-1100-010625-0047_0002.jpg?width=640",
-            "https://www.na-kd.com/globalassets/bow_detailed_tanga-1100-010625-0047_0006.jpg?width=640",
-            "https://www.na-kd.com/globalassets/bow_detailed_tanga-1100-010625-0047_0004.jpg?width=640",
-            "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0047_0001_flatlayf.jpg?width=640",
-            "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0047_0002_flatlayb.jpg?width=640",
-            "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0047_0001-kopia_flatlayd.jpg?width=640"
-        ],
-        "prijs": 9.06,
-        "kleur": "Light Blue",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-010625-0047",
-                "naam": "Lichtblauw",
-                "hex": "#c9cdde",
-                "img_url": "https://www.na-kd.com/globalassets/bow_detailed_tanga-1100-010625-0047_0002.jpg?ref=18C948A3FA",
-                "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-light-blue-1100-010625-0047"
-            },
-            {
-                "id": "1-1100-010625-0976",
-                "naam": "Lichtgeel",
-                "hex": "#f1dba0",
-                "img_url": "https://www.na-kd.com/globalassets/bow_detailed_tanga-1100-010625-0976_0073_1.jpg?ref=8F44A80FC1",
-                "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-vanilla-1100-010625-0976"
-            },
-            {
-                "id": "1-1100-010625-0002",
-                "naam": "Zwart",
-                "hex": "#272729",
-                "img_url": "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0002_0022.jpg?ref=E241AA6A1C",
-                "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-black-1100-010625-0002"
-            },
-            {
-                "id": "1-1100-010625-0017",
-                "naam": "Bruin",
-                "hex": "#42302b",
-                "img_url": "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0017_0028.jpg?ref=2A93ADB02C",
-                "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-brown-1100-010625-0017"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/globalassets/bow_detailed_tanga-1100-010625-0047_0002.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0047_0001-kopia_flatlayd.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-light-blue-1100-010625-0047",
-        "id": "1-1100-010625-0047-931",
-        "kleurHex": null
-    },
-    {
-        "naam": "V-vormig kanten slipje",
-        "imageUrls": [
-            "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0002_1257.jpg?width=640",
-            "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0002_0037.jpg?width=640",
-            "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0002_0036.jpg?width=640",
-            "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0002_0038.jpg?width=640",
-            "https://www.na-kd.com/globalassets/v-shaped-lace_string-1100-010563-0002_0022_flatlayf.jpg?width=640",
-            "https://www.na-kd.com/globalassets/v-shaped-lace_string-1100-010563-0002_0023_flatlayb.jpg?width=640",
-            "https://www.na-kd.com/globalassets/v-shaped-lace_string-detail-1100-010563-0002_0022_flatlayd.jpg?width=640"
-        ],
-        "prijs": 9.06,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-010563-0002",
-                "naam": "Zwart",
-                "hex": "#212023",
-                "img_url": "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0002_1257.jpg?ref=877A62A573",
-                "url": "https://www.na-kd.com/nl/zoek-producten/v-vormig-kanten-slipje-black-1100-010563-0002"
-            },
-            {
-                "id": "1-1100-010563-1334",
-                "naam": "Bruin",
-                "hex": "#362a2c",
-                "img_url": "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-1334_0047.jpg?ref=644A75B8D4",
-                "url": "https://www.na-kd.com/nl/zoek-producten/v-vormig-kanten-slipje-chocolate-brown-1100-010563-1334"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0002_1257.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/v-shaped-lace_string-detail-1100-010563-0002_0022_flatlayd.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/v-vormig-kanten-slipje-black-1100-010563-0002",
-        "id": "1-1100-010563-0002-931",
-        "kleurHex": null
-    },
-    {
-        "naam": "Tanga met strikdetail",
-        "imageUrls": [
-            "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0002_0022.jpg?width=640",
-            "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0002_0025.jpg?width=640",
-            "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0002_0024.jpg?width=640",
-            "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0002_0012_flatlayf.jpg?width=640",
-            "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0002_0011_flatlayb.jpg?width=640",
-            "https://www.na-kd.com/globalassets/bow_detailed_tanga_detail_1100-010625-0002_0012_flatlayd.jpg?width=640"
-        ],
-        "prijs": 9.06,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-010625-0002",
-                "naam": "Zwart",
-                "hex": "#272729",
-                "img_url": "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0002_0022.jpg?ref=E241AA6A1C",
-                "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-black-1100-010625-0002"
-            },
-            {
-                "id": "1-1100-010625-0976",
-                "naam": "Lichtgeel",
-                "hex": "#f1dba0",
-                "img_url": "https://www.na-kd.com/globalassets/bow_detailed_tanga-1100-010625-0976_0073_1.jpg?ref=8F44A80FC1",
-                "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-vanilla-1100-010625-0976"
-            },
-            {
-                "id": "1-1100-010625-0047",
-                "naam": "Lichtblauw",
-                "hex": "#c9cdde",
-                "img_url": "https://www.na-kd.com/globalassets/bow_detailed_tanga-1100-010625-0047_0002.jpg?ref=18C948A3FA",
-                "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-light-blue-1100-010625-0047"
-            },
-            {
-                "id": "1-1100-010625-0017",
-                "naam": "Bruin",
-                "hex": "#42302b",
-                "img_url": "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0017_0028.jpg?ref=2A93ADB02C",
-                "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-brown-1100-010625-0017"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0002_0022.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/bow_detailed_tanga_detail_1100-010625-0002_0012_flatlayd.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-black-1100-010625-0002",
-        "id": "1-1100-010625-0002-931",
-        "kleurHex": null
-    },
-    {
-        "naam": "2-pack tanga's",
-        "imageUrls": [
-            "https://www.na-kd.com/globalassets/2-pack_tanga_thong_1100-012499-0002_0015.jpg?width=640",
-            "https://www.na-kd.com/globalassets/2-pack_tanga_thong_1100-012499-0002_0017.jpg?width=640",
-            "https://www.na-kd.com/globalassets/2-pack_tanga_thong_1100-012499-0002_0014.jpg?width=640"
-        ],
-        "prijs": 9.06,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-012499-0002",
-                "naam": "Zwart",
-                "hex": "#110c09",
-                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong_1100-012499-0002_0015.jpg?ref=1352D11684",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-black-1100-012499-0002"
-            },
-            {
-                "id": "1-1100-012499-0531",
-                "naam": "Veelkleurig",
-                "hex": "#fbf8f6",
-                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-012499-0531-929_0023.jpg?ref=9F06D034AF",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tanga-thong-redwhite-1100-012499-0531"
-            },
-            {
-                "id": "1-1100-012499-0004",
-                "naam": "Veelkleurig",
-                "hex": "#232225",
-                "img_url": "https://www.na-kd.com/globalassets/2pack_tanga_thong_1100-012499-0004_0004-2_flatlayf.jpg?ref=F210A50D4E",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-veelkleurig-1100-012499-0004"
-            },
-            {
-                "id": "1-1100-012499-0048",
-                "naam": "Veelkleurig",
-                "hex": "#ffffff",
-                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong__1100-012499-0048_1.jpg?ref=495D6FAA30",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-light-pink-1100-012499-0048"
-            },
-            {
-                "id": "1-1100-012499-0041",
-                "naam": "Veelkleurig",
-                "hex": "#ffffff",
-                "img_url": "https://www.na-kd.com/globalassets/2_pack_tanga_thong_1100-012499-0041_0010_flatlayf.jpg?ref=D1246BFD5E",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-blackwhite-1100-012499-0041"
-            },
-            {
-                "id": "1-1100-012499-0047",
-                "naam": "Veelkleurig",
-                "hex": "#9cb2cd",
-                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong_1100-012499-0047_0079.jpg?ref=44781DA7FC",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-light-blue-1100-012499-0047"
-            },
-            {
-                "id": "1-1100-012499-0404",
-                "naam": "Veelkleurig",
-                "hex": "#ffffff",
-                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-012499-0404_0016.jpg?ref=F442A0CD28",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-light-yellow-1100-012499-0404"
-            },
-            {
-                "id": "1-1100-012499-0230",
-                "naam": "Veelkleurig",
-                "hex": "#733146",
-                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-012499-0230_0015_flatlayf.jpg?ref=8050167D0C",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-wine-red-1100-012499-0230"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong_1100-012499-0002_0015.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/2-pack_tanga_thong_1100-012499-0002_0014.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-black-1100-012499-0002",
-        "id": "1-1100-012499-0002-931",
-        "kleurHex": null
-    },
-    {
-        "naam": "2-pack V-vorm String",
-        "imageUrls": [
-            "https://www.na-kd.com/globalassets/2-pack_v_shape_thong_1100-013476-0002_0009.jpg?width=640",
-            "https://www.na-kd.com/globalassets/2-pack_v_shape_thong_1100-013476-0002_0011.jpg?width=640",
-            "https://www.na-kd.com/globalassets/2-pack_v_shape_thong_1100-013476-0002_0010.jpg?width=640"
-        ],
-        "prijs": 9.06,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-013476-0002",
-                "naam": "Zwart",
-                "hex": "#100c0a",
-                "img_url": "https://www.na-kd.com/globalassets/2-pack_v_shape_thong_1100-013476-0002_0009.jpg?ref=C73A46B089",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shape-thong-zwart-1100-013476-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/globalassets/2-pack_v_shape_thong_1100-013476-0002_0009.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/2-pack_v_shape_thong_1100-013476-0002_0010.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shape-thong-zwart-1100-013476-0002",
-        "id": "1-1100-013476-0002-931",
         "kleurHex": null
     },
     {
@@ -1013,6 +667,263 @@
     {
         "naam": "Tanga met strikdetail",
         "imageUrls": [
+            "https://www.na-kd.com/globalassets/bow_detailed_tanga-1100-010625-0976_0073_1.jpg?width=640",
+            "https://www.na-kd.com/globalassets/bow_detailed_tanga-1100-010625-0976_0078_1.jpg?width=640",
+            "https://www.na-kd.com/globalassets/bow_detailed_tanga-1100-010625-0976_0076_1.jpg?width=640",
+            "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0976_0047_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0976_0048_flatlayb.jpg?width=640",
+            "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0976_0047-kopia_flatlayd.jpg?width=640"
+        ],
+        "prijs": 9.06,
+        "kleur": "Vanilla",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-010625-0976",
+                "naam": "Lichtgeel",
+                "hex": "#f1dba0",
+                "img_url": "https://www.na-kd.com/globalassets/bow_detailed_tanga-1100-010625-0976_0073_1.jpg?ref=8F44A80FC1",
+                "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-vanilla-1100-010625-0976"
+            },
+            {
+                "id": "1-1100-010625-0047",
+                "naam": "Lichtblauw",
+                "hex": "#c9cdde",
+                "img_url": "https://www.na-kd.com/globalassets/bow_detailed_tanga-1100-010625-0047_0002.jpg?ref=18C948A3FA",
+                "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-light-blue-1100-010625-0047"
+            },
+            {
+                "id": "1-1100-010625-0002",
+                "naam": "Zwart",
+                "hex": "#272729",
+                "img_url": "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0002_0022.jpg?ref=E241AA6A1C",
+                "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-black-1100-010625-0002"
+            },
+            {
+                "id": "1-1100-010625-0017",
+                "naam": "Bruin",
+                "hex": "#42302b",
+                "img_url": "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0017_0028.jpg?ref=2A93ADB02C",
+                "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-brown-1100-010625-0017"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/bow_detailed_tanga-1100-010625-0976_0073_1.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0976_0047-kopia_flatlayd.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-vanilla-1100-010625-0976",
+        "id": "1-1100-010625-0976-931",
+        "kleurHex": null
+    },
+    {
+        "naam": "2-pack tanga's",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/2pack_tanga_thong_1100-012499-0004_0004-2_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/2-pack_tanga_thong_1100-012499-0004_0005.jpg?width=640",
+            "https://www.na-kd.com/globalassets/2-pack_tanga_thong_1100-012499-0004_0009.jpg?width=640",
+            "https://www.na-kd.com/globalassets/2-pack_tanga_thong_1100-012499-0004_0008.jpg?width=640",
+            "https://www.na-kd.com/globalassets/2-pack_tanga_thong_1100-012499-0004_0011.jpg?width=640",
+            "https://www.na-kd.com/globalassets/2pack_tanga_thong_1100-012499-0004_0005-3-2_flatlayb.jpg?width=640",
+            "https://www.na-kd.com/globalassets/2pack_tanga_thong_1100-012499-0004_0003_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/2pack_tanga_thong_1100-012499-0004_0004-2crop_flatlayd.jpg?width=640"
+        ],
+        "prijs": 9.06,
+        "kleur": "Red",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-012499-0004",
+                "naam": "Veelkleurig",
+                "hex": "#232225",
+                "img_url": "https://www.na-kd.com/globalassets/2pack_tanga_thong_1100-012499-0004_0004-2_flatlayf.jpg?ref=F210A50D4E",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-veelkleurig-1100-012499-0004"
+            },
+            {
+                "id": "1-1100-012499-0002",
+                "naam": "Zwart",
+                "hex": "#110c09",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong_1100-012499-0002_0015.jpg?ref=1352D11684",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-black-1100-012499-0002"
+            },
+            {
+                "id": "1-1100-012499-0531",
+                "naam": "Veelkleurig",
+                "hex": "#fbf8f6",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-012499-0531-929_0023.jpg?ref=9F06D034AF",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tanga-thong-redwhite-1100-012499-0531"
+            },
+            {
+                "id": "1-1100-012499-0048",
+                "naam": "Veelkleurig",
+                "hex": "#ffffff",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong__1100-012499-0048_1.jpg?ref=495D6FAA30",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-light-pink-1100-012499-0048"
+            },
+            {
+                "id": "1-1100-012499-0041",
+                "naam": "Veelkleurig",
+                "hex": "#ffffff",
+                "img_url": "https://www.na-kd.com/globalassets/2_pack_tanga_thong_1100-012499-0041_0010_flatlayf.jpg?ref=D1246BFD5E",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-blackwhite-1100-012499-0041"
+            },
+            {
+                "id": "1-1100-012499-0404",
+                "naam": "Veelkleurig",
+                "hex": "#ffffff",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-012499-0404_0016.jpg?ref=F442A0CD28",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-light-yellow-1100-012499-0404"
+            },
+            {
+                "id": "1-1100-012499-0047",
+                "naam": "Veelkleurig",
+                "hex": "#9cb2cd",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong_1100-012499-0047_0079.jpg?ref=44781DA7FC",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-light-blue-1100-012499-0047"
+            },
+            {
+                "id": "1-1100-012499-0230",
+                "naam": "Veelkleurig",
+                "hex": "#733146",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-012499-0230_0015_flatlayf.jpg?ref=8050167D0C",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-wine-red-1100-012499-0230"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/2pack_tanga_thong_1100-012499-0004_0004-2_flatlayf.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/2pack_tanga_thong_1100-012499-0004_0004-2crop_flatlayd.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-veelkleurig-1100-012499-0004",
+        "id": "1-1100-012499-0004-931",
+        "kleurHex": null
+    },
+    {
+        "naam": "Tanga met strikdetail",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/bow_detailed_tanga-1100-010625-0047_0002.jpg?width=640",
+            "https://www.na-kd.com/globalassets/bow_detailed_tanga-1100-010625-0047_0006.jpg?width=640",
+            "https://www.na-kd.com/globalassets/bow_detailed_tanga-1100-010625-0047_0004.jpg?width=640",
+            "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0047_0001_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0047_0002_flatlayb.jpg?width=640",
+            "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0047_0001-kopia_flatlayd.jpg?width=640"
+        ],
+        "prijs": 9.06,
+        "kleur": "Light Blue",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-010625-0047",
+                "naam": "Lichtblauw",
+                "hex": "#c9cdde",
+                "img_url": "https://www.na-kd.com/globalassets/bow_detailed_tanga-1100-010625-0047_0002.jpg?ref=18C948A3FA",
+                "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-light-blue-1100-010625-0047"
+            },
+            {
+                "id": "1-1100-010625-0976",
+                "naam": "Lichtgeel",
+                "hex": "#f1dba0",
+                "img_url": "https://www.na-kd.com/globalassets/bow_detailed_tanga-1100-010625-0976_0073_1.jpg?ref=8F44A80FC1",
+                "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-vanilla-1100-010625-0976"
+            },
+            {
+                "id": "1-1100-010625-0002",
+                "naam": "Zwart",
+                "hex": "#272729",
+                "img_url": "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0002_0022.jpg?ref=E241AA6A1C",
+                "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-black-1100-010625-0002"
+            },
+            {
+                "id": "1-1100-010625-0017",
+                "naam": "Bruin",
+                "hex": "#42302b",
+                "img_url": "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0017_0028.jpg?ref=2A93ADB02C",
+                "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-brown-1100-010625-0017"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/bow_detailed_tanga-1100-010625-0047_0002.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0047_0001-kopia_flatlayd.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-light-blue-1100-010625-0047",
+        "id": "1-1100-010625-0047-931",
+        "kleurHex": null
+    },
+    {
+        "naam": "Tanga met strikdetail",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0002_0022.jpg?width=640",
+            "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0002_0025.jpg?width=640",
+            "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0002_0024.jpg?width=640",
+            "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0002_0012_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0002_0011_flatlayb.jpg?width=640",
+            "https://www.na-kd.com/globalassets/bow_detailed_tanga_detail_1100-010625-0002_0012_flatlayd.jpg?width=640"
+        ],
+        "prijs": 9.06,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-010625-0002",
+                "naam": "Zwart",
+                "hex": "#272729",
+                "img_url": "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0002_0022.jpg?ref=E241AA6A1C",
+                "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-black-1100-010625-0002"
+            },
+            {
+                "id": "1-1100-010625-0976",
+                "naam": "Lichtgeel",
+                "hex": "#f1dba0",
+                "img_url": "https://www.na-kd.com/globalassets/bow_detailed_tanga-1100-010625-0976_0073_1.jpg?ref=8F44A80FC1",
+                "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-vanilla-1100-010625-0976"
+            },
+            {
+                "id": "1-1100-010625-0047",
+                "naam": "Lichtblauw",
+                "hex": "#c9cdde",
+                "img_url": "https://www.na-kd.com/globalassets/bow_detailed_tanga-1100-010625-0047_0002.jpg?ref=18C948A3FA",
+                "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-light-blue-1100-010625-0047"
+            },
+            {
+                "id": "1-1100-010625-0017",
+                "naam": "Bruin",
+                "hex": "#42302b",
+                "img_url": "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0017_0028.jpg?ref=2A93ADB02C",
+                "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-brown-1100-010625-0017"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0002_0022.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/bow_detailed_tanga_detail_1100-010625-0002_0012_flatlayd.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-black-1100-010625-0002",
+        "id": "1-1100-010625-0002-931",
+        "kleurHex": null
+    },
+    {
+        "naam": "V-vormig kanten slipje",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0002_1257.jpg?width=640",
+            "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0002_0037.jpg?width=640",
+            "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0002_0036.jpg?width=640",
+            "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0002_0038.jpg?width=640",
+            "https://www.na-kd.com/globalassets/v-shaped-lace_string-1100-010563-0002_0022_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/v-shaped-lace_string-1100-010563-0002_0023_flatlayb.jpg?width=640",
+            "https://www.na-kd.com/globalassets/v-shaped-lace_string-detail-1100-010563-0002_0022_flatlayd.jpg?width=640"
+        ],
+        "prijs": 9.06,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-010563-0002",
+                "naam": "Zwart",
+                "hex": "#212023",
+                "img_url": "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0002_1257.jpg?ref=877A62A573",
+                "url": "https://www.na-kd.com/nl/zoek-producten/v-vormig-kanten-slipje-black-1100-010563-0002"
+            },
+            {
+                "id": "1-1100-010563-1334",
+                "naam": "Bruin",
+                "hex": "#362a2c",
+                "img_url": "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-1334_0047.jpg?ref=644A75B8D4",
+                "url": "https://www.na-kd.com/nl/zoek-producten/v-vormig-kanten-slipje-chocolate-brown-1100-010563-1334"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0002_1257.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/v-shaped-lace_string-detail-1100-010563-0002_0022_flatlayd.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/v-vormig-kanten-slipje-black-1100-010563-0002",
+        "id": "1-1100-010563-0002-931",
+        "kleurHex": null
+    },
+    {
+        "naam": "Tanga met strikdetail",
+        "imageUrls": [
             "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0017_0028.jpg?width=640",
             "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0017_0031.jpg?width=640",
             "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0017_0029.jpg?width=640",
@@ -1061,18 +972,20 @@
     {
         "naam": "2-pack tanga's",
         "imageUrls": [
-            "https://www.na-kd.com/globalassets/2pack_tanga_thong_1100-012499-0004_0004-2_flatlayf.jpg?width=640",
-            "https://www.na-kd.com/globalassets/2-pack_tanga_thong_1100-012499-0004_0005.jpg?width=640",
-            "https://www.na-kd.com/globalassets/2-pack_tanga_thong_1100-012499-0004_0009.jpg?width=640",
-            "https://www.na-kd.com/globalassets/2-pack_tanga_thong_1100-012499-0004_0008.jpg?width=640",
-            "https://www.na-kd.com/globalassets/2-pack_tanga_thong_1100-012499-0004_0011.jpg?width=640",
-            "https://www.na-kd.com/globalassets/2pack_tanga_thong_1100-012499-0004_0005-3-2_flatlayb.jpg?width=640",
-            "https://www.na-kd.com/globalassets/2pack_tanga_thong_1100-012499-0004_0003_flatlayf.jpg?width=640",
-            "https://www.na-kd.com/globalassets/2pack_tanga_thong_1100-012499-0004_0004-2crop_flatlayd.jpg?width=640"
+            "https://www.na-kd.com/globalassets/2-pack_tanga_thong_1100-012499-0002_0015.jpg?width=640",
+            "https://www.na-kd.com/globalassets/2-pack_tanga_thong_1100-012499-0002_0017.jpg?width=640",
+            "https://www.na-kd.com/globalassets/2-pack_tanga_thong_1100-012499-0002_0014.jpg?width=640"
         ],
         "prijs": 9.06,
-        "kleur": "Red",
+        "kleur": "Black",
         "kleurFamilies": [
+            {
+                "id": "1-1100-012499-0002",
+                "naam": "Zwart",
+                "hex": "#110c09",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong_1100-012499-0002_0015.jpg?ref=1352D11684",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-black-1100-012499-0002"
+            },
             {
                 "id": "1-1100-012499-0004",
                 "naam": "Veelkleurig",
@@ -1086,6 +999,100 @@
                 "hex": "#fbf8f6",
                 "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-012499-0531-929_0023.jpg?ref=9F06D034AF",
                 "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tanga-thong-redwhite-1100-012499-0531"
+            },
+            {
+                "id": "1-1100-012499-0048",
+                "naam": "Veelkleurig",
+                "hex": "#ffffff",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong__1100-012499-0048_1.jpg?ref=495D6FAA30",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-light-pink-1100-012499-0048"
+            },
+            {
+                "id": "1-1100-012499-0041",
+                "naam": "Veelkleurig",
+                "hex": "#ffffff",
+                "img_url": "https://www.na-kd.com/globalassets/2_pack_tanga_thong_1100-012499-0041_0010_flatlayf.jpg?ref=D1246BFD5E",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-blackwhite-1100-012499-0041"
+            },
+            {
+                "id": "1-1100-012499-0404",
+                "naam": "Veelkleurig",
+                "hex": "#ffffff",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-012499-0404_0016.jpg?ref=F442A0CD28",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-light-yellow-1100-012499-0404"
+            },
+            {
+                "id": "1-1100-012499-0047",
+                "naam": "Veelkleurig",
+                "hex": "#9cb2cd",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong_1100-012499-0047_0079.jpg?ref=44781DA7FC",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-light-blue-1100-012499-0047"
+            },
+            {
+                "id": "1-1100-012499-0230",
+                "naam": "Veelkleurig",
+                "hex": "#733146",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-012499-0230_0015_flatlayf.jpg?ref=8050167D0C",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-wine-red-1100-012499-0230"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong_1100-012499-0002_0015.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/2-pack_tanga_thong_1100-012499-0002_0014.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-black-1100-012499-0002",
+        "id": "1-1100-012499-0002-931",
+        "kleurHex": null
+    },
+    {
+        "naam": "2-pack V-vorm String",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/2-pack_v_shape_thong_1100-013476-0002_0009.jpg?width=640",
+            "https://www.na-kd.com/globalassets/2-pack_v_shape_thong_1100-013476-0002_0011.jpg?width=640",
+            "https://www.na-kd.com/globalassets/2-pack_v_shape_thong_1100-013476-0002_0010.jpg?width=640"
+        ],
+        "prijs": 9.06,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-013476-0002",
+                "naam": "Zwart",
+                "hex": "#100c0a",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_v_shape_thong_1100-013476-0002_0009.jpg?ref=C73A46B089",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shape-thong-zwart-1100-013476-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/2-pack_v_shape_thong_1100-013476-0002_0009.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/2-pack_v_shape_thong_1100-013476-0002_0010.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shape-thong-zwart-1100-013476-0002",
+        "id": "1-1100-013476-0002-931",
+        "kleurHex": null
+    },
+    {
+        "naam": "2-pack tanga's",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-012499-0531-929_0023.jpg?width=640",
+            "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-012499-0531-929_0025.jpg?width=640",
+            "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-012499-0531-929_0024.jpg?width=640",
+            "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-012499-0531-929_0026-1.jpg?width=640",
+            "https://www.na-kd.com/globalassets/2-pack-tanga-thong-1100-012499-0531_0028_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/2-pack-tanga-thong-1100-012499-0531_0028-2_flatlayd.jpg?width=640",
+            "https://www.na-kd.com/globalassets/2-pack-tanga-thong-1100-012499-0531_0027_flatlayf2.jpg?width=640"
+        ],
+        "prijs": 9.06,
+        "kleur": "Red/White",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-012499-0531",
+                "naam": "Veelkleurig",
+                "hex": "#fbf8f6",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-012499-0531-929_0023.jpg?ref=9F06D034AF",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tanga-thong-redwhite-1100-012499-0531"
+            },
+            {
+                "id": "1-1100-012499-0004",
+                "naam": "Veelkleurig",
+                "hex": "#232225",
+                "img_url": "https://www.na-kd.com/globalassets/2pack_tanga_thong_1100-012499-0004_0004-2_flatlayf.jpg?ref=F210A50D4E",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-veelkleurig-1100-012499-0004"
             },
             {
                 "id": "1-1100-012499-0002",
@@ -1109,18 +1116,18 @@
                 "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-blackwhite-1100-012499-0041"
             },
             {
-                "id": "1-1100-012499-0047",
-                "naam": "Veelkleurig",
-                "hex": "#9cb2cd",
-                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong_1100-012499-0047_0079.jpg?ref=44781DA7FC",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-light-blue-1100-012499-0047"
-            },
-            {
                 "id": "1-1100-012499-0404",
                 "naam": "Veelkleurig",
                 "hex": "#ffffff",
                 "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-012499-0404_0016.jpg?ref=F442A0CD28",
                 "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-light-yellow-1100-012499-0404"
+            },
+            {
+                "id": "1-1100-012499-0047",
+                "naam": "Veelkleurig",
+                "hex": "#9cb2cd",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong_1100-012499-0047_0079.jpg?ref=44781DA7FC",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-light-blue-1100-012499-0047"
             },
             {
                 "id": "1-1100-012499-0230",
@@ -1130,10 +1137,10 @@
                 "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-wine-red-1100-012499-0230"
             }
         ],
-        "img_url": "https://www.na-kd.com/globalassets/2pack_tanga_thong_1100-012499-0004_0004-2_flatlayf.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/2pack_tanga_thong_1100-012499-0004_0004-2crop_flatlayd.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-veelkleurig-1100-012499-0004",
-        "id": "1-1100-012499-0004-931",
+        "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-012499-0531-929_0023.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/2-pack-tanga-thong-1100-012499-0531_0027_flatlayf2.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tanga-thong-redwhite-1100-012499-0531",
+        "id": "1-1100-012499-0531-931",
         "kleurHex": null
     },
     {
@@ -1188,6 +1195,171 @@
         "img_url_sec": "https://www.na-kd.com/globalassets/satin_detail_thong_1100-012624-0017_0017-2-2crop_flatlayd.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/satin-detail-thong-brown-1100-012624-0017",
         "id": "1-1100-012624-0017-931",
+        "kleurHex": null
+    },
+    {
+        "naam": "2-pack tanga's",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/2-pack_tanga_thong__1100-012499-0048_1.jpg?width=640",
+            "https://www.na-kd.com/globalassets/2-pack_thango_thong_1100-012499-0048_0105_1.jpg?width=640",
+            "https://www.na-kd.com/globalassets/2-pack_thango_thong_1100-012499-0048_0104_1.jpg?width=640",
+            "https://www.na-kd.com/globalassets/2_pack_tanga_thong_1100-012499-0048_0017_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/2_pack_tanga_thong_1100-012499-0048_0019_flatlayb.jpg?width=640",
+            "https://www.na-kd.com/globalassets/2_pack_tanga_thong_1100-012499-0048_0019-kopia_flatlayd.jpg?width=640"
+        ],
+        "prijs": 9.06,
+        "kleur": "Light Pink",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-012499-0048",
+                "naam": "Veelkleurig",
+                "hex": "#ffffff",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong__1100-012499-0048_1.jpg?ref=495D6FAA30",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-light-pink-1100-012499-0048"
+            },
+            {
+                "id": "1-1100-012499-0004",
+                "naam": "Veelkleurig",
+                "hex": "#232225",
+                "img_url": "https://www.na-kd.com/globalassets/2pack_tanga_thong_1100-012499-0004_0004-2_flatlayf.jpg?ref=F210A50D4E",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-veelkleurig-1100-012499-0004"
+            },
+            {
+                "id": "1-1100-012499-0002",
+                "naam": "Zwart",
+                "hex": "#110c09",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong_1100-012499-0002_0015.jpg?ref=1352D11684",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-black-1100-012499-0002"
+            },
+            {
+                "id": "1-1100-012499-0531",
+                "naam": "Veelkleurig",
+                "hex": "#fbf8f6",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-012499-0531-929_0023.jpg?ref=9F06D034AF",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tanga-thong-redwhite-1100-012499-0531"
+            },
+            {
+                "id": "1-1100-012499-0041",
+                "naam": "Veelkleurig",
+                "hex": "#ffffff",
+                "img_url": "https://www.na-kd.com/globalassets/2_pack_tanga_thong_1100-012499-0041_0010_flatlayf.jpg?ref=D1246BFD5E",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-blackwhite-1100-012499-0041"
+            },
+            {
+                "id": "1-1100-012499-0404",
+                "naam": "Veelkleurig",
+                "hex": "#ffffff",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-012499-0404_0016.jpg?ref=F442A0CD28",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-light-yellow-1100-012499-0404"
+            },
+            {
+                "id": "1-1100-012499-0047",
+                "naam": "Veelkleurig",
+                "hex": "#9cb2cd",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong_1100-012499-0047_0079.jpg?ref=44781DA7FC",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-light-blue-1100-012499-0047"
+            },
+            {
+                "id": "1-1100-012499-0230",
+                "naam": "Veelkleurig",
+                "hex": "#733146",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-012499-0230_0015_flatlayf.jpg?ref=8050167D0C",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-wine-red-1100-012499-0230"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong__1100-012499-0048_1.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/2_pack_tanga_thong_1100-012499-0048_0019-kopia_flatlayd.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-light-pink-1100-012499-0048",
+        "id": "1-1100-012499-0048-931",
+        "kleurHex": null
+    },
+    {
+        "naam": "2-pack tanga string",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-010622-0765_0076.jpg?width=640",
+            "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-010622-0765_0081.jpg?width=640",
+            "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-010622-0765_0079.jpg?width=640",
+            "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-010622-0765_0065_flatlayd.jpg?width=640",
+            "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-010622-0765_0064_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-010622-0765_0066_flatlayb.jpg?width=640"
+        ],
+        "prijs": 9.06,
+        "kleur": "Dark Brown",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-010622-0765",
+                "naam": "Bruin",
+                "hex": "#322422",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-010622-0765_0076.jpg?ref=F60898623A",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tanga-string-dark-brown-1100-010622-0765"
+            },
+            {
+                "id": "1-1100-010622-6388",
+                "naam": "Veelkleurig",
+                "hex": "#f1e7dc",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-010622-6388_0014.jpg?ref=F4D0E6309F",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tanga-string-black-pearl-1100-010622-6388"
+            },
+            {
+                "id": "1-1100-010622-0483",
+                "naam": "Veelkleurig",
+                "hex": "#bd172b",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-010622-0483_0042_flatlayf.jpg?ref=79DF60513F",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tanga-thong-blackred-1100-010622-0483"
+            },
+            {
+                "id": "1-1100-010622-0061",
+                "naam": "Veelkleurig",
+                "hex": "#893357",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong_1100-010622-0061_0071_flatlayd.jpg?ref=0928797335",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tanga-string-multicolor-1100-010622-0061"
+            },
+            {
+                "id": "1-1100-010622-0273",
+                "naam": "Veelkleurig",
+                "hex": "#21233f",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga-thong_1100-010622-0273_0105flatlayd.jpg?ref=B63036D7D5",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tanga-string-navyblack-1100-010622-0273"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-010622-0765_0076.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-010622-0765_0066_flatlayb.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tanga-string-dark-brown-1100-010622-0765",
+        "id": "1-1100-010622-0765-931",
+        "kleurHex": null
+    },
+    {
+        "naam": "V-vormig kanten slipje",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-1334_0047.jpg?width=640",
+            "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-1334_0051.jpg?width=640",
+            "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-1334_0050.jpg?width=640",
+            "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-1334_0111_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-1334_0112_flatlayb.jpg?width=640",
+            "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-1334_0111_flatlayd.jpg?width=640"
+        ],
+        "prijs": 9.06,
+        "kleur": "Chocolate Brown",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-010563-1334",
+                "naam": "Bruin",
+                "hex": "#362a2c",
+                "img_url": "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-1334_0047.jpg?ref=644A75B8D4",
+                "url": "https://www.na-kd.com/nl/zoek-producten/v-vormig-kanten-slipje-chocolate-brown-1100-010563-1334"
+            },
+            {
+                "id": "1-1100-010563-0002",
+                "naam": "Zwart",
+                "hex": "#212023",
+                "img_url": "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0002_1257.jpg?ref=877A62A573",
+                "url": "https://www.na-kd.com/nl/zoek-producten/v-vormig-kanten-slipje-black-1100-010563-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-1334_0047.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-1334_0111_flatlayd.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/v-vormig-kanten-slipje-chocolate-brown-1100-010563-1334",
+        "id": "1-1100-010563-1334-931",
         "kleurHex": null
     },
     {
@@ -1276,16 +1448,23 @@
     {
         "naam": "2-pack tanga string",
         "imageUrls": [
-            "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-010622-0765_0076.jpg?width=640",
-            "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-010622-0765_0081.jpg?width=640",
-            "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-010622-0765_0079.jpg?width=640",
-            "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-010622-0765_0065_flatlayd.jpg?width=640",
-            "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-010622-0765_0064_flatlayf.jpg?width=640",
-            "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-010622-0765_0066_flatlayb.jpg?width=640"
+            "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-010622-6388_0014.jpg?width=640",
+            "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-010622-6388_0017.jpg?width=640",
+            "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-010622-6388_0010.jpg?width=640",
+            "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-010622-6388_0016_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/2-packtangathong-1100-010622-63880017-copy-2_flatlayd.jpg?width=640",
+            "https://www.na-kd.com/globalassets/2-packtangathong-1100-010622-63880017-copy_flatlayd2.jpg?width=640"
         ],
         "prijs": 9.06,
-        "kleur": "Dark Brown",
+        "kleur": "Black Pearl",
         "kleurFamilies": [
+            {
+                "id": "1-1100-010622-6388",
+                "naam": "Veelkleurig",
+                "hex": "#f1e7dc",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-010622-6388_0014.jpg?ref=F4D0E6309F",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tanga-string-black-pearl-1100-010622-6388"
+            },
             {
                 "id": "1-1100-010622-0765",
                 "naam": "Bruin",
@@ -1299,13 +1478,6 @@
                 "hex": "#bd172b",
                 "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-010622-0483_0042_flatlayf.jpg?ref=79DF60513F",
                 "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tanga-thong-blackred-1100-010622-0483"
-            },
-            {
-                "id": "1-1100-010622-6388",
-                "naam": "Veelkleurig",
-                "hex": "#f1e7dc",
-                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-010622-6388_0014.jpg?ref=F4D0E6309F",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tanga-string-black-pearl-1100-010622-6388"
             },
             {
                 "id": "1-1100-010622-0061",
@@ -1322,86 +1494,10 @@
                 "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tanga-string-navyblack-1100-010622-0273"
             }
         ],
-        "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-010622-0765_0076.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-010622-0765_0066_flatlayb.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tanga-string-dark-brown-1100-010622-0765",
-        "id": "1-1100-010622-0765-931",
-        "kleurHex": null
-    },
-    {
-        "naam": "2-pack tanga's",
-        "imageUrls": [
-            "https://www.na-kd.com/globalassets/2-pack_tanga_thong__1100-012499-0048_1.jpg?width=640",
-            "https://www.na-kd.com/globalassets/2-pack_thango_thong_1100-012499-0048_0105_1.jpg?width=640",
-            "https://www.na-kd.com/globalassets/2-pack_thango_thong_1100-012499-0048_0104_1.jpg?width=640",
-            "https://www.na-kd.com/globalassets/2_pack_tanga_thong_1100-012499-0048_0017_flatlayf.jpg?width=640",
-            "https://www.na-kd.com/globalassets/2_pack_tanga_thong_1100-012499-0048_0019_flatlayb.jpg?width=640",
-            "https://www.na-kd.com/globalassets/2_pack_tanga_thong_1100-012499-0048_0019-kopia_flatlayd.jpg?width=640"
-        ],
-        "prijs": 9.06,
-        "kleur": "Light Pink",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-012499-0048",
-                "naam": "Veelkleurig",
-                "hex": "#ffffff",
-                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong__1100-012499-0048_1.jpg?ref=495D6FAA30",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-light-pink-1100-012499-0048"
-            },
-            {
-                "id": "1-1100-012499-0531",
-                "naam": "Veelkleurig",
-                "hex": "#fbf8f6",
-                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-012499-0531-929_0023.jpg?ref=9F06D034AF",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tanga-thong-redwhite-1100-012499-0531"
-            },
-            {
-                "id": "1-1100-012499-0002",
-                "naam": "Zwart",
-                "hex": "#110c09",
-                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong_1100-012499-0002_0015.jpg?ref=1352D11684",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-black-1100-012499-0002"
-            },
-            {
-                "id": "1-1100-012499-0004",
-                "naam": "Veelkleurig",
-                "hex": "#232225",
-                "img_url": "https://www.na-kd.com/globalassets/2pack_tanga_thong_1100-012499-0004_0004-2_flatlayf.jpg?ref=F210A50D4E",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-veelkleurig-1100-012499-0004"
-            },
-            {
-                "id": "1-1100-012499-0041",
-                "naam": "Veelkleurig",
-                "hex": "#ffffff",
-                "img_url": "https://www.na-kd.com/globalassets/2_pack_tanga_thong_1100-012499-0041_0010_flatlayf.jpg?ref=D1246BFD5E",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-blackwhite-1100-012499-0041"
-            },
-            {
-                "id": "1-1100-012499-0047",
-                "naam": "Veelkleurig",
-                "hex": "#9cb2cd",
-                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong_1100-012499-0047_0079.jpg?ref=44781DA7FC",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-light-blue-1100-012499-0047"
-            },
-            {
-                "id": "1-1100-012499-0404",
-                "naam": "Veelkleurig",
-                "hex": "#ffffff",
-                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-012499-0404_0016.jpg?ref=F442A0CD28",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-light-yellow-1100-012499-0404"
-            },
-            {
-                "id": "1-1100-012499-0230",
-                "naam": "Veelkleurig",
-                "hex": "#733146",
-                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-012499-0230_0015_flatlayf.jpg?ref=8050167D0C",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-wine-red-1100-012499-0230"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong__1100-012499-0048_1.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/2_pack_tanga_thong_1100-012499-0048_0019-kopia_flatlayd.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tangas-light-pink-1100-012499-0048",
-        "id": "1-1100-012499-0048-931",
+        "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-010622-6388_0014.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/2-packtangathong-1100-010622-63880017-copy_flatlayd2.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tanga-string-black-pearl-1100-010622-6388",
+        "id": "1-1100-010622-6388-931",
         "kleurHex": null
     },
     {
@@ -1486,40 +1582,6 @@
         "img_url_sec": "https://www.na-kd.com/globalassets/2pack_vshape_thong_1100-012507-0047_0028-kopia_flatlayd.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shaped-string-light-blue-1100-012507-0047",
         "id": "1-1100-012507-0047-931",
-        "kleurHex": null
-    },
-    {
-        "naam": "V-vormig kanten slipje",
-        "imageUrls": [
-            "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-1334_0047.jpg?width=640",
-            "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-1334_0051.jpg?width=640",
-            "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-1334_0050.jpg?width=640",
-            "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-1334_0111_flatlayf.jpg?width=640",
-            "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-1334_0112_flatlayb.jpg?width=640",
-            "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-1334_0111_flatlayd.jpg?width=640"
-        ],
-        "prijs": 9.06,
-        "kleur": "Chocolate Brown",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-010563-1334",
-                "naam": "Bruin",
-                "hex": "#362a2c",
-                "img_url": "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-1334_0047.jpg?ref=644A75B8D4",
-                "url": "https://www.na-kd.com/nl/zoek-producten/v-vormig-kanten-slipje-chocolate-brown-1100-010563-1334"
-            },
-            {
-                "id": "1-1100-010563-0002",
-                "naam": "Zwart",
-                "hex": "#212023",
-                "img_url": "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0002_1257.jpg?ref=877A62A573",
-                "url": "https://www.na-kd.com/nl/zoek-producten/v-vormig-kanten-slipje-black-1100-010563-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-1334_0047.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-1334_0111_flatlayd.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/v-vormig-kanten-slipje-chocolate-brown-1100-010563-1334",
-        "id": "1-1100-010563-1334-931",
         "kleurHex": null
     },
     {
@@ -1687,61 +1749,6 @@
         "img_url_sec": "https://www.na-kd.com/globalassets/2-pack_v-shape_thong-1100-012507-0002_0011_detail_flatlayd.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shaped-string-black-1100-012507-0002",
         "id": "1-1100-012507-0002-931",
-        "kleurHex": null
-    },
-    {
-        "naam": "2-pack tanga string",
-        "imageUrls": [
-            "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-010622-6388_0014.jpg?width=640",
-            "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-010622-6388_0017.jpg?width=640",
-            "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-010622-6388_0010.jpg?width=640",
-            "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-010622-6388_0016_flatlayf.jpg?width=640",
-            "https://www.na-kd.com/globalassets/2-packtangathong-1100-010622-63880017-copy-2_flatlayd.jpg?width=640",
-            "https://www.na-kd.com/globalassets/2-packtangathong-1100-010622-63880017-copy_flatlayd2.jpg?width=640"
-        ],
-        "prijs": 9.06,
-        "kleur": "Black Pearl",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-010622-6388",
-                "naam": "Veelkleurig",
-                "hex": "#f1e7dc",
-                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-010622-6388_0014.jpg?ref=F4D0E6309F",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tanga-string-black-pearl-1100-010622-6388"
-            },
-            {
-                "id": "1-1100-010622-0765",
-                "naam": "Bruin",
-                "hex": "#322422",
-                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-010622-0765_0076.jpg?ref=F60898623A",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tanga-string-dark-brown-1100-010622-0765"
-            },
-            {
-                "id": "1-1100-010622-0483",
-                "naam": "Veelkleurig",
-                "hex": "#bd172b",
-                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-010622-0483_0042_flatlayf.jpg?ref=79DF60513F",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tanga-thong-blackred-1100-010622-0483"
-            },
-            {
-                "id": "1-1100-010622-0061",
-                "naam": "Veelkleurig",
-                "hex": "#893357",
-                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong_1100-010622-0061_0071_flatlayd.jpg?ref=0928797335",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tanga-string-multicolor-1100-010622-0061"
-            },
-            {
-                "id": "1-1100-010622-0273",
-                "naam": "Veelkleurig",
-                "hex": "#21233f",
-                "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga-thong_1100-010622-0273_0105flatlayd.jpg?ref=B63036D7D5",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tanga-string-navyblack-1100-010622-0273"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/globalassets/2-pack_tanga_thong-1100-010622-6388_0014.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/2-packtangathong-1100-010622-63880017-copy_flatlayd2.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-tanga-string-black-pearl-1100-010622-6388",
-        "id": "1-1100-010622-6388-931",
         "kleurHex": null
     },
     {
