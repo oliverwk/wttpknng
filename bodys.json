@@ -1,39 +1,5 @@
 [
     {
-        "naam": "Kanten bodysuit met korset",
-        "imageUrls": [
-            "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-012398-0002_0088.jpg?width=640",
-            "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-012398-0002_0089.jpg?width=640",
-            "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-012398-0002_0090.jpg?width=640",
-            "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-012398-0002_0073_flatlayb.jpg?width=640",
-            "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-012398-0002_0072_flatlayf.jpg?width=640",
-            "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-012398-0002_0072_flatlayd.jpg?width=640"
-        ],
-        "prijs": 15.98,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-012398-0002",
-                "naam": "Zwart",
-                "hex": "#16151c",
-                "img_url": "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-012398-0002_0088.jpg?ref=7EA66F614A",
-                "url": "https://www.na-kd.com/nl/zoek-producten/corset-lace-bodysuit-black-1100-012398-0002"
-            },
-            {
-                "id": "1-1100-012398-0287",
-                "naam": "Bordeauxrood",
-                "hex": "#5f2428",
-                "img_url": "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-012398-0287_0083.jpg?ref=935E19270C",
-                "url": "https://www.na-kd.com/nl/zoek-producten/corset-lace-bodysuit-bordeaux-1100-012398-0287"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-012398-0002_0088.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-012398-0002_0072_flatlayd.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/corset-lace-bodysuit-black-1100-012398-0002",
-        "id": "1-1100-012398-0002-931",
-        "kleurHex": null
-    },
-    {
         "naam": "Kanten body",
         "imageUrls": [
             "https://www.na-kd.com/globalassets/lace_body_1100-007626-0230_0039.jpg?width=640",
@@ -65,6 +31,40 @@
         "img_url_sec": "https://www.na-kd.com/globalassets/lace_body_1100-007626-0230_00880_flatlayd.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/kanten-body-wine-red-1100-007626-0230",
         "id": "1-1100-007626-0230-664",
+        "kleurHex": null
+    },
+    {
+        "naam": "Kanten bodysuit met korset",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-012398-0002_0088.jpg?width=640",
+            "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-012398-0002_0089.jpg?width=640",
+            "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-012398-0002_0090.jpg?width=640",
+            "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-012398-0002_0073_flatlayb.jpg?width=640",
+            "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-012398-0002_0072_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-012398-0002_0072_flatlayd.jpg?width=640"
+        ],
+        "prijs": 15.98,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-012398-0002",
+                "naam": "Zwart",
+                "hex": "#16151c",
+                "img_url": "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-012398-0002_0088.jpg?ref=7EA66F614A",
+                "url": "https://www.na-kd.com/nl/zoek-producten/corset-lace-bodysuit-black-1100-012398-0002"
+            },
+            {
+                "id": "1-1100-012398-0287",
+                "naam": "Bordeauxrood",
+                "hex": "#5f2428",
+                "img_url": "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-012398-0287_0083.jpg?ref=935E19270C",
+                "url": "https://www.na-kd.com/nl/zoek-producten/corset-lace-bodysuit-bordeaux-1100-012398-0287"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-012398-0002_0088.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/corset_lace_bodysuit_1100-012398-0002_0072_flatlayd.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/corset-lace-bodysuit-black-1100-012398-0002",
+        "id": "1-1100-012398-0002-931",
         "kleurHex": null
     },
     {
