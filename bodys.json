@@ -97,6 +97,40 @@
     {
         "naam": "Kanten Bodysuit met lange mouwen",
         "imageUrls": [
+            "https://www.na-kd.com/globalassets/long_sleeve_bodysuit_1100-012233-00020015.jpg?width=640",
+            "https://www.na-kd.com/globalassets/long_sleeve_bodysuit_1100-012233-00020017.jpg?width=640",
+            "https://www.na-kd.com/globalassets/long_sleeve_bodysuit_1100-012233-00020016.jpg?width=640",
+            "https://www.na-kd.com/globalassets/long_sleeve_bodysuit_1100-012233-0002_0043_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/long_sleeve_bodysuit_1100-012233-0002_0044_flatlayb.jpg?width=640",
+            "https://www.na-kd.com/globalassets/long_sleeve_bodysuit_1100-012233-0002_0043_flatlayd.jpg?width=640"
+        ],
+        "prijs": 19.97,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-012233-0002",
+                "naam": "Zwart",
+                "hex": "#242326",
+                "img_url": "https://www.na-kd.com/globalassets/long_sleeve_bodysuit_1100-012233-00020015.jpg?ref=4CFFBA4947",
+                "url": "https://www.na-kd.com/nl/zoek-producten/long-sleeve-bodysuit-black-1100-012233-0002"
+            },
+            {
+                "id": "1-1100-012233-0212",
+                "naam": "Bordeauxrood",
+                "hex": "#4e1a24",
+                "img_url": "https://www.na-kd.com/globalassets/long_sleeve_bodysuit_1100-012233-0212_0031.jpg?ref=111E59503B",
+                "url": "https://www.na-kd.com/nl/zoek-producten/long-sleeve-bodysuit-burgundy-1100-012233-0212"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/long_sleeve_bodysuit_1100-012233-00020015.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/long_sleeve_bodysuit_1100-012233-0002_0043_flatlayd.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/long-sleeve-bodysuit-black-1100-012233-0002",
+        "id": "1-1100-012233-0002-931",
+        "kleurHex": null
+    },
+    {
+        "naam": "Kanten Bodysuit met lange mouwen",
+        "imageUrls": [
             "https://www.na-kd.com/globalassets/long_sleeve_bodysuit_1100-012233-0212_0031.jpg?width=640",
             "https://www.na-kd.com/globalassets/long_sleeve_bodysuit_1100-012233-0212_0030.jpg?width=640",
             "https://www.na-kd.com/globalassets/long_sleeve_bodysuit_1100-012233-0212_0029.jpg?width=640",
@@ -163,40 +197,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Kanten Bodysuit met lange mouwen",
-        "imageUrls": [
-            "https://www.na-kd.com/globalassets/long_sleeve_bodysuit_1100-012233-00020015.jpg?width=640",
-            "https://www.na-kd.com/globalassets/long_sleeve_bodysuit_1100-012233-00020017.jpg?width=640",
-            "https://www.na-kd.com/globalassets/long_sleeve_bodysuit_1100-012233-00020016.jpg?width=640",
-            "https://www.na-kd.com/globalassets/long_sleeve_bodysuit_1100-012233-0002_0043_flatlayf.jpg?width=640",
-            "https://www.na-kd.com/globalassets/long_sleeve_bodysuit_1100-012233-0002_0044_flatlayb.jpg?width=640",
-            "https://www.na-kd.com/globalassets/long_sleeve_bodysuit_1100-012233-0002_0043_flatlayd.jpg?width=640"
-        ],
-        "prijs": 19.97,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-012233-0002",
-                "naam": "Zwart",
-                "hex": "#242326",
-                "img_url": "https://www.na-kd.com/globalassets/long_sleeve_bodysuit_1100-012233-00020015.jpg?ref=4CFFBA4947",
-                "url": "https://www.na-kd.com/nl/zoek-producten/long-sleeve-bodysuit-black-1100-012233-0002"
-            },
-            {
-                "id": "1-1100-012233-0212",
-                "naam": "Bordeauxrood",
-                "hex": "#4e1a24",
-                "img_url": "https://www.na-kd.com/globalassets/long_sleeve_bodysuit_1100-012233-0212_0031.jpg?ref=111E59503B",
-                "url": "https://www.na-kd.com/nl/zoek-producten/long-sleeve-bodysuit-burgundy-1100-012233-0212"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/globalassets/long_sleeve_bodysuit_1100-012233-00020015.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/long_sleeve_bodysuit_1100-012233-0002_0043_flatlayd.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/long-sleeve-bodysuit-black-1100-012233-0002",
-        "id": "1-1100-012233-0002-931",
-        "kleurHex": null
-    },
-    {
         "naam": "Kanten body",
         "imageUrls": [
             "https://www.na-kd.com/globalassets/lace_body-1100-007626-0002_1537.jpg?width=640",
@@ -260,44 +260,19 @@
                 "hex": "#5c5b5b",
                 "img_url": "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0017_aicontent.jpg?ref=379BDCDAAA",
                 "url": "https://www.na-kd.com/nl/zoek-producten/gladde-micro-body-brown-1100-012107-0017"
+            },
+            {
+                "id": "1-1100-012107-0018",
+                "naam": "Marineblauw",
+                "hex": "#141720",
+                "img_url": "https://www.na-kd.com/globalassets/pain_micro_body_1100-012107-0018_0002.jpg?ref=3117381937",
+                "url": "https://www.na-kd.com/nl/zoek-producten/gladde-micro-body-navy-1100-012107-0018"
             }
         ],
         "img_url": "https://www.na-kd.com/globalassets/jannid_1100-012107-0002_social.jpg",
         "img_url_sec": "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0002_00876_flatlayd.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/plain-micro-body-black-1100-012107-0002",
         "id": "1-1100-012107-0002-664",
-        "kleurHex": null
-    },
-    {
-        "naam": "Gladde micro body",
-        "imageUrls": [
-            "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0017_aicontent.jpg?width=640",
-            "https://www.na-kd.com/globalassets/plain_micro_body-1100-012107-0017_0052.jpg?width=640",
-            "https://www.na-kd.com/globalassets/plain_micro_body-1100-012107-0017_0053.jpg?width=640",
-            "https://www.na-kd.com/globalassets/plain_micro_body-1100-012107-0017_0051.jpg?width=640"
-        ],
-        "prijs": 39.95,
-        "kleur": "Brown",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-012107-0017",
-                "naam": "Bruin",
-                "hex": "#5c5b5b",
-                "img_url": "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0017_aicontent.jpg?ref=379BDCDAAA",
-                "url": "https://www.na-kd.com/nl/zoek-producten/gladde-micro-body-brown-1100-012107-0017"
-            },
-            {
-                "id": "1-1100-012107-0002",
-                "naam": "Zwart",
-                "hex": "#201e21",
-                "img_url": "https://www.na-kd.com/globalassets/jannid_1100-012107-0002_social.jpg?ref=B8746D9621",
-                "url": "https://www.na-kd.com/nl/zoek-producten/plain-micro-body-black-1100-012107-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0017_aicontent.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/plain_micro_body-1100-012107-0017_0051.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/gladde-micro-body-brown-1100-012107-0017",
-        "id": "1-1100-012107-0017-664",
         "kleurHex": null
     },
     {
@@ -331,6 +306,45 @@
         "img_url_sec": "https://www.na-kd.com/globalassets/deep_v-shape_body-1100-012045-0765_0048.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/body-met-diepe-v-vorm-dark-brown-1100-012045-0765",
         "id": "1-1100-012045-0765-931",
+        "kleurHex": null
+    },
+    {
+        "naam": "Gladde micro body",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0017_aicontent.jpg?width=640",
+            "https://www.na-kd.com/globalassets/plain_micro_body-1100-012107-0017_0052.jpg?width=640",
+            "https://www.na-kd.com/globalassets/plain_micro_body-1100-012107-0017_0053.jpg?width=640",
+            "https://www.na-kd.com/globalassets/plain_micro_body-1100-012107-0017_0051.jpg?width=640"
+        ],
+        "prijs": 39.95,
+        "kleur": "Brown",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-012107-0017",
+                "naam": "Bruin",
+                "hex": "#5c5b5b",
+                "img_url": "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0017_aicontent.jpg?ref=379BDCDAAA",
+                "url": "https://www.na-kd.com/nl/zoek-producten/gladde-micro-body-brown-1100-012107-0017"
+            },
+            {
+                "id": "1-1100-012107-0002",
+                "naam": "Zwart",
+                "hex": "#201e21",
+                "img_url": "https://www.na-kd.com/globalassets/jannid_1100-012107-0002_social.jpg?ref=B8746D9621",
+                "url": "https://www.na-kd.com/nl/zoek-producten/plain-micro-body-black-1100-012107-0002"
+            },
+            {
+                "id": "1-1100-012107-0018",
+                "naam": "Marineblauw",
+                "hex": "#141720",
+                "img_url": "https://www.na-kd.com/globalassets/pain_micro_body_1100-012107-0018_0002.jpg?ref=3117381937",
+                "url": "https://www.na-kd.com/nl/zoek-producten/gladde-micro-body-navy-1100-012107-0018"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0017_aicontent.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/plain_micro_body-1100-012107-0017_0051.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/gladde-micro-body-brown-1100-012107-0017",
+        "id": "1-1100-012107-0017-664",
         "kleurHex": null
     },
     {
@@ -369,6 +383,30 @@
         "kleurHex": null
     },
     {
+        "naam": "Bodysuit met uitsparing voor balkon",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/high_balcony_cut_out-detail_bodysuit_1100-013924-0002_0012.jpg?width=640",
+            "https://www.na-kd.com/globalassets/high_balcony_cut_out-detail_bodysuit_1100-013924-0002_0013.jpg?width=640",
+            "https://www.na-kd.com/globalassets/high_balcony_cut_out-detail_bodysuit_1100-013924-0002_0014.jpg?width=640"
+        ],
+        "prijs": 39.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-013924-0002",
+                "naam": "Zwart",
+                "hex": "#090d0d",
+                "img_url": "https://www.na-kd.com/globalassets/high_balcony_cut_out-detail_bodysuit_1100-013924-0002_0012.jpg?ref=034B70CD78",
+                "url": "https://www.na-kd.com/nl/zoek-producten/bodysuit-met-uitsparing-voor-balkon-black-1100-013924-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/high_balcony_cut_out-detail_bodysuit_1100-013924-0002_0012.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/high_balcony_cut_out-detail_bodysuit_1100-013924-0002_0014.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/bodysuit-met-uitsparing-voor-balkon-black-1100-013924-0002",
+        "id": "1-1100-013924-0002-664",
+        "kleurHex": null
+    },
+    {
         "naam": "Bodysuit van kant met beugel",
         "imageUrls": [
             "https://www.na-kd.com/globalassets/wire_lace_bodysuit-1100-012638-0002_0069.jpg?width=640",
@@ -396,27 +434,92 @@
         "kleurHex": null
     },
     {
-        "naam": "Bodysuit met uitsparing voor balkon",
+        "naam": "Body met lange mouwen en draad",
         "imageUrls": [
-            "https://www.na-kd.com/globalassets/high_balcony_cut_out-detail_bodysuit_1100-013924-0002_0012.jpg?width=640",
-            "https://www.na-kd.com/globalassets/high_balcony_cut_out-detail_bodysuit_1100-013924-0002_0013.jpg?width=640",
-            "https://www.na-kd.com/globalassets/high_balcony_cut_out-detail_bodysuit_1100-013924-0002_0014.jpg?width=640"
+            "https://www.na-kd.com/globalassets/long_sleeve_wire_bodysuit_1100-013926-0002_0004.jpg?width=640",
+            "https://www.na-kd.com/globalassets/long_sleeve_wire_bodysuit_1100-013926-0002_0006.jpg?width=640",
+            "https://www.na-kd.com/globalassets/long_sleeve_wire_bodysuit_1100-013926-0002_0005.jpg?width=640"
         ],
         "prijs": 39.95,
         "kleur": "Black",
         "kleurFamilies": [
             {
-                "id": "1-1100-013924-0002",
+                "id": "1-1100-013926-0002",
                 "naam": "Zwart",
-                "hex": "#090d0d",
-                "img_url": "https://www.na-kd.com/globalassets/high_balcony_cut_out-detail_bodysuit_1100-013924-0002_0012.jpg?ref=034B70CD78",
-                "url": "https://www.na-kd.com/nl/zoek-producten/bodysuit-met-uitsparing-voor-balkon-black-1100-013924-0002"
+                "hex": "#070809",
+                "img_url": "https://www.na-kd.com/globalassets/long_sleeve_wire_bodysuit_1100-013926-0002_0004.jpg?ref=8BC5489063",
+                "url": "https://www.na-kd.com/nl/zoek-producten/long-sleeve-wire-bodysuit-black-1100-013926-0002"
             }
         ],
-        "img_url": "https://www.na-kd.com/globalassets/high_balcony_cut_out-detail_bodysuit_1100-013924-0002_0012.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/high_balcony_cut_out-detail_bodysuit_1100-013924-0002_0014.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/bodysuit-met-uitsparing-voor-balkon-black-1100-013924-0002",
-        "id": "1-1100-013924-0002-664",
+        "img_url": "https://www.na-kd.com/globalassets/long_sleeve_wire_bodysuit_1100-013926-0002_0004.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/long_sleeve_wire_bodysuit_1100-013926-0002_0005.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/long-sleeve-wire-bodysuit-black-1100-013926-0002",
+        "id": "1-1100-013926-0002-664",
+        "kleurHex": null
+    },
+    {
+        "naam": "Gladde micro body",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/pain_micro_body_1100-012107-0018_0002.jpg?width=640",
+            "https://www.na-kd.com/globalassets/pain_micro_body_1100-012107-0018_0003.jpg?width=640",
+            "https://www.na-kd.com/globalassets/pain_micro_body_1100-012107-0018_0001.jpg?width=640"
+        ],
+        "prijs": 39.95,
+        "kleur": "Navy",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-012107-0018",
+                "naam": "Marineblauw",
+                "hex": "#141720",
+                "img_url": "https://www.na-kd.com/globalassets/pain_micro_body_1100-012107-0018_0002.jpg?ref=3117381937",
+                "url": "https://www.na-kd.com/nl/zoek-producten/gladde-micro-body-navy-1100-012107-0018"
+            },
+            {
+                "id": "1-1100-012107-0002",
+                "naam": "Zwart",
+                "hex": "#201e21",
+                "img_url": "https://www.na-kd.com/globalassets/jannid_1100-012107-0002_social.jpg?ref=B8746D9621",
+                "url": "https://www.na-kd.com/nl/zoek-producten/plain-micro-body-black-1100-012107-0002"
+            },
+            {
+                "id": "1-1100-012107-0017",
+                "naam": "Bruin",
+                "hex": "#5c5b5b",
+                "img_url": "https://www.na-kd.com/globalassets/plain_micro_body_1100-012107-0017_aicontent.jpg?ref=379BDCDAAA",
+                "url": "https://www.na-kd.com/nl/zoek-producten/gladde-micro-body-brown-1100-012107-0017"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/pain_micro_body_1100-012107-0018_0002.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/pain_micro_body_1100-012107-0018_0001.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/gladde-micro-body-navy-1100-012107-0018",
+        "id": "1-1100-012107-0018-664",
+        "kleurHex": null
+    },
+    {
+        "naam": "Body met kanten inzet",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0036.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0039.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0037.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0038.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0086_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0087_flatlayb.jpg?width=640"
+        ],
+        "prijs": 39.95,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-011813-0002",
+                "naam": "Zwart",
+                "hex": "#18191f",
+                "img_url": "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0036.jpg?ref=A3B76E6B2B",
+                "url": "https://www.na-kd.com/nl/zoek-producten/lace-panel-body-black-1100-011813-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0036.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/lace_panel_body_1100-011813-0002_0087_flatlayb.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/lace-panel-body-black-1100-011813-0002",
+        "id": "1-1100-011813-0002-664",
         "kleurHex": null
     }
 ]
