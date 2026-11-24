@@ -359,18 +359,18 @@
                 "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shaped-string-khaki-green-1100-012507-5901"
             },
             {
+                "id": "1-1100-012507-0041",
+                "naam": "Veelkleurig",
+                "hex": "#fafaf9",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_v-shape_thong-1100-012507-0041_0019.jpg?ref=29EA818DC7",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shape-thong-blackwhite-1100-012507-0041"
+            },
+            {
                 "id": "1-1100-012507-0038",
                 "naam": "Marineblauw",
                 "hex": "#2f3144",
                 "img_url": "https://www.na-kd.com/globalassets/2-pack_v-shape_thong-1100-012507-0038_0113.jpg?ref=B333B0E191",
                 "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shaped-string-dark-blue-1100-012507-0038"
-            },
-            {
-                "id": "1-1100-012507-0004",
-                "naam": "Veelkleurig",
-                "hex": "#f7f3f2",
-                "img_url": "https://www.na-kd.com/globalassets/2-pack_v-shape_thong-1100-012507-0004_0019_flatlayf.jpg?ref=B7485F8045",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shaped-string-red-1100-012507-0004"
             },
             {
                 "id": "1-1100-012507-0801",
@@ -380,11 +380,11 @@
                 "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shaped-string-raspberry-1100-012507-0801"
             },
             {
-                "id": "1-1100-012507-0041",
+                "id": "1-1100-012507-0004",
                 "naam": "Veelkleurig",
-                "hex": "#fafaf9",
-                "img_url": "https://www.na-kd.com/globalassets/2-pack_v-shape_thong-1100-012507-0041_0019.jpg?ref=29EA818DC7",
-                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shape-thong-blackwhite-1100-012507-0041"
+                "hex": "#f7f3f2",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_v-shape_thong-1100-012507-0004_0019_flatlayf.jpg?ref=B7485F8045",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shaped-string-red-1100-012507-0004"
             },
             {
                 "id": "1-1100-012507-0047",
@@ -419,6 +419,32 @@
         "img_url_sec": "https://www.na-kd.com/globalassets/2pack_vshape_thong_1100-012507-5901_0036-kopia_flatlayd.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shaped-string-khaki-green-1100-012507-5901",
         "id": "1-1100-012507-5901-931",
+        "kleurHex": null
+    },
+    {
+        "naam": "Doorzichtige panty van kant",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/sheer_lace_panty-1100-010090-0002_002-5539861.jpg?width=640",
+            "https://www.na-kd.com/globalassets/sheer_lace_panty-1100-010090-0002_1.jpg?width=640",
+            "https://www.na-kd.com/globalassets/sheer_lace_panty-1100-010090-0002-5539869.jpg?width=640",
+            "https://www.na-kd.com/globalassets/sheer_lace_panty-1100-010090-0002_3987312_creative.jpg?width=640",
+            "https://www.na-kd.com/globalassets/sheer_lace_panty_1100-010090-000212147_flatlay.jpg?width=640"
+        ],
+        "prijs": 6.47,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-010090-0002",
+                "naam": "Zwart",
+                "hex": "#181717",
+                "img_url": "https://www.na-kd.com/globalassets/sheer_lace_panty-1100-010090-0002_002-5539861.jpg?ref=F2D107CFFD",
+                "url": "https://www.na-kd.com/nl/zoek-producten/sheer-lace-panty-black-1100-010090-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/sheer_lace_panty-1100-010090-0002_002-5539861.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/sheer_lace_panty_1100-010090-000212147_flatlay.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/sheer-lace-panty-black-1100-010090-0002",
+        "id": "1-1100-010090-0002-004",
         "kleurHex": null
     },
     {
@@ -517,6 +543,33 @@
         "kleurHex": null
     },
     {
+        "naam": "Reguliere string",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/regular_thong_1100-013975-0004_0032_1.jpg?width=640",
+            "https://www.na-kd.com/globalassets/regular_thong_1100-013975-0004_0036_1.jpg?width=640",
+            "https://www.na-kd.com/globalassets/regular_thong_1100-013975-0004_0033_1.jpg?width=640",
+            "https://www.na-kd.com/globalassets/regular_thong-1100-013975-0004_0003_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/regular_thong-1100-013975-0004_0004_flatlayb.jpg?width=640",
+            "https://www.na-kd.com/globalassets/regular_thong-1100-013975-0004_0003-kopia_flatlayd.jpg?width=640"
+        ],
+        "prijs": 9.06,
+        "kleur": "Red",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-013975-0004",
+                "naam": "Rood",
+                "hex": "#ce4155",
+                "img_url": "https://www.na-kd.com/globalassets/regular_thong_1100-013975-0004_0032_1.jpg?ref=C8713EBC25",
+                "url": "https://www.na-kd.com/nl/zoek-producten/reguliere-string-red-1100-013975-0004"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/regular_thong_1100-013975-0004_0032_1.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/regular_thong-1100-013975-0004_0003-kopia_flatlayd.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/reguliere-string-red-1100-013975-0004",
+        "id": "1-1100-013975-0004-931",
+        "kleurHex": null
+    },
+    {
         "naam": "2-pack V-vorm String",
         "imageUrls": [
             "https://www.na-kd.com/globalassets/2-pack_v-shape_thong_1100-013476-0004_0038_1.jpg?width=640",
@@ -556,6 +609,20 @@
                 "hex": "#19181d",
                 "img_url": "https://www.na-kd.com/globalassets/2-pack_v-shape_thong_1100-013476-0002_0002_flatlayf.jpg?ref=D100A54EC1",
                 "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shape-thong-zwart-1100-013476-0002"
+            },
+            {
+                "id": "1-1100-013476-0039",
+                "naam": "Donkerrood",
+                "hex": "#633b42",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_v-shhape_thong_1100-013476-0039_0028.jpg?ref=AD413C5088",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shape-thong-dark-red-1100-013476-0039"
+            },
+            {
+                "id": "1-1100-013476-0347",
+                "naam": "Donkerpaars",
+                "hex": "#5c404e",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_v-shape_thong_1100-013476-0347_0021_flatlayf.jpg?ref=B36F550AC9",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shape-thong-dark-purple-1100-013476-0347"
             }
         ],
         "img_url": "https://www.na-kd.com/globalassets/2-pack_v-shape_thong_1100-013476-0004_0038_1.jpg",
@@ -729,6 +796,20 @@
                 "hex": "#19181d",
                 "img_url": "https://www.na-kd.com/globalassets/2-pack_v-shape_thong_1100-013476-0002_0002_flatlayf.jpg?ref=D100A54EC1",
                 "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shape-thong-zwart-1100-013476-0002"
+            },
+            {
+                "id": "1-1100-013476-0039",
+                "naam": "Donkerrood",
+                "hex": "#633b42",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_v-shhape_thong_1100-013476-0039_0028.jpg?ref=AD413C5088",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shape-thong-dark-red-1100-013476-0039"
+            },
+            {
+                "id": "1-1100-013476-0347",
+                "naam": "Donkerpaars",
+                "hex": "#5c404e",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_v-shape_thong_1100-013476-0347_0021_flatlayf.jpg?ref=B36F550AC9",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shape-thong-dark-purple-1100-013476-0347"
             }
         ],
         "img_url": "https://www.na-kd.com/globalassets/2-pack_v-shape_thong_1100-013476-0226_0024_studio_1.jpg",
@@ -738,71 +819,45 @@
         "kleurHex": null
     },
     {
-        "naam": "Tule string met borduursel",
+        "naam": "V-vormig kanten slipje",
         "imageUrls": [
-            "https://www.na-kd.com/globalassets/embroidery_mesh_thong_1100-011819-0226_0008_1.jpg?width=640",
-            "https://www.na-kd.com/globalassets/embroidery_mesh_thong_1100-011819-0226_0011_1.jpg?width=640",
-            "https://www.na-kd.com/globalassets/embroidery_mesh_thong_1100-011819-0226_0010_1.jpg?width=640",
-            "https://www.na-kd.com/globalassets/embroidery_mesh_thong-1100-011819-0226_0005_flatlayf.jpg?width=640",
-            "https://www.na-kd.com/globalassets/embroidery_mesh_thong-1100-011819-0226_0006_flatlayb.jpg?width=640",
-            "https://www.na-kd.com/globalassets/embroidery_mesh_thong-1100-011819-0226_0005-kopia_flatlayd.jpg?width=640"
+            "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0347_0048_42_1.jpg?width=640",
+            "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0347_0048_12_1.jpg?width=640",
+            "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0347_0048_22_1.jpg?width=640",
+            "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0347_0025_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0347_0026_flatlayb.jpg?width=640",
+            "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0347_0025_detail_flatlayd.jpg?width=640",
+            "https://www.na-kd.com/globalassets/satin_detail_wire_bra_1013-001228-0347_1_flatlayf.jpg?width=640"
         ],
         "prijs": 9.06,
-        "kleur": "Nougat",
+        "kleur": "Dark Purple",
         "kleurFamilies": [
             {
-                "id": "1-1100-011819-0226",
+                "id": "1-1100-010563-0347",
+                "naam": "Donkerpaars",
+                "hex": "#654551",
+                "img_url": "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0347_0048_42_1.jpg?ref=500F7088BE",
+                "url": "https://www.na-kd.com/nl/zoek-producten/v-vormig-kanten-slipje-dark-purple-1100-010563-0347"
+            },
+            {
+                "id": "1-1100-010563-1334",
                 "naam": "Bruin",
-                "hex": "#886561",
-                "img_url": "https://www.na-kd.com/globalassets/embroidery_mesh_thong_1100-011819-0226_0008_1.jpg?ref=1AB3FC0488",
-                "url": "https://www.na-kd.com/nl/zoek-producten/tule-string-met-borduursel-nougat-1100-011819-0226"
+                "hex": "#36292c",
+                "img_url": "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-1334_0047.jpg?ref=644A75B8D4",
+                "url": "https://www.na-kd.com/nl/zoek-producten/v-vormig-kanten-slipje-chocolate-brown-1100-010563-1334"
             },
             {
-                "id": "1-1100-011819-0212",
-                "naam": "Rood",
-                "hex": "#a31a38",
-                "img_url": "https://www.na-kd.com/globalassets/embroidery_mesh_thong_1100-011819-0212_0029.jpg?ref=9BFE418590",
-                "url": "https://www.na-kd.com/nl/zoek-producten/tule-string-met-borduursel-rood-1100-011819-0212"
-            },
-            {
-                "id": "1-1100-011819-0002",
+                "id": "1-1100-010563-0002",
                 "naam": "Zwart",
-                "hex": "#19191f",
-                "img_url": "https://www.na-kd.com/globalassets/embroidery_mesh_thong_1100-011819-0002_0091.jpg?ref=CA2B2AE8F9",
-                "url": "https://www.na-kd.com/nl/zoek-producten/tule-string-met-borduursel-zwart-1100-011819-0002"
+                "hex": "#212023",
+                "img_url": "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0002_1257.jpg?ref=877A62A573",
+                "url": "https://www.na-kd.com/nl/zoek-producten/v-vormig-kanten-slipje-black-1100-010563-0002"
             }
         ],
-        "img_url": "https://www.na-kd.com/globalassets/embroidery_mesh_thong_1100-011819-0226_0008_1.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/embroidery_mesh_thong-1100-011819-0226_0005-kopia_flatlayd.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/tule-string-met-borduursel-nougat-1100-011819-0226",
-        "id": "1-1100-011819-0226-931",
-        "kleurHex": null
-    },
-    {
-        "naam": "Tanga met kant",
-        "imageUrls": [
-            "https://www.na-kd.com/globalassets/eyelash-thong-1100-011030-0002_1.jpg?width=640",
-            "https://www.na-kd.com/globalassets/eyelash-thong-1100-011030-0002_3.jpg?width=640",
-            "https://www.na-kd.com/globalassets/eyelash-thong-1100-011030-0002_2.jpg?width=640",
-            "https://www.na-kd.com/globalassets/eyelash_thong_1100-011030-0002_0009_flatlayf.jpg?width=640",
-            "https://www.na-kd.com/globalassets/eyelash_thong_1100-011030-0002_0010_flatlayb.jpg?width=640",
-            "https://www.na-kd.com/globalassets/eyelash_thong_1100-011030-0002_0009-detail_flatlayd.jpg?width=640"
-        ],
-        "prijs": 9.06,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-011030-0002",
-                "naam": "Zwart",
-                "hex": "#2f2e33",
-                "img_url": "https://www.na-kd.com/globalassets/eyelash-thong-1100-011030-0002_1.jpg?ref=11002546C8",
-                "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-kant-black-1100-011030-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/globalassets/eyelash-thong-1100-011030-0002_1.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/eyelash_thong_1100-011030-0002_0009-detail_flatlayd.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-kant-black-1100-011030-0002",
-        "id": "1-1100-011030-0002-931",
+        "img_url": "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0347_0048_42_1.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/satin_detail_wire_bra_1013-001228-0347_1_flatlayf.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/v-vormig-kanten-slipje-dark-purple-1100-010563-0347",
+        "id": "1-1100-010563-0347-931",
         "kleurHex": null
     },
     {
@@ -845,12 +900,67 @@
                 "hex": "#19181d",
                 "img_url": "https://www.na-kd.com/globalassets/2-pack_v-shape_thong_1100-013476-0002_0002_flatlayf.jpg?ref=D100A54EC1",
                 "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shape-thong-zwart-1100-013476-0002"
+            },
+            {
+                "id": "1-1100-013476-0039",
+                "naam": "Donkerrood",
+                "hex": "#633b42",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_v-shhape_thong_1100-013476-0039_0028.jpg?ref=AD413C5088",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shape-thong-dark-red-1100-013476-0039"
+            },
+            {
+                "id": "1-1100-013476-0347",
+                "naam": "Donkerpaars",
+                "hex": "#5c404e",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_v-shape_thong_1100-013476-0347_0021_flatlayf.jpg?ref=B36F550AC9",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shape-thong-dark-purple-1100-013476-0347"
             }
         ],
         "img_url": "https://www.na-kd.com/globalassets/2-pack_v-shape_thong-1100-013476-0119_0012_flatlayf.jpg",
         "img_url_sec": "https://www.na-kd.com/globalassets/2-pack_v-shape_thong-1100-013476-0119_0011-kopia_flatlayd.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shape-thong-taupe-1100-013476-0119",
         "id": "1-1100-013476-0119-931",
+        "kleurHex": null
+    },
+    {
+        "naam": "Tule string met borduursel",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/embroidery_mesh_thong_1100-011819-0226_0008_1.jpg?width=640",
+            "https://www.na-kd.com/globalassets/embroidery_mesh_thong_1100-011819-0226_0011_1.jpg?width=640",
+            "https://www.na-kd.com/globalassets/embroidery_mesh_thong_1100-011819-0226_0010_1.jpg?width=640",
+            "https://www.na-kd.com/globalassets/embroidery_mesh_thong-1100-011819-0226_0005_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/embroidery_mesh_thong-1100-011819-0226_0006_flatlayb.jpg?width=640",
+            "https://www.na-kd.com/globalassets/embroidery_mesh_thong-1100-011819-0226_0005-kopia_flatlayd.jpg?width=640"
+        ],
+        "prijs": 9.06,
+        "kleur": "Nougat",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-011819-0226",
+                "naam": "Bruin",
+                "hex": "#886561",
+                "img_url": "https://www.na-kd.com/globalassets/embroidery_mesh_thong_1100-011819-0226_0008_1.jpg?ref=1AB3FC0488",
+                "url": "https://www.na-kd.com/nl/zoek-producten/tule-string-met-borduursel-nougat-1100-011819-0226"
+            },
+            {
+                "id": "1-1100-011819-0212",
+                "naam": "Rood",
+                "hex": "#a31a38",
+                "img_url": "https://www.na-kd.com/globalassets/embroidery_mesh_thong_1100-011819-0212_0029.jpg?ref=9BFE418590",
+                "url": "https://www.na-kd.com/nl/zoek-producten/tule-string-met-borduursel-rood-1100-011819-0212"
+            },
+            {
+                "id": "1-1100-011819-0002",
+                "naam": "Zwart",
+                "hex": "#19191f",
+                "img_url": "https://www.na-kd.com/globalassets/embroidery_mesh_thong_1100-011819-0002_0091.jpg?ref=CA2B2AE8F9",
+                "url": "https://www.na-kd.com/nl/zoek-producten/tule-string-met-borduursel-zwart-1100-011819-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/embroidery_mesh_thong_1100-011819-0226_0008_1.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/embroidery_mesh_thong-1100-011819-0226_0005-kopia_flatlayd.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/tule-string-met-borduursel-nougat-1100-011819-0226",
+        "id": "1-1100-011819-0226-931",
         "kleurHex": null
     },
     {
@@ -1001,18 +1111,18 @@
                 "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-black-1100-010625-0002"
             },
             {
-                "id": "1-1100-010625-0047",
-                "naam": "Lichtblauw",
-                "hex": "#c9cdde",
-                "img_url": "https://www.na-kd.com/globalassets/bow_detailed_tanga-1100-010625-0047_0002.jpg?ref=18C948A3FA",
-                "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-light-blue-1100-010625-0047"
-            },
-            {
                 "id": "1-1100-010625-4411",
                 "naam": "Paars",
                 "hex": "#ffffff",
                 "img_url": "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-4411_0086.jpg?ref=93C679D6F7",
                 "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-dusty-lilac-1100-010625-4411"
+            },
+            {
+                "id": "1-1100-010625-0047",
+                "naam": "Lichtblauw",
+                "hex": "#c9cdde",
+                "img_url": "https://www.na-kd.com/globalassets/bow_detailed_tanga-1100-010625-0047_0002.jpg?ref=18C948A3FA",
+                "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-light-blue-1100-010625-0047"
             },
             {
                 "id": "1-1100-010625-0976",
@@ -1033,6 +1143,33 @@
         "img_url_sec": "https://www.na-kd.com/globalassets/bow_detailed_tanga_detail_1100-010625-0002_0012_flatlayd.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-black-1100-010625-0002",
         "id": "1-1100-010625-0002-931",
+        "kleurHex": null
+    },
+    {
+        "naam": "Tanga met kant",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/eyelash-thong-1100-011030-0002_1.jpg?width=640",
+            "https://www.na-kd.com/globalassets/eyelash-thong-1100-011030-0002_3.jpg?width=640",
+            "https://www.na-kd.com/globalassets/eyelash-thong-1100-011030-0002_2.jpg?width=640",
+            "https://www.na-kd.com/globalassets/eyelash_thong_1100-011030-0002_0009_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/eyelash_thong_1100-011030-0002_0010_flatlayb.jpg?width=640",
+            "https://www.na-kd.com/globalassets/eyelash_thong_1100-011030-0002_0009-detail_flatlayd.jpg?width=640"
+        ],
+        "prijs": 9.06,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-011030-0002",
+                "naam": "Zwart",
+                "hex": "#2f2e33",
+                "img_url": "https://www.na-kd.com/globalassets/eyelash-thong-1100-011030-0002_1.jpg?ref=11002546C8",
+                "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-kant-black-1100-011030-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/eyelash-thong-1100-011030-0002_1.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/eyelash_thong_1100-011030-0002_0009-detail_flatlayd.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-kant-black-1100-011030-0002",
+        "id": "1-1100-011030-0002-931",
         "kleurHex": null
     },
     {
@@ -1075,6 +1212,20 @@
                 "hex": "#7e787a",
                 "img_url": "https://www.na-kd.com/globalassets/2-pack_v-shape_thong-1100-013476-0119_0012_flatlayf.jpg?ref=FC2CF9E656",
                 "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shape-thong-taupe-1100-013476-0119"
+            },
+            {
+                "id": "1-1100-013476-0039",
+                "naam": "Donkerrood",
+                "hex": "#633b42",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_v-shhape_thong_1100-013476-0039_0028.jpg?ref=AD413C5088",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shape-thong-dark-red-1100-013476-0039"
+            },
+            {
+                "id": "1-1100-013476-0347",
+                "naam": "Donkerpaars",
+                "hex": "#5c404e",
+                "img_url": "https://www.na-kd.com/globalassets/2-pack_v-shape_thong_1100-013476-0347_0021_flatlayf.jpg?ref=B36F550AC9",
+                "url": "https://www.na-kd.com/nl/zoek-producten/2-pack-v-shape-thong-dark-purple-1100-013476-0347"
             }
         ],
         "img_url": "https://www.na-kd.com/globalassets/2-pack_v-shape_thong_1100-013476-0002_0002_flatlayf.jpg",
@@ -1585,75 +1736,6 @@
         "kleurHex": null
     },
     {
-        "naam": "Reguliere string",
-        "imageUrls": [
-            "https://www.na-kd.com/globalassets/regular_thong_1100-013975-0004_0032_1.jpg?width=640",
-            "https://www.na-kd.com/globalassets/regular_thong_1100-013975-0004_0036_1.jpg?width=640",
-            "https://www.na-kd.com/globalassets/regular_thong_1100-013975-0004_0033_1.jpg?width=640",
-            "https://www.na-kd.com/globalassets/regular_thong-1100-013975-0004_0003_flatlayf.jpg?width=640",
-            "https://www.na-kd.com/globalassets/regular_thong-1100-013975-0004_0004_flatlayb.jpg?width=640",
-            "https://www.na-kd.com/globalassets/regular_thong-1100-013975-0004_0003-kopia_flatlayd.jpg?width=640"
-        ],
-        "prijs": 9.06,
-        "kleur": "Red",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-013975-0004",
-                "naam": "Rood",
-                "hex": "#ce4155",
-                "img_url": "https://www.na-kd.com/globalassets/regular_thong_1100-013975-0004_0032_1.jpg?ref=C8713EBC25",
-                "url": "https://www.na-kd.com/nl/zoek-producten/reguliere-string-red-1100-013975-0004"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/globalassets/regular_thong_1100-013975-0004_0032_1.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/regular_thong-1100-013975-0004_0003-kopia_flatlayd.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/reguliere-string-red-1100-013975-0004",
-        "id": "1-1100-013975-0004-931",
-        "kleurHex": null
-    },
-    {
-        "naam": "V-vormig kanten slipje",
-        "imageUrls": [
-            "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0347_0048_42_1.jpg?width=640",
-            "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0347_0048_12_1.jpg?width=640",
-            "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0347_0048_22_1.jpg?width=640",
-            "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0347_0025_flatlayf.jpg?width=640",
-            "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0347_0026_flatlayb.jpg?width=640",
-            "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0347_0025_detail_flatlayd.jpg?width=640",
-            "https://www.na-kd.com/globalassets/satin_detail_wire_bra_1013-001228-0347_1_flatlayf.jpg?width=640"
-        ],
-        "prijs": 9.06,
-        "kleur": "Dark Purple",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-010563-0347",
-                "naam": "Donkerpaars",
-                "hex": "#654551",
-                "img_url": "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0347_0048_42_1.jpg?ref=500F7088BE",
-                "url": "https://www.na-kd.com/nl/zoek-producten/v-vormig-kanten-slipje-dark-purple-1100-010563-0347"
-            },
-            {
-                "id": "1-1100-010563-0002",
-                "naam": "Zwart",
-                "hex": "#212023",
-                "img_url": "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0002_1257.jpg?ref=877A62A573",
-                "url": "https://www.na-kd.com/nl/zoek-producten/v-vormig-kanten-slipje-black-1100-010563-0002"
-            },
-            {
-                "id": "1-1100-010563-1334",
-                "naam": "Bruin",
-                "hex": "#36292c",
-                "img_url": "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-1334_0047.jpg?ref=644A75B8D4",
-                "url": "https://www.na-kd.com/nl/zoek-producten/v-vormig-kanten-slipje-chocolate-brown-1100-010563-1334"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0347_0048_42_1.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/satin_detail_wire_bra_1013-001228-0347_1_flatlayf.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/v-vormig-kanten-slipje-dark-purple-1100-010563-0347",
-        "id": "1-1100-010563-0347-931",
-        "kleurHex": null
-    },
-    {
         "naam": "Kanten string",
         "imageUrls": [
             "https://www.na-kd.com/globalassets/lace_thong_1100-010559-00021954.jpg?width=640",
@@ -1680,45 +1762,34 @@
         "kleurHex": null
     },
     {
-        "naam": "V-vormig kanten slipje",
+        "naam": "Geborduurde Tanga String",
         "imageUrls": [
-            "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0002_1257.jpg?width=640",
-            "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0002_0037.jpg?width=640",
-            "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0002_0036.jpg?width=640",
-            "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0002_0038.jpg?width=640",
-            "https://www.na-kd.com/globalassets/v-shaped-lace_string-1100-010563-0002_0022_flatlayf.jpg?width=640",
-            "https://www.na-kd.com/globalassets/v-shaped-lace_string-1100-010563-0002_0023_flatlayb.jpg?width=640",
-            "https://www.na-kd.com/globalassets/v-shaped-lace_string-detail-1100-010563-0002_0022_flatlayd.jpg?width=640"
+            "https://www.na-kd.com/globalassets/embroidery_tanga_thong-1100-011802-0039_0041.jpg?width=640",
+            "https://www.na-kd.com/globalassets/embroidery_tanga_thong-1100-011802-0039_0045.jpg?width=640",
+            "https://www.na-kd.com/globalassets/embroidery_tanga_thong-1100-011802-0039_0043.jpg?width=640"
         ],
         "prijs": 9.06,
-        "kleur": "Black",
+        "kleur": "Dark Red",
         "kleurFamilies": [
             {
-                "id": "1-1100-010563-0002",
+                "id": "1-1100-011802-0039",
+                "naam": "Donkerrood",
+                "hex": "#3b1215",
+                "img_url": "https://www.na-kd.com/globalassets/embroidery_tanga_thong-1100-011802-0039_0041.jpg?ref=2E2D50578E",
+                "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-borduursel-dark-red-1100-011802-0039"
+            },
+            {
+                "id": "1-1100-011802-0002",
                 "naam": "Zwart",
-                "hex": "#212023",
-                "img_url": "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0002_1257.jpg?ref=877A62A573",
-                "url": "https://www.na-kd.com/nl/zoek-producten/v-vormig-kanten-slipje-black-1100-010563-0002"
-            },
-            {
-                "id": "1-1100-010563-0347",
-                "naam": "Donkerpaars",
-                "hex": "#654551",
-                "img_url": "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0347_0048_42_1.jpg?ref=500F7088BE",
-                "url": "https://www.na-kd.com/nl/zoek-producten/v-vormig-kanten-slipje-dark-purple-1100-010563-0347"
-            },
-            {
-                "id": "1-1100-010563-1334",
-                "naam": "Bruin",
-                "hex": "#36292c",
-                "img_url": "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-1334_0047.jpg?ref=644A75B8D4",
-                "url": "https://www.na-kd.com/nl/zoek-producten/v-vormig-kanten-slipje-chocolate-brown-1100-010563-1334"
+                "hex": "#171617",
+                "img_url": "https://www.na-kd.com/globalassets/embroidery_tanga_thong-1100-011802-0002_0033.jpg?ref=2C6D651C2E",
+                "url": "https://www.na-kd.com/nl/zoek-producten/embroidery-tanga-thong-black-1100-011802-0002"
             }
         ],
-        "img_url": "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0002_1257.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/v-shaped-lace_string-detail-1100-010563-0002_0022_flatlayd.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/v-vormig-kanten-slipje-black-1100-010563-0002",
-        "id": "1-1100-010563-0002-931",
+        "img_url": "https://www.na-kd.com/globalassets/embroidery_tanga_thong-1100-011802-0039_0041.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/embroidery_tanga_thong-1100-011802-0039_0043.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-borduursel-dark-red-1100-011802-0039",
+        "id": "1-1100-011802-0039-931",
         "kleurHex": null
     },
     {
@@ -1765,32 +1836,62 @@
     {
         "naam": "Geborduurde Tanga String",
         "imageUrls": [
-            "https://www.na-kd.com/globalassets/embroidery_tanga_thong-1100-011802-0039_0041.jpg?width=640",
-            "https://www.na-kd.com/globalassets/embroidery_tanga_thong-1100-011802-0039_0045.jpg?width=640",
-            "https://www.na-kd.com/globalassets/embroidery_tanga_thong-1100-011802-0039_0043.jpg?width=640"
+            "https://www.na-kd.com/globalassets/embroidery_tanga_thong-1100-011802-0002_0033.jpg?width=640",
+            "https://www.na-kd.com/globalassets/embroidery_tanga_thong-1100-011802-0002_0035.jpg?width=640",
+            "https://www.na-kd.com/globalassets/embroidery_tanga_thong-1100-011802-0002_0032.jpg?width=640",
+            "https://www.na-kd.com/globalassets/embroidery_tanga_thong-1100-011802-0002_0052-copy-2_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/embroidery_tanga_thong-1100-011802-0002_0052_flatlayd2.jpg?width=640",
+            "https://www.na-kd.com/globalassets/embroidery_tanga_thong-1100-011802-0002_0052-copy_flatlayd.jpg?width=640"
         ],
         "prijs": 9.06,
-        "kleur": "Dark Red",
+        "kleur": "Black",
         "kleurFamilies": [
-            {
-                "id": "1-1100-011802-0039",
-                "naam": "Donkerrood",
-                "hex": "#3b1215",
-                "img_url": "https://www.na-kd.com/globalassets/embroidery_tanga_thong-1100-011802-0039_0041.jpg?ref=2E2D50578E",
-                "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-borduursel-dark-red-1100-011802-0039"
-            },
             {
                 "id": "1-1100-011802-0002",
                 "naam": "Zwart",
                 "hex": "#171617",
                 "img_url": "https://www.na-kd.com/globalassets/embroidery_tanga_thong-1100-011802-0002_0033.jpg?ref=2C6D651C2E",
                 "url": "https://www.na-kd.com/nl/zoek-producten/embroidery-tanga-thong-black-1100-011802-0002"
+            },
+            {
+                "id": "1-1100-011802-0039",
+                "naam": "Donkerrood",
+                "hex": "#3b1215",
+                "img_url": "https://www.na-kd.com/globalassets/embroidery_tanga_thong-1100-011802-0039_0041.jpg?ref=2E2D50578E",
+                "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-borduursel-dark-red-1100-011802-0039"
             }
         ],
-        "img_url": "https://www.na-kd.com/globalassets/embroidery_tanga_thong-1100-011802-0039_0041.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/embroidery_tanga_thong-1100-011802-0039_0043.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-borduursel-dark-red-1100-011802-0039",
-        "id": "1-1100-011802-0039-931",
+        "img_url": "https://www.na-kd.com/globalassets/embroidery_tanga_thong-1100-011802-0002_0033.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/embroidery_tanga_thong-1100-011802-0002_0052-copy_flatlayd.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/embroidery-tanga-thong-black-1100-011802-0002",
+        "id": "1-1100-011802-0002-931",
+        "kleurHex": null
+    },
+    {
+        "naam": "Tanga met satijndetail",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/satin_detail_thong_1100-012624-0017_0029.jpg?width=640",
+            "https://www.na-kd.com/globalassets/satin_detail_thong_1100-012624-0017_0033.jpg?width=640",
+            "https://www.na-kd.com/globalassets/satin_detail_thong_1100-012624-0017_0031.jpg?width=640",
+            "https://www.na-kd.com/globalassets/satin_detail_thong_1100-012624-0017_0017-2-2_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/satin_detail_thong_1100-012624-0017_0018_flatlayb.jpg?width=640",
+            "https://www.na-kd.com/globalassets/satin_detail_thong_1100-012624-0017_0017-2-2crop_flatlayd.jpg?width=640"
+        ],
+        "prijs": 9.06,
+        "kleur": "Brown",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-012624-0017",
+                "naam": "Bruin",
+                "hex": "#443237",
+                "img_url": "https://www.na-kd.com/globalassets/satin_detail_thong_1100-012624-0017_0029.jpg?ref=D79A1343CF",
+                "url": "https://www.na-kd.com/nl/zoek-producten/satin-detail-thong-brown-1100-012624-0017"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/satin_detail_thong_1100-012624-0017_0029.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/satin_detail_thong_1100-012624-0017_0017-2-2crop_flatlayd.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/satin-detail-thong-brown-1100-012624-0017",
+        "id": "1-1100-012624-0017-931",
         "kleurHex": null
     },
     {
@@ -1832,6 +1933,79 @@
         "img_url_sec": "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-1334_0111_flatlayd.jpg",
         "url": "https://www.na-kd.com/nl/zoek-producten/v-vormig-kanten-slipje-chocolate-brown-1100-010563-1334",
         "id": "1-1100-010563-1334-931",
+        "kleurHex": null
+    },
+    {
+        "naam": "V-vormig kanten slipje",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0002_1257.jpg?width=640",
+            "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0002_0037.jpg?width=640",
+            "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0002_0036.jpg?width=640",
+            "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0002_0038.jpg?width=640",
+            "https://www.na-kd.com/globalassets/v-shaped-lace_string-1100-010563-0002_0022_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/v-shaped-lace_string-1100-010563-0002_0023_flatlayb.jpg?width=640",
+            "https://www.na-kd.com/globalassets/v-shaped-lace_string-detail-1100-010563-0002_0022_flatlayd.jpg?width=640"
+        ],
+        "prijs": 9.06,
+        "kleur": "Black",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-010563-0002",
+                "naam": "Zwart",
+                "hex": "#212023",
+                "img_url": "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0002_1257.jpg?ref=877A62A573",
+                "url": "https://www.na-kd.com/nl/zoek-producten/v-vormig-kanten-slipje-black-1100-010563-0002"
+            },
+            {
+                "id": "1-1100-010563-0347",
+                "naam": "Donkerpaars",
+                "hex": "#654551",
+                "img_url": "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0347_0048_42_1.jpg?ref=500F7088BE",
+                "url": "https://www.na-kd.com/nl/zoek-producten/v-vormig-kanten-slipje-dark-purple-1100-010563-0347"
+            },
+            {
+                "id": "1-1100-010563-1334",
+                "naam": "Bruin",
+                "hex": "#36292c",
+                "img_url": "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-1334_0047.jpg?ref=644A75B8D4",
+                "url": "https://www.na-kd.com/nl/zoek-producten/v-vormig-kanten-slipje-chocolate-brown-1100-010563-1334"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/v-shaped_lace_string_1100-010563-0002_1257.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/v-shaped-lace_string-detail-1100-010563-0002_0022_flatlayd.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/v-vormig-kanten-slipje-black-1100-010563-0002",
+        "id": "1-1100-010563-0002-931",
+        "kleurHex": null
+    },
+    {
+        "naam": "Kanten tanga",
+        "imageUrls": [
+            "https://www.na-kd.com/globalassets/lace_thong-1100-012649-0003_0034.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_thong-1100-012649-0003_0038.jpg?width=640",
+            "https://www.na-kd.com/globalassets/lace_thong-1100-012649-0003_0037.jpg?width=640"
+        ],
+        "prijs": 9.06,
+        "kleur": "Blue",
+        "kleurFamilies": [
+            {
+                "id": "1-1100-012649-0003",
+                "naam": "Blauw",
+                "hex": "#aa7553",
+                "img_url": "https://www.na-kd.com/globalassets/lace_thong-1100-012649-0003_0034.jpg?ref=EC1595B23F",
+                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-tanga-blue-1100-012649-0003"
+            },
+            {
+                "id": "1-1100-012649-0002",
+                "naam": "Zwart",
+                "hex": "#2a292d",
+                "img_url": "https://www.na-kd.com/globalassets/lace_thong_1100-012649-0002_0012.jpg?ref=899E12799C",
+                "url": "https://www.na-kd.com/nl/zoek-producten/lace-thong-black-1100-012649-0002"
+            }
+        ],
+        "img_url": "https://www.na-kd.com/globalassets/lace_thong-1100-012649-0003_0034.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/lace_thong-1100-012649-0003_0037.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/kanten-tanga-blue-1100-012649-0003",
+        "id": "1-1100-012649-0003-931",
         "kleurHex": null
     },
     {
@@ -1957,126 +2131,24 @@
         "kleurHex": null
     },
     {
-        "naam": "Tanga met satijndetail",
-        "imageUrls": [
-            "https://www.na-kd.com/globalassets/satin_detail_thong_1100-012624-0017_0029.jpg?width=640",
-            "https://www.na-kd.com/globalassets/satin_detail_thong_1100-012624-0017_0033.jpg?width=640",
-            "https://www.na-kd.com/globalassets/satin_detail_thong_1100-012624-0017_0031.jpg?width=640",
-            "https://www.na-kd.com/globalassets/satin_detail_thong_1100-012624-0017_0017-2-2_flatlayf.jpg?width=640",
-            "https://www.na-kd.com/globalassets/satin_detail_thong_1100-012624-0017_0018_flatlayb.jpg?width=640",
-            "https://www.na-kd.com/globalassets/satin_detail_thong_1100-012624-0017_0017-2-2crop_flatlayd.jpg?width=640"
-        ],
-        "prijs": 9.06,
-        "kleur": "Brown",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-012624-0017",
-                "naam": "Bruin",
-                "hex": "#443237",
-                "img_url": "https://www.na-kd.com/globalassets/satin_detail_thong_1100-012624-0017_0029.jpg?ref=D79A1343CF",
-                "url": "https://www.na-kd.com/nl/zoek-producten/satin-detail-thong-brown-1100-012624-0017"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/globalassets/satin_detail_thong_1100-012624-0017_0029.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/satin_detail_thong_1100-012624-0017_0017-2-2crop_flatlayd.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/satin-detail-thong-brown-1100-012624-0017",
-        "id": "1-1100-012624-0017-931",
-        "kleurHex": null
-    },
-    {
-        "naam": "Tule string met borduursel",
-        "imageUrls": [
-            "https://www.na-kd.com/globalassets/embroidery_mesh_thong_1100-011819-0002_0091.jpg?width=640",
-            "https://www.na-kd.com/globalassets/embroidery_mesh_thong_1100-011819-0002_0093.jpg?width=640",
-            "https://www.na-kd.com/globalassets/embroidery_mesh_thong_1100-011819-0002_0089.jpg?width=640",
-            "https://www.na-kd.com/globalassets/embroidery_mesh_thong_1100-011819-0002_0104_flatlayf.jpg?width=640",
-            "https://www.na-kd.com/globalassets/embroidery_mesh_thong_1100-011819-0002_0055_flatlayb.jpg?width=640",
-            "https://www.na-kd.com/globalassets/embroidery_mesh_thong_1100-011819-0002_0124_flatlayd.jpg?width=640"
-        ],
-        "prijs": 9.06,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-011819-0002",
-                "naam": "Zwart",
-                "hex": "#19191f",
-                "img_url": "https://www.na-kd.com/globalassets/embroidery_mesh_thong_1100-011819-0002_0091.jpg?ref=CA2B2AE8F9",
-                "url": "https://www.na-kd.com/nl/zoek-producten/tule-string-met-borduursel-zwart-1100-011819-0002"
-            },
-            {
-                "id": "1-1100-011819-0226",
-                "naam": "Bruin",
-                "hex": "#886561",
-                "img_url": "https://www.na-kd.com/globalassets/embroidery_mesh_thong_1100-011819-0226_0008_1.jpg?ref=1AB3FC0488",
-                "url": "https://www.na-kd.com/nl/zoek-producten/tule-string-met-borduursel-nougat-1100-011819-0226"
-            },
-            {
-                "id": "1-1100-011819-0212",
-                "naam": "Rood",
-                "hex": "#a31a38",
-                "img_url": "https://www.na-kd.com/globalassets/embroidery_mesh_thong_1100-011819-0212_0029.jpg?ref=9BFE418590",
-                "url": "https://www.na-kd.com/nl/zoek-producten/tule-string-met-borduursel-rood-1100-011819-0212"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/globalassets/embroidery_mesh_thong_1100-011819-0002_0091.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/embroidery_mesh_thong_1100-011819-0002_0124_flatlayd.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/tule-string-met-borduursel-zwart-1100-011819-0002",
-        "id": "1-1100-011819-0002-931",
-        "kleurHex": null
-    },
-    {
-        "naam": "Geborduurde Tanga String",
-        "imageUrls": [
-            "https://www.na-kd.com/globalassets/embroidery_tanga_thong-1100-011802-0002_0033.jpg?width=640",
-            "https://www.na-kd.com/globalassets/embroidery_tanga_thong-1100-011802-0002_0035.jpg?width=640",
-            "https://www.na-kd.com/globalassets/embroidery_tanga_thong-1100-011802-0002_0032.jpg?width=640",
-            "https://www.na-kd.com/globalassets/embroidery_tanga_thong-1100-011802-0002_0052-copy-2_flatlayf.jpg?width=640",
-            "https://www.na-kd.com/globalassets/embroidery_tanga_thong-1100-011802-0002_0052_flatlayd2.jpg?width=640",
-            "https://www.na-kd.com/globalassets/embroidery_tanga_thong-1100-011802-0002_0052-copy_flatlayd.jpg?width=640"
-        ],
-        "prijs": 9.06,
-        "kleur": "Black",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-011802-0002",
-                "naam": "Zwart",
-                "hex": "#171617",
-                "img_url": "https://www.na-kd.com/globalassets/embroidery_tanga_thong-1100-011802-0002_0033.jpg?ref=2C6D651C2E",
-                "url": "https://www.na-kd.com/nl/zoek-producten/embroidery-tanga-thong-black-1100-011802-0002"
-            },
-            {
-                "id": "1-1100-011802-0039",
-                "naam": "Donkerrood",
-                "hex": "#3b1215",
-                "img_url": "https://www.na-kd.com/globalassets/embroidery_tanga_thong-1100-011802-0039_0041.jpg?ref=2E2D50578E",
-                "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-borduursel-dark-red-1100-011802-0039"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/globalassets/embroidery_tanga_thong-1100-011802-0002_0033.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/embroidery_tanga_thong-1100-011802-0002_0052-copy_flatlayd.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/embroidery-tanga-thong-black-1100-011802-0002",
-        "id": "1-1100-011802-0002-931",
-        "kleurHex": null
-    },
-    {
         "naam": "Tanga met strikdetail",
         "imageUrls": [
-            "https://www.na-kd.com/globalassets/bow_detailed_tanga-1100-010625-0047_0002.jpg?width=640",
-            "https://www.na-kd.com/globalassets/bow_detailed_tanga-1100-010625-0047_0006.jpg?width=640",
-            "https://www.na-kd.com/globalassets/bow_detailed_tanga-1100-010625-0047_0004.jpg?width=640",
-            "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0047_0001_flatlayf.jpg?width=640",
-            "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0047_0002_flatlayb.jpg?width=640",
-            "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0047_0001-kopia_flatlayd.jpg?width=640"
+            "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-4411_0086.jpg?width=640",
+            "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-4411_0089.jpg?width=640",
+            "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-4411_0088.jpg?width=640",
+            "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-4411_0028_flatlayf.jpg?width=640",
+            "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-4411_0032_flatlayb.jpg?width=640",
+            "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-4411_0028_detail_flatlayd.jpg?width=640"
         ],
         "prijs": 9.06,
-        "kleur": "Light Blue",
+        "kleur": "Dusty Lilac",
         "kleurFamilies": [
             {
-                "id": "1-1100-010625-0047",
-                "naam": "Lichtblauw",
-                "hex": "#c9cdde",
-                "img_url": "https://www.na-kd.com/globalassets/bow_detailed_tanga-1100-010625-0047_0002.jpg?ref=18C948A3FA",
-                "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-light-blue-1100-010625-0047"
+                "id": "1-1100-010625-4411",
+                "naam": "Paars",
+                "hex": "#ffffff",
+                "img_url": "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-4411_0086.jpg?ref=93C679D6F7",
+                "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-dusty-lilac-1100-010625-4411"
             },
             {
                 "id": "1-1100-010625-0002",
@@ -2086,11 +2158,11 @@
                 "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-black-1100-010625-0002"
             },
             {
-                "id": "1-1100-010625-4411",
-                "naam": "Paars",
-                "hex": "#ffffff",
-                "img_url": "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-4411_0086.jpg?ref=93C679D6F7",
-                "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-dusty-lilac-1100-010625-4411"
+                "id": "1-1100-010625-0047",
+                "naam": "Lichtblauw",
+                "hex": "#c9cdde",
+                "img_url": "https://www.na-kd.com/globalassets/bow_detailed_tanga-1100-010625-0047_0002.jpg?ref=18C948A3FA",
+                "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-light-blue-1100-010625-0047"
             },
             {
                 "id": "1-1100-010625-0976",
@@ -2107,41 +2179,10 @@
                 "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-brown-1100-010625-0017"
             }
         ],
-        "img_url": "https://www.na-kd.com/globalassets/bow_detailed_tanga-1100-010625-0047_0002.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-0047_0001-kopia_flatlayd.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-light-blue-1100-010625-0047",
-        "id": "1-1100-010625-0047-931",
-        "kleurHex": null
-    },
-    {
-        "naam": "Kanten tanga",
-        "imageUrls": [
-            "https://www.na-kd.com/globalassets/lace_thong-1100-012649-0003_0034.jpg?width=640",
-            "https://www.na-kd.com/globalassets/lace_thong-1100-012649-0003_0038.jpg?width=640",
-            "https://www.na-kd.com/globalassets/lace_thong-1100-012649-0003_0037.jpg?width=640"
-        ],
-        "prijs": 9.06,
-        "kleur": "Blue",
-        "kleurFamilies": [
-            {
-                "id": "1-1100-012649-0003",
-                "naam": "Blauw",
-                "hex": "#aa7553",
-                "img_url": "https://www.na-kd.com/globalassets/lace_thong-1100-012649-0003_0034.jpg?ref=EC1595B23F",
-                "url": "https://www.na-kd.com/nl/zoek-producten/kanten-tanga-blue-1100-012649-0003"
-            },
-            {
-                "id": "1-1100-012649-0002",
-                "naam": "Zwart",
-                "hex": "#2a292d",
-                "img_url": "https://www.na-kd.com/globalassets/lace_thong_1100-012649-0002_0012.jpg?ref=899E12799C",
-                "url": "https://www.na-kd.com/nl/zoek-producten/lace-thong-black-1100-012649-0002"
-            }
-        ],
-        "img_url": "https://www.na-kd.com/globalassets/lace_thong-1100-012649-0003_0034.jpg",
-        "img_url_sec": "https://www.na-kd.com/globalassets/lace_thong-1100-012649-0003_0037.jpg",
-        "url": "https://www.na-kd.com/nl/zoek-producten/kanten-tanga-blue-1100-012649-0003",
-        "id": "1-1100-012649-0003-931",
+        "img_url": "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-4411_0086.jpg",
+        "img_url_sec": "https://www.na-kd.com/globalassets/bow_detailed_tanga_1100-010625-4411_0028_detail_flatlayd.jpg",
+        "url": "https://www.na-kd.com/nl/zoek-producten/tanga-met-strikdetail-dusty-lilac-1100-010625-4411",
+        "id": "1-1100-010625-4411-931",
         "kleurHex": null
     }
 ]
